@@ -3,6 +3,7 @@ import express from "express"
 import cors from "cors"
 import eventsRouter from "./routes/events.js"
 import countriesRouter from "./routes/countries.js"
+import usersRouter from "./routes/users.js"
 
 const app = express()
 
@@ -11,6 +12,7 @@ app.use(express.json())
 
 app.use("/events", eventsRouter)
 app.use("/countries", countriesRouter)
+app.use("/users", usersRouter)
 
 app.get("/health", (req, res) => {
   res.json({ status: "ok" })

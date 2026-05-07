@@ -13,8 +13,12 @@ router.get("/:country", async (req, res) => {
     )
     res.json(data)
   } catch (err) {
-    console.log("S3 error name:", err.name)
-    console.log("S3 error message:", err.message)
+    console.error("Country S3 error:", err)
+
+    if (err.name === "NoSuchKey") {
+      return res.status(404).json({ error: `No country found for ${country}` })
+    }
+
     res.status(500).json({ error: "Internal server error" })
   }
 })
