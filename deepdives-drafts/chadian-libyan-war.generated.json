@@ -1,0 +1,426 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1978,
+    "date": "1978-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Chadian-Libyan War began",
+    "view": {
+      "center": [
+        17,
+        18
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Before the Chadian-Libyan War",
+        "body": "Libya's claim to the Aouzou Strip drew Muammar Gaddafi into Chad's civil conflicts. Libyan troops and local allies repeatedly occupied northern Chad, while rival Chadian factions competed for power.\n\nThe Conflict Takes Shape: Control of northern Chad, the survival of the Chadian state, and Libya's ambition to shape the central Sahara were all at stake. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1978-1987",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Control of northern Chad, the survival of the Chadian state, and Libya's ambition to shape the central Sahara were all at stake.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sand_War.jpg",
+        "cap": "Opening context for the Chadian-Libyan War"
+      }
+    ]
+  },
+  {
+    "id": "second-battle-of-n-djamena",
+    "year": 1980,
+    "date": "1980-03-22",
+    "title": "Second Battle of N'Djamena",
+    "sub": "Part of Chadian–Libyan War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Sand War to Chadian-Libyan War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sand_War.jpg",
+        "cap": "Historical connection: North African border disputes",
+        "body": "The Sand War showed how colonial-era borders could fuel conflict between newly independent North African states. Libya later pursued its own territorial claim in northern Chad, especially over the Aouzou Strip. That dispute expanded into years of intervention, proxy warfare, and direct combat.",
+        "stats": [
+          {
+            "val": "Sand War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "North African border disputes"
+          },
+          {
+            "val": "Chadian-Libyan War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Sand War showed how colonial-era borders could fuel conflict between newly independent North African states. Libya later pursued its own territorial claim in northern Chad, especially over the Aouzou Strip. That dispute expanded into years of intervention, proxy warfare, and direct combat.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Second Battle of N'Djamena",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Second_Battle_of_N'Djamena",
+        "body": "The Second Battle of N'Djamena was urban civil-war combat with international consequences. Rival Chadian factions fought for the capital while Libya backed Goukouni Oueddei and France watched its former colony slide toward deeper outside control. Control of N'Djamena mattered because whoever held the capital could claim the state, request foreign help, and shape the next phase of the Libyan-Chadian struggle.\n\nWhy It Matters: The battle turned Chad's factional conflict into a regional crisis and helped draw Libya and France further into a contest over the capital and the north. France was deeply involved because Chad sat inside its post-colonial security sphere. The war became a test of whether French expeditionary forces, Chadian mobility, and outside intelligence could blunt Libyan armor and air power.",
+        "stats": [
+          {
+            "val": "1980",
+            "lbl": "Capital battle"
+          },
+          {
+            "val": "N'Djamena",
+            "lbl": "Prize was state authority"
+          },
+          {
+            "val": "Libyan backing",
+            "lbl": "Goukouni faction support"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "The battle turned Chad's factional conflict into a regional crisis and helped draw Libya and France further into a contest over the capital and the north.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Second Battle of N'Djamena was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Control of northern Chad, the survival of the Chadian state, and Libya's ambition to shape the central Sahara were all at stake.\n\nConsequences: The effects of Second Battle of N'Djamena extended beyond its immediate result. Years of invasion and civil conflict displaced communities across northern Chad and left civilians exposed to occupation, reprisals, and unstable front lines. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1980",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 5",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-manta",
+    "year": 1983,
+    "date": "1983-01-01",
+    "title": "Operation Manta",
+    "sub": "Part of Chadian–Libyan War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Manta",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tschad_GUNT.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Manta",
+        "body": "Operation Manta was France drawing a line across Chad. French forces deployed in 1983 to halt Libyan-backed advances and stabilize Hissene Habre's government without marching into a full reconquest of the north. The operation relied on air power, mobile troops, and a deterrent posture. For Paris, it was a classic post-colonial intervention: limited aims, high political stakes, and constant fear of escalation with Libya.\n\nWhy It Matters: It showed France using expeditionary force to preserve influence in Africa while trying to avoid a direct war with Muammar Gaddafi. France was deeply involved because Chad sat inside its post-colonial security sphere. The war became a test of whether French expeditionary forces, Chadian mobility, and outside intelligence could blunt Libyan armor and air power.",
+        "stats": [
+          {
+            "val": "1983",
+            "lbl": "French deployment"
+          },
+          {
+            "val": "15th parallel",
+            "lbl": "Informal stop line"
+          },
+          {
+            "val": "~3,000 troops",
+            "lbl": "French force at peak, approx."
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed France using expeditionary force to preserve influence in Africa while trying to avoid a direct war with Muammar Gaddafi.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Operation Manta was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Control of northern Chad, the survival of the Chadian state, and Libya's ambition to shape the central Sahara were all at stake.\n\nConsequences: The effects of Operation Manta extended beyond its immediate result. Years of invasion and civil conflict displaced communities across northern Chad and left civilians exposed to occupation, reprisals, and unstable front lines. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1983",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 5",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-pervier",
+    "year": 1986,
+    "date": "1986-02-13",
+    "title": "Operation Épervier",
+    "sub": "Part of Chadian–Libyan War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Épervier",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_%C3%89pervier",
+        "body": "Operation Epervier replaced temporary crisis response with a longer French military presence in Chad. Launched in 1986 after renewed Libyan pressure, it gave Chad air defense, logistics, reconnaissance, and a security umbrella. French aircraft and advisers helped prevent Libya from turning battlefield pressure into political collapse. The operation became one of the clearest examples of France acting as a strategic backstop for a friendly African government.\n\nWhy It Matters: It kept Chad in France's security orbit and made Libyan escalation much riskier by putting French forces directly behind Chadian defenses. France was deeply involved because Chad sat inside its post-colonial security sphere. The war became a test of whether French expeditionary forces, Chadian mobility, and outside intelligence could blunt Libyan armor and air power.",
+        "stats": [
+          {
+            "val": "13 Feb 1986",
+            "lbl": "Operation begins"
+          },
+          {
+            "val": "Air cover",
+            "lbl": "French strategic edge"
+          },
+          {
+            "val": "Decades",
+            "lbl": "French presence continued"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It kept Chad in France's security orbit and made Libyan escalation much riskier by putting French forces directly behind Chadian defenses.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Operation Épervier was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Control of northern Chad, the survival of the Chadian state, and Libya's ambition to shape the central Sahara were all at stake.\n\nConsequences: The effects of Operation Épervier extended beyond its immediate result. Years of invasion and civil conflict displaced communities across northern Chad and left civilians exposed to occupation, reprisals, and unstable front lines. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1986",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 5",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toyota-war",
+    "year": 1986,
+    "date": "1986-12-16",
+    "title": "Toyota War",
+    "sub": "Part of Chadian–Libyan War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Toyota War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/EUFOR_-_Tchad_%283%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Toyota_War",
+        "body": "The Toyota War turned pickup trucks into strategic weapons. Chadian fighters used fast Toyota pickups with anti-tank missiles, recoilless rifles, and heavy machine guns to outmaneuver Libya's heavier Soviet-made armor. Instead of matching tanks with tanks, Chadian units exploited speed, desert knowledge, and surprise. French intelligence and air support helped, but the battlefield shock came from light forces defeating a much more mechanized opponent.\n\nWhy It Matters: The campaign became a textbook example of mobility beating heavy armor in desert warfare and badly damaged Libya's regional ambitions. France was deeply involved because Chad sat inside its post-colonial security sphere. The war became a test of whether French expeditionary forces, Chadian mobility, and outside intelligence could blunt Libyan armor and air power.",
+        "stats": [
+          {
+            "val": "1986-1987",
+            "lbl": "Decisive campaign"
+          },
+          {
+            "val": "Toyota pickups",
+            "lbl": "Signature Chadian weapon"
+          },
+          {
+            "val": "Hundreds",
+            "lbl": "Libyan vehicles lost"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "The campaign became a textbook example of mobility beating heavy armor in desert warfare and badly damaged Libya's regional ambitions.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Toyota War was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Control of northern Chad, the survival of the Chadian state, and Libya's ambition to shape the central Sahara were all at stake.\n\nConsequences: The effects of Toyota War extended beyond its immediate result. Years of invasion and civil conflict displaced communities across northern Chad and left civilians exposed to occupation, reprisals, and unstable front lines. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1986",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 5",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-fada",
+    "year": 1987,
+    "date": "1987-01-02",
+    "title": "Battle of Fada",
+    "sub": "Part of Chadian–Libyan War",
+    "view": {
+      "center": [
+        17.18333333,
+        21.58333333
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Fada",
+        "latlng": [
+          17.18333333,
+          21.58333333
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Fada",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Fada",
+        "body": "At Fada, Chadian forces delivered a stunning defeat to a Libyan armored garrison. Using fast columns and anti-tank weapons, they overwhelmed Libyan positions and captured large quantities of equipment. The battle shocked outside observers because it compressed the whole logic of the war into one episode: local mobility, good intelligence, and high morale could break a force that looked stronger on paper.\n\nWhy It Matters: Fada proved the Chadian method worked and helped trigger the collapse of Libyan positions across northern Chad. France was deeply involved because Chad sat inside its post-colonial security sphere. The war became a test of whether French expeditionary forces, Chadian mobility, and outside intelligence could blunt Libyan armor and air power.\n\nWhy This Moment Matters: Battle of Fada was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Control of northern Chad, the survival of the Chadian state, and Libya's ambition to shape the central Sahara were all at stake.",
+        "stats": [
+          {
+            "val": "2 Jan 1987",
+            "lbl": "Battle date"
+          },
+          {
+            "val": "~700+",
+            "lbl": "Libyan dead often cited"
+          },
+          {
+            "val": "~100 tanks/APCs",
+            "lbl": "Captured or destroyed, approx."
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "Fada proved the Chadian method worked and helped trigger the collapse of Libyan positions across northern Chad.",
+            "full": true
+          },
+          {
+            "val": "1987",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 5",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Battle of Fada extended beyond its immediate result. Years of invasion and civil conflict displaced communities across northern Chad and left civilians exposed to occupation, reprisals, and unstable front lines. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1986,
+    "date": "1986-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Chadian-Libyan War",
+    "view": {
+      "center": [
+        17,
+        18
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "France repeatedly intervened to prevent a Libyan conquest, while the United States and regional governments supported anti-Libyan forces.\n\nThe Human Cost: Years of invasion and civil conflict displaced communities across northern Chad and left civilians exposed to occupation, reprisals, and unstable front lines.",
+        "stats": [
+          {
+            "val": "Thousands killed; roughly 7,500 Libyan troops killed or captured",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1987,
+    "date": "1987-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Chadian-Libyan War ended and what followed",
+    "view": {
+      "center": [
+        17,
+        18
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Chadian-Libyan War",
+        "body": "Fast-moving Chadian forces defeated Libya during the Toyota War. Libya withdrew, and the International Court of Justice awarded the Aouzou Strip to Chad in 1994."
+      },
+      {
+        "title": "War Summary: Chadian-Libyan War",
+        "body": "Fast-moving Chadian forces defeated Libya during the Toyota War. Libya withdrew, and the International Court of Justice awarded the Aouzou Strip to Chad in 1994. Years of invasion and civil conflict displaced communities across northern Chad and left civilians exposed to occupation, reprisals, and unstable front lines.",
+        "stats": [
+          {
+            "val": "Chadian victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Thousands killed; roughly 7,500 Libyan troops killed or captured",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Fast-moving Chadian forces defeated Libya during the Toyota War. Libya withdrew, and the International Court of Justice awarded the Aouzou Strip to Chad in 1994.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/EUFOR_-_Tchad_%283%29.jpg",
+        "cap": "The outcome and legacy of the Chadian-Libyan War"
+      }
+    ]
+  }
+]

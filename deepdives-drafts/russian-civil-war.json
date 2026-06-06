@@ -1,0 +1,1650 @@
+[
+  {
+    "id": "february-revolution",
+    "year": "1917",
+    "date": "February - March 1917",
+    "title": "February Revolution",
+    "sub": "The Romanov Empire Breaks",
+    "view": {
+      "center": [
+        59.9343,
+        30.3351
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          59.9343,
+          30.3351
+        ],
+        "label": "Petrograd",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          55.7558,
+          37.6173
+        ],
+        "label": "Moscow",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "imperial-russia-core",
+        "label": "Imperial Russian core",
+        "color": "#8e44ad",
+        "opacity": 0.12,
+        "coordinates": [
+          [
+            27,
+            60.5
+          ],
+          [
+            34,
+            61
+          ],
+          [
+            42,
+            58.5
+          ],
+          [
+            47,
+            54.5
+          ],
+          [
+            45,
+            49
+          ],
+          [
+            37,
+            46.5
+          ],
+          [
+            29,
+            49
+          ],
+          [
+            27,
+            55
+          ],
+          [
+            27,
+            60.5
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "From World War I to Russian Civil War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheshire_Regiment_trench_Somme_1916.jpg",
+        "cap": "Historical connection: Revolution and imperial collapse",
+        "body": "World War I shattered the Russian Empire. Battlefield losses, shortages, and collapsing confidence in the tsar triggered revolution in 1917. Russia's withdrawal from the world war did not bring peace: it opened a struggle between the Bolsheviks, anti-Bolshevik forces, national movements, and foreign armies for control of the former empire.",
+        "stats": [
+          {
+            "val": "World War I",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "Revolution and imperial collapse"
+          },
+          {
+            "val": "Russian Civil War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "World War I shattered the Russian Empire. Battlefield losses, shortages, and collapsing confidence in the tsar triggered revolution in 1917. Russia's withdrawal from the world war did not bring peace: it opened a struggle between the Bolsheviks, anti-Bolshevik forces, national movements, and foreign armies for control of the former empire.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Bread, War, and Collapse",
+        "body": "By early 1917, Russia was exhausted by war, inflation, food shortages, and millions of casualties. Demonstrations in Petrograd grew into a mass uprising as soldiers refused to fire on crowds. The imperial state lost control in days. It mattered because the collapse came from both the streets and the army: once soldiers joined the demonstrators, the monarchy no longer had the force needed to survive.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/February_Revolution_demonstration.jpg/960px-February_Revolution_demonstration.jpg",
+        "cap": "Crowds demonstrating in Petrograd during the February Revolution",
+        "stats": [
+          {
+            "val": "Petrograd",
+            "lbl": "Revolutionary center"
+          },
+          {
+            "val": "Mar 1917",
+            "lbl": "Nicholas II abdicates"
+          },
+          {
+            "val": "300 Years",
+            "lbl": "Romanov dynasty ends",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It ended tsarist rule and opened the power vacuum that made both revolution and civil war possible.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Dual Power",
+        "body": "A Provisional Government tried to rule Russia while soviets of workers and soldiers claimed authority in the streets, factories, and barracks. The new government kept Russia in World War I, a decision that deepened its crisis and gave radical parties room to grow. This divided authority made every major decision unstable, because ministers, soviets, soldiers, and workers all claimed a voice in Russia's future.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Provisional_Government_Russia_1917.jpg/960px-Provisional_Government_Russia_1917.jpg",
+        "cap": "Members of Russia's Provisional Government in 1917",
+        "stats": [
+          {
+            "val": "Dual Power",
+            "lbl": "Government and soviets compete"
+          },
+          {
+            "val": "World War I",
+            "lbl": "Russia remains in the conflict"
+          },
+          {
+            "val": "Unstable Coalition",
+            "lbl": "Moderates struggle to govern",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that no single government controlled Russia, allowing radical parties to challenge the Provisional Government from inside the revolution.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "october-revolution",
+    "year": "1917",
+    "date": "25 October 1917",
+    "title": "October Revolution",
+    "sub": "The Bolsheviks Seize Power",
+    "view": {
+      "center": [
+        59.9343,
+        30.3351
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "latlng": [
+          59.9398,
+          30.3146
+        ],
+        "label": "Winter Palace",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          59.9536,
+          30.3375
+        ],
+        "label": "Smolny Institute",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "petrograd-uprising",
+        "label": "Petrograd uprising zone",
+        "color": "#c0392b",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            30.2,
+            59.98
+          ],
+          [
+            30.42,
+            59.98
+          ],
+          [
+            30.48,
+            59.9
+          ],
+          [
+            30.34,
+            59.86
+          ],
+          [
+            30.18,
+            59.9
+          ],
+          [
+            30.2,
+            59.98
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "All Power to the Soviets",
+        "body": "Lenin and the Bolsheviks promised peace, land, and bread. In October, Red Guards and sympathetic soldiers took key points in Petrograd and moved against the Winter Palace. The Provisional Government collapsed with surprisingly little fighting in the capital. The seizure was small in military scale but enormous in political consequence, because it transferred the capital's institutions to a disciplined revolutionary party.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Storming_the_Winter_Palace.jpg/960px-Storming_the_Winter_Palace.jpg",
+        "cap": "Later Soviet depiction of the storming of the Winter Palace",
+        "stats": [
+          {
+            "val": "25 Oct 1917",
+            "lbl": "Old Style date"
+          },
+          {
+            "val": "Bolsheviks",
+            "lbl": "Party takes power"
+          },
+          {
+            "val": "Peace, Land, Bread",
+            "lbl": "Revolutionary slogan",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It put the Bolsheviks in power and turned Russia's revolution from a broad anti-tsarist movement into a one-party socialist project.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "A Revolution Becomes a State",
+        "body": "The Bolsheviks formed a new government, withdrew from the war, and began remaking political life. Opponents saw the seizure of power as an illegal coup; supporters saw it as the birth of workers' rule. Russia was moving toward civil war. The new regime immediately used decrees, committees, and armed force to turn revolutionary slogans into state power.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenin_Trotsky_Kamenev_1919.jpg/960px-Lenin_Trotsky_Kamenev_1919.jpg",
+        "cap": "Bolshevik leaders during the revolutionary period",
+        "stats": [
+          {
+            "val": "Sovnarkom",
+            "lbl": "New Bolshevik government"
+          },
+          {
+            "val": "Decrees",
+            "lbl": "Peace and land proclaimed"
+          },
+          {
+            "val": "Civil Conflict",
+            "lbl": "Opposition begins organizing",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It transformed the Bolsheviks from insurgents into rulers, forcing opponents to decide whether to accept, resist, or fight them.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "constituent-assembly",
+    "year": "1918",
+    "date": "January 1918",
+    "title": "Constituent Assembly Dissolved",
+    "sub": "Democracy Closes, Civil War Opens",
+    "view": {
+      "center": [
+        59.9343,
+        30.3351
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          59.9398,
+          30.3146
+        ],
+        "label": "Tauride Palace / Petrograd",
+        "type": "target"
+      }
+    ],
+    "regions": [
+      {
+        "id": "anti-bolshevik-centers-early",
+        "label": "Early opposition centers",
+        "color": "#e67e22",
+        "opacity": 0.13,
+        "coordinates": [
+          [
+            27,
+            59
+          ],
+          [
+            38,
+            59
+          ],
+          [
+            42,
+            55
+          ],
+          [
+            39,
+            49
+          ],
+          [
+            30,
+            50
+          ],
+          [
+            27,
+            59
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "An Election the Bolsheviks Lose",
+        "body": "Russia's long-promised Constituent Assembly finally met in January 1918. The Socialist Revolutionaries won the largest vote, while the Bolsheviks held power in the capital and major soviets. After one day, Bolshevik forces dispersed the assembly. The closure of the assembly convinced many opponents that the Bolsheviks would not allow electoral defeat to limit their authority.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tauride_Palace_1917.jpg/960px-Tauride_Palace_1917.jpg",
+        "cap": "The Tauride Palace, meeting place of the Constituent Assembly",
+        "stats": [
+          {
+            "val": "1 Day",
+            "lbl": "Assembly allowed to sit"
+          },
+          {
+            "val": "SR Victory",
+            "lbl": "Socialist Revolutionaries win plurality"
+          },
+          {
+            "val": "January 1918",
+            "lbl": "Political break becomes irreversible",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It destroyed the main democratic alternative after 1917 and pushed political opposition toward armed struggle.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Opposition Hardens",
+        "body": "Moderates, monarchists, liberals, nationalists, and rival socialists increasingly concluded that the Bolsheviks would not share power. What began as political conflict became armed resistance across the former empire. Anti-Bolshevik forces did not share one ideology, but they increasingly shared the belief that compromise with Lenin's government was impossible.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Russian_Civil_War_map_1918-1920.svg/960px-Russian_Civil_War_map_1918-1920.svg.png",
+        "cap": "Map of major fronts and factions during the Russian Civil War",
+        "stats": [
+          {
+            "val": "Reds",
+            "lbl": "Bolshevik forces"
+          },
+          {
+            "val": "Whites",
+            "lbl": "Anti-Bolshevik armies"
+          },
+          {
+            "val": "Fragmented Opposition",
+            "lbl": "Many factions, few shared goals",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It turned scattered disagreement into organized resistance, giving the civil war its fragmented but dangerous anti-Bolshevik front.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brest-litovsk",
+    "year": "1918",
+    "date": "3 March 1918",
+    "title": "Treaty of Brest-Litovsk",
+    "sub": "Peace at a Terrible Price",
+    "view": {
+      "center": [
+        52.0976,
+        23.7341
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          52.0976,
+          23.7341
+        ],
+        "label": "Brest-Litovsk",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          50.45,
+          30.52
+        ],
+        "label": "Kyiv",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "territories-ceded",
+        "label": "Territories lost by Soviet Russia",
+        "color": "#c0392b",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            20,
+            59
+          ],
+          [
+            28,
+            59.5
+          ],
+          [
+            35,
+            56
+          ],
+          [
+            36,
+            50
+          ],
+          [
+            31,
+            46
+          ],
+          [
+            24,
+            47
+          ],
+          [
+            20,
+            51
+          ],
+          [
+            20,
+            59
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Leaving World War I",
+        "body": "The Bolsheviks promised peace and needed time to survive. At Brest-Litovsk, they accepted harsh German terms, surrendering influence over huge territories in the west. The treaty removed Russia from World War I but intensified anger at home. The treaty bought the Bolsheviks time, but it did so by accepting territorial losses that many Russians viewed as humiliating and illegitimate.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brest-Litovsk_Treaty_map.svg/960px-Brest-Litovsk_Treaty_map.svg.png",
+        "cap": "Territorial losses imposed by the Treaty of Brest-Litovsk",
+        "stats": [
+          {
+            "val": "3 Mar 1918",
+            "lbl": "Treaty signed"
+          },
+          {
+            "val": "Germany",
+            "lbl": "Main beneficiary"
+          },
+          {
+            "val": "Eastern Front",
+            "lbl": "World War I fighting ends for Russia",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It saved the Bolshevik regime from the immediate pressure of World War I while giving its enemies a powerful charge of betrayal.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "A Political Weapon for Enemies",
+        "body": "Anti-Bolshevik forces used Brest-Litovsk as proof that Lenin's government had betrayed Russia. The treaty also opened space for German-backed regimes and nationalist movements, turning the western borderlands into a maze of competing claims. The treaty also encouraged nationalist projects in the borderlands, making the civil war a struggle over empire as well as ideology.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Signing_of_Treaty_of_Brest-Litovsk.jpg/960px-Signing_of_Treaty_of_Brest-Litovsk.jpg",
+        "cap": "Delegates at the Brest-Litovsk negotiations",
+        "stats": [
+          {
+            "val": "Ukraine",
+            "lbl": "Key contested region"
+          },
+          {
+            "val": "Baltic Lands",
+            "lbl": "Removed from Russian control"
+          },
+          {
+            "val": "Civil War Fuel",
+            "lbl": "Opponents denounce the treaty",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It widened the conflict by linking anti-Bolshevik politics with lost territory, nationalism, and foreign influence.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "czechoslovak-legion",
+    "year": "1918",
+    "date": "May - August 1918",
+    "title": "Czechoslovak Legion Revolt",
+    "sub": "The Trans-Siberian Railway Erupts",
+    "view": {
+      "center": [
+        56.84,
+        60.61
+      ],
+      "zoom": 4
+    },
+    "markers": [
+      {
+        "latlng": [
+          55.0084,
+          82.9357
+        ],
+        "label": "Novonikolayevsk / Novosibirsk",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          56.8389,
+          60.6057
+        ],
+        "label": "Yekaterinburg",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          55.7961,
+          49.1064
+        ],
+        "label": "Kazan",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "trans-siberian-corridor",
+        "label": "Trans-Siberian corridor",
+        "color": "#f1c40f",
+        "opacity": 0.16,
+        "coordinates": [
+          [
+            48,
+            55
+          ],
+          [
+            60,
+            57
+          ],
+          [
+            76,
+            57.5
+          ],
+          [
+            92,
+            56.5
+          ],
+          [
+            104,
+            53.5
+          ],
+          [
+            103,
+            51.5
+          ],
+          [
+            88,
+            53
+          ],
+          [
+            72,
+            54.5
+          ],
+          [
+            58,
+            53.8
+          ],
+          [
+            48,
+            55
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "A Legion Stranded in Russia",
+        "body": "Czech and Slovak soldiers who had fought against Austria-Hungary tried to cross Russia and reach the Western Front. Clashes with Bolshevik authorities escalated into a revolt along the Trans-Siberian Railway, giving anti-Bolshevik governments sudden military protection. Because the legion controlled key railway points, its revolt turned distance and transport into strategic weapons.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Czechoslovak_Legion_in_Russia.jpg/960px-Czechoslovak_Legion_in_Russia.jpg",
+        "cap": "Czechoslovak Legion troops in Russia",
+        "stats": [
+          {
+            "val": "50,000+",
+            "lbl": "Legionnaires in Russia"
+          },
+          {
+            "val": "Railway",
+            "lbl": "Strategic lifeline seized"
+          },
+          {
+            "val": "1918",
+            "lbl": "Civil War expands east",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It internationalized the civil war and gave anti-Bolshevik governments control of the Trans-Siberian route at a critical moment.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Whites Gain a Front",
+        "body": "The Legion's control of railway towns helped anti-Bolshevik forces organize in the Volga region, the Urals, and Siberia. For the first time, the Bolsheviks faced a coordinated military threat across enormous distances. The revolt helped create a chain of anti-Bolshevik authority across the Volga, Urals, and Siberia, areas the Reds could not ignore.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Trans-Siberian_railway_map.svg/960px-Trans-Siberian_railway_map.svg.png",
+        "cap": "The Trans-Siberian Railway connected the eastern fronts of the war",
+        "stats": [
+          {
+            "val": "Kazan",
+            "lbl": "Major Volga city contested"
+          },
+          {
+            "val": "Siberia",
+            "lbl": "White power base emerges"
+          },
+          {
+            "val": "Mobility",
+            "lbl": "Railways decide campaigns",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It gave the White movement territory, supplies, and momentum, forcing the Bolsheviks to fight a true multi-front war.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "red-army-cheka",
+    "year": "1918",
+    "date": "1918 - 1919",
+    "title": "Red Army and Red Terror",
+    "sub": "Building Power Through War",
+    "view": {
+      "center": [
+        55.7558,
+        37.6173
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          55.7558,
+          37.6173
+        ],
+        "label": "Moscow",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          59.9343,
+          30.3351
+        ],
+        "label": "Petrograd",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "red-core-1919",
+        "label": "Bolshevik core territory",
+        "color": "#c0392b",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            28,
+            60
+          ],
+          [
+            36,
+            60
+          ],
+          [
+            43,
+            57
+          ],
+          [
+            46,
+            52
+          ],
+          [
+            43,
+            48
+          ],
+          [
+            36,
+            47
+          ],
+          [
+            29,
+            51
+          ],
+          [
+            27,
+            56
+          ],
+          [
+            28,
+            60
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Trotsky Creates an Army",
+        "body": "The Bolsheviks inherited a collapsing military and rebuilt it as the Red Army. Leon Trotsky used conscription, former tsarist officers, political commissars, and strict discipline to create a force capable of fighting on many fronts at once. Trotsky combined revolutionary loyalty with old military expertise, using former imperial officers under political supervision.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Trotsky_on_armoured_train.jpg/960px-Trotsky_on_armoured_train.jpg",
+        "cap": "Leon Trotsky used an armored train as a mobile command center",
+        "stats": [
+          {
+            "val": "Red Army",
+            "lbl": "Founded in 1918"
+          },
+          {
+            "val": "Commissars",
+            "lbl": "Political supervision"
+          },
+          {
+            "val": "Rail Mobility",
+            "lbl": "Command moved by armored train",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It gave the Bolsheviks a disciplined national army, one of the main reasons they could defeat more divided enemies.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Repression Behind the Front",
+        "body": "Civil war hardened Bolshevik rule. The Cheka targeted suspected counterrevolutionaries, hostages, deserters, and political enemies. The Red Terror was presented as revolutionary self-defense, but it also established a pattern of coercive state power. Terror was used not only against enemies but also to enforce grain requisitioning, discipline, and obedience in areas behind the lines.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cheka_group_1919.jpg/960px-Cheka_group_1919.jpg",
+        "cap": "Cheka personnel during the Civil War period",
+        "stats": [
+          {
+            "val": "Cheka",
+            "lbl": "Bolshevik security police"
+          },
+          {
+            "val": "Red Terror",
+            "lbl": "Mass repression campaign"
+          },
+          {
+            "val": "War Communism",
+            "lbl": "Emergency rule and requisitioning",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that Bolshevik victory depended on coercive state power as much as battlefield success.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kolchak-siberia",
+    "year": "1918",
+    "date": "November 1918 - 1919",
+    "title": "Kolchak's Siberian Offensive",
+    "sub": "The White Admiral Advances",
+    "view": {
+      "center": [
+        55,
+        73.4
+      ],
+      "zoom": 4
+    },
+    "markers": [
+      {
+        "latlng": [
+          54.9885,
+          73.3242
+        ],
+        "label": "Omsk",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          54.7388,
+          55.9721
+        ],
+        "label": "Ufa",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          56.8389,
+          60.6057
+        ],
+        "label": "Yekaterinburg",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "kolchak-siberia-zone",
+        "label": "Kolchak's Siberian base",
+        "color": "#ecf0f1",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            55,
+            58
+          ],
+          [
+            70,
+            59.5
+          ],
+          [
+            85,
+            57
+          ],
+          [
+            90,
+            52
+          ],
+          [
+            78,
+            49
+          ],
+          [
+            62,
+            51
+          ],
+          [
+            52,
+            54
+          ],
+          [
+            55,
+            58
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Supreme Ruler in Omsk",
+        "body": "Admiral Alexander Kolchak took power in Omsk and became the most prominent White leader in Siberia. His armies advanced westward in 1919, threatening the Volga and raising hopes among Allied observers that Bolshevik power might collapse. Kolchak tried to turn Siberia into the center of a restored Russian state, but his regime struggled to win broad popular support.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alexander_Kolchak_1919.jpg/960px-Alexander_Kolchak_1919.jpg",
+        "cap": "Admiral Alexander Kolchak, leader of the Siberian White forces",
+        "stats": [
+          {
+            "val": "Omsk",
+            "lbl": "Kolchak's capital"
+          },
+          {
+            "val": "1919",
+            "lbl": "Major offensive west"
+          },
+          {
+            "val": "Supreme Ruler",
+            "lbl": "Kolchak's claimed authority",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It represented the strongest eastern White challenge to Bolshevik rule and briefly made Siberia the civil war's decisive front.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Advance Turns to Retreat",
+        "body": "Kolchak's regime struggled with corruption, harsh repression, weak legitimacy, and overstretched supply lines. Red counterattacks pushed his armies back across the Urals and Siberia. By early 1920, Kolchak was captured and executed. As Kolchak's armies outran their supply lines, peasant hostility and Red counterattacks turned the offensive into a collapse.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Russian_Civil_War_in_the_East.svg/960px-Russian_Civil_War_in_the_East.svg.png",
+        "cap": "The eastern front during the Russian Civil War",
+        "stats": [
+          {
+            "val": "Urals",
+            "lbl": "Key reversal zone"
+          },
+          {
+            "val": "Jan 1920",
+            "lbl": "Kolchak captured"
+          },
+          {
+            "val": "White Weakness",
+            "lbl": "Supply and legitimacy collapse",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It proved that White military advances could not survive without political legitimacy, logistics, and support behind the front.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "denikin-south",
+    "year": "1919",
+    "date": "Summer - Autumn 1919",
+    "title": "Denikin's Drive on Moscow",
+    "sub": "The White South Reaches Its Peak",
+    "view": {
+      "center": [
+        48.7,
+        39
+      ],
+      "zoom": 4
+    },
+    "markers": [
+      {
+        "latlng": [
+          47.2357,
+          39.7015
+        ],
+        "label": "Rostov-on-Don",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          51.672,
+          39.1843
+        ],
+        "label": "Voronezh",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          55.7558,
+          37.6173
+        ],
+        "label": "Moscow",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "white-south-advance",
+        "label": "Denikin's advance",
+        "color": "#ecf0f1",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            34,
+            44.5
+          ],
+          [
+            40,
+            45
+          ],
+          [
+            43.5,
+            48.5
+          ],
+          [
+            42,
+            52
+          ],
+          [
+            38,
+            53
+          ],
+          [
+            34,
+            51
+          ],
+          [
+            31,
+            47
+          ],
+          [
+            34,
+            44.5
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Armed Forces of South Russia",
+        "body": "General Anton Denikin commanded the strongest White armies in southern Russia. Backed by Cossack forces and Allied supplies, his troops advanced north through Ukraine and the Don region, briefly making Moscow seem vulnerable. Denikin's army threatened Moscow from the south, making it one of the most serious military dangers the Bolsheviks faced.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Anton_Denikin_1918.jpg/960px-Anton_Denikin_1918.jpg",
+        "cap": "General Anton Denikin, commander of White forces in southern Russia",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "White southern offensive"
+          },
+          {
+            "val": "Moscow Directive",
+            "lbl": "Denikin's strategic goal"
+          },
+          {
+            "val": "Cossack Support",
+            "lbl": "Important but uneven backing",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It marked the high point of the southern White campaign and forced the Reds to defend the heartland of their regime.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Too Many Enemies, Too Little Trust",
+        "body": "Denikin's forces fought the Reds, Ukrainian nationalists, anarchists, and local insurgents while refusing meaningful land reform or national self-determination. The offensive lost momentum, and Red counterattacks drove the Whites back toward the Black Sea. Denikin alienated peasants, workers, and national minorities by promising a united Russia while offering little social reform.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Denikin_offensive_1919.svg/960px-Denikin_offensive_1919.svg.png",
+        "cap": "Map of Denikin's 1919 offensive toward Moscow",
+        "stats": [
+          {
+            "val": "Orel",
+            "lbl": "Northern high-water mark"
+          },
+          {
+            "val": "Ukraine",
+            "lbl": "Heavily contested rear area"
+          },
+          {
+            "val": "Retreat",
+            "lbl": "White southern front collapses",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It revealed the White movement's central weakness: battlefield strength without a political program that could unite the population.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foreign-intervention",
+    "year": "1918",
+    "date": "1918 - 1920",
+    "title": "Allied Intervention",
+    "sub": "Foreign Armies on Russian Soil",
+    "view": {
+      "center": [
+        61,
+        45
+      ],
+      "zoom": 3
+    },
+    "markers": [
+      {
+        "latlng": [
+          64.5393,
+          40.5187
+        ],
+        "label": "Arkhangelsk",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          43.1155,
+          131.8855
+        ],
+        "label": "Vladivostok",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          44.6167,
+          33.5254
+        ],
+        "label": "Crimea",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "intervention-ports",
+        "label": "Intervention entry points",
+        "color": "#2980b9",
+        "opacity": 0.13,
+        "coordinates": [
+          [
+            35,
+            66
+          ],
+          [
+            45,
+            66
+          ],
+          [
+            48,
+            62
+          ],
+          [
+            39,
+            60
+          ],
+          [
+            35,
+            66
+          ]
+        ]
+      },
+      {
+        "id": "far-east-intervention",
+        "label": "Far Eastern intervention",
+        "color": "#16a085",
+        "opacity": 0.12,
+        "coordinates": [
+          [
+            125,
+            46
+          ],
+          [
+            136,
+            46
+          ],
+          [
+            137,
+            42
+          ],
+          [
+            129,
+            41
+          ],
+          [
+            125,
+            46
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "A Confused Intervention",
+        "body": "Britain, France, the United States, Japan, and others intervened for overlapping reasons: reopening the Eastern Front, protecting supplies, evacuating the Czechoslovak Legion, and containing Bolshevism. Their goals were never fully aligned. Allied forces entered Russia for different reasons, including reopening the Eastern Front, protecting supplies, and limiting Bolshevik power.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/American_troops_Vladivostok_1918.jpg/960px-American_troops_Vladivostok_1918.jpg",
+        "cap": "American troops in Vladivostok during the Allied intervention",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Major landings begin"
+          },
+          {
+            "val": "North + Far East",
+            "lbl": "Main intervention zones"
+          },
+          {
+            "val": "No Unified Strategy",
+            "lbl": "Allies disagree on aims",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It gave the war an international dimension but failed to create a coherent foreign strategy against the Bolsheviks.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Propaganda Gift to the Reds",
+        "body": "Foreign intervention gave the Bolsheviks a powerful message: the revolution was under attack by imperial powers. The Allies provided supplies and limited troops, but they never committed enough to decide the war and gradually withdrew. Bolshevik propaganda used foreign troops as proof that the Reds were defending Russia from imperialist invasion.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Russian_Civil_War_allied_intervention_map.svg/960px-Russian_Civil_War_allied_intervention_map.svg.png",
+        "cap": "Map of Allied intervention during the Russian Civil War",
+        "stats": [
+          {
+            "val": "Japan",
+            "lbl": "Largest Far East presence"
+          },
+          {
+            "val": "1920",
+            "lbl": "Most Allied forces withdrawn"
+          },
+          {
+            "val": "Bolshevik Message",
+            "lbl": "Foreign threat helps mobilization",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It helped the Bolsheviks present themselves as national defenders, weakening the Whites by associating them with foreign powers.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "polish-soviet-war",
+    "year": "1920",
+    "date": "1919 - 1921",
+    "title": "Polish-Soviet War",
+    "sub": "Revolution Meets the New Poland",
+    "view": {
+      "center": [
+        52.2,
+        21
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          52.2297,
+          21.0122
+        ],
+        "label": "Warsaw",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "label": "Kyiv",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          53.9,
+          27.5667
+        ],
+        "label": "Minsk",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "polish-soviet-front",
+        "label": "Polish-Soviet front",
+        "color": "#f1c40f",
+        "opacity": 0.16,
+        "coordinates": [
+          [
+            19,
+            54
+          ],
+          [
+            24,
+            54
+          ],
+          [
+            30,
+            51
+          ],
+          [
+            31,
+            49
+          ],
+          [
+            27,
+            48
+          ],
+          [
+            22,
+            50
+          ],
+          [
+            19,
+            52
+          ],
+          [
+            19,
+            54
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "War Beyond Russia",
+        "body": "As empires collapsed, Poland and Soviet Russia fought over the borderlands between them. Polish leader Jozef Pilsudski hoped to build a federation in Eastern Europe, while Bolshevik leaders imagined revolution spreading westward. The conflict with Poland showed that the Russian Civil War was tied to the future borders of Eastern Europe after the collapse of empires.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Polish-Soviet_War_1920_polish_defences_near_Milosna.jpg/960px-Polish-Soviet_War_1920_polish_defences_near_Milosna.jpg",
+        "cap": "Polish defenses during the Polish-Soviet War",
+        "stats": [
+          {
+            "val": "1919-1921",
+            "lbl": "War duration"
+          },
+          {
+            "val": "Kyiv",
+            "lbl": "Major contested objective"
+          },
+          {
+            "val": "Borderlands",
+            "lbl": "Ukraine and Belarus at stake",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It shifted the struggle from internal control to regional order, linking Bolshevik survival with the question of revolution abroad.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Miracle on the Vistula",
+        "body": "In August 1920, Red Army forces approached Warsaw. A Polish counterattack broke the Soviet advance and forced retreat. The war ended with the Treaty of Riga, fixing a border that would shape Eastern Europe until World War II. The Polish counteroffensive stopped the Red Army near Warsaw and shattered hopes for an immediate revolutionary breakthrough into Europe.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bitwa_Warszawska_1920.jpg/960px-Bitwa_Warszawska_1920.jpg",
+        "cap": "Polish forces during the Battle of Warsaw in 1920",
+        "stats": [
+          {
+            "val": "Aug 1920",
+            "lbl": "Battle of Warsaw"
+          },
+          {
+            "val": "Treaty of Riga",
+            "lbl": "Peace settlement in 1921"
+          },
+          {
+            "val": "Soviet Advance Halted",
+            "lbl": "Revolution does not reach Germany",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It preserved Polish independence and set a western limit to Soviet power for the next two decades.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wrangel-crimea",
+    "year": "1920",
+    "date": "April - November 1920",
+    "title": "Wrangel and the Evacuation of Crimea",
+    "sub": "The Last White Stronghold",
+    "view": {
+      "center": [
+        44.95,
+        34.1
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          44.6167,
+          33.5254
+        ],
+        "label": "Sevastopol",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          45.04,
+          35.38
+        ],
+        "label": "Crimea",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "crimea-white-holdout",
+        "label": "White Crimea",
+        "color": "#ecf0f1",
+        "opacity": 0.22,
+        "coordinates": [
+          [
+            32.5,
+            45.4
+          ],
+          [
+            34.2,
+            45.6
+          ],
+          [
+            36.5,
+            45.2
+          ],
+          [
+            36.6,
+            44.5
+          ],
+          [
+            35.4,
+            44
+          ],
+          [
+            33.5,
+            44.2
+          ],
+          [
+            32.3,
+            44.8
+          ],
+          [
+            32.5,
+            45.4
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Wrangel Reorganizes the Whites",
+        "body": "After Denikin's defeat, Baron Pyotr Wrangel took command in Crimea. He tried to reform the White movement, improve discipline, and offer limited land reform, but the strategic situation had turned sharply against him. Wrangel tried to repair earlier White failures by improving discipline and offering limited reforms, but he inherited a shrinking position.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Pyotr_Wrangel_1920.jpg/960px-Pyotr_Wrangel_1920.jpg",
+        "cap": "Baron Pyotr Wrangel, commander of the last major White army",
+        "stats": [
+          {
+            "val": "Crimea",
+            "lbl": "Final White base"
+          },
+          {
+            "val": "1920",
+            "lbl": "Wrangel's last campaign"
+          },
+          {
+            "val": "Reform Attempt",
+            "lbl": "White movement tries to regain legitimacy",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It was the last serious White attempt to create a viable anti-Bolshevik government in European Russia.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Exile by Sea",
+        "body": "Red forces broke through into Crimea in November 1920. Wrangel organized a mass evacuation of soldiers and civilians across the Black Sea. The White cause survived only in exile, while Bolshevik control over European Russia became secure. The evacuation preserved lives and created a lasting Russian emigre community, but it also marked the end of organized White resistance in the south.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Evacuation_of_the_Crimea_1920.jpg/960px-Evacuation_of_the_Crimea_1920.jpg",
+        "cap": "Evacuation from Crimea after the defeat of Wrangel's army",
+        "stats": [
+          {
+            "val": "Nov 1920",
+            "lbl": "Crimea evacuated"
+          },
+          {
+            "val": "100,000+",
+            "lbl": "Evacuees by sea"
+          },
+          {
+            "val": "White Defeat",
+            "lbl": "Organized resistance collapses in the south",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It symbolized the military defeat of the White armies and the beginning of long-term exile for many anti-Bolsheviks.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kronstadt-nep",
+    "year": "1921",
+    "date": "March 1921",
+    "title": "Kronstadt and the New Economic Policy",
+    "sub": "Victory, Exhaustion, and Retreat",
+    "view": {
+      "center": [
+        59.99,
+        29.77
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "latlng": [
+          59.9917,
+          29.7778
+        ],
+        "label": "Kronstadt",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          59.9343,
+          30.3351
+        ],
+        "label": "Petrograd",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "petrograd-kronstadt-zone",
+        "label": "Petrograd-Kronstadt crisis zone",
+        "color": "#2980b9",
+        "opacity": 0.16,
+        "coordinates": [
+          [
+            29.55,
+            60.08
+          ],
+          [
+            30.45,
+            60.05
+          ],
+          [
+            30.55,
+            59.82
+          ],
+          [
+            29.65,
+            59.78
+          ],
+          [
+            29.55,
+            60.08
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Sailors Revolt",
+        "body": "Kronstadt sailors, once celebrated as revolutionary heroes, rebelled against Bolshevik rule and demanded soviet democracy, free trade, and civil liberties. The uprising shocked the regime because it came from within the revolution's own symbolic heart. Kronstadt shocked the Bolsheviks because the sailors had once been celebrated as heroes of the revolution.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kronstadt_sailors_1917.jpg/960px-Kronstadt_sailors_1917.jpg",
+        "cap": "Kronstadt sailors, a powerful symbol of revolutionary militancy",
+        "stats": [
+          {
+            "val": "Mar 1921",
+            "lbl": "Kronstadt uprising"
+          },
+          {
+            "val": "Soviet Democracy",
+            "lbl": "Rebel demand"
+          },
+          {
+            "val": "Suppressed",
+            "lbl": "Red Army storms the fortress",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It exposed deep anger inside the revolutionary camp itself and convinced Lenin that War Communism had become politically dangerous.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The NEP Begins",
+        "body": "Civil war victory left the economy devastated and the countryside hostile to grain requisitioning. Lenin introduced the New Economic Policy, allowing limited markets while keeping Bolshevik political monopoly. The revolution survived by retreating economically. The New Economic Policy restored limited markets and small private trade, easing pressure on peasants and reviving parts of the economy.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/New_Economic_Policy_market_Russia.jpg/960px-New_Economic_Policy_market_Russia.jpg",
+        "cap": "Market activity returned under the New Economic Policy",
+        "stats": [
+          {
+            "val": "NEP",
+            "lbl": "New Economic Policy"
+          },
+          {
+            "val": "War Communism Ends",
+            "lbl": "Grain requisitioning reduced"
+          },
+          {
+            "val": "One-Party Rule",
+            "lbl": "Political control remains absolute",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed the Bolsheviks retreating tactically from extreme wartime policies in order to keep political power.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Soviet State Emerges",
+        "body": "By 1921 the Bolsheviks had defeated their largest enemies, but at enormous human cost. Famine, repression, migration, and economic collapse scarred the former empire. The civil war forged the institutions and habits of the future Soviet state. By the early 1920s, the Bolsheviks had defeated their main armies, suppressed rivals, and built institutions that would define Soviet rule.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Russian_Civil_War_map_1918-1920.svg/960px-Russian_Civil_War_map_1918-1920.svg.png",
+        "cap": "Major fronts of the Russian Civil War",
+        "stats": [
+          {
+            "val": "Millions",
+            "lbl": "Dead from war, famine, and disease"
+          },
+          {
+            "val": "1922",
+            "lbl": "USSR formally founded"
+          },
+          {
+            "val": "Civil War Legacy",
+            "lbl": "Centralization and coercion hardened",
+            "full": true
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It marks the transition from civil war survival to the creation of the USSR and a durable one-party state.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: Russian Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Russian_Civil_War_map_1918-1920.svg/960px-Russian_Civil_War_map_1918-1920.svg.png",
+        "cap": "The end and legacy of the Russian Civil War",
+        "body": "The Bolsheviks secured the core of the former Russian Empire and founded the Soviet Union, but famine, disease, repression, and combat killed millions beyond the battlefield.",
+        "stats": [
+          {
+            "val": "~1 million military casualties",
+            "lbl": "Red forces casualties, approximate"
+          },
+          {
+            "val": "~1.5 million military casualties",
+            "lbl": "White and opposing forces casualties, approximate"
+          },
+          {
+            "val": "Bolshevik victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The Bolsheviks secured the core of the former Russian Empire and founded the Soviet Union, but famine, disease, repression, and combat killed millions beyond the battlefield.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

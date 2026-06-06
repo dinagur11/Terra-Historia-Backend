@@ -17,5 +17,5 @@ export const getJsonFromS3 = async (bucket, key) => {
   })
   const response = await s3.send(command)
   const body = await response.Body.transformToString()
-  return JSON.parse(body)
+  return JSON.parse(body.replace(/^\uFEFF/, ""))
 }

@@ -5,6 +5,7 @@ import eventsRouter from "./routes/events.js"
 import countriesRouter from "./routes/countries.js"
 import usersRouter from "./routes/users.js"
 import deepDivesRouter from "./routes/deep-dives.js"
+import suggestionsRouter from "./routes/suggestions.js"
 const app = express()
 
 app.use(cors())
@@ -14,6 +15,7 @@ app.use("/events", eventsRouter)
 app.use("/countries", countriesRouter)
 app.use("/users", usersRouter)
 app.use("/deepdives", deepDivesRouter)
+app.use("/suggestions", suggestionsRouter)
 
 app.get("/health", (req, res) => {
   res.json({ status: "ok" })

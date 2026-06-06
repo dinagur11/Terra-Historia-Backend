@@ -1,4 +1,4 @@
-import { GetCommand, PutCommand, UpdateCommand } from "@aws-sdk/lib-dynamodb";
+import { GetCommand, PutCommand, ScanCommand, UpdateCommand } from "@aws-sdk/lib-dynamodb";
 import User from "../models/User.js";
 import { dynamo } from "./dynamodb.js";
 
@@ -23,7 +23,30 @@ export async function getUserById(userId) {
 
 export async function getOrCreateUser(authUser) {
   const existingUser = await getUserById(authUser.userId);
-  if (existingUser) return existingUser;
+  if (existingUser) {
+    if (
+      (authUser.name && authUser.name !== existingUser.name) ||
+      (authUser.email && authUser.email !== existingUser.email)
+    ) {
+      const result = await dynamo.send(
+        new UpdateCommand({
+          TableName: getUsersTable(),
+          Key: { userId: authUser.userId },
+          UpdateExpression: "SET #name = :name, email = :email, updatedAt = :updatedAt",
+          ExpressionAttributeNames: { "#name": "name" },
+          ExpressionAttributeValues: {
+            ":name": authUser.name || existingUser.name,
+            ":email": authUser.email || existingUser.email,
+            ":updatedAt": new Date().toISOString(),
+          },
+          ReturnValues: "ALL_NEW",
+        })
+      );
+      return User.fromItem(result.Attributes);
+    }
+
+    return existingUser;
+  }
 
   const user = User.fromAuth(authUser);
 
@@ -75,4 +98,56 @@ export async function updateUserProgress(userId, progress) {
   );
 
   return User.fromItem(result.Attributes);
+}
+
+export async function addUserSuggestion(userId, suggestion) {
+  const now = new Date().toISOString();
+
+  const result = await dynamo.send(
+    new UpdateCommand({
+      TableName: getUsersTable(),
+      Key: { userId },
+      UpdateExpression:
+        "SET suggestions = list_append(if_not_exists(suggestions, :empty), :suggestion), updatedAt = :updatedAt",
+      ExpressionAttributeValues: {
+        ":empty": [],
+        ":suggestion": [suggestion],
+        ":updatedAt": now,
+      },
+      ReturnValues: "ALL_NEW",
+    })
+  );
+
+  return User.fromItem(result.Attributes);
+}
+
+export async function getAllSuggestions() {
+  const suggestions = [];
+  let exclusiveStartKey;
+
+  do {
+    const result = await dynamo.send(
+      new ScanCommand({
+        TableName: getUsersTable(),
+        ProjectionExpression: "userId, #name, email, suggestions",
+        ExpressionAttributeNames: { "#name": "name" },
+        ExclusiveStartKey: exclusiveStartKey,
+      })
+    );
+
+    for (const item of result.Items || []) {
+      for (const suggestion of item.suggestions || []) {
+        suggestions.push({
+          ...suggestion,
+          userId: item.userId,
+          userName: item.name || "",
+          userEmail: item.email || "",
+        });
+      }
+    }
+
+    exclusiveStartKey = result.LastEvaluatedKey;
+  } while (exclusiveStartKey);
+
+  return suggestions.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
 }

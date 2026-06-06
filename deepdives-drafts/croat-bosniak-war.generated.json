@@ -1,0 +1,450 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1992,
+    "date": "1992-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Croat-Bosniak War began",
+    "view": {
+      "center": [
+        44,
+        17
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Croatian War of Independence to Croat-Bosniak War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg",
+        "cap": "Historical connection: Yugoslav dissolution spreads into Bosnia",
+        "body": "The breakup of Yugoslavia spread from Croatia into Bosnia and Herzegovina. Croat and Bosniak forces initially cooperated, then fought one another over territory and competing political projects.",
+        "stats": [
+          {
+            "val": "Croatian War of Independence",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Yugoslav dissolution spreads into Bosnia"
+          },
+          {
+            "val": "Croat-Bosniak War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The breakup of Yugoslavia spread from Croatia into Bosnia and Herzegovina. Croat and Bosniak forces initially cooperated, then fought one another over territory and competing political projects.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Croat-Bosniak War",
+        "body": "Bosnian Croat and Bosniak forces initially fought together against Bosnian Serb forces, but incompatible territorial projects and local competition shattered that alliance.\n\nThe Conflict Takes Shape: The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1992-1994",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ahmici_massacre.jpg",
+        "cap": "Opening context for the Croat-Bosniak War"
+      }
+    ]
+  },
+  {
+    "id": "kavanjina-ambush",
+    "year": 1992,
+    "date": "1992-08-09",
+    "title": "Kavanjina Ambush",
+    "sub": "Part of Croat–Bosniak War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Kavanjina Ambush",
+        "img": "",
+        "cap": "",
+        "body": "Kavanjina Ambush marked an important episode in the Croat-Bosniak War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Kavanjina Ambush was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.\n\nConsequences: The effects of Kavanjina Ambush extended beyond its immediate result. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1992",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ahmi-i-massacre",
+    "year": 1993,
+    "date": "1993-04-16",
+    "title": "Ahmići massacre",
+    "sub": "Part of Croat–Bosniak War",
+    "view": {
+      "center": [
+        44.14166667,
+        17.89361111
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Ahmići massacre",
+        "latlng": [
+          44.14166667,
+          17.89361111
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ahmići massacre",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ahmici_massacre.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Ahmi%C4%87i_massacre",
+        "body": "The Ahmići massacre was the mass murder of approximately 120 Bosniak civilians by members of the Croatian Defence Council in April 1993, during the Croat–Muslim War. The massacre was the culmination of the Lašva Valley ethnic cleansing committed by the political and military leadership of the Croatian Community of Herzeg-Bosnia. It was the largest massacre committed during the conflict between Bosnian Croats and the Bosnian Muslim-dominated Bosnian government.\n\nWhy This Moment Matters: Ahmići massacre was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.\n\nConsequences: The effects of Ahmići massacre extended beyond its immediate result. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trusina-massacre",
+    "year": 1993,
+    "date": "1993-04-16",
+    "title": "Trusina massacre",
+    "sub": "Part of Croat–Bosniak War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Trusina massacre",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Trusina_massacre",
+        "body": "The Trusina massacre occurred on 16 April 1993 in the village of Trusina, located in the municipality of Konjic in Bosnia and Herzegovina, where 22 people, six Croat prisoners of war and 16 Croat civilians, were killed by the Army of the Republic of Bosnia and Herzegovina (ARBiH) during the Croat–Bosniak War.\n\nWhy This Moment Matters: Trusina massacre was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.\n\nConsequences: The effects of Trusina massacre extended beyond its immediate result. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zenica-massacre",
+    "year": 1993,
+    "date": "1993-04-19",
+    "title": "Zenica massacre",
+    "sub": "Part of Croat–Bosniak War",
+    "view": {
+      "center": [
+        44.198333333,
+        17.912222222
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Zenica massacre",
+        "latlng": [
+          44.198333333,
+          17.912222222
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Zenica massacre",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Zenica_massacre",
+        "body": "The Zenica massacre happened on 19 April 1993, shortly after noon. Several shells fired from the Croatian Defence Council’s positions located in Putićevo village, about 16 km (9.9 mi) west of Zenica, killed 16 and injured over 50 civilians in a large crowd.\n\nWhy This Moment Matters: Zenica massacre was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.\n\nConsequences: The effects of Zenica massacre extended beyond its immediate result. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "q16781947",
+    "year": 1993,
+    "date": "1993-07-17",
+    "title": "Q16781947",
+    "sub": "Part of Croat–Bosniak War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Q16781947",
+        "img": "",
+        "cap": "",
+        "body": "Q16781947 marked an important episode in the Croat-Bosniak War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Q16781947 was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.\n\nConsequences: The effects of Q16781947 extended beyond its immediate result. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mokronoge-massacre",
+    "year": 1993,
+    "date": "1993-08-10",
+    "title": "Mokronoge massacre",
+    "sub": "Part of Croat–Bosniak War",
+    "view": {
+      "center": [
+        43.764166666,
+        17.225833333
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Mokronoge massacre",
+        "latlng": [
+          43.764166666,
+          17.225833333
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Mokronoge massacre",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Mokronoge_massacre",
+        "body": "The Mokronoge massacre was the mass killing of nine Muslim civilians in the village of Mokronoge, Tomislavgrad in Bosnia and Herzegovina. It was committed on 10 August 1993 by Ivan Baković, a soldier of the Croatian Defence Council (HVO) during the Croat-Muslim War. In November 1999, the Municipal Court of Zagreb found Ivan Baković guilty in absentia and sentenced him to 15 year imprisonment. After Ivan Baković was arrested, he was also tried in the Cantonal Court in Livno and found guilty of war crimes committed against the civilian population. In 2004, he was sentenced to 15 year imprisonment.\n\nWhy This Moment Matters: Mokronoge massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "6 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Mokronoge massacre extended beyond its immediate result. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "stupni-do-massacre",
+    "year": 1993,
+    "date": "1993-10-23",
+    "title": "Stupni Do massacre",
+    "sub": "Part of Croat–Bosniak War",
+    "view": {
+      "center": [
+        44.125,
+        18.323611111
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Stupni Do massacre",
+        "latlng": [
+          44.125,
+          18.323611111
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Stupni Do massacre",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Stupni_Do_massacre",
+        "body": "The Stupni Do massacre was a massacre committed by Croatian forces on Bosniak civilians during the Croat–Bosniak war in the village of Stupni Do in Vareš municipality. It was committed on 23 October 1993 by Croatian Defence Council (HVO) units called \"Apostoli\" and \"Maturice\" led by Ivica Rajić, who pleaded guilty before ICTY for war crimes in October 2005. The Croat forces took control of the village and massacred most of the captured people. They raped the women before killing them and looted all houses before setting them on fire. The number of victims is at least 37-44.\n\nWhy This Moment Matters: Stupni Do massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "7 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Stupni Do massacre extended beyond its immediate result. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "kri-an-evo-selo-massacre",
+    "year": 1993,
+    "date": "1993-12-22",
+    "title": "Križančevo selo massacre",
+    "sub": "Part of Croat–Bosniak War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Križančevo selo massacre",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Spomenik_%C5%BErtvama-Kri%C5%BEan%C4%8Devo_selo09420.JPG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Kri%C5%BEan%C4%8Devo_selo_massacre",
+        "body": "On 22 December 1993, after an attack by the Army of the Republic of Bosnia and Herzegovina (ARBiH) on Croatian Defence Council (HVO) positions in Križančevo selo, a hamlet in the Lašva Valley in central Bosnia, at least 14 Croat soldiers and civilians were killed.\n\nWhy This Moment Matters: Križančevo selo massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict determined control of central Bosnia and Herzegovina and threatened to divide the internationally recognized Bosnian state.\n\nConsequences: The effects of Križančevo selo massacre extended beyond its immediate result. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "8 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1993,
+    "date": "1993-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Croat-Bosniak War",
+    "view": {
+      "center": [
+        44,
+        17
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "Croatia supported the Bosnian Croat leadership, while international diplomacy and American pressure eventually pushed the former allies back together.\n\nThe Human Cost: Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities.",
+        "stats": [
+          {
+            "val": "Approximately 10,000 killed",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1994,
+    "date": "1994-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Croat-Bosniak War ended and what followed",
+    "view": {
+      "center": [
+        44,
+        17
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Croat-Bosniak War",
+        "body": "The Washington Agreement ended Croat-Bosniak fighting and created a federation. Their renewed alliance changed the balance in the wider Bosnian War."
+      },
+      {
+        "title": "War Summary: Croat-Bosniak War",
+        "body": "The Washington Agreement ended Croat-Bosniak fighting and created a federation. Their renewed alliance changed the balance in the wider Bosnian War. Ethnic cleansing, detention camps, massacres, and the destruction of towns and cultural sites devastated mixed communities.",
+        "stats": [
+          {
+            "val": "Negotiated settlement",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Approximately 10,000 killed",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "The Washington Agreement ended Croat-Bosniak fighting and created a federation. Their renewed alliance changed the balance in the wider Bosnian War.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Spomenik_%C5%BErtvama-Kri%C5%BEan%C4%8Devo_selo09420.JPG",
+        "cap": "The outcome and legacy of the Croat-Bosniak War"
+      }
+    ]
+  }
+]

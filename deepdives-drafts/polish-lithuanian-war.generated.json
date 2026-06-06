@@ -1,0 +1,172 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1919,
+    "date": "1919-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Polish-Lithuanian War began",
+    "view": {
+      "center": [
+        54.7,
+        24.8
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Lithuanian-Soviet War to Polish-Lithuanian War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
+        "cap": "Historical connection: Competing borders after imperial collapse",
+        "body": "Lithuania survived the Soviet offensive, but independence did not settle its borders. Polish and Lithuanian national projects both claimed Vilnius, turning former partners against Bolshevik expansion into rivals.",
+        "stats": [
+          {
+            "val": "Lithuanian-Soviet War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Competing borders after imperial collapse"
+          },
+          {
+            "val": "Polish-Lithuanian War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "Lithuania survived the Soviet offensive, but independence did not settle its borders. Polish and Lithuanian national projects both claimed Vilnius, turning former partners against Bolshevik expansion into rivals.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Polish-Lithuanian War",
+        "body": "Poland and Lithuania emerged from World War I with overlapping claims, especially over Vilnius and the surrounding region.\n\nThe Conflict Takes Shape: The conflict determined control of Vilnius and poisoned relations between two newly independent neighboring states. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1919-1920",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The conflict determined control of Vilnius and poisoned relations between two newly independent neighboring states.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
+        "cap": "Opening context for the Polish-Lithuanian War"
+      }
+    ]
+  },
+  {
+    "id": "polish-lithuanian-war",
+    "year": 1914,
+    "date": "Review date",
+    "title": "Polish–Lithuanian War",
+    "sub": "Generated overview draft",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Polish–Lithuanian War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War",
+        "body": "The Polish–Lithuanian War was an undeclared war fought in the aftermath of World War I between newly independent Lithuania and Poland, with fighting mainly in the Vilnius and Suwałki regions, which was part of the Lithuanian Wars of Independence and lasted from May 1919 to 29 November 1920. From the spring of 1920 onward, the conflict happened alongside the wider Polish–Soviet War and was affected by its progress. It was subject to unsuccessful international mediation at the Conference of Ambassadors and the League of Nations.\n\nWhy This Moment Matters: Polish–Lithuanian War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of Vilnius and poisoned relations between two newly independent neighboring states.",
+        "stats": [
+          {
+            "val": "1914",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 1",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Polish–Lithuanian War extended beyond its immediate result. Military operations and contested administration divided communities with Polish, Lithuanian, Belarusian, and Jewish populations. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1919,
+    "date": "1919-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Polish-Lithuanian War",
+    "view": {
+      "center": [
+        54.7,
+        24.8
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "The fighting overlapped with the Polish-Soviet War, while the League of Nations attempted unsuccessfully to mediate.\n\nThe Human Cost: Military operations and contested administration divided communities with Polish, Lithuanian, Belarusian, and Jewish populations.",
+        "stats": [
+          {
+            "val": "Thousands killed and wounded",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1920,
+    "date": "1920-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Polish-Lithuanian War ended and what followed",
+    "view": {
+      "center": [
+        54.7,
+        24.8
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Polish-Lithuanian War",
+        "body": "Polish-aligned forces seized Vilnius, which Poland later annexed. Lithuania refused to recognize the settlement until 1938."
+      },
+      {
+        "title": "War Summary: Polish-Lithuanian War",
+        "body": "Polish-aligned forces seized Vilnius, which Poland later annexed. Lithuania refused to recognize the settlement until 1938. Military operations and contested administration divided communities with Polish, Lithuanian, Belarusian, and Jewish populations.",
+        "stats": [
+          {
+            "val": "Polish territorial victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Thousands killed and wounded",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Polish-aligned forces seized Vilnius, which Poland later annexed. Lithuania refused to recognize the settlement until 1938.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
+        "cap": "The outcome and legacy of the Polish-Lithuanian War"
+      }
+    ]
+  }
+]

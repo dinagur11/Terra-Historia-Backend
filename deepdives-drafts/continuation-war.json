@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "interim-peace",
+    "year": "1940",
+    "date": "March 1940 - June 1941",
+    "title": "The Interim Peace",
+    "sub": "Finland Between Two Powers",
+    "view": {
+      "center": [
+        61,
+        26
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          60.1699,
+          24.9384
+        ],
+        "label": "Helsinki",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          60.7108,
+          28.7528
+        ],
+        "label": "Viipuri / Vyborg",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          59.9343,
+          30.3351
+        ],
+        "label": "Leningrad",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "lost-karelia-1940",
+        "label": "Territory lost after Winter War",
+        "color": "#c0392b",
+        "opacity": 0.17,
+        "coordinates": [
+          [
+            27,
+            62
+          ],
+          [
+            31.5,
+            61.8
+          ],
+          [
+            31,
+            60
+          ],
+          [
+            29.2,
+            59.5
+          ],
+          [
+            27.4,
+            60
+          ],
+          [
+            27,
+            62
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "From World War II to Continuation War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+        "cap": "Historical connection: Eastern Front",
+        "body": "World War II created the conditions for Finland to renew its struggle with the Soviet Union. After losing territory in the Winter War, Finland aligned militarily with Germany as Operation Barbarossa began. Finnish leaders sought to recover the lost regions, turning the conflict into the Continuation War.",
+        "stats": [
+          {
+            "val": "World War II",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Eastern Front"
+          },
+          {
+            "val": "Continuation War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "World War II created the conditions for Finland to renew its struggle with the Soviet Union. After losing territory in the Winter War, Finland aligned militarily with Germany as Operation Barbarossa began. Finnish leaders sought to recover the lost regions, turning the conflict into the Continuation War.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Peace Without Security",
+        "body": "The Moscow Peace Treaty ended the Winter War but left Finland wounded and anxious. Karelia had been ceded, hundreds of thousands were displaced, and many Finns feared the Soviet Union would return to finish what it had started.\n\nDrifting Toward Germany: Britain and France were unable to guarantee Finnish security, while the Soviet threat remained close. Finland gradually accepted military cooperation and transit arrangements with Germany, a dangerous alignment born from fear and strategic isolation.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow_Peace_Treaty_1940_map.svg",
+        "cap": "Territories ceded by Finland after the Winter War",
+        "stats": [
+          {
+            "val": "Mar 1940",
+            "lbl": "Winter War peace signed"
+          },
+          {
+            "val": "400,000+",
+            "lbl": "Finnish evacuees from ceded areas"
+          },
+          {
+            "val": "Unstable Peace",
+            "lbl": "Finland searches for protection",
+            "full": true
+          },
+          {
+            "val": "Germany",
+            "lbl": "Becomes Finland's key military partner"
+          },
+          {
+            "val": "Soviet Pressure",
+            "lbl": "Continues after the Winter War"
+          },
+          {
+            "val": "Realpolitik",
+            "lbl": "Finland seeks survival through alignment",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-barbarossa",
+    "year": "1941",
+    "date": "22 - 25 June 1941",
+    "title": "Barbarossa and Finland's Entry",
+    "sub": "A Separate War Begins Beside Germany",
+    "view": {
+      "center": [
+        61.5,
+        29
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          59.9343,
+          30.3351
+        ],
+        "label": "Leningrad",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          60.1699,
+          24.9384
+        ],
+        "label": "Helsinki",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          66.5,
+          29
+        ],
+        "label": "Northern Finland",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "barbarossa-northern-theater",
+        "label": "Northern theater of Barbarossa",
+        "color": "#f1c40f",
+        "opacity": 0.15,
+        "coordinates": [
+          [
+            20,
+            69.5
+          ],
+          [
+            32,
+            69
+          ],
+          [
+            34,
+            62
+          ],
+          [
+            30.5,
+            59
+          ],
+          [
+            24,
+            60
+          ],
+          [
+            20,
+            64
+          ],
+          [
+            20,
+            69.5
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Germany Invades the Soviet Union",
+        "body": "On 22 June 1941, Germany launched Operation Barbarossa. Finland allowed German forces to operate from its territory, and Soviet aircraft bombed Finnish cities days later. Finland declared that it was again at war with the Soviet Union.\n\nCo-Belligerent, Not Axis Member: Finland fought alongside Germany against the Soviet Union but did not sign the Tripartite Pact. Finnish leaders described the war as a limited struggle to regain lost territory and secure the state, though cooperation with Nazi Germany deeply shaped the conflict.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation_Barbarossa_map.svg",
+        "cap": "Operation Barbarossa opened a vast new front against the Soviet Union",
+        "stats": [
+          {
+            "val": "22 Jun 1941",
+            "lbl": "Barbarossa begins"
+          },
+          {
+            "val": "25 Jun",
+            "lbl": "Soviet air raids on Finland"
+          },
+          {
+            "val": "Continuation War",
+            "lbl": "Finland frames the conflict as a continuation of 1939-40",
+            "full": true
+          },
+          {
+            "val": "Co-Belligerent",
+            "lbl": "Finland's wartime position"
+          },
+          {
+            "val": "Not Tripartite Pact",
+            "lbl": "Finland avoids formal Axis membership"
+          },
+          {
+            "val": "Strategic Dependence",
+            "lbl": "German support remains crucial",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reconquest-karelia",
+    "year": "1941",
+    "date": "July - September 1941",
+    "title": "Reconquest of Karelia",
+    "sub": "Recovering the Winter War Losses",
+    "view": {
+      "center": [
+        61.6,
+        30
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          61.7869,
+          30.1647
+        ],
+        "label": "Sortavala",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          60.7108,
+          28.7528
+        ],
+        "label": "Viipuri / Vyborg",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          61.8,
+          34.35
+        ],
+        "label": "Petrozavodsk",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "finnish-advance-karelia",
+        "label": "Finnish advance into Karelia",
+        "color": "#2980b9",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            27.3,
+            62.4
+          ],
+          [
+            32.5,
+            62.2
+          ],
+          [
+            35,
+            61
+          ],
+          [
+            34,
+            60
+          ],
+          [
+            30,
+            59.4
+          ],
+          [
+            27.5,
+            60.2
+          ],
+          [
+            27.3,
+            62.4
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Army Moves East",
+        "body": "Finnish forces attacked across the old border and rapidly retook much of the territory lost in 1940. For many soldiers and evacuees, the campaign felt like a recovery of stolen homes rather than a war of conquest.\n\nBeyond the Old Border: Finland also advanced into East Karelia beyond the 1939 border, raising difficult questions about war aims. Some saw a chance to build a Greater Finland; others worried that moving too far tied Finland more tightly to Germany's war.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_advance_in_Karelia_1941_map.svg",
+        "cap": "Finnish advances in Karelia during 1941",
+        "stats": [
+          {
+            "val": "Viipuri",
+            "lbl": "Recaptured in 1941"
+          },
+          {
+            "val": "Karelia",
+            "lbl": "Main Finnish objective"
+          },
+          {
+            "val": "Lost Homes",
+            "lbl": "Evacuees hope to return",
+            "full": true
+          },
+          {
+            "val": "East Karelia",
+            "lbl": "Occupied beyond prewar border"
+          },
+          {
+            "val": "Greater Finland",
+            "lbl": "Nationalist dream for some"
+          },
+          {
+            "val": "Strategic Risk",
+            "lbl": "War aims become more complex",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leningrad-front",
+    "year": "1941",
+    "date": "September 1941 - 1944",
+    "title": "Leningrad Front",
+    "sub": "Finland Stops at the Edge",
+    "view": {
+      "center": [
+        60.3,
+        30
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          59.9343,
+          30.3351
+        ],
+        "label": "Leningrad",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          60.5,
+          30
+        ],
+        "label": "Finnish lines north of city",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          59.9,
+          31
+        ],
+        "label": "Lake Ladoga",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "leningrad-approaches",
+        "label": "Northern approaches to Leningrad",
+        "color": "#e67e22",
+        "opacity": 0.16,
+        "coordinates": [
+          [
+            28.5,
+            61
+          ],
+          [
+            31.5,
+            61
+          ],
+          [
+            32,
+            59.8
+          ],
+          [
+            30.5,
+            59.4
+          ],
+          [
+            28.6,
+            59.7
+          ],
+          [
+            28.5,
+            61
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "A City Under Siege",
+        "body": "Germany encircled Leningrad from the south while Finnish forces held positions to the north. Finland did not launch a major assault into the city, but its presence helped close the ring around one of the war's most catastrophic sieges.\n\nLimited War Aims Tested: Finnish leaders tried to balance military cooperation with Germany against their own limited goals. Refusing a direct assault on Leningrad preserved some independence of action, but Finland remained tied to a brutal Axis campaign in the east.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Siege_of_Leningrad_map_1941.svg",
+        "cap": "The siege of Leningrad, with Finnish lines north of the city",
+        "stats": [
+          {
+            "val": "872 Days",
+            "lbl": "Siege duration"
+          },
+          {
+            "val": "North of Leningrad",
+            "lbl": "Finnish front position"
+          },
+          {
+            "val": "Moral Burden",
+            "lbl": "Finland's role remains debated",
+            "full": true
+          },
+          {
+            "val": "No Major Assault",
+            "lbl": "Finland avoids storming Leningrad"
+          },
+          {
+            "val": "German Pressure",
+            "lbl": "Berlin wanted stronger action"
+          },
+          {
+            "val": "Separate War Claim",
+            "lbl": "Finnish diplomacy stresses limited aims",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "east-karelia-occupation",
+    "year": "1941",
+    "date": "1941 - 1944",
+    "title": "Occupation of East Karelia",
+    "sub": "Military Rule Beyond Finland's Old Border",
+    "view": {
+      "center": [
+        62,
+        34
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          61.787,
+          34.35
+        ],
+        "label": "Petrozavodsk",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          62.2,
+          34.3
+        ],
+        "label": "East Karelia",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "occupied-east-karelia",
+        "label": "Finnish-occupied East Karelia",
+        "color": "#8e44ad",
+        "opacity": 0.17,
+        "coordinates": [
+          [
+            31,
+            63.2
+          ],
+          [
+            36.5,
+            63
+          ],
+          [
+            38,
+            61
+          ],
+          [
+            36,
+            59.8
+          ],
+          [
+            32.5,
+            60
+          ],
+          [
+            30.8,
+            61.5
+          ],
+          [
+            31,
+            63.2
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "A Finnish Military Administration",
+        "body": "In East Karelia, Finland established military rule over territory that had not belonged to independent Finland. Officials treated Finnic populations differently from Russians, reflecting ethnic nationalist ideas that shaped occupation policy.\n\nCamps and Hardship: Thousands of civilians were held in camps during the occupation, and many suffered from hunger, disease, and forced displacement. The occupation remains one of the darkest parts of Finland's wartime history.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_occupation_East_Karelia_map.svg",
+        "cap": "Finnish-occupied East Karelia during the Continuation War",
+        "stats": [
+          {
+            "val": "Petrozavodsk",
+            "lbl": "Occupied city renamed Aanislinna"
+          },
+          {
+            "val": "Military Rule",
+            "lbl": "Finnish administration imposed"
+          },
+          {
+            "val": "Ethnic Policy",
+            "lbl": "Occupation shaped by nationalist ideas",
+            "full": true
+          },
+          {
+            "val": "Civilians",
+            "lbl": "Interned under occupation policy"
+          },
+          {
+            "val": "Hunger + Disease",
+            "lbl": "Major causes of death"
+          },
+          {
+            "val": "Contested Memory",
+            "lbl": "Occupation complicates Finland's war story",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trench-war-1942",
+    "year": "1942",
+    "date": "1942 - 1943",
+    "title": "Static War and Home Front",
+    "sub": "A Long Pause Before the Storm",
+    "view": {
+      "center": [
+        62,
+        30
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          61.8,
+          34.35
+        ],
+        "label": "East Karelia front",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          60.7,
+          29
+        ],
+        "label": "Karelian Isthmus",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          60.1699,
+          24.9384
+        ],
+        "label": "Helsinki",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "static-front-zone",
+        "label": "Static Finnish-Soviet front",
+        "color": "#2980b9",
+        "opacity": 0.14,
+        "coordinates": [
+          [
+            27.5,
+            63.5
+          ],
+          [
+            36,
+            63.2
+          ],
+          [
+            36.5,
+            60.3
+          ],
+          [
+            30,
+            59.4
+          ],
+          [
+            27.4,
+            60.2
+          ],
+          [
+            27.5,
+            63.5
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "War of Positions",
+        "body": "After the 1941 advances, the front became largely static. Soldiers built trenches, bunkers, and supply lines through forest and swamp. The war did not stop, but it settled into patrols, artillery, raids, and waiting.\n\nA Country Under Strain: Finland's home front lived with rationing, air raids, displaced families, and dependence on German food and arms. The longer the war lasted, the harder it became to believe Germany would win or that Finland could escape the consequences easily.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_trench_Continuation_War.jpg",
+        "cap": "Finnish trench positions during the Continuation War",
+        "stats": [
+          {
+            "val": "1942-1943",
+            "lbl": "Static phase"
+          },
+          {
+            "val": "Forests + Lakes",
+            "lbl": "Terrain shapes the front"
+          },
+          {
+            "val": "Waiting War",
+            "lbl": "Major offensives pause",
+            "full": true
+          },
+          {
+            "val": "Rationing",
+            "lbl": "Home front pressure"
+          },
+          {
+            "val": "German Supplies",
+            "lbl": "Food and weapons dependence"
+          },
+          {
+            "val": "Strategic Anxiety",
+            "lbl": "Germany's fortunes begin to turn",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soviet-offensive-1944",
+    "year": "1944",
+    "date": "June - July 1944",
+    "title": "Soviet Vyborg-Petrozavodsk Offensive",
+    "sub": "The Red Army Returns",
+    "view": {
+      "center": [
+        61,
+        30
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          60.7108,
+          28.7528
+        ],
+        "label": "Vyborg / Viipuri",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          61.787,
+          34.35
+        ],
+        "label": "Petrozavodsk",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          60.6,
+          29.6
+        ],
+        "label": "Tali-Ihantala sector",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "soviet-1944-offensive-zone",
+        "label": "Soviet 1944 offensive zone",
+        "color": "#c0392b",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            28,
+            62.5
+          ],
+          [
+            35.5,
+            62.3
+          ],
+          [
+            36,
+            60
+          ],
+          [
+            31,
+            59.2
+          ],
+          [
+            28,
+            59.8
+          ],
+          [
+            28,
+            62.5
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "A Massive Soviet Attack",
+        "body": "In June 1944, the Red Army launched a major offensive against Finland while Germany was collapsing elsewhere. Soviet artillery, armor, and air power smashed through forward positions on the Karelian Isthmus, forcing a rapid Finnish retreat.\n\nFinland Seeks Weapons and Time: Finland urgently requested German anti-tank weapons, aircraft support, and ammunition. The crisis forced Finnish leaders to balance the need for German help with the growing need to exit the war before Soviet terms became worse.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Vyborg-Petrozavodsk_Offensive_map.svg",
+        "cap": "The Soviet Vyborg-Petrozavodsk Offensive in 1944",
+        "stats": [
+          {
+            "val": "9 Jun 1944",
+            "lbl": "Offensive begins"
+          },
+          {
+            "val": "Vyborg",
+            "lbl": "Captured by Soviets"
+          },
+          {
+            "val": "Strategic Shock",
+            "lbl": "Finland faces possible defeat",
+            "full": true
+          },
+          {
+            "val": "Panzerfaust",
+            "lbl": "German anti-tank weapons arrive"
+          },
+          {
+            "val": "Air Support",
+            "lbl": "German Detachment Kuhlmey assists"
+          },
+          {
+            "val": "Exit Strategy",
+            "lbl": "Military crisis accelerates diplomacy",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tali-ihantala",
+    "year": "1944",
+    "date": "25 June - 9 July 1944",
+    "title": "Battle of Tali-Ihantala",
+    "sub": "Finland Stops the Breakthrough",
+    "view": {
+      "center": [
+        60.65,
+        29.55
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "latlng": [
+          60.65,
+          29.55
+        ],
+        "label": "Tali-Ihantala",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          60.7108,
+          28.7528
+        ],
+        "label": "Vyborg / Viipuri",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "tali-ihantala-battlefield",
+        "label": "Tali-Ihantala battlefield",
+        "color": "#2980b9",
+        "opacity": 0.2,
+        "coordinates": [
+          [
+            29.2,
+            60.85
+          ],
+          [
+            29.9,
+            60.85
+          ],
+          [
+            30,
+            60.45
+          ],
+          [
+            29.4,
+            60.35
+          ],
+          [
+            29.1,
+            60.55
+          ],
+          [
+            29.2,
+            60.85
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Largest Nordic Battle",
+        "body": "At Tali-Ihantala, Finnish forces concentrated artillery, anti-tank weapons, and air support to stop repeated Soviet assaults. The battle became the largest fought in the Nordic countries and the decisive defensive success of Finland's 1944 crisis.\n\nA Defensive Victory: The Soviet advance was halted before it could break into Finland's interior. Tali-Ihantala did not restore lost territory, but it strengthened Finland's hand in peace negotiations by proving that occupation would be costly.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Tali-Ihantala_map.svg",
+        "cap": "Map of the Battle of Tali-Ihantala",
+        "stats": [
+          {
+            "val": "25 Jun - 9 Jul",
+            "lbl": "Battle dates"
+          },
+          {
+            "val": "Nordic Scale",
+            "lbl": "Largest battle in Nordic history"
+          },
+          {
+            "val": "Artillery Fire",
+            "lbl": "Finnish fire control proves decisive",
+            "full": true
+          },
+          {
+            "val": "Breakthrough Stopped",
+            "lbl": "Soviet momentum checked"
+          },
+          {
+            "val": "Negotiating Space",
+            "lbl": "Finland avoids unconditional collapse"
+          },
+          {
+            "val": "Survival Battle",
+            "lbl": "Central to Finnish wartime memory",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "armistice",
+    "year": "1944",
+    "date": "September 1944",
+    "title": "Moscow Armistice",
+    "sub": "Finland Leaves the War",
+    "view": {
+      "center": [
+        60.1699,
+        24.9384
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          60.1699,
+          24.9384
+        ],
+        "label": "Helsinki",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          55.7558,
+          37.6173
+        ],
+        "label": "Moscow",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          66.5,
+          25.7
+        ],
+        "label": "Lapland",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "post-armistice-finland",
+        "label": "Finland after armistice terms",
+        "color": "#f1c40f",
+        "opacity": 0.12,
+        "coordinates": [
+          [
+            20,
+            69.8
+          ],
+          [
+            29.5,
+            69.5
+          ],
+          [
+            31,
+            63.5
+          ],
+          [
+            29,
+            61.2
+          ],
+          [
+            26,
+            60
+          ],
+          [
+            22,
+            60
+          ],
+          [
+            20,
+            64
+          ],
+          [
+            20,
+            69.8
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Hard Terms, Independence Preserved",
+        "body": "Finland signed the Moscow Armistice in September 1944. It accepted the 1940 territorial losses, ceded Petsamo, paid reparations, legalized previously banned political groups, and agreed to expel German troops from its territory.\n\nTurning Against Germany: One armistice condition required Finland to remove German forces. This transformed Finland's former partner into its next enemy and led directly to the Lapland War in the north.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow_Armistice_Finland_1944_map.svg",
+        "cap": "Territorial changes confirmed after the Continuation War",
+        "stats": [
+          {
+            "val": "19 Sep 1944",
+            "lbl": "Armistice signed"
+          },
+          {
+            "val": "Petsamo",
+            "lbl": "Ceded to Soviet Union"
+          },
+          {
+            "val": "Independence",
+            "lbl": "Finland avoids occupation",
+            "full": true
+          },
+          {
+            "val": "German Withdrawal",
+            "lbl": "Required by armistice"
+          },
+          {
+            "val": "Lapland War",
+            "lbl": "Next conflict begins"
+          },
+          {
+            "val": "Forced Pivot",
+            "lbl": "Former partner becomes enemy",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "legacy",
+    "year": "1944",
+    "date": "1944 and After",
+    "title": "Legacy of the Continuation War",
+    "sub": "Survival, Compromise, and Memory",
+    "view": {
+      "center": [
+        62,
+        26
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          60.1699,
+          24.9384
+        ],
+        "label": "Helsinki",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          60.7108,
+          28.7528
+        ],
+        "label": "Lost Karelia",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "finland-post-continuation-war",
+        "label": "Postwar Finland",
+        "color": "#2980b9",
+        "opacity": 0.12,
+        "coordinates": [
+          [
+            20,
+            69.8
+          ],
+          [
+            29.5,
+            69.5
+          ],
+          [
+            31,
+            63.5
+          ],
+          [
+            29,
+            61.2
+          ],
+          [
+            26,
+            60
+          ],
+          [
+            22,
+            60
+          ],
+          [
+            20,
+            64
+          ],
+          [
+            20,
+            69.8
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "A Narrow Escape",
+        "body": "Finland ended the war defeated but not occupied. It lost territory, paid reparations, and accepted Soviet influence, yet preserved parliamentary institutions and avoided the fate of many Eastern European states brought under direct Soviet domination.\n\nA Complicated War Story: The Continuation War is remembered as a struggle for national survival, but also as a conflict fought beside Nazi Germany and involving occupation beyond Finland's old borders. Its legacy is one of endurance, compromise, and unresolved moral tension.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_evacuated_Karelians_1944.jpg",
+        "cap": "Karelian evacuees remained one of the war's lasting human consequences",
+        "stats": [
+          {
+            "val": "No Occupation",
+            "lbl": "Finland's core achievement"
+          },
+          {
+            "val": "Reparations",
+            "lbl": "Heavy postwar burden"
+          },
+          {
+            "val": "Democracy Survives",
+            "lbl": "Political system remains intact",
+            "full": true
+          },
+          {
+            "val": "Survival War",
+            "lbl": "Finnish national memory"
+          },
+          {
+            "val": "Co-Belligerence",
+            "lbl": "Moral and diplomatic complexity"
+          },
+          {
+            "val": "Postwar Balance",
+            "lbl": "Finland learns to live beside the USSR",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: Continuation War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_soldiers_Continuation_War_memorial.jpg",
+        "cap": "The end and legacy of the Continuation War",
+        "body": "Finland accepted an armistice, restored the post-Winter War border with further concessions, and expelled German forces. It survived as an independent democracy under strong Soviet pressure.",
+        "stats": [
+          {
+            "val": "~70,000 Finnish military casualties",
+            "lbl": "Finland and Germany casualties, approximate"
+          },
+          {
+            "val": "~250,000 military casualties",
+            "lbl": "Soviet Union casualties, approximate"
+          },
+          {
+            "val": "Soviet victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Finland accepted an armistice, restored the post-Winter War border with further concessions, and expelled German forces. It survived as an independent democracy under strong Soviet pressure.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

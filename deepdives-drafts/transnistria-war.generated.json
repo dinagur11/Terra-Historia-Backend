@@ -1,0 +1,206 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1990,
+    "date": "1990-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Transnistria War began",
+    "view": {
+      "center": [
+        47.2,
+        29.4
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Russian Civil War to Transnistria War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
+        "cap": "Historical connection: Soviet collapse reopens territorial divisions",
+        "body": "The Soviet collapse reopened questions of borders, language, and identity across former republics. In Moldova, separatists east of the Dniester resisted the new central government and gained Russian military support.",
+        "stats": [
+          {
+            "val": "Russian Civil War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "Soviet collapse reopens territorial divisions"
+          },
+          {
+            "val": "Transnistria War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Soviet collapse reopened questions of borders, language, and identity across former republics. In Moldova, separatists east of the Dniester resisted the new central government and gained Russian military support.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Transnistria War",
+        "body": "As the Soviet Union collapsed, Russian-speaking authorities east of the Dniester rejected Moldovan nationalism and declared a separate republic.\n\nThe Conflict Takes Shape: The conflict concerned Moldova's territorial integrity, Transnistrian autonomy, and Russia's influence in the former Soviet space. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1990-1992",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The conflict concerned Moldova's territorial integrity, Transnistrian autonomy, and Russia's influence in the former Soviet space.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
+        "cap": "Opening context for the Transnistria War"
+      }
+    ]
+  },
+  {
+    "id": "battle-of-bender",
+    "year": 1992,
+    "date": "1992-06-19",
+    "title": "Battle of Bender",
+    "sub": "Part of Transnistria War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Bender",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Bender_(1992)",
+        "body": "The battle of Bender, also known as the battle of Tighina or the battle of Bendery, was fought between 19 and 21 June 1992 between Moldova, backed by volunteers, military advisors and purchased weapons sourced from Romania; and the Pridnestrovian Moldavian Republic, an unrecognized breakaway state that declared independence from Moldova and relied on direct military support from Russia. The battle occurred in Bender, also known as Tighina, a city with a strong ethnic Russian presence at the western bank of the Dniester River. This is different from the rest of currently Transnistrian-controlled lands, which are located at the eastern bank of it. Bendery is the Russian name of the city and Tighina is the Romanian one, with Bender being an old Ottoman name."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Battle of Bender was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict concerned Moldova's territorial integrity, Transnistrian autonomy, and Russia's influence in the former Soviet space.\n\nConsequences: The effects of Battle of Bender extended beyond its immediate result. Short but intense fighting displaced civilians and divided communities along a militarized de facto border. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1992",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 2",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "moldovan-mig-29-incident-1992",
+    "year": 1992,
+    "date": "1992-06-26",
+    "title": "Moldovan MiG-29 incident (1992)",
+    "sub": "Part of Transnistria War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Moldovan MiG-29 incident (1992)",
+        "img": "",
+        "cap": "",
+        "body": "Moldovan MiG-29 incident (1992) marked an important episode in the Transnistria War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Moldovan MiG-29 incident (1992) was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict concerned Moldova's territorial integrity, Transnistrian autonomy, and Russia's influence in the former Soviet space.\n\nConsequences: The effects of Moldovan MiG-29 incident (1992) extended beyond its immediate result. Short but intense fighting displaced civilians and divided communities along a militarized de facto border. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1992",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 2",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1991,
+    "date": "1991-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Transnistria War",
+    "view": {
+      "center": [
+        47.2,
+        29.4
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "Elements of Russia's 14th Army supported Transnistrian forces and ultimately imposed a ceasefire.\n\nThe Human Cost: Short but intense fighting displaced civilians and divided communities along a militarized de facto border.",
+        "stats": [
+          {
+            "val": "Roughly 1,000 killed",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1992,
+    "date": "1992-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Transnistria War ended and what followed",
+    "view": {
+      "center": [
+        47.2,
+        29.4
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Transnistria War",
+        "body": "A ceasefire froze the conflict. Transnistria remains internationally recognized as part of Moldova but outside its control."
+      },
+      {
+        "title": "War Summary: Transnistria War",
+        "body": "A ceasefire froze the conflict. Transnistria remains internationally recognized as part of Moldova but outside its control. Short but intense fighting displaced civilians and divided communities along a militarized de facto border.",
+        "stats": [
+          {
+            "val": "Transnistrian de facto victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Roughly 1,000 killed",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "A ceasefire froze the conflict. Transnistria remains internationally recognized as part of Moldova but outside its control.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
+        "cap": "The outcome and legacy of the Transnistria War"
+      }
+    ]
+  }
+]

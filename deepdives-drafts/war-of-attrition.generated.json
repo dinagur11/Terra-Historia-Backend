@@ -1,0 +1,432 @@
+[
+  {
+    "id": "battle-of-rumani-coast",
+    "year": 1967,
+    "date": "1967-07-11",
+    "title": "Battle of Rumani Coast",
+    "sub": "Israeli defense and escalation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Six-Day War to War of Attrition",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/6dayswar1.jpg",
+        "cap": "Historical connection: Dispute over occupied territory",
+        "body": "The Six-Day War ended quickly but left Israel controlling the Sinai Peninsula, Gaza Strip, West Bank, East Jerusalem, and Golan Heights. Egypt refused to accept the new military balance and sought to make Israeli control of Sinai unbearably costly. Repeated artillery, commando, and air attacks became the War of Attrition.",
+        "stats": [
+          {
+            "val": "Six-Day War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Dispute over occupied territory"
+          },
+          {
+            "val": "War of Attrition",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Six-Day War ended quickly but left Israel controlling the Sinai Peninsula, Gaza Strip, West Bank, East Jerusalem, and Golan Heights. Egypt refused to accept the new military balance and sought to make Israeli control of Sinai unbearably costly. Repeated artillery, commando, and air attacks became the War of Attrition.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Battle of Rumani Coast",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mastvic.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Rumani_Coast",
+        "body": "The Battle of Rumani Coast was a naval engagement that took place on the night of July 11, 1967 between Israeli and Egyptian naval forces, near the vicinity of Rumani. Two Egyptian motor torpedo boats were sunk in the action for no Israeli losses. For Israel, fighting along the coast and canal zone showed that Egypt would not accept the post-1967 status quo quietly.\n\nWhy It Matters: Battle of Rumani Coast mattered because it forced Israel to make choices about holding the post-1967 lines while facing sustained Egyptian, Soviet-backed, and fedayeen pressure. It marked the shift from victory in 1967 to a grinding war of pressure.",
+        "stats": [
+          {
+            "val": "Mediterranean coast",
+            "lbl": "Northern Sinai area"
+          },
+          {
+            "val": "Post-1967 pressure",
+            "lbl": "Egypt contests new line"
+          },
+          {
+            "val": "Attritional phase",
+            "lbl": "No decisive breakthrough"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It marked the shift from victory in 1967 to a grinding war of pressure.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-karameh",
+    "year": 1968,
+    "date": "1968-03-21",
+    "title": "Battle of Karameh",
+    "sub": "Israeli defense and escalation front",
+    "view": {
+      "center": [
+        31.95,
+        35.58
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Karameh",
+        "latlng": [
+          31.95,
+          35.58
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Karameh",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Karama_aftermath_1.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Karameh",
+        "body": "The Battle of Karameh was a 15-hour military engagement between Israel and the combined forces of Jordan and the Palestine Liberation Organization (PLO) in the Jordanian border town of Karameh during the War of Attrition on 21 March 1968. It was planned by Israel as one of two concurrent raids on PLO camps, one in Karameh along the Jordan River and the other in the distant village of Ghor es-Safi south of the Dead Sea. Karameh became important because Israel tried to strike fedayeen infrastructure across the Jordanian border.\n\nWhy It Matters: Battle of Karameh mattered because it forced Israel to make choices about holding the post-1967 lines while facing sustained Egyptian, Soviet-backed, and fedayeen pressure. It showed that Palestinian guerrilla warfare had become a major strategic problem after 1967.",
+        "stats": [
+          {
+            "val": "21 Mar 1968",
+            "lbl": "Battle date"
+          },
+          {
+            "val": "Jordan Valley",
+            "lbl": "Cross-border raid area"
+          },
+          {
+            "val": "Fedayeen prestige",
+            "lbl": "PLO morale boost"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that Palestinian guerrilla warfare had become a major strategic problem after 1967.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-rooster-53",
+    "year": 1969,
+    "date": "1969-01-01",
+    "title": "Operation Rooster 53",
+    "sub": "Israeli defense and escalation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Rooster 53",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hatzerim_310313_Radar.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Rooster_53",
+        "body": "Operation Rooster 53 was an Israeli military operation during the War of Attrition to capture an Egyptian P-12 radar system. Often referred to as simply Operation Rooster, it was carried out on 26 and 27 December 1969. Participating forces included the 50th Battalion of the Paratroopers Brigade, the elite paratrooper reconnaissance unit Sayeret Tzanhanim, and the Israeli Air Force. Operation Rooster 53 was an Israeli commando raid that captured an Egyptian radar station and demonstrated Israeli special-operations reach.\n\nWhy It Matters: Operation Rooster 53 mattered because it forced Israel to make choices about holding the post-1967 lines while facing sustained Egyptian, Soviet-backed, and fedayeen pressure. It gave Israel intelligence and a morale boost while embarrassing Egyptian air defenses.",
+        "stats": [
+          {
+            "val": "Dec 1969",
+            "lbl": "Radar captured"
+          },
+          {
+            "val": "P-12 radar",
+            "lbl": "Soviet-made system"
+          },
+          {
+            "val": "Commando raid",
+            "lbl": "Helicopter-lifted prize"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It gave Israel intelligence and a morale boost while embarrassing Egyptian air defenses.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-boxer",
+    "year": 1969,
+    "date": "1969-01-01",
+    "title": "Operation Boxer",
+    "sub": "Israeli defense and escalation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Boxer",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Boxer",
+        "body": "Operation Boxer was an aerial offensive undertaken by the Israeli Air Force along the Suez Canal in July 1969. The first major IAF operation since the 1967 Six-Day War, the operation signaled a new phase in the War of Attrition. Operation Boxer was part of Israel's air campaign against Egyptian positions along the Suez Canal.\n\nWhy It Matters: Operation Boxer mattered because it forced Israel to make choices about holding the post-1967 lines while facing sustained Egyptian, Soviet-backed, and fedayeen pressure. It showed Israel relying on air superiority to answer Egyptian artillery and raids.",
+        "stats": [
+          {
+            "val": "Jul 1969",
+            "lbl": "Air campaign"
+          },
+          {
+            "val": "Suez line",
+            "lbl": "Egyptian targets"
+          },
+          {
+            "val": "Air superiority",
+            "lbl": "Israeli core advantage"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed Israel relying on air superiority to answer Egyptian artillery and raids.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-bulmus-6",
+    "year": 1969,
+    "date": "1969-07-19",
+    "title": "Operation Bulmus 6",
+    "sub": "Israeli defense and escalation front",
+    "view": {
+      "center": [
+        29.9118,
+        32.5299
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Operation Bulmus 6",
+        "latlng": [
+          29.9118,
+          32.5299
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Bulmus 6",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Greenislndraid.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Bulmus_6",
+        "body": "Operation Bulmus 6, also known as the Green Island Raid, was a military raid conducted by special operations units of the Israel Defense Forces (IDF) against what was believed to be an Egyptian early-warning radar and ELINT station located on a small artificial island in the Gulf of Suez on the night of 19 July 1969. Operation Bulmus 6 struck Green Island, a fortified Egyptian position in the Gulf of Suez.\n\nWhy It Matters: Operation Bulmus 6 mattered because it forced Israel to make choices about holding the post-1967 lines while facing sustained Egyptian, Soviet-backed, and fedayeen pressure. It demonstrated Israel's willingness to use naval commandos and raids to disrupt Egyptian pressure.",
+        "stats": [
+          {
+            "val": "Green Island",
+            "lbl": "Fortified Egyptian outpost"
+          },
+          {
+            "val": "Jul 1969",
+            "lbl": "Commando raid"
+          },
+          {
+            "val": "Naval commandos",
+            "lbl": "Shayetet 13 role"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It demonstrated Israel's willingness to use naval commandos and raids to disrupt Egyptian pressure.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-raviv",
+    "year": 1969,
+    "date": "1969-09-09",
+    "title": "Operation Raviv",
+    "sub": "Israeli defense and escalation front",
+    "view": {
+      "center": [
+        29.099444444,
+        32.652222222
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Operation Raviv",
+        "latlng": [
+          29.099444444,
+          32.652222222
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Raviv",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tiran-5-latrun-1.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Raviv",
+        "body": "Operation Raviv, also known in Egypt as the Zaafarana accident or the Ten-Hour War, was a mounted raid conducted by the Israeli Defence Forces (IDF) on Egypt's Red Sea coast during the War of Attrition. Taking place on September 9, 1969, Raviv was the sole major ground offensive undertaken by the IDF against Egypt throughout the war. The operation saw Israeli forces masquerading as Egyptian troops and using captured Arab armor. Operation Raviv was a daring Israeli armored raid on Egypt's western side of the Gulf of Suez.\n\nWhy It Matters: Operation Raviv mattered because it forced Israel to make choices about holding the post-1967 lines while facing sustained Egyptian, Soviet-backed, and fedayeen pressure. It shocked Egypt and showed that Israel could take the war behind the front line.",
+        "stats": [
+          {
+            "val": "Sep 1969",
+            "lbl": "Armored raid"
+          },
+          {
+            "val": "Captured armor",
+            "lbl": "Israeli deception method"
+          },
+          {
+            "val": "Gulf of Suez",
+            "lbl": "Raid behind Egyptian line"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It shocked Egypt and showed that Israel could take the war behind the front line.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-rhodes",
+    "year": 1970,
+    "date": "1970-01-22",
+    "title": "Operation Rhodes",
+    "sub": "Israeli defense and escalation front",
+    "view": {
+      "center": [
+        27.453751,
+        34.031439
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Operation Rhodes",
+        "latlng": [
+          27.453751,
+          34.031439
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Rhodes",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Operation_Rhodes._XIV.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Rhodes",
+        "body": "Operation Rhodes was an Israeli heliborne raid against the Egyptian island of Shadwan on 22 January 1970, during the War of Attrition. It was carried out by Israeli paratroopers and Shayetet 13 naval commandos, who took control of the island for over a day before leaving with 62 captured Egyptian soldiers and radar equipment. Operation Rhodes targeted Shadwan Island and reflected Israel's campaign to keep Egypt off balance.\n\nWhy It Matters: Operation Rhodes mattered because it forced Israel to make choices about holding the post-1967 lines while facing sustained Egyptian, Soviet-backed, and fedayeen pressure. It extended the war beyond the canal line and underlined the importance of mobility and surprise.",
+        "stats": [
+          {
+            "val": "Shadwan Island",
+            "lbl": "Red Sea target"
+          },
+          {
+            "val": "Jan 1970",
+            "lbl": "Raid date"
+          },
+          {
+            "val": "Pressure strategy",
+            "lbl": "Israel widens target set"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It extended the war beyond the canal line and underlined the importance of mobility and surprise.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-rimon-20",
+    "year": 1970,
+    "date": "1970-07-30",
+    "title": "Operation Rimon 20",
+    "sub": "Israeli defense and escalation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Rimon 20",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Rimon_20",
+        "body": "Rimon 20 was the code name of an aerial battle in 1970 which pitted the Israeli Air Force directly against Soviet fighter pilots stationed in Egypt during the War of Attrition. Israel planned the dogfight in order to send a message that it would no longer tolerate direct Soviet military involvement in its conflict with Egypt. Rimon 20 was an Israeli air ambush against Soviet pilots flying for Egypt.\n\nWhy It Matters: Operation Rimon 20 mattered because it forced Israel to make choices about holding the post-1967 lines while facing sustained Egyptian, Soviet-backed, and fedayeen pressure. It revealed how close the War of Attrition came to direct confrontation with the Soviet Union.",
+        "stats": [
+          {
+            "val": "30 Jul 1970",
+            "lbl": "Air ambush"
+          },
+          {
+            "val": "5 MiGs",
+            "lbl": "Soviet-piloted aircraft downed"
+          },
+          {
+            "val": "Superpower edge",
+            "lbl": "Direct Soviet risk"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It revealed how close the War of Attrition came to direct confrontation with the Soviet Union.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: War of Attrition",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Operation_Rhodes._XIV.jpg",
+        "cap": "The end and legacy of the War of Attrition",
+        "body": "Egypt failed to force an Israeli withdrawal from Sinai, while Israel could not turn military superiority into a lasting settlement. The unresolved confrontation led toward the 1973 war.",
+        "stats": [
+          {
+            "val": "~1,400 killed",
+            "lbl": "Israel casualties, approximate"
+          },
+          {
+            "val": "~10,000 killed",
+            "lbl": "Egypt and allies casualties, approximate"
+          },
+          {
+            "val": "Ceasefire; no decisive winner",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Egypt failed to force an Israeli withdrawal from Sinai, while Israel could not turn military superiority into a lasting settlement. The unresolved confrontation led toward the 1973 war.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

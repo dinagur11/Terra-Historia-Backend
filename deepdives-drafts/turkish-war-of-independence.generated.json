@@ -1,0 +1,436 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1919,
+    "date": "1919-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Turkish War of Independence began",
+    "view": {
+      "center": [
+        39,
+        35
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From World War I to Turkish War of Independence",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheshire_Regiment_trench_Somme_1916.jpg",
+        "cap": "Historical connection: Defeat and partition of the Ottoman Empire",
+        "body": "World War I ended with the Ottoman Empire defeated and Allied powers planning its partition. Turkish nationalists rejected that settlement and fought to establish a sovereign state in Anatolia.",
+        "stats": [
+          {
+            "val": "World War I",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "Defeat and partition of the Ottoman Empire"
+          },
+          {
+            "val": "Turkish War of Independence",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "World War I ended with the Ottoman Empire defeated and Allied powers planning its partition. Turkish nationalists rejected that settlement and fought to establish a sovereign state in Anatolia.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Turkish War of Independence",
+        "body": "The Ottoman defeat in World War I brought Allied occupation and plans to partition Anatolia, provoking a nationalist movement led by Mustafa Kemal.\n\nThe Conflict Takes Shape: The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1919-1923",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_g%C3%BCney_cephesi_kolaj.jpg",
+        "cap": "Opening context for the Turkish War of Independence"
+      }
+    ]
+  },
+  {
+    "id": "franco-turkish-war",
+    "year": 1918,
+    "date": "1918-12-01",
+    "title": "Franco-Turkish War",
+    "sub": "Part of Turkish War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Franco-Turkish War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_g%C3%BCney_cephesi_kolaj.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Franco-Turkish_War",
+        "body": "The Franco–Turkish War, known as the Cilicia Campaign in France and as the Southern Front of the Turkish War of Independence in Turkey, was a series of conflicts fought between France and the Turkish National Forces from December 1918 to October 1921 in the aftermath of World War I. French interest in the region stemmed from the Sykes-Picot Agreement and was further fueled by a refugee crisis following the Armenian genocide.\n\nWhy This Moment Matters: Franco-Turkish War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.\n\nConsequences: The effects of Franco-Turkish War extended beyond its immediate result. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greco-turkish-war",
+    "year": 1919,
+    "date": "1919-05-15",
+    "title": "Greco-Turkish War",
+    "sub": "Part of Turkish War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Greco-Turkish War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Greco-Turkish_War_of_1919-1922_collage.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Greco-Turkish_War_(1919%E2%80%931922)",
+        "body": "The Greco-Turkish War of 1919–1922 was fought between Greece and the Turkish National Movement during the partitioning of the Ottoman Empire in the aftermath of World War I, between 15 May 1919 and 14 October 1922. This conflict was a part of the Turkish War of Independence.\n\nWhy This Moment Matters: Greco-Turkish War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.\n\nConsequences: The effects of Greco-Turkish War extended beyond its immediate result. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ala-ehir-congress",
+    "year": 1919,
+    "date": "1919-08-16",
+    "title": "Alaşehir Congress",
+    "sub": "Part of Turkish War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Alaşehir Congress",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ala%C5%9Fehir_Kongresi-1.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Ala%C5%9Fehir_Congress",
+        "body": "The Alaşehir Congress was a local assembly of the Turkish National Movement held in the town of Alaşehir from 16 to 25 September 1919.\n\nWhy This Moment Matters: Alaşehir Congress was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.\n\nConsequences: The effects of Alaşehir Congress extended beyond its immediate result. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-karbo-az",
+    "year": 1920,
+    "date": "1920-05-27",
+    "title": "Battle of Karboğazı",
+    "sub": "Part of Turkish War of Independence",
+    "view": {
+      "center": [
+        37.38333333,
+        34.66666667
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Karboğazı",
+        "latlng": [
+          37.38333333,
+          34.66666667
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Karboğazı",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Karbo%C4%9Faz%C4%B1_ambush",
+        "body": "The Karboğazı ambush, also known as Battle of Karboğazı was an engagement recorded in Turkish historiography, fought between the Turkish nationalists and the French battalion on Toros Mountains during the Turkish War of Independence. Karboğazı literally means \"Snow Pass\".\n\nWhy This Moment Matters: Battle of Karboğazı was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.\n\nConsequences: The effects of Battle of Karboğazı extended beyond its immediate result. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1920",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turkish-armenian-war",
+    "year": 1920,
+    "date": "1920-09-23",
+    "title": "Turkish–Armenian War",
+    "sub": "Part of Turkish War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Turkish–Armenian War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Turkish-Armenian_War.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Turkish_invasion_of_Armenia",
+        "body": "The Turkish invasion of Armenia, also known as the Turkish–Armenian War and known in Turkey as the Eastern Front of the Turkish War of Independence, was a conflict fought between the recently established First Republic of Armenia and the Turkish National Movement, following the signing of the Treaty of Sèvres in 1920. The treaty transferred vast portions of eastern Anatolia from the Ottoman Empire to Armenia, including the towns of Trabzon, Erzurum and Van. While delegates of the Ottoman government reluctantly signed the treaty following their defeat in World War I, members of the Ottoman parliament refused to ratify it. The treaty greatly angered the Turkish Nationalists, led by Mustafa Kemal Pasha, who refused to recognize it. In September 1920, remnants of the Ottoman Army's XV Corps under the command of Kâzım Karabekir, attacked Western Armenia with orders from the Ankara Government to \"eliminate Armenia physically and politically\"."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Turkish–Armenian War was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.\n\nConsequences: The effects of Turkish–Armenian War extended beyond its immediate result. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1920",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "red-army-invasion-of-armenia",
+    "year": 1920,
+    "date": "1920-09-24",
+    "title": "Red Army invasion of Armenia",
+    "sub": "Part of Turkish War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Red Army invasion of Armenia",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/11thRedArmyYerevan.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Soviet_invasion_of_Armenia",
+        "body": "The Soviet invasion of Armenia was a military campaign which was carried out by the 11th Army of Soviet Russia from 29 November to 4 December 1920 in order to install a new Soviet government in the First Republic of Armenia, a former territory of the Russian Empire. The invasion coincided with an invasion by Kemalist Turkey and anti-government insurrections organized by local Armenian Bolsheviks. The invasion led to the dissolution of the First Republic of Armenia and the establishment of the Armenian Soviet Socialist Republic. Militant resistance continued in southern Armenia under Nzhdeh's self-declared Republic of Mountainous Armenia until July 1921."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Red Army invasion of Armenia was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.\n\nConsequences: The effects of Red Army invasion of Armenia extended beyond its immediate result. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1920",
+            "lbl": "Year"
+          },
+          {
+            "val": "6 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bombardment-of-samsun",
+    "year": 1922,
+    "date": "1922-06-07",
+    "title": "Bombardment of Samsun",
+    "sub": "Part of Turkish War of Independence",
+    "view": {
+      "center": [
+        41.29027778,
+        36.33361111
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Bombardment of Samsun",
+        "latlng": [
+          41.29027778,
+          36.33361111
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Bombardment of Samsun",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Turkish_Nationalists_arrive_by_ship_at_Samsun.webm/1280px--Turkish_Nationalists_arrive_by_ship_at_Samsun.webm.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Bombardment_of_Samsun",
+        "body": "On 7 June 1922, ships of the Greek Navy bombarded the Turkish town of Samsun for three hours (15:02–18:00), firing 400 rounds; while in response, the single Turkish artillery piece in the town fired back 25 rounds. While the American destroyers USS Sands, USS McFarland, and USS Sturtevant were present, they did not participate in the bombardment.\n\nWhy This Moment Matters: Bombardment of Samsun was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.\n\nConsequences: The effects of Bombardment of Samsun extended beyond its immediate result. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1922",
+            "lbl": "Year"
+          },
+          {
+            "val": "7 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chanak-crisis",
+    "year": 1922,
+    "date": "1922-09-01",
+    "title": "Chanak crisis",
+    "sub": "Part of Turkish War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Chanak crisis",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/100_years_of_the_RAF_MOD_45163650.jpg/3840px-100_years_of_the_RAF_MOD_45163650.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Chanak_crisis",
+        "body": "The Chanak crisis, also called the Chanak affair and the Chanak incident, was a war scare in September 1922 between the United Kingdom and the Government of the Grand National Assembly in Turkey. Chanak refers to Çanakkale, a city on the Anatolian side of the Dardanelles Strait. The crisis was caused by Turkish efforts to push the Greek armies out of Turkey and restore Turkish rule in the Allied-occupied territories, primarily in Constantinople and Eastern Thrace. Turkish troops marched against British and French positions in the Dardanelles neutral zone. For a time, war between Britain and Turkey seemed possible, but Canada refused to agree as did France and Italy. British public opinion did not want a war. The British military did not either, and the top general on the scene, Sir Charles Harington, refused to relay an ultimatum to the Turks because he counted on a negotiated settlement. The Conservatives in Britain's coalition government refused to follow Liberal Prime Minister David Lloyd George, who with Winston Churchill was calling for war."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Chanak crisis was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war determined whether Anatolia would be partitioned and whether a sovereign Turkish national state would replace the Ottoman order.\n\nConsequences: The effects of Chanak crisis extended beyond its immediate result. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1922",
+            "lbl": "Year"
+          },
+          {
+            "val": "8 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1922,
+    "date": "1922-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Turkish War of Independence",
+    "view": {
+      "center": [
+        39,
+        35
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "Greek, Armenian, French, British, Italian, and Soviet policies all shaped the connected campaigns and negotiations.\n\nThe Human Cost: Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions.",
+        "stats": [
+          {
+            "val": "Hundreds of thousands killed and more than one million displaced",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1923,
+    "date": "1923-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Turkish War of Independence ended and what followed",
+    "view": {
+      "center": [
+        39,
+        35
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Turkish War of Independence",
+        "body": "Nationalist victories overturned the proposed partition. The Treaty of Lausanne recognized the Republic of Turkey."
+      },
+      {
+        "title": "War Summary: Turkish War of Independence",
+        "body": "Nationalist victories overturned the proposed partition. The Treaty of Lausanne recognized the Republic of Turkey. Conventional war, forced migration, communal violence, and population exchange transformed Anatolia and neighboring regions.",
+        "stats": [
+          {
+            "val": "Turkish nationalist victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Hundreds of thousands killed and more than one million displaced",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Nationalist victories overturned the proposed partition. The Treaty of Lausanne recognized the Republic of Turkey.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/100_years_of_the_RAF_MOD_45163650.jpg/3840px-100_years_of_the_RAF_MOD_45163650.jpg",
+        "cap": "The outcome and legacy of the Turkish War of Independence"
+      }
+    ]
+  }
+]

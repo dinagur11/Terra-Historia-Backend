@@ -1,0 +1,436 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1992,
+    "date": "1992-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the War in Abkhazia began",
+    "view": {
+      "center": [
+        43,
+        41
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Transnistria War to War in Abkhazia",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
+        "cap": "Historical connection: Separatism after Soviet collapse",
+        "body": "Like Transnistria, Abkhazia became a separatist battlefield after Soviet authority disappeared. Competing Georgian and Abkhaz national projects, aided by outside fighters and Russian involvement, produced war and mass displacement.",
+        "stats": [
+          {
+            "val": "Transnistria War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Separatism after Soviet collapse"
+          },
+          {
+            "val": "War in Abkhazia",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "Like Transnistria, Abkhazia became a separatist battlefield after Soviet authority disappeared. Competing Georgian and Abkhaz national projects, aided by outside fighters and Russian involvement, produced war and mass displacement.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the War in Abkhazia",
+        "body": "The collapse of the Soviet Union intensified disputes between the Georgian government and Abkhaz separatists over autonomy, identity, and political control.\n\nThe Conflict Takes Shape: The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1992-1993",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/War_in_Abkhazia_1992.PNG",
+        "cap": "Opening context for the War in Abkhazia"
+      }
+    ]
+  },
+  {
+    "id": "battle-of-sokhumi",
+    "year": 1992,
+    "date": "1992-08-14",
+    "title": "Battle of Sokhumi",
+    "sub": "Part of War in Abkhazia",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Sokhumi",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/War_in_Abkhazia_1992.PNG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Sukhumi_(1992)",
+        "body": "The Battle of Sukhumi or the Battle of Sokhumi took place on August 14, 1992 12:00, between Abkhazian separatists and Georgian National Guard. The battle marked the start of 1992–1993 War in Abkhazia.\n\nWhy This Moment Matters: Battle of Sokhumi was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.\n\nConsequences: The effects of Battle of Sokhumi extended beyond its immediate result. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1992",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-gagra",
+    "year": 1992,
+    "date": "1992-10-01",
+    "title": "Battle of Gagra",
+    "sub": "Part of War in Abkhazia",
+    "view": {
+      "center": [
+        43.333333,
+        40.216667
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Gagra",
+        "latlng": [
+          43.333333,
+          40.216667
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Gagra",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/1992-1993_Georgia_war.svg/3840px-1992-1993_Georgia_war.svg.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Gagra_(October_1992)",
+        "body": "The Battle of Gagra, or Operation Storm was fought between Georgian forces and the Abkhaz secessionists aided by the Confederation of Mountain Peoples of the Caucasus (CMPC) militants from 1 to 6 October 1992, during the War in Abkhazia. The allies, commanded by the Chechen warlord Shamil Basayev, captured the town of Gagra from the undermanned Georgian forces in a surprise attack, leading to an outbreak of ethnic cleansing of local Georgian population. The battle proved to be one of the bloodiest in the war and is widely considered to be a turning point in the Georgian-Abkhaz conflict. The action, in which Russian commanders were suspected to have aided to the attackers, also resulted in a significant deterioration of the Georgian-Russian relations."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Battle of Gagra was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.\n\nConsequences: The effects of Battle of Gagra extended beyond its immediate result. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1992",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "siege-of-tkvarcheli",
+    "year": 1992,
+    "date": "1992-10-01",
+    "title": "Siege of Tkvarcheli",
+    "sub": "Part of War in Abkhazia",
+    "view": {
+      "center": [
+        42.8475,
+        41.685
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Siege of Tkvarcheli",
+        "latlng": [
+          42.8475,
+          41.685
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Siege of Tkvarcheli",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tkvarcheli_TEC.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Siege_of_Tkvarcheli",
+        "body": "Siege of Tkvarcheli was a military engagement during the 1992–93 War in Abkhazia. The siege was undertaken by the Georgian armed forces and lasted from October 1992 to September 1993, almost the entire duration of the war, but was eventually unsuccessful. It was accompanied by inconclusive fighting in surrounding villages. Russian aid, both humanitarian and military, was critical for the defence of the town which suffered a severe humanitarian crisis during the siege.\n\nWhy This Moment Matters: Siege of Tkvarcheli was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.\n\nConsequences: The effects of Siege of Tkvarcheli extended beyond its immediate result. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1992",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-ochamchire",
+    "year": 1992,
+    "date": "1992-10-26",
+    "title": "Battle of Ochamchire",
+    "sub": "Part of War in Abkhazia",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Ochamchire",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F_%D0%90.%D0%9B%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1992.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/War_in_Abkhazia_(1992%E2%80%931993)",
+        "body": "The War in Abkhazia was fought between Georgian government and paramilitary forces, and a coalition of Abkhaz separatist forces and North Caucasian militants between 1992 and 1993. Ethnic Georgians who lived in Abkhazia fought largely on the side of Georgian government forces. Ethnic Armenians, who formed the Bagramyan Battalion and Russians within Abkhazia's population largely supported the Abkhazians and many fought on their side. The separatists received support from thousands of North Caucasus and Cossack militants and from the Russian Federation military forces stationed in and near Abkhazia. Ukrainian volunteers fought on the Georgian side. The conflict coincided with the civil war within Georgia proper, where supporters of the ousted president Zviad Gamsakhurdia clashed with the post-coup government led by Eduard Shevardnadze."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Battle of Ochamchire was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.\n\nConsequences: The effects of Battle of Ochamchire extended beyond its immediate result. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1992",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "march-offensive",
+    "year": 1993,
+    "date": "1993-03-15",
+    "title": "March Offensive",
+    "sub": "Part of War in Abkhazia",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "March Offensive",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gumista_MO.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/March_Offensive_(War_in_Abkhazia)",
+        "body": "The March Offensive or the Battle of the Gumista was a battle between Georgian armed forces and Abkhaz separatists. It was held on March 15–16, 1993 along 8 kilometres (5.0 mi) of the banks of the Gumista River.\n\nWhy This Moment Matters: March Offensive was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.\n\nConsequences: The effects of March Offensive extended beyond its immediate result. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-golden-fleece",
+    "year": 1993,
+    "date": "1993-08-15",
+    "title": "Operation Golden Fleece",
+    "sub": "Part of War in Abkhazia",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Golden Fleece",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Golden_Fleece",
+        "body": "Operation Golden Fleece is a codename given to the non-combatant evacuation operation of ethnic Greeks from the port of Sukhumi, Abkhazia. On 14 August 1992, Georgian troops entered Abkhazia in order to crush its separatist movement. The ongoing War in Abkhazia created an atmosphere of lawlessness in the region, resulting in dozens of deaths of Greek civilians. The Greek state decided to intervene in order to evacuate members of the Greek minority in Abkhazia. The operation was carried out by the Hellenic Navy between 15–18 August 1993. It resulted in the evacuation of 1,013 civilians to Alexandroupolis, Greece.\n\nWhy This Moment Matters: Operation Golden Fleece was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "6 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Operation Golden Fleece extended beyond its immediate result. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "battle-of-sukhumi",
+    "year": 1993,
+    "date": "1993-09-16",
+    "title": "Battle of Sukhumi",
+    "sub": "Part of War in Abkhazia",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Sukhumi",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Parlament_of_Abkhazia.JPG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Fall_of_Sukhumi",
+        "body": "The Fall of Sukhumi or the Siege of Sukhumi occurred from 16 to 27 September 1993, involving the Abkhaz separatists, along with their Russian and North Caucasian backers, and Georgia, being the last engagement of the War in Abkhazia.\n\nWhy This Moment Matters: Battle of Sukhumi was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.\n\nConsequences: The effects of Battle of Sukhumi extended beyond its immediate result. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "7 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ethnic-cleansing-of-georgians-in-sukhumi",
+    "year": 1993,
+    "date": "1993-09-16",
+    "title": "Ethnic cleansing of Georgians in Sukhumi",
+    "sub": "Part of War in Abkhazia",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ethnic cleansing of Georgians in Sukhumi",
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parlament%20of%20Abkhazia.JPG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Ethnic_cleansing_of_Georgians_in_Sukhumi",
+        "body": "The Sukhumi massacre took place on 27 September 1993, during and after the fall of Sukhumi into separatist hands in the course of the War in Abkhazia. It was perpetrated against Georgian civilians of Sukhumi, mainly by militia forces of Abkhaz separatists and North Caucasian allies. It became part of a violent ethnic cleansing campaign carried out by the separatists.\n\nWhy This Moment Matters: Ethnic cleansing of Georgians in Sukhumi was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict determined control of Abkhazia and the status of its Georgian and Abkhaz populations.\n\nConsequences: The effects of Ethnic cleansing of Georgians in Sukhumi extended beyond its immediate result. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "8 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1992,
+    "date": "1992-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the War in Abkhazia",
+    "view": {
+      "center": [
+        43,
+        41
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "North Caucasian volunteers and Russian military elements aided Abkhaz forces, while Russia later became the principal mediator and peacekeeper.\n\nThe Human Cost: Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars.",
+        "stats": [
+          {
+            "val": "Approximately 10,000-30,000 killed and over 200,000 displaced",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1993,
+    "date": "1993-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the War in Abkhazia ended and what followed",
+    "view": {
+      "center": [
+        43,
+        41
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the War in Abkhazia",
+        "body": "Abkhaz forces captured Sukhumi and established de facto independence. The dispute remains unresolved internationally."
+      },
+      {
+        "title": "War Summary: War in Abkhazia",
+        "body": "Abkhaz forces captured Sukhumi and established de facto independence. The dispute remains unresolved internationally. Massacres and ethnic cleansing drove most ethnic Georgians from Abkhazia and left deep demographic and political scars.",
+        "stats": [
+          {
+            "val": "Abkhaz separatist victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Approximately 10,000-30,000 killed and over 200,000 displaced",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Abkhaz forces captured Sukhumi and established de facto independence. The dispute remains unresolved internationally.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parlament%20of%20Abkhazia.JPG",
+        "cap": "The outcome and legacy of the War in Abkhazia"
+      }
+    ]
+  }
+]

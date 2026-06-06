@@ -1,0 +1,435 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1985,
+    "date": "1985-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Iran-Israel Proxy Conflict began",
+    "view": {
+      "center": [
+        33,
+        42
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Iran-Iraq War to Iran-Israel Proxy Conflict",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Battle_of_khorramshahr_2.jpg",
+        "cap": "Historical connection: Iranian regional networks and shifting power",
+        "body": "The South Lebanon conflict strengthened Hezbollah and tied it closely to Iran's regional strategy. That relationship became one of the central fronts in the wider proxy confrontation between Iran and Israel.",
+        "stats": [
+          {
+            "val": "Iran-Iraq War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Iranian regional networks and shifting power"
+          },
+          {
+            "val": "Iran-Israel Proxy Conflict",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The South Lebanon conflict strengthened Hezbollah and tied it closely to Iran's regional strategy. That relationship became one of the central fronts in the wider proxy confrontation between Iran and Israel.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Iran-Israel Proxy Conflict",
+        "body": "After Iran's 1979 revolution, Tehran and Israel became strategic enemies. Iran built partnerships with armed groups while Israel sought to disrupt Iranian influence and military capabilities.\n\nThe Conflict Takes Shape: Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1985-2026",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/USS_New_Jersey_firing_in_Beirut%2C_1984.jpg",
+        "cap": "Opening context for the Iran-Israel Proxy Conflict"
+      }
+    ]
+  },
+  {
+    "id": "lebanese-civil-war",
+    "year": 1975,
+    "date": "1975-04-13",
+    "title": "Lebanese Civil War",
+    "sub": "Part of Iran–Israel proxy conflict",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Lebanese Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/USS_New_Jersey_firing_in_Beirut%2C_1984.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Lebanese_Civil_War",
+        "body": "The Lebanese Civil War was a multifaceted armed conflict that took place from 1975 to 1990. It resulted in an estimated 150,000 fatalities and led to the exodus of almost one million people from Lebanon.\n\nWhy This Moment Matters: Lebanese Civil War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.\n\nConsequences: The effects of Lebanese Civil War extended beyond its immediate result. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1975",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hezbollah-israel-conflict",
+    "year": 2000,
+    "date": "2000-01-01",
+    "title": "Hezbollah–Israel conflict",
+    "sub": "Part of Iran–Israel proxy conflict",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Hezbollah–Israel conflict",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/South_lebanon_map.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Hezbollah%E2%80%93Israel_conflict",
+        "body": "Hezbollah, a Shia Islamist political party and militant organization that was established in Lebanon in 1985, has been involved in a long-running conflict with Israel as part of the Iran–Israel proxy conflict and the Israeli–Lebanese conflict.\n\nWhy This Moment Matters: Hezbollah–Israel conflict was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.\n\nConsequences: The effects of Hezbollah–Israel conflict extended beyond its immediate result. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2000",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "may-2018-israel-syria-clashes",
+    "year": 2018,
+    "date": "2018-05-10",
+    "title": "May 2018 Israel–Syria clashes",
+    "sub": "Part of Iran–Israel proxy conflict",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "May 2018 Israel–Syria clashes",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_House_of_Cards",
+        "body": "On 10 May 2018, Israel stated that Iranian forces in Syria launched 20 rockets against Israeli army positions on the western Golan Heights. The Syrian Observatory for Human Rights said that the attack occurred after Madinat al-Baath, a town in the demilitarised zone, was bombarded by Israeli forces. According to the Israel Defense Forces (IDF) some missiles were intercepted by Israel's Iron Dome system, while some fell short in Syrian territory.\n\nWhy This Moment Matters: May 2018 Israel–Syria clashes was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.",
+        "stats": [
+          {
+            "val": "2018",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of May 2018 Israel–Syria clashes extended beyond its immediate result. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "syria-missile-strikes-september-2018",
+    "year": 2018,
+    "date": "2018-09-17",
+    "title": "Syria missile strikes (September 2018)",
+    "sub": "Part of Iran–Israel proxy conflict",
+    "view": {
+      "center": [
+        35.533,
+        35.783
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Syria missile strikes (September 2018)",
+        "latlng": [
+          35.533,
+          35.783
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Syria missile strikes (September 2018)",
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/RF-93610%20IL18%2820M%29%20Russian%20Air%20Force%20UUMB%20%2833375039736%29%20%282%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Syria_missile_strikes_(September_2018)",
+        "body": "On 17 September 2018, the Israeli Air Force (IAF) conducted missile strikes against multiple targets in government-controlled western Syria. Syrian air defences responded to the Israeli fighter jets, accidentally shooting a Russian military Il-20, killing 15 crew aboard. Russia blamed Israel for the loss of its plane, accusing the IAF of \"hiding behind the Russian aircraft\", thereby putting it in the line of fire. The Israel Defense Forces acknowledged striking a Syrian weapons facility, and expressed sorrow for the loss of lives due to Syrian fire. The strikes occurred a few hours after a Russo-Turkish agreement to create a demilitarized zone around Idlib Governorate was achieved, which postponed an imminent offensive operation by Syria's forces and its allies."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Syria missile strikes (September 2018) was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.\n\nConsequences: The effects of Syria missile strikes (September 2018) extended beyond its immediate result. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2018",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "attacks-on-us-bases-during-the-gaza-war",
+    "year": 2023,
+    "date": "2023-10-18",
+    "title": "attacks on US bases during the Gaza war",
+    "sub": "Part of Iran–Israel proxy conflict",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "attacks on US bases during the Gaza war",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/The_USS_Dwight_D._Eisenhower_and_USS_USS_Gerald_R._Ford_carrier_strike_groups_in_November_2023.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Attacks_on_US_bases_during_the_Middle_Eastern_crisis_(2023%E2%80%93present)",
+        "body": "Starting on 17 October 2023, and in response to United States support for Israel in the Gaza war, Iran-backed militias initiated a coordinated series of more than 170 attacks on US military bases and assets in Syria, Iraq, and Jordan. These attacks resulted in injuries to dozens of US service members. In retaliation, the US has launched multiple counterattacks, resulting in the death of about 65 militants including a senior commander of the Nujaba Movement, Mushtaq Talib al-Saidi. In February 2024, following US airstrikes in Iraq and Syria, militia attacks against US forces were halted. Iraqi militias agreed with the Iraqi government in December 2024 to fully cease their attacks following the fall of the Assad regime in Syria."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "attacks on US bases during the Gaza war was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.\n\nConsequences: The effects of attacks on US bases during the Gaza war extended beyond its immediate result. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2023",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-true-promise-i",
+    "year": 2024,
+    "date": "2024-04-01",
+    "title": "Operation True Promise I",
+    "sub": "Part of Iran–Israel proxy conflict",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation True Promise I",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel",
+        "body": "On 13 April 2024, the Islamic Revolutionary Guards Corps (IRGC), a branch of the Iranian Armed Forces, in collaboration with the Islamic Resistance in Iraq, Lebanese militant group Hezbollah, and the Ansar Allah (Houthis), launched attacks against Israel and the Israeli-occupied Golan Heights with loitering munitions, cruise missiles, and ballistic missiles. The attack was codenamed by Iran as Operation True Promise. Iran said it was retaliation for the Israeli bombing of the Iranian embassy in Damascus on 1 April, which killed two Iranian generals. The strike was seen as a spillover of the Gaza war and marked Iran's first direct attack on Israel since the start of their proxy conflict."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Operation True Promise I was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.\n\nConsequences: The effects of Operation True Promise I extended beyond its immediate result. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2024",
+            "lbl": "Year"
+          },
+          {
+            "val": "6 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2024-iran-israel-conflict",
+    "year": 2024,
+    "date": "2024-04-01",
+    "title": "2024 Iran–Israel conflict",
+    "sub": "Part of Iran–Israel proxy conflict",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "2024 Iran–Israel conflict",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%D7%99%D7%99%D7%A8%D7%95%D7%98%D7%99%D7%9D_%D7%91%D7%92%D7%9C%D7%99%D7%9C_%D7%94%D7%AA%D7%97%D7%AA%D7%95%D7%9F_%D7%91%D7%9E%D7%A1%D7%92%D7%A8%D7%AA_%D7%94%D7%94%D7%AA%D7%A7%D7%A4%D7%94_%D7%94%D7%90%D7%99%D7%A8%D7%90%D7%A0%D7%99%D7%AA_%D7%A2%D7%9C_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%282%29.jpg/3840px-%D7%99%D7%99%D7%A8%D7%95%D7%98%D7%99%D7%9D_%D7%91%D7%92%D7%9C%D7%99%D7%9C_%D7%94%D7%AA%D7%97%D7%AA%D7%95%D7%9F_%D7%91%D7%9E%D7%A1%D7%92%D7%A8%D7%AA_%D7%94%D7%94%D7%AA%D7%A7%D7%A4%D7%94_%D7%94%D7%90%D7%99%D7%A8%D7%90%D7%A0%D7%99%D7%AA_%D7%A2%D7%9C_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%282%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/2024_Iran%E2%80%93Israel_conflict",
+        "body": "In 2024, the Iran–Israel proxy conflict escalated to a series of direct confrontations between the two countries in April, July, and October that year. On 1 April, Israel bombed an Iranian consulate complex in Damascus, Syria, killing multiple senior Iranian officials. In response, Iran and its Axis of Resistance allies seized the Israeli-linked ship MSC Aries and launched strikes inside Israel on 13 April. Israel then carried out retaliatory strikes in Iran and Syria on 19 April.\n\nWhy This Moment Matters: 2024 Iran–Israel conflict was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.",
+        "stats": [
+          {
+            "val": "2024",
+            "lbl": "Year"
+          },
+          {
+            "val": "7 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of 2024 Iran–Israel conflict extended beyond its immediate result. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "iran-israel-conflict-during-the-syrian-civil-war",
+    "year": 2100,
+    "date": "2100-01-01",
+    "title": "Iran–Israel conflict during the Syrian civil war",
+    "sub": "Part of Iran–Israel proxy conflict",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Iran–Israel conflict during the Syrian civil war",
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Netanyahu%20Drone%202018%20%28cropped%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_conflict_during_the_Syrian_civil_war",
+        "body": "With increasing Iranian involvement in Syrian civil war from 2011 onwards, the conflict between Iran and Israel shifted from a proxy war into a direct confrontation by early 2018.\n\nWhy This Moment Matters: Iran–Israel conflict during the Syrian civil war was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Regional deterrence, nuclear and missile capabilities, influence in Lebanon and Syria, and the security of Israel and Iran's partners drive the conflict.\n\nConsequences: The effects of Iran–Israel conflict during the Syrian civil war extended beyond its immediate result. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2100",
+            "lbl": "Year"
+          },
+          {
+            "val": "8 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 2025,
+    "date": "2025-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Iran-Israel Proxy Conflict",
+    "view": {
+      "center": [
+        33,
+        42
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "The United States, Gulf states, Syria, Russia, and non-state armed groups shape a confrontation spread across several countries.\n\nThe Human Cost: Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war.",
+        "stats": [
+          {
+            "val": "Thousands killed across interconnected regional conflicts",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 2026,
+    "date": "2026-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Iran-Israel Proxy Conflict ended and what followed",
+    "view": {
+      "center": [
+        33,
+        42
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Iran-Israel Proxy Conflict",
+        "body": "The conflict evolved from covert operations and proxy warfare into direct exchanges. No durable settlement has ended the confrontation."
+      },
+      {
+        "title": "War Summary: Iran-Israel Proxy Conflict",
+        "body": "The conflict evolved from covert operations and proxy warfare into direct exchanges. No durable settlement has ended the confrontation. Civilians have faced missile attacks, airstrikes, displacement, and the risk that limited exchanges could become a wider regional war.",
+        "stats": [
+          {
+            "val": "Ongoing; no decisive winner",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Thousands killed across interconnected regional conflicts",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "The conflict evolved from covert operations and proxy warfare into direct exchanges. No durable settlement has ended the confrontation.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Netanyahu%20Drone%202018%20%28cropped%29.jpg",
+        "cap": "The outcome and legacy of the Iran-Israel Proxy Conflict"
+      }
+    ]
+  }
+]

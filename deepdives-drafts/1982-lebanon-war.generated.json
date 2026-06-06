@@ -1,0 +1,432 @@
+[
+  {
+    "id": "battle-of-the-beaufort",
+    "year": 1982,
+    "date": "1982-06-06",
+    "title": "Battle of the Beaufort",
+    "sub": "Part of 1982 Lebanon War",
+    "view": {
+      "center": [
+        33.32611111,
+        35.53194444
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of the Beaufort",
+        "latlng": [
+          33.32611111,
+          35.53194444
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Yom Kippur War to 1982 Lebanon War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Egyptianbridge.jpg",
+        "cap": "Historical connection: Conflict shifts toward Lebanon",
+        "body": "The Yom Kippur War changed interstate diplomacy in the Middle East, but conflict increasingly shifted toward armed groups and Lebanon. The Palestine Liberation Organization established a powerful presence there, while Lebanon's civil war drew in Israel and Syria. Cross-border attacks and escalation led to Israel's 1982 invasion.",
+        "stats": [
+          {
+            "val": "Yom Kippur War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Conflict shifts toward Lebanon"
+          },
+          {
+            "val": "1982 Lebanon War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Yom Kippur War changed interstate diplomacy in the Middle East, but conflict increasingly shifted toward armed groups and Lebanon. The Palestine Liberation Organization established a powerful presence there, while Lebanon's civil war drew in Israel and Syria. Cross-border attacks and escalation led to Israel's 1982 invasion.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Battle of the Beaufort",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Beaufort1982.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_the_Beaufort",
+        "body": "Beaufort Castle overlooked routes in southern Lebanon and had major symbolic value because PLO forces used the area as part of their defensive network near Israel's northern border. For Israeli troops entering Lebanon on 6 June 1982, taking the fortress was an early test of the campaign. The fighting was intense, close, and costly, and the victory became one of the first headline battlefield successes of Operation Peace for Galilee.\n\nWhy It Matters: Capturing Beaufort helped open the southern approach and gave Israel an early tactical symbol, but the cost hinted that Lebanon would not be a simple border operation. This draft is framed from the Israeli security point of view: northern towns faced PLO fire from Lebanon, the IDF sought to push hostile forces away from the border, and the campaign expanded into a much larger political and military struggle.",
+        "stats": [
+          {
+            "val": "6 Jun 1982",
+            "lbl": "Opening day battle"
+          },
+          {
+            "val": "Beaufort Castle",
+            "lbl": "Overlooked southern routes"
+          },
+          {
+            "val": "Operation Peace for Galilee",
+            "lbl": "Israeli campaign name"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "Capturing Beaufort helped open the southern approach and gave Israel an early tactical symbol, but the cost hinted that Lebanon would not be a simple border operation.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-jezzine",
+    "year": 1982,
+    "date": "1982-06-08",
+    "title": "Battle of Jezzine",
+    "sub": "Part of 1982 Lebanon War",
+    "view": {
+      "center": [
+        33.53333333,
+        35.58333333
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Jezzine",
+        "latlng": [
+          33.53333333,
+          35.58333333
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Jezzine",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Syrian_Tank_burning_in_Tzuk_Track.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Jezzine_(1982)",
+        "body": "Jezzine was the first major Israel-Syria clash of the campaign. Israeli armored forces moved toward the town and met Syrian units blocking routes toward the Bekaa and central Lebanon. The battle showed that the war was expanding beyond the PLO: Syria, already deeply embedded in Lebanon, would contest Israeli movement and could turn the invasion into a state-on-state fight.\n\nWhy It Matters: The battle widened the campaign from anti-PLO operations into direct combat with Syria, raising the stakes for Israel and the region. This draft is framed from the Israeli security point of view: northern towns faced PLO fire from Lebanon, the IDF sought to push hostile forces away from the border, and the campaign expanded into a much larger political and military struggle.",
+        "stats": [
+          {
+            "val": "8 Jun 1982",
+            "lbl": "Battle date"
+          },
+          {
+            "val": "First Israel-Syria clash",
+            "lbl": "In the 1982 campaign"
+          },
+          {
+            "val": "Jezzine road hub",
+            "lbl": "Route toward central Lebanon"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "The battle widened the campaign from anti-PLO operations into direct combat with Syria, raising the stakes for Israel and the region.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-mole-cricket-19",
+    "year": 1982,
+    "date": "1982-06-09",
+    "title": "Operation Mole Cricket 19",
+    "sub": "Part of 1982 Lebanon War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Mole Cricket 19",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Syrian_SAM.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Mole_Cricket_19",
+        "body": "Operation Mole Cricket 19 was Israel's air-war masterpiece in the Bekaa Valley. The IAF combined drones, electronic warfare, precision planning, and fighter sweeps to destroy Syrian SAM batteries and defeat Syrian aircraft. For Israel, it removed a dangerous missile umbrella and restored air freedom over a critical front. For military analysts worldwide, it became a landmark in modern suppression of enemy air defenses.\n\nWhy It Matters: It gave Israel air superiority in Lebanon and became a case study in how drones, electronic warfare, and real-time intelligence could dismantle Soviet-style air defenses. This draft is framed from the Israeli security point of view: northern towns faced PLO fire from Lebanon, the IDF sought to push hostile forces away from the border, and the campaign expanded into a much larger political and military struggle.",
+        "stats": [
+          {
+            "val": "9 Jun 1982",
+            "lbl": "Air campaign date"
+          },
+          {
+            "val": "19 SAM batteries",
+            "lbl": "Syrian sites destroyed, often cited"
+          },
+          {
+            "val": "~80+ aircraft",
+            "lbl": "Syrian aircraft shot down, Israeli claims"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It gave Israel air superiority in Lebanon and became a case study in how drones, electronic warfare, and real-time intelligence could dismantle Soviet-style air defenses.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-sultan-yacoub",
+    "year": 1982,
+    "date": "1982-06-10",
+    "title": "Battle of Sultan Yacoub",
+    "sub": "Part of 1982 Lebanon War",
+    "view": {
+      "center": [
+        33.6153,
+        35.8528
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Sultan Yacoub",
+        "latlng": [
+          33.6153,
+          35.8528
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Sultan Yacoub",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Syrian_soldiers_standing_in_front_of_an_Israeli_armoured_vehicles_captured_after_the_Battle_of_Sultan_Yacoub%2C_1982.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Sultan_Yacoub",
+        "body": "Sultan Yacoub was one of the painful Israeli armored setbacks of the war. Israeli units became exposed near Syrian positions in the Bekaa, leading to confused night fighting, losses, and missing soldiers whose fate remained a national issue for decades. The battle cut against the image of a smooth Israeli advance and showed how dangerous Lebanon's terrain, intelligence gaps, and Syrian defenses could be.\n\nWhy It Matters: It became a cautionary Israeli memory about overextension, battlefield confusion, and the human cost of missing soldiers. This draft is framed from the Israeli security point of view: northern towns faced PLO fire from Lebanon, the IDF sought to push hostile forces away from the border, and the campaign expanded into a much larger political and military struggle.",
+        "stats": [
+          {
+            "val": "10-11 Jun 1982",
+            "lbl": "Night battle"
+          },
+          {
+            "val": "Bekaa Valley",
+            "lbl": "Syrian defensive zone"
+          },
+          {
+            "val": "Missing soldiers",
+            "lbl": "Long-running Israeli issue"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It became a cautionary Israeli memory about overextension, battlefield confusion, and the human cost of missing soldiers.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "siege-of-beirut",
+    "year": 1982,
+    "date": "1982-06-14",
+    "title": "Siege of Beirut",
+    "sub": "Part of 1982 Lebanon War",
+    "view": {
+      "center": [
+        33.886944444,
+        35.513055555
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Siege of Beirut",
+        "latlng": [
+          33.886944444,
+          35.513055555
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Siege of Beirut",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Syrian_T-62_Tank_Destroyed_in_Lebanon_by_the_IDF%2C_1982.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Siege_of_Beirut",
+        "body": "The siege of Beirut pushed Israel far beyond a narrow border-security operation. Israeli forces surrounded West Beirut, where the PLO leadership and fighters were entrenched among civilians. Military pressure, artillery, air strikes, diplomacy, and media scrutiny all converged. From the Israeli point of view, the goal was to remove the PLO command structure from Lebanon; from the world's point of view, the siege raised severe questions about civilian harm and political endgames.\n\nWhy It Matters: The siege achieved the PLO evacuation from Beirut but transformed the war into a global diplomatic and moral crisis for Israel. This draft is framed from the Israeli security point of view: northern towns faced PLO fire from Lebanon, the IDF sought to push hostile forces away from the border, and the campaign expanded into a much larger political and military struggle.",
+        "stats": [
+          {
+            "val": "~2 months",
+            "lbl": "Siege duration"
+          },
+          {
+            "val": "West Beirut",
+            "lbl": "PLO command center"
+          },
+          {
+            "val": "U.S. mediation",
+            "lbl": "Philip Habib diplomacy"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "The siege achieved the PLO evacuation from Beirut but transformed the war into a global diplomatic and moral crisis for Israel.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plo-withdrawal-from-lebanon",
+    "year": 1982,
+    "date": "1982-08-21",
+    "title": "PLO withdrawal from Lebanon",
+    "sub": "Part of 1982 Lebanon War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "PLO withdrawal from Lebanon",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/USMC-Lebanon82-12.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/PLO_withdrawal_from_Lebanon",
+        "body": "Under U.S.-brokered arrangements, thousands of PLO fighters and officials left Beirut by sea in August 1982. For Israel, this fulfilled a central military objective: removing the PLO's main armed presence from Lebanon and reducing direct threats to northern communities. But the withdrawal did not bring a clean ending. Lebanon's internal politics, Syrian influence, militia violence, and Israel's security zone problem remained.\n\nWhy It Matters: The PLO withdrawal was a major Israeli operational success, yet it also revealed that removing one enemy headquarters did not solve Lebanon's wider instability. This draft is framed from the Israeli security point of view: northern towns faced PLO fire from Lebanon, the IDF sought to push hostile forces away from the border, and the campaign expanded into a much larger political and military struggle.",
+        "stats": [
+          {
+            "val": "21 Aug 1982",
+            "lbl": "Withdrawal begins"
+          },
+          {
+            "val": "~14,000",
+            "lbl": "PLO personnel evacuated, approx."
+          },
+          {
+            "val": "Tunis",
+            "lbl": "New PLO headquarters later"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "The PLO withdrawal was a major Israeli operational success, yet it also revealed that removing one enemy headquarters did not solve Lebanon's wider instability.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tyre-headquarters-bombings",
+    "year": 1983,
+    "date": "1983-11-04",
+    "title": "Tyre headquarters bombings",
+    "sub": "Part of 1982 Lebanon War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Tyre headquarters bombings",
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tyre%20headquarters%20bombings%207.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/1982%E2%80%931983_Tyre_headquarters_bombings",
+        "body": "The Tyre headquarters bombings were devastating attacks on Israeli security buildings in southern Lebanon. They killed large numbers of Israeli personnel and Lebanese detainees or workers, and they signaled that Israel now faced a different kind of threat: organized suicide attacks against rear-area headquarters. The bombings helped shape Israeli thinking about force protection, occupation costs, and the rise of militant groups in Lebanon.\n\nWhy It Matters: The attacks showed that even after battlefield victories, Israeli forces in Lebanon were vulnerable to insurgent tactics and mass-casualty strikes. This draft is framed from the Israeli security point of view: northern towns faced PLO fire from Lebanon, the IDF sought to push hostile forces away from the border, and the campaign expanded into a much larger political and military struggle.",
+        "stats": [
+          {
+            "val": "1982 and 1983",
+            "lbl": "Two major bombings"
+          },
+          {
+            "val": "104 Israelis",
+            "lbl": "Killed across attacks"
+          },
+          {
+            "val": "Tyre HQ",
+            "lbl": "Rear-area target"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "The attacks showed that even after battlefield victories, Israeli forces in Lebanon were vulnerable to insurgent tactics and mass-casualty strikes.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1984-sohmor-massacre",
+    "year": 1984,
+    "date": "1984-09-20",
+    "title": "1984 Sohmor massacre",
+    "sub": "Part of 1982 Lebanon War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "1984 Sohmor massacre",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/1984_Sohmor_massacre",
+        "body": "The Sohmor massacre took place in the messy aftermath of the invasion, when Israeli-backed South Lebanon Army forces operated amid Lebanon's sectarian and militia landscape. Druze SLA members opened fire on Shia civilians in Sohmor, killing 13 people. For Israel, events like this showed the political danger of relying on local allied militias: their actions could deepen hostility, complicate legitimacy, and feed the cycle of resistance in the south.\n\nWhy It Matters: It underlined how militia violence could damage Israel's local position and make the occupation environment more unstable. This draft is framed from the Israeli security point of view: northern towns faced PLO fire from Lebanon, the IDF sought to push hostile forces away from the border, and the campaign expanded into a much larger political and military struggle.",
+        "stats": [
+          {
+            "val": "20 Sep 1984",
+            "lbl": "Massacre date"
+          },
+          {
+            "val": "13 civilians",
+            "lbl": "Killed in Sohmor"
+          },
+          {
+            "val": "SLA militia",
+            "lbl": "Israeli-backed local force"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It underlined how militia violence could damage Israel's local position and make the occupation environment more unstable.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: 1982 Lebanon War",
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tyre%20headquarters%20bombings%207.jpg",
+        "cap": "The end and legacy of the 1982 Lebanon War",
+        "body": "The PLO leadership left Beirut, but Lebanon remained unstable and Israeli forces became trapped in a prolonged conflict that helped fuel the rise of Hezbollah.",
+        "stats": [
+          {
+            "val": "654 military deaths",
+            "lbl": "Israel casualties, approximate"
+          },
+          {
+            "val": "~9,000 combatants killed",
+            "lbl": "PLO, Syria, and allied forces casualties, approximate"
+          },
+          {
+            "val": "Israeli tactical victory; strategic stalemate",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The PLO leadership left Beirut, but Lebanon remained unstable and Israeli forces became trapped in a prolonged conflict that helped fuel the rise of Hezbollah.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

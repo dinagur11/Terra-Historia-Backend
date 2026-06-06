@@ -1,0 +1,502 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1991,
+    "date": "1991-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Croatian War of Independence began",
+    "view": {
+      "center": [
+        45,
+        16
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From World War II to Croatian War of Independence",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+        "cap": "Historical connection: Collapse of Yugoslavia's postwar order",
+        "body": "World War II's aftermath created socialist Yugoslavia, but that federal order collapsed after the Cold War. Croatia's declaration of independence and Serb resistance turned political dissolution into war.",
+        "stats": [
+          {
+            "val": "World War II",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "Collapse of Yugoslavia's postwar order"
+          },
+          {
+            "val": "Croatian War of Independence",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "World War II's aftermath created socialist Yugoslavia, but that federal order collapsed after the Cold War. Croatia's declaration of independence and Serb resistance turned political dissolution into war.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Croatian War of Independence",
+        "body": "Croatia's declaration of independence from Yugoslavia was rejected by Croatian Serb leaders, who received military support from the Yugoslav People's Army and Serbia.\n\nThe Conflict Takes Shape: The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1991-1995",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg",
+        "cap": "Opening context for the Croatian War of Independence"
+      }
+    ]
+  },
+  {
+    "id": "pakrac-clash",
+    "year": 1991,
+    "date": "1991-01-01",
+    "title": "Pakrac clash",
+    "sub": "Part of Croatian War of Independence",
+    "view": {
+      "center": [
+        45.438,
+        17.19
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Pakrac clash",
+        "latlng": [
+          45.438,
+          17.19
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Pakrac clash",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Pakrac_clash",
+        "body": "The Pakrac clash, known in Croatia as the Battle of Pakrac, was a bloodless skirmish that took place in the Croatian town of Pakrac in March 1991. The clash was a result of increasing ethnic tensions in Croatia during the breakup of Yugoslavia. It was one of the first serious outbreaks of violence in what became the Croatian War of Independence.\n\nWhy This Moment Matters: Pakrac clash was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.\n\nConsequences: The effects of Pakrac clash extended beyond its immediate result. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1991",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plitvice-lakes-incident",
+    "year": 1991,
+    "date": "1991-03-01",
+    "title": "Plitvice Lakes incident",
+    "sub": "Part of Croatian War of Independence",
+    "view": {
+      "center": [
+        44.88,
+        15.61
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Plitvice Lakes incident",
+        "latlng": [
+          44.88,
+          15.61
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Plitvice Lakes incident",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Plitvice_Lakes_incident",
+        "body": "The Plitvice Lakes incident was an armed clash at the beginning of the Croatian War of Independence. It was fought between Croatian police and armed forces from the Croatian Serb-established SAO Krajina at the Plitvice Lakes in Croatia, on 31 March 1991. The fighting followed the SAO Krajina's takeover of the Plitvice Lakes National Park and resulted in Croatia recapturing the area. The clash resulted in one killed on each side and contributed to the worsening ethnic tensions.\n\nWhy This Moment Matters: Plitvice Lakes incident was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.",
+        "stats": [
+          {
+            "val": "1991",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Plitvice Lakes incident extended beyond its immediate result. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "battle-of-vukovar",
+    "year": 1991,
+    "date": "1991-08-25",
+    "title": "Battle of Vukovar",
+    "sub": "Part of Croatian War of Independence",
+    "view": {
+      "center": [
+        45.37416667,
+        18.9625
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Vukovar",
+        "latlng": [
+          45.37416667,
+          18.9625
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Vukovar",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Vukovar",
+        "body": "The Battle of Vukovar was an 87-day siege of Vukovar in eastern Croatia by the Yugoslav People's Army (JNA), supported by various paramilitary forces from Serbia, between August and November 1991. Before the Croatian War of Independence the Baroque town was a prosperous, mixed community of Croats, Serbs and other ethnic groups. As Yugoslavia began to break up, Serbia's President Slobodan Milošević and Croatia's President Franjo Tuđman began pursuing nationalist politics. In 1990, an armed insurrection was started by Croatian Serb militias, supported by the Serbian government and paramilitary groups, who seized control of Serb-populated areas of Croatia. The JNA began to intervene in favour of the rebellion, and conflict broke out in the eastern Croatian region of Slavonia in May 1991. In August, the JNA launched a full-scale attack against Croatian-held territory in eastern Slavonia, including Vukovar."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Battle of Vukovar was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.\n\nConsequences: The effects of Battle of Vukovar extended beyond its immediate result. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1991",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "siege-of-dubrovnik",
+    "year": 1991,
+    "date": "1991-10-01",
+    "title": "Siege of Dubrovnik",
+    "sub": "Part of Croatian War of Independence",
+    "view": {
+      "center": [
+        42.641346,
+        18.108644
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Siege of Dubrovnik",
+        "latlng": [
+          42.641346,
+          18.108644
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Siege of Dubrovnik",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Muzej_DR-crop.JPG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Siege_of_Dubrovnik",
+        "body": "The siege of Dubrovnik was a military campaign fought between the Yugoslav People's Army (JNA) and Croatian forces defending the city of Dubrovnik and its surroundings during the Croatian War of Independence. The JNA started its advance on 1 October 1991, and by late October, it had captured virtually all the land between the Pelješac and Prevlaka peninsulas on the coast of the Adriatic Sea, with the exception of Dubrovnik itself. The siege was accompanied by a Yugoslav Navy blockade. The JNA's bombardment of Dubrovnik, including that of the Old Town—a UNESCO World Heritage Site—culminated on 6 December 1991. The bombardment provoked international condemnation, and became a public relations disaster for Serbia and Montenegro, contributing to their diplomatic and economic isolation, as well as the international recognition of Croatia's independence. In May 1992, the JNA retreated to Bosnia and Herzegovina, less than 1 kilometre from the coast in some places, and handed over its equipment to the newly formed Army of Republika Srpska (VRS). During this time, the Croatian Army (HV) attacked from the west and pushed back the JNA/VRS from the areas east of Dubrovnik, both in Croatia and in Bosnia and Herzegovina, and by the end of May linked up with the HV unit defending the city. Fighting between the HV and Yugoslav troops east of Dubrovnik gradually died down."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Siege of Dubrovnik was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.\n\nConsequences: The effects of Siege of Dubrovnik extended beyond its immediate result. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1991",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-maslenica",
+    "year": 1993,
+    "date": "1993-01-22",
+    "title": "Operation Maslenica",
+    "sub": "Part of Croatian War of Independence",
+    "view": {
+      "center": [
+        44.23666667,
+        15.52277778
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Operation Maslenica",
+        "latlng": [
+          44.23666667,
+          15.52277778
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Maslenica",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Maslenica",
+        "body": "Operation Maslenica was a Croatian Army offensive launched in January 1993 to retake territory in northern Dalmatia and Lika from Krajina Serb forces, with the stated military objective of pushing the Serbs back from approaches to Zadar, Maslenica and Karlobag, allowing a secure land route between Dalmatia and northern Croatia to be opened. While an undoubted net Croatian tactical success, the operation was only a moderate strategic success, and was condemned by the UN Security Council.\n\nWhy This Moment Matters: Operation Maslenica was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Operation Maslenica extended beyond its immediate result. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "operation-medak-pocket",
+    "year": 1993,
+    "date": "1993-09-09",
+    "title": "Operation Medak Pocket",
+    "sub": "Part of Croatian War of Independence",
+    "view": {
+      "center": [
+        44.456111111,
+        15.507222222
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Operation Medak Pocket",
+        "latlng": [
+          44.456111111,
+          15.507222222
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Medak Pocket",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Medak_pocket_battle_map.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Medak_Pocket",
+        "body": "Operation Medak Pocket, officially called by Croatians Operation Pocket-93 (Operacija Džep-93) was a military operation undertaken by the Croatian Army between 9 – 17 September 1993, in which a salient reaching the south suburbs of Gospić, in the south-central Lika region of Croatia then under the control of the self-proclaimed Republic of Serbian Krajina, was attacked by Croatian forces. The pocket was named after the village of Medak.\n\nWhy This Moment Matters: Operation Medak Pocket was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.\n\nConsequences: The effects of Operation Medak Pocket extended beyond its immediate result. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "6 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-flash",
+    "year": 1995,
+    "date": "1995-05-01",
+    "title": "Operation Flash",
+    "sub": "Part of Croatian War of Independence",
+    "view": {
+      "center": [
+        45.26,
+        17.2
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Operation Flash",
+        "latlng": [
+          45.26,
+          17.2
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Flash",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Map_52_-_Croatia_-_Western_Slavonia%2C_May_1995.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Flash",
+        "body": "Operation Flash was a brief Croatian Army (HV) offensive conducted against the forces of the self-declared proto-state Republic of Serbian Krajina (RSK) from 1–3 May 1995. The offensive occurred in the later stages of the Croatian War of Independence and was the first major confrontation after ceasefire and economic cooperation agreements were signed between Croatia and the RSK in 1994. The last organised RSK resistance formally ceased on 3 May, with the majority of troops surrendering the next day near Pakrac, although mop-up operations continued for another two weeks.\n\nWhy This Moment Matters: Operation Flash was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.",
+        "stats": [
+          {
+            "val": "1995",
+            "lbl": "Year"
+          },
+          {
+            "val": "7 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Operation Flash extended beyond its immediate result. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "operation-storm",
+    "year": 1995,
+    "date": "1995-08-04",
+    "title": "Operation Storm",
+    "sub": "Part of Croatian War of Independence",
+    "view": {
+      "center": [
+        44.04,
+        16.2
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Operation Storm",
+        "latlng": [
+          44.04,
+          16.2
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Storm",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Map_49_-_Croatia_-_Operation_Oluja%2C_4-8_August_1995.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Storm",
+        "body": "Operation Storm was the last major battle of the Croatian War of Independence and a major factor in the outcome of the Bosnian War. It was a decisive victory for the Croatian Army (HV), which attacked across a 630-kilometre (390 mi) front against the self-declared proto-state Republic of Serbian Krajina (RSK), and a strategic victory for the Army of the Republic of Bosnia and Herzegovina (ARBiH). The HV was supported by the Croatian special police advancing from the Velebit Mountain, and the ARBiH located in the Bihać pocket, in the Army of the Republic of Serbian Krajina's (ARSK) rear. The battle, launched to restore Croatian control of 10,400 square kilometres of territory – representing 18.4% of the territory it claimed – and Bosniak control of Western Bosnia, was the largest land battle that took place in Europe between the end of World War II and the 2022 Russian invasion of Ukraine. Operation Storm commenced at dawn on 4 August 1995 and was declared complete on the evening of 7 August, despite significant mopping-up operations against pockets of resistance lasting until 14 August."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Operation Storm was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war concerned Croatian independence, the borders of the new state, and the future of Serb-majority territories inside Croatia.\n\nConsequences: The effects of Operation Storm extended beyond its immediate result. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1995",
+            "lbl": "Year"
+          },
+          {
+            "val": "8 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1994,
+    "date": "1994-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Croatian War of Independence",
+    "view": {
+      "center": [
+        45,
+        16
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "European mediation, United Nations peacekeepers, sanctions, and shifting regional alliances shaped the conflict without quickly stopping it.\n\nThe Human Cost: Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country.",
+        "stats": [
+          {
+            "val": "Roughly 20,000 killed and hundreds of thousands displaced",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1995,
+    "date": "1995-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Croatian War of Independence ended and what followed",
+    "view": {
+      "center": [
+        45,
+        16
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Croatian War of Independence",
+        "body": "Croatian offensives recovered most separatist-held territory in 1995. Eastern Slavonia returned peacefully under a later UN-backed agreement."
+      },
+      {
+        "title": "War Summary: Croatian War of Independence",
+        "body": "Croatian offensives recovered most separatist-held territory in 1995. Eastern Slavonia returned peacefully under a later UN-backed agreement. Sieges, expulsions, massacres, and the flight of both Croat and Serb civilians transformed communities across the country.",
+        "stats": [
+          {
+            "val": "Croatian victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Roughly 20,000 killed and hundreds of thousands displaced",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Croatian offensives recovered most separatist-held territory in 1995. Eastern Slavonia returned peacefully under a later UN-backed agreement.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Map_49_-_Croatia_-_Operation_Oluja%2C_4-8_August_1995.jpg",
+        "cap": "The outcome and legacy of the Croatian War of Independence"
+      }
+    ]
+  }
+]

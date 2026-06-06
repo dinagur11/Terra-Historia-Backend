@@ -1,0 +1,471 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1999,
+    "date": "1999-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Second Chechen War began",
+    "view": {
+      "center": [
+        43.3,
+        45.7
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From War of Dagestan to Second Chechen War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Evstafiev-Chechnya-BURNED.jpg",
+        "cap": "Historical connection: Dagestan incursion triggers renewed Russian invasion",
+        "body": "The Dagestan incursion gave Moscow the immediate reason to invade Chechnya again. Russia returned with greater force and a strategy aimed at permanent federal control.",
+        "stats": [
+          {
+            "val": "War of Dagestan",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Dagestan incursion triggers renewed Russian invasion"
+          },
+          {
+            "val": "Second Chechen War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Dagestan incursion gave Moscow the immediate reason to invade Chechnya again. Russia returned with greater force and a strategy aimed at permanent federal control.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Second Chechen War",
+        "body": "An Islamist incursion into Dagestan and apartment bombings in Russia preceded a renewed Russian invasion of separatist Chechnya.\n\nThe Conflict Takes Shape: Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1999-2009",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Apartment_bombing.jpg",
+        "cap": "Opening context for the Second Chechen War"
+      }
+    ]
+  },
+  {
+    "id": "1999-russian-apartment-bombings",
+    "year": 1999,
+    "date": "1999-09-01",
+    "title": "1999 Russian apartment bombings",
+    "sub": "Part of Second Chechen War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "1999 Russian apartment bombings",
+        "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Apartment_bombing.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings",
+        "body": "In September 1999, a series of explosions hit four apartment blocks in the Russian cities of Buynaksk, Moscow, and Volgodonsk, killing more than 300, injuring more than 1,000, and spreading a wave of fear across the country. The bombings, together with the 1999 war of Dagestan, triggered the Second Chechen War. The handling of the crisis by Vladimir Putin, who was prime minister at the time, boosted his popularity greatly and helped him attain the presidency within a few months.\n\nWhy This Moment Matters: 1999 Russian apartment bombings was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.",
+        "stats": [
+          {
+            "val": "1999",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of 1999 Russian apartment bombings extended beyond its immediate result. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "battle-of-grozny",
+    "year": 1999,
+    "date": "1999-12-25",
+    "title": "Battle of Grozny",
+    "sub": "Part of Second Chechen War",
+    "view": {
+      "center": [
+        43.316666666,
+        45.7
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Grozny",
+        "latlng": [
+          43.316666666,
+          45.7
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Grozny",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Russian_troops_in_DUBAI-YURT.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Grozny_(1999%E2%80%932000)",
+        "body": "The second battle of Grozny or Operation Wolf Hunt was the siege and assault of the Chechen capital Grozny by Russian forces, lasting from late 1999 to early 2000. The siege and assault on the city resulted in the near total destruction of the urban area. In 2003, the United Nations designated Grozny as the most destroyed city on Earth. The battle had a devastating impact on the civilian population. It is estimated that between 5,000 and 8,000 civilians were killed during the siege, making it the bloodiest episode of the Second Chechen War.\n\nWhy This Moment Matters: Battle of Grozny was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.",
+        "stats": [
+          {
+            "val": "1999",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Battle of Grozny extended beyond its immediate result. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "novye-aldi-massacre",
+    "year": 2000,
+    "date": "2000-02-05",
+    "title": "Novye Aldi massacre",
+    "sub": "Part of Second Chechen War",
+    "view": {
+      "center": [
+        43.268333333,
+        45.651111111
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Novye Aldi massacre",
+        "latlng": [
+          43.268333333,
+          45.651111111
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Novye Aldi massacre",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Novye_Aldi_massacre",
+        "body": "The Novye Aldi massacre was the mass murder of Chechen civilians on February 5, 2000, in which Russian forces went on a cleansing operation (zachistka), summarily executing dozens. The village had been cluster-bombed a day prior to the massacre, and local residents urged to come out for inspection the next day. Upon entering the village, Russian forces shot their victims with automatic fire at close range. The killings were accompanied by looting, rape, arson and robbery. As a result of the deadly rampage by Russian forces, up to 82 civilians were killed in the spree. Houses of civilians were burnt in an attempt to destroy evidence of summary executions and other crimes. Looting took place on a large scale and organised manner."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Novye Aldi massacre was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.\n\nConsequences: The effects of Novye Aldi massacre extended beyond its immediate result. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2000",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-for-height-776",
+    "year": 2000,
+    "date": "2000-02-29",
+    "title": "Battle for Height 776",
+    "sub": "Part of Second Chechen War",
+    "view": {
+      "center": [
+        42.96305556,
+        45.80472222
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle for Height 776",
+        "latlng": [
+          42.96305556,
+          45.80472222
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle for Height 776",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/776-Battle-DE.svg/1920px-776-Battle-DE.svg.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_for_Height_776",
+        "body": "The Battle for Height 776, part of the larger Battle of Ulus-Kert, was an engagement in the Second Chechen War that took place during fighting for control of the Argun River gorge in the highland Shatoysky District of central Chechnya, between the villages of Ulus-Kert and Selmentauzen.\n\nWhy This Moment Matters: Battle for Height 776 was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.\n\nConsequences: The effects of Battle for Height 776 extended beyond its immediate result. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2000",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-komsomolskoye",
+    "year": 2000,
+    "date": "2000-03-06",
+    "title": "Battle of Komsomolskoye",
+    "sub": "Part of Second Chechen War",
+    "view": {
+      "center": [
+        43.06027778,
+        45.60388889
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Komsomolskoye",
+        "latlng": [
+          43.06027778,
+          45.60388889
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Komsomolskoye",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Fosse_commune_de_Saadi-Kotar.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Komsomolskoye",
+        "body": "The Battle of Komsomolskoye took place in Chechnya during the Second Chechen War. Beginning on 6 March 2000 and lasting until 24 March 2000, it resulted in the deaths of more than 50 Russian soldiers and hundreds of Chechen militants over the course of two weeks of siege warfare. An unknown number of civilians were killed in the fighting as well. The fighting resulted in the destruction of most of the Chechen separatist units commanded by Ruslan Gelayev. Scores of Chechens were taken prisoner by the Russian military, and only a few survived the ensuing Komsomolskoye massacre. Marked by fierce urban combat, the Battle of Komsomolskoye was the bloodiest of the entire conflict."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Battle of Komsomolskoye was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.\n\nConsequences: The effects of Battle of Komsomolskoye extended beyond its immediate result. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2000",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pankisi-gorge-crisis",
+    "year": 2001,
+    "date": "2001-04-14",
+    "title": "Pankisi Gorge crisis",
+    "sub": "Part of Second Chechen War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Pankisi Gorge crisis",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Relief_Map_of_East_Georgia_-_Pankisi_highlight.svg/500px-Relief_Map_of_East_Georgia_-_Pankisi_highlight.svg.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Pankisi_Gorge_crisis",
+        "body": "The Pankisi Gorge crisis was a geopolitical dispute between Russia and Georgia concerning the presence of armed Chechen separatists and jihadists in Georgia, that peaked in 2002.\n\nWhy This Moment Matters: Pankisi Gorge crisis was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.\n\nConsequences: The effects of Pankisi Gorge crisis extended beyond its immediate result. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2001",
+            "lbl": "Year"
+          },
+          {
+            "val": "6 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2005-nalchik-raid",
+    "year": 2005,
+    "date": "2005-01-01",
+    "title": "2005 Nalchik raid",
+    "sub": "Part of Second Chechen War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "2005 Nalchik raid",
+        "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Nalchik2005_1.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/2005_Nalchik_raid",
+        "body": "The 2005 raid on Nalchik was a raid by a large group of Islamic militants on Nalchik, in the Kabardino-Balkar Republic (KBR) of southern Russia, on 13 October 2005.\n\nWhy This Moment Matters: 2005 Nalchik raid was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.\n\nConsequences: The effects of 2005 Nalchik raid extended beyond its immediate result. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "2005",
+            "lbl": "Year"
+          },
+          {
+            "val": "7 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "insurgency-in-ingushetia",
+    "year": 2007,
+    "date": "2007-07-21",
+    "title": "Insurgency in Ingushetia",
+    "sub": "Part of Second Chechen War",
+    "view": {
+      "center": [
+        43.2,
+        45
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Insurgency in Ingushetia",
+        "latlng": [
+          43.2,
+          45
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Insurgency in Ingushetia",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ingush03.png/3840px-Ingush03.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Insurgency_in_Ingushetia",
+        "body": "The Insurgency in Ingushetia began in 2007 as a spillover of then ongoing separatist conflict in Chechnya into neighbouring Ingushetia. The conflict has been described as a civil war by local human rights activists and opposition politicians; others have referred to it as an uprising. By mid-2009 Ingushetia had surpassed Chechnya as the most violent of the North Caucasus republics. However, by 2015 the insurgency in the Republic had greatly weakened, and the casualty toll declined substantially in the intervening years.\n\nWhy This Moment Matters: Insurgency in Ingushetia was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Russia sought permanent control and the destruction of separatist forces, while the insurgency increasingly adopted Islamist and regional aims.",
+        "stats": [
+          {
+            "val": "2007",
+            "lbl": "Year"
+          },
+          {
+            "val": "8 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of Insurgency in Ingushetia extended beyond its immediate result. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 2008,
+    "date": "2008-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Second Chechen War",
+    "view": {
+      "center": [
+        43.3,
+        45.7
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "Foreign fighters joined parts of the insurgency, but Moscow largely prevented international involvement.\n\nThe Human Cost: Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus.",
+        "stats": [
+          {
+            "val": "Tens of thousands killed",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 2009,
+    "date": "2009-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Second Chechen War ended and what followed",
+    "view": {
+      "center": [
+        43.3,
+        45.7
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Second Chechen War",
+        "body": "Russia restored control through overwhelming force and a loyal Chechen government, while insurgency spread into neighboring republics before declining."
+      },
+      {
+        "title": "War Summary: Second Chechen War",
+        "body": "Russia restored control through overwhelming force and a loyal Chechen government, while insurgency spread into neighboring republics before declining. Urban destruction, disappearances, torture, terrorism, and counterinsurgency abuses deeply affected civilians across the North Caucasus.",
+        "stats": [
+          {
+            "val": "Russian federal victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Tens of thousands killed",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Russia restored control through overwhelming force and a loyal Chechen government, while insurgency spread into neighboring republics before declining.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ingush03.png/3840px-Ingush03.png",
+        "cap": "The outcome and legacy of the Second Chechen War"
+      }
+    ]
+  }
+]

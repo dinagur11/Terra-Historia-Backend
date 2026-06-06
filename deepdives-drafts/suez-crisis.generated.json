@@ -1,0 +1,333 @@
+[
+  {
+    "id": "operation-yona",
+    "year": 1956,
+    "date": "1956-01-01",
+    "title": "Operation Yona",
+    "sub": "Israeli, British, and French operation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From 1948 Arab-Israeli War to Suez Crisis",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PikiWiki_Israel_20804_The_Palmach.jpg",
+        "cap": "Historical connection: Unresolved Arab-Israeli conflict",
+        "body": "The 1948 Arab-Israeli War left Israel and its Arab neighbors without a durable peace. Border raids, refugee grievances, arms competition, and Egyptian control of strategic waterways sustained the confrontation. When Egypt nationalized the Suez Canal, Israel joined Britain and France in attacking Egypt.",
+        "stats": [
+          {
+            "val": "1948 Arab-Israeli War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Unresolved Arab-Israeli conflict"
+          },
+          {
+            "val": "Suez Crisis",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The 1948 Arab-Israeli War left Israel and its Arab neighbors without a durable peace. Border raids, refugee grievances, arms competition, and Egyptian control of strategic waterways sustained the confrontation. When Egypt nationalized the Suez Canal, Israel joined Britain and France in attacking Egypt.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Operation Yona",
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Operation%20Yona%2C%201956%20IV.jpg",
+        "cap": "",
+        "body": "Draft note for Operation Yona. Review and expand this slide before uploading. From the Israeli side, Operation Yona helped prepare and supply the campaign that would strike into Sinai.\n\nWhy It Matters: Operation Yona should be understood through the decisions it forced on Israel / United Kingdom / France. It shows how the Sinai operation depended on logistics, arms, and coordination before the public fighting began. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "French arms",
+            "lbl": "Israeli buildup support"
+          },
+          {
+            "val": "1956",
+            "lbl": "Pre-campaign logistics"
+          },
+          {
+            "val": "Sinai prep",
+            "lbl": "Enabled rapid offensive"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It shows how the Sinai operation depended on logistics, arms, and coordination before the public fighting began.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "withdrawal-of-israel-defense-forces-from-sinai-and-gaza",
+    "year": 1956,
+    "date": "1956-01-01",
+    "title": "Withdrawal  of Israel Defense Forces from Sinai and Gaza",
+    "sub": "Israeli, British, and French operation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Withdrawal  of Israel Defense Forces from Sinai and Gaza",
+        "img": "",
+        "cap": "",
+        "body": "Draft note for Withdrawal  of Israel Defense Forces from Sinai and Gaza. Review and expand this slide before uploading. The withdrawal was frustrating for Israel after battlefield success, but international pressure made continued occupation impossible.\n\nWhy It Matters: Withdrawal  of Israel Defense Forces from Sinai and Gaza should be understood through the decisions it forced on Israel / United Kingdom / France. It showed that military victory in 1956 was limited by US, Soviet, and UN diplomacy. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "Mar 1957",
+            "lbl": "Israeli withdrawal complete"
+          },
+          {
+            "val": "UNEF deployed",
+            "lbl": "UN buffer force enters Sinai"
+          },
+          {
+            "val": "Straits issue",
+            "lbl": "Navigation guarantees sought"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that military victory in 1956 was limited by US, Soviet, and UN diplomacy.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-tarnegol",
+    "year": 1956,
+    "date": "1956-10-28",
+    "title": "Operation Tarnegol",
+    "sub": "Israeli, British, and French operation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Tarnegol",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gloster_Meteor_NF13_Hatzerim_260404.JPG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Tarnegol",
+        "body": "Operation Tarnegol was an Israeli Air Force operation carried out on the eve of the 1956 Suez Crisis. It witnessed an Israeli Gloster Meteor NF.13 intercept and destroy an Egyptian Ilyushin Il-14 carrying high-ranking members of the Egyptian General Staff en route from Syria to Egypt. Operation Tarnegol was an Israeli air action aimed at disrupting Egyptian command during the opening phase.\n\nWhy It Matters: Operation Tarnegol should be understood through the decisions it forced on Israel / United Kingdom / France. It reflected Israel's effort to gain speed and initiative before larger diplomatic pressure arrived. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "28 Oct 1956",
+            "lbl": "Air interception"
+          },
+          {
+            "val": "Egyptian command",
+            "lbl": "Targeted leadership flight"
+          },
+          {
+            "val": "Opening phase",
+            "lbl": "Before Sinai ground push"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It reflected Israel's effort to gain speed and initiative before larger diplomatic pressure arrived.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naval-campaign-of-the-suez-crisis",
+    "year": 1956,
+    "date": "1956-10-28",
+    "title": "Naval campaign of the Suez Crisis",
+    "sub": "Israeli, British, and French operation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Naval campaign of the Suez Crisis",
+        "img": "",
+        "cap": "",
+        "body": "Draft note for Naval campaign of the Suez Crisis. Review and expand this slide before uploading. For Britain and France, naval control was central to forcing the canal issue; for Israel, maritime access and Egyptian blockade policy were key grievances.\n\nWhy It Matters: Naval campaign of the Suez Crisis should be understood through the decisions it forced on Israel / United Kingdom / France. It tied the crisis to sea lanes, trade, and the strategic value of the Suez Canal. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "Suez Canal",
+            "lbl": "Strategic waterway"
+          },
+          {
+            "val": "Mediterranean-Red Sea",
+            "lbl": "Maritime route at stake"
+          },
+          {
+            "val": "Blockade politics",
+            "lbl": "Israeli grievance"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It tied the crisis to sea lanes, trade, and the strategic value of the Suez Canal.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-musketeer",
+    "year": 1956,
+    "date": "1956-11-01",
+    "title": "Operation Musketeer",
+    "sub": "Israeli, British, and French operation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Musketeer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Port_Said_from_air.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Musketeer_(1956)",
+        "body": "Operation Musketeer was the Anglo-French plan for the invasion of the Suez Canal Zone to capture the Suez Canal during the Suez Crisis in 1956. The operation had initially been given the codename Operation Hamilcar, but this name was quickly dropped when it was found that the British were painting an air recognition letter H on their vehicles, while the French, who spelled Hamilcar differently, were painting an A. Musketeer was chosen as a replacement because it started with M in both languages. Israel, which invaded the Sinai Peninsula, had the additional objectives of opening the Straits of Tiran and halting fedayeen incursions into Israel. The Anglo-French military operation was originally planned for early September, but the necessity of coordination with Israel delayed it until early November. However, on 10 September British and French politicians and Chiefs of the General Staff agreed to adopt General Charles Keightley's alterations to the military plans with the intention of reducing Egyptian civilian casualties. The new plan, renamed Musketeer Revise, provided the basis of the actual Suez operation. Operation Musketeer was the Anglo-French intervention designed to seize the canal zone after the Israeli move into Sinai.",
+        "stats": [
+          {
+            "val": "5 Nov 1956",
+            "lbl": "Anglo-French landings"
+          },
+          {
+            "val": "Port Said",
+            "lbl": "Main assault area"
+          },
+          {
+            "val": "Imperial crisis",
+            "lbl": "Britain/France forced back"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It exposed the gap between old imperial power and the new Cold War reality shaped by Washington and Moscow.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "Operation Musketeer should be understood through the decisions it forced on Israel / United Kingdom / France. It exposed the gap between old imperial power and the new Cold War reality shaped by Washington and Moscow. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "5 Nov 1956",
+            "lbl": "Anglo-French landings"
+          },
+          {
+            "val": "Port Said",
+            "lbl": "Main assault area"
+          },
+          {
+            "val": "Imperial crisis",
+            "lbl": "Britain/France forced back"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It exposed the gap between old imperial power and the new Cold War reality shaped by Washington and Moscow.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-burullus",
+    "year": 1956,
+    "date": "1956-11-04",
+    "title": "Battle of Burullus",
+    "sub": "Israeli, British, and French operation front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Burullus",
+        "img": "",
+        "cap": "",
+        "body": "Draft note for Battle of Burullus. Review and expand this slide before uploading. The naval battle showed that Egypt could still resist at sea even under heavy Anglo-French pressure.\n\nWhy It Matters: Battle of Burullus should be understood through the decisions it forced on Israel / United Kingdom / France. It added to the sense that Suez was not only a land operation but a contest over regional prestige and control. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "4 Nov 1956",
+            "lbl": "Naval battle date"
+          },
+          {
+            "val": "Egyptian Navy",
+            "lbl": "Resists at sea"
+          },
+          {
+            "val": "Coastal fight",
+            "lbl": "War extends offshore"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It added to the sense that Suez was not only a land operation but a contest over regional prestige and control.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: Suez Crisis",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Port_Said_from_air.jpg",
+        "cap": "The end and legacy of the Suez Crisis",
+        "body": "The invading forces achieved rapid military gains but withdrew under international pressure. Egypt retained the canal, while British and French imperial influence suffered a decisive blow.",
+        "stats": [
+          {
+            "val": "~1,650-3,000 killed",
+            "lbl": "Egypt casualties, approximate"
+          },
+          {
+            "val": "~230 killed",
+            "lbl": "Israel, Britain, and France casualties, approximate"
+          },
+          {
+            "val": "Egyptian strategic victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The invading forces achieved rapid military gains but withdrew under international pressure. Egypt retained the canal, while British and French imperial influence suffered a decisive blow.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

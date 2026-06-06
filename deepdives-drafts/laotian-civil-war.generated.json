@@ -1,0 +1,488 @@
+[
+  {
+    "id": "battle-of-luang-namtha",
+    "year": 1962,
+    "date": "1962-01-01",
+    "title": "Battle of Luang Namtha",
+    "sub": "United States covert intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Vietnam War to Laotian Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Laos_1973-02_CIA.png",
+        "cap": "Historical connection: Interlocking Indochina battlefield",
+        "body": "The Vietnam War spread beyond Vietnam because both sides depended on neighboring territory. North Vietnam used routes through Laos to move troops and supplies, while the United States supported anti-communist forces and conducted a covert air campaign. Laos became an inseparable battlefield of the wider war.",
+        "stats": [
+          {
+            "val": "Vietnam War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Interlocking Indochina battlefield"
+          },
+          {
+            "val": "Laotian Civil War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Vietnam War spread beyond Vietnam because both sides depended on neighboring territory. North Vietnam used routes through Laos to move troops and supplies, while the United States supported anti-communist forces and conducted a covert air campaign. Laos became an inseparable battlefield of the wider war.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Battle of Luang Namtha",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Luang_Namtha",
+        "body": "The Battle of Luang Namtha, fought between January 1962 and May 1963, was a series of clashes in the Laotian Civil War. It came about as a result of the turmoil following Laotian independence as a result of the First Indochina War with France. The Kingdom of Laos had foreign soldiers on its soil, and a political struggle in progress concerning those outside troops. Following a coup and counter-coup that left General Phoumi Nosavan in charge, the general decided on military action to settle the political issue of interlopers in Laos. For the United States, Luang Namtha highlighted the weakness of Royal Lao forces and the difficulty of containing Pathet Lao advances.",
+        "stats": [
+          {
+            "val": "1962",
+            "lbl": "Royal Lao defeat"
+          },
+          {
+            "val": "Northern Laos",
+            "lbl": "Strategic region"
+          },
+          {
+            "val": "Geneva pressure",
+            "lbl": "Neutrality talks accelerate"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It pushed Washington toward deeper covert involvement rather than open conventional war.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "Battle of Luang Namtha should be understood through the decisions it forced on United States. It pushed Washington toward deeper covert involvement rather than open conventional war. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "1962",
+            "lbl": "Royal Lao defeat"
+          },
+          {
+            "val": "Northern Laos",
+            "lbl": "Strategic region"
+          },
+          {
+            "val": "Geneva pressure",
+            "lbl": "Neutrality talks accelerate"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It pushed Washington toward deeper covert involvement rather than open conventional war.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-lak-sao",
+    "year": 1963,
+    "date": "1963-11-01",
+    "title": "Battle of Lak Sao",
+    "sub": "United States covert intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Lak Sao",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Lak_Sao",
+        "body": "The Battle of Lak Sao, fought between November 1963 and January 1964, was a major engagement of the Laotian Civil War. In November 1963, General Phoumi Nosavan, who held the reins of military power in the Kingdom of Laos, launched a military offensive against North Vietnamese invaders that cut across the northern panhandle of the nation. Although unsupported in this proxy action by his backers in the U.S. Embassy, he went ahead with his plan to push northwards from Nhommarath, then veer eastwards to the Vietnamese border. Phoumi's Central Intelligence Agency (CIA) advisors warned him that the North Vietnamese would retaliate, but he disregarded them. Lak Sao showed how difficult it was for US-backed forces to hold remote ground against coordinated communist pressure.",
+        "stats": [
+          {
+            "val": "1963-1964",
+            "lbl": "Campaign period"
+          },
+          {
+            "val": "Route 8",
+            "lbl": "Key corridor"
+          },
+          {
+            "val": "Proxy limits",
+            "lbl": "US-backed forces struggle"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It reinforced the limits of proxy warfare in Laos.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "Battle of Lak Sao should be understood through the decisions it forced on United States. It reinforced the limits of proxy warfare in Laos. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "1963-1964",
+            "lbl": "Campaign period"
+          },
+          {
+            "val": "Route 8",
+            "lbl": "Key corridor"
+          },
+          {
+            "val": "Proxy limits",
+            "lbl": "US-backed forces struggle"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It reinforced the limits of proxy warfare in Laos.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1967-opium-war",
+    "year": 1967,
+    "date": "1967-08-01",
+    "title": "1967 Opium War",
+    "sub": "United States covert intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "1967 Opium War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/La-map.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/1967_Opium_War",
+        "body": "The 1967 Opium War took place in northwestern Laos between February and August 1967; actual fighting took place from 29 July to 1 August 1967. A mule train, led by Burmese militia, carrying 16 tons of opium crossed into Laos to Ban Khwan, where they were attacked by rival drug smugglers from the Chinese Nationalists' Third and Fifth Armies. The intended recipient of the shipment, Royal Lao Army General Ouane Rattikone, bombed both sides while moving in troops to sweep the battlefield. With both Burmese militia and Kuomintang (KMT) Army defeated and expelled from Laos, the Lao general confiscated the opium for himself. The Opium War revealed how local power, narcotics, militias, and intelligence networks overlapped in the Laotian conflict.",
+        "stats": [
+          {
+            "val": "1967",
+            "lbl": "Local power conflict"
+          },
+          {
+            "val": "Opium routes",
+            "lbl": "Economy and war overlap"
+          },
+          {
+            "val": "CIA shadows",
+            "lbl": "Covert-war environment"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It exposed the messy local realities behind America's anti-communist strategy.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "1967 Opium War should be understood through the decisions it forced on United States. It exposed the messy local realities behind America's anti-communist strategy. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "1967",
+            "lbl": "Local power conflict"
+          },
+          {
+            "val": "Opium routes",
+            "lbl": "Economy and war overlap"
+          },
+          {
+            "val": "CIA shadows",
+            "lbl": "Covert-war environment"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It exposed the messy local realities behind America's anti-communist strategy.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-nam-bac",
+    "year": 1968,
+    "date": "1968-01-01",
+    "title": "Battle of Nam Bac",
+    "sub": "United States covert intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Nam Bac",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Nam_Bac",
+        "body": "The Battle of Nam Bac was one of the major engagements of the Laotian Civil War. Despite misgivings about their potential performance the Royal Lao Army moved in to occupy the Nam Bac Valley in August 1966; the position would block a traditional Vietnamese invasion route that led to the Lao royal capitol, Luang Prabang. Nam Bac was a major defeat for Royal Lao forces despite US support and air power.\n\nWhy It Matters: Battle of Nam Bac should be understood through the decisions it forced on United States. It showed that air support could not compensate for fragile local command and morale. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "1967-1968",
+            "lbl": "Battle period"
+          },
+          {
+            "val": "Major defeat",
+            "lbl": "Royal Lao Army collapses"
+          },
+          {
+            "val": "Airpower limits",
+            "lbl": "Bombing cannot hold ground"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that air support could not compensate for fragile local command and morale.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-phalat",
+    "year": 1971,
+    "date": "1971-08-20",
+    "title": "Operation Phalat",
+    "sub": "United States covert intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Phalat",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Phalat",
+        "body": "Operation Phalat was a military offensive of the Laotian Civil War aimed at an active defense of the Kingdom of Thailand's northern border with the Kingdom of Laos. Evoked by the approach of The Chinese Road, and despite feeble cooperation from the Royal Lao Government, the Thai military established a three-battalion presence on Lao territory south of the Mekong River as a defense against potential invasion by the People's Republic of China. Operation Phalat reflected the continuing attempt to use local and regional forces to contest communist control without admitting a full US war.\n\nWhy It Matters: Operation Phalat should be understood through the decisions it forced on United States. It illustrates the hidden-war logic of Laos. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "Proxy offensive",
+            "lbl": "Royal Lao/local forces"
+          },
+          {
+            "val": "Covert war",
+            "lbl": "US role stays indirect"
+          },
+          {
+            "val": "Limited gains",
+            "lbl": "Front remains unstable"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It illustrates the hidden-war logic of Laos.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-sourisak-montry-viii",
+    "year": 1971,
+    "date": "1971-09-01",
+    "title": "Operation Sourisak Montry VIII",
+    "sub": "United States covert intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Sourisak Montry VIII",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Sourisak_Montry_VIII",
+        "body": "Operation Sourisak Montry VIII was a Thai military offensive against an encroaching Chinese Communist presence just north of the Mekong River. Operation Phalat established a base camp at Xieng Lom, Laos, on the southern bank of the Mekong River, and garrisoned it with three Thai mercenary battalions. Operation Sourisak Montry was a series of indecisive skirmishes in the same area, during which the Thais won a Pyrrhic victory over the Pathet Lao in mid-March 1972. This operation was part of the repeated effort to shift local front lines through limited offensives and proxy forces.\n\nWhy It Matters: Operation Sourisak Montry VIII should be understood through the decisions it forced on United States. It shows the war's grinding character and the difficulty of producing lasting results. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "Repeated operations",
+            "lbl": "Attritional campaigning"
+          },
+          {
+            "val": "Local forces",
+            "lbl": "Proxy war manpower"
+          },
+          {
+            "val": "No decisive front",
+            "lbl": "Territory shifts repeatedly"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It shows the war's grinding character and the difficulty of producing lasting results.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vientiane-treaty",
+    "year": 1973,
+    "date": "1973-02-21",
+    "title": "Vientiane Treaty",
+    "sub": "United States covert intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Vientiane Treaty",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Vientiane_Treaty",
+        "body": "The Vientiane Treaty was a cease-fire agreement between the two warring factions in the Laotian Civil War, signed in Vientiane, on 21 February 1973. For Washington, the Vientiane settlement offered a political way to reduce pressure while preserving some anti-communist influence.\n\nWhy It Matters: Vientiane Treaty should be understood through the decisions it forced on United States. It marked the attempt to turn an unwinnable covert battlefield into a negotiated balance. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "1973",
+            "lbl": "Political settlement"
+          },
+          {
+            "val": "Coalition idea",
+            "lbl": "Neutralist compromise"
+          },
+          {
+            "val": "Fragile peace",
+            "lbl": "Communists later prevail"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It marked the attempt to turn an unwinnable covert battlefield into a negotiated balance.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1973-laotian-coup",
+    "year": 1973,
+    "date": "1973-08-20",
+    "title": "1973 Laotian coup",
+    "sub": "United States covert intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "1973 Laotian coup",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/1973_Laotian_coup_attempt",
+        "body": "The 1973 Laotian coup d'état attempt was a final attempt to stave off a communist coalition government of the Kingdom of Laos. Exiled General Thao Ma returned from the Kingdom of Thailand on 20 August 1973 to take over Wattay International Airport outside the capital of Vientiane. Commandeering an AT-28, he led air strikes upon the office and home of his hated rival, General Kouprasith Abhay. While Thao Ma was unsuccessfully bombing Kouprasith, loyal Royalist troops retook the airfield. Shot down upon his return, Thao Ma was hauled from his airplane's wreckage and executed. The coalition agreement was signed 14 September 1973. The coup reflected the instability of Laos even as the wider Vietnam War was winding down.",
+        "stats": [
+          {
+            "val": "1973",
+            "lbl": "Post-accord instability"
+          },
+          {
+            "val": "Vientiane politics",
+            "lbl": "Capital remains fragile"
+          },
+          {
+            "val": "US withdrawal era",
+            "lbl": "Regional order shifts"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that American withdrawal did not immediately create political stability in the region.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "1973 Laotian coup should be understood through the decisions it forced on United States. It showed that American withdrawal did not immediately create political stability in the region. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "stats": [
+          {
+            "val": "1973",
+            "lbl": "Post-accord instability"
+          },
+          {
+            "val": "Vientiane politics",
+            "lbl": "Capital remains fragile"
+          },
+          {
+            "val": "US withdrawal era",
+            "lbl": "Regional order shifts"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that American withdrawal did not immediately create political stability in the region.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: Laotian Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/La-map.png",
+        "cap": "The end and legacy of the Laotian Civil War",
+        "body": "The communist Pathet Lao took power in 1975 as the wider Indochina wars ended. Laos emerged deeply scarred by displacement, unexploded ordnance, and years of covert warfare.",
+        "stats": [
+          {
+            "val": "Tens of thousands killed",
+            "lbl": "Royal Lao and allied forces casualties, approximate"
+          },
+          {
+            "val": "Tens of thousands killed",
+            "lbl": "Pathet Lao and North Vietnam casualties, approximate"
+          },
+          {
+            "val": "Pathet Lao victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The communist Pathet Lao took power in 1975 as the wider Indochina wars ended. Laos emerged deeply scarred by displacement, unexploded ordnance, and years of covert warfare.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

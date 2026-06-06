@@ -1,0 +1,1449 @@
+[
+  {
+    "id": "sarajevo",
+    "year": "1914",
+    "date": "28 June 1914",
+    "title": "Assassination at Sarajevo",
+    "sub": "The Spark in the Balkans",
+    "view": {
+      "center": [
+        43.8563,
+        18.4131
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "label": "Sarajevo",
+        "type": "target"
+      }
+    ],
+    "regions": [
+      {
+        "id": "austria-hungary-balkans",
+        "label": "Austro-Hungarian sphere",
+        "color": "#c0392b",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            13.2,
+            48.5
+          ],
+          [
+            15,
+            49
+          ],
+          [
+            18,
+            49.4
+          ],
+          [
+            21,
+            48.7
+          ],
+          [
+            23,
+            47.7
+          ],
+          [
+            23.5,
+            45.9
+          ],
+          [
+            22.4,
+            44.6
+          ],
+          [
+            20,
+            43.8
+          ],
+          [
+            17.5,
+            43.4
+          ],
+          [
+            15.5,
+            44.2
+          ],
+          [
+            14.2,
+            45.8
+          ],
+          [
+            13.2,
+            48.5
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "A Royal Visit Turns Fatal",
+        "body": "Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, arrived in Sarajevo during a tense imperial visit to Bosnia. The province had been annexed by Austria-Hungary in 1908, angering many South Slavs who hoped to unite with Serbia. Gavrilo Princip, a young Bosnian Serb nationalist linked to a wider network of conspirators, shot Ferdinand and his wife Sophie after an earlier assassination attempt failed. The killing shocked Europe, but it did not automatically cause a world war. What made it explosive was the political meaning attached to it: Vienna saw a chance to break Serbian influence in the Balkans, while Germany promised support, Russia watched Serbia closely, and every capital began testing how far the alliance system could be pushed. The assassination also mattered because Bosnia sat at the center of competing national projects. Serbia presented itself as the protector of South Slavs, while Austria-Hungary feared that nationalism could tear its multiethnic empire apart from within. Officials in Vienna did not all agree on war, but the crisis strengthened the voices that believed Serbia had to be punished before it grew more dangerous. Across Europe, newspapers treated the killing as dramatic and symbolic, yet many ordinary people still assumed the crisis would be contained. That assumption was one of the tragedy's first casualties.",
+        "img": "https://www.historyhit.com/app/uploads/2020/09/sarajevo.jpg",
+        "cap": "Arrest of Gavrilo Princip after the assassination in Sarajevo",
+        "stats": [
+          {
+            "val": "28 Jun 1914",
+            "lbl": "Assassination date"
+          },
+          {
+            "val": "19",
+            "lbl": "Princip's age"
+          },
+          {
+            "val": "1 Month",
+            "lbl": "From assassination to war",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The July Crisis",
+        "body": "The assassination opened a month of diplomacy, threats, and miscalculation known as the July Crisis. Austria-Hungary waited for German backing, then sent Serbia an ultimatum written to be almost impossible to accept fully. Serbia agreed to most demands but rejected clauses that would allow Austro-Hungarian officials to operate inside Serbia. Vienna declared war on 28 July 1914. Russia began mobilizing to defend Serbia and preserve its position in the Balkans. Germany treated Russian mobilization as a direct threat, France stood by its Russian ally, and Britain grew alarmed as German planning pointed west. What began as a Balkan confrontation became a continental crisis because mobilization timetables, military plans, and national prestige left leaders less and less room to step back. The crisis moved quickly because every government feared that waiting would leave it weaker. Mobilization was not just a political signal; it was a railway and manpower machine that, once started, was difficult to pause. Leaders still sent telegrams, ambassadors still argued, and some rulers exchanged personal appeals, but military schedules increasingly narrowed the choices. Germany's blank cheque to Austria-Hungary, Russia's partial and then general mobilization, and France's commitment to its alliance turned uncertainty into escalation. The July Crisis shows how war can come not only from a single decision, but from many decisions that each seem defensible in isolation.",
+        "img": "https://www.historyhit.com/app/uploads/2020/09/sarajevo.jpg",
+        "cap": "Arrest of Gavrilo Princip after the assassination in Sarajevo",
+        "stats": [
+          {
+            "val": "23 Jul",
+            "lbl": "Austrian ultimatum"
+          },
+          {
+            "val": "28 Jul",
+            "lbl": "Austria-Hungary declares war"
+          },
+          {
+            "val": "Alliance System",
+            "lbl": "Local crisis becomes continental",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "belgium-marne",
+    "year": "1914",
+    "date": "August - September 1914",
+    "title": "Invasion of Belgium and the Marne",
+    "sub": "The War of Movement Ends",
+    "view": {
+      "center": [
+        49.9,
+        3.6
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          50.85,
+          4.35
+        ],
+        "label": "Brussels",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          49.06,
+          3.4
+        ],
+        "label": "Marne",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          50.63,
+          5.57
+        ],
+        "label": "Liege",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "german-advance-1914",
+        "label": "German advance toward Paris",
+        "color": "#c0392b",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            6.2,
+            50.8
+          ],
+          [
+            5.2,
+            51
+          ],
+          [
+            4.2,
+            50.8
+          ],
+          [
+            3,
+            50.2
+          ],
+          [
+            2.4,
+            49.5
+          ],
+          [
+            2.6,
+            48.9
+          ],
+          [
+            3.4,
+            48.7
+          ],
+          [
+            4.2,
+            49.1
+          ],
+          [
+            5,
+            49.7
+          ],
+          [
+            6,
+            50.3
+          ],
+          [
+            6.2,
+            50.8
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Through Neutral Belgium",
+        "body": "Germany opened the western campaign by invading Luxembourg and neutral Belgium, following the logic of the Schlieffen Plan: defeat France quickly in the west, then turn east before Russia could fully mobilize. The plan depended on speed, railway coordination, and a wide sweep through Belgium into northern France. Belgian resistance at Liege and other fortified positions slowed the advance more than German planners expected, while reports of harsh German reprisals hardened Allied opinion. The violation of Belgian neutrality also brought Britain into the war on 4 August 1914. By turning a war between continental alliances into a fight involving the British Empire, Germany widened the conflict and made a quick diplomatic settlement far less likely. The invasion of Belgium also changed the moral language of the war. Britain had strategic reasons to oppose German control of the Channel coast, but Belgian neutrality gave the government a powerful public justification. Refugees, destroyed towns, and stories of atrocities circulated through Allied newspapers, helping turn the conflict into a struggle over law, civilization, and small nations. For Germany, the delays in Belgium were costly because the plan required precise timing. Each day lost in sieges and disrupted movement made it harder to encircle Paris and defeat France before the Eastern Front became more dangerous.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/German_soldiers_Battle_of_Marne_WWI.jpg",
+        "cap": "German soldiers during the opening campaign on the Western Front",
+        "stats": [
+          {
+            "val": "4 Aug 1914",
+            "lbl": "Britain enters the war"
+          },
+          {
+            "val": "Belgium",
+            "lbl": "Neutral state invaded"
+          },
+          {
+            "val": "Schlieffen Plan",
+            "lbl": "German strategic concept",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Marne Saves Paris",
+        "body": "By early September 1914, German armies were close enough to Paris that the French government left the capital for Bordeaux. Yet the advance had stretched German supply lines, exhausted troops, and opened gaps between armies. French commander Joseph Joffre and the British Expeditionary Force counterattacked along the Marne, using every available reserve, including troops rushed from Paris in taxis that became a lasting symbol of emergency mobilization. The German right wing bent back, and the advance stalled. Both sides then tried to outflank each other in the Race to the Sea, extending the front northward. Within weeks, mobile war gave way to trenches, wire, and artillery positions that neither side could easily break. The Battle of the Marne did more than save Paris. It destroyed the assumption that the war in the west would be decided in a single campaign. German commanders pulled back to the Aisne and dug in on defensible ground; Allied troops followed and dug in opposite them. The front solidified because neither side had enough mobility or firepower coordination to break through and exploit success. The failed German advance also forced both sides to reconsider their expectations. A war planned in weeks was now becoming a war measured in production, manpower reserves, food supplies, and public endurance.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/German_soldiers_Battle_of_Marne_WWI.jpg",
+        "cap": "German soldiers during the First Battle of the Marne",
+        "stats": [
+          {
+            "val": "6-12 Sep",
+            "lbl": "First Battle of the Marne"
+          },
+          {
+            "val": "Paris",
+            "lbl": "German advance halted nearby"
+          },
+          {
+            "val": "Trench War",
+            "lbl": "Static front begins",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trench-stalemate",
+    "year": "1914",
+    "date": "Late 1914 - 1915",
+    "title": "The Trenches Take Hold",
+    "sub": "A New Kind of Industrial War",
+    "view": {
+      "center": [
+        50.3,
+        2.8
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          50.85,
+          2.89
+        ],
+        "label": "Ypres Salient",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          50.03,
+          2.68
+        ],
+        "label": "Somme sector",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-front-line",
+        "label": "Western Front trench zone",
+        "color": "#8e44ad",
+        "opacity": 0.16,
+        "coordinates": [
+          [
+            2.4,
+            51.1
+          ],
+          [
+            2.9,
+            50.9
+          ],
+          [
+            3.1,
+            50.5
+          ],
+          [
+            2.8,
+            50.1
+          ],
+          [
+            2.9,
+            49.8
+          ],
+          [
+            3.4,
+            49.4
+          ],
+          [
+            4.2,
+            49.1
+          ],
+          [
+            5,
+            48.8
+          ],
+          [
+            5.6,
+            48.4
+          ],
+          [
+            6.2,
+            47.9
+          ],
+          [
+            6.5,
+            47.6
+          ],
+          [
+            6,
+            47.5
+          ],
+          [
+            5.4,
+            48
+          ],
+          [
+            4.7,
+            48.4
+          ],
+          [
+            3.8,
+            48.8
+          ],
+          [
+            3,
+            49.2
+          ],
+          [
+            2.4,
+            49.8
+          ],
+          [
+            2.1,
+            50.4
+          ],
+          [
+            2,
+            50.9
+          ],
+          [
+            2.4,
+            51.1
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "From Maneuver to Mud",
+        "body": "By the end of 1914, the Western Front stretched from the North Sea to Switzerland. The armies had dug in because modern defensive firepower made open movement deadly. Machine guns cut down infantry assaults, barbed wire slowed attackers under fire, and artillery shattered roads, villages, fields, and bodies before soldiers even reached enemy lines. Trench systems grew from simple ditches into layered defensive zones with front lines, support trenches, communication trenches, dugouts, observation posts, and reserve positions. Soldiers lived with mud, rats, lice, shell shock, flooded shelters, and the constant threat of sniper fire or bombardment. The war became a test not only of tactics, but of industry, logistics, endurance, and political will. Trench warfare was not static because generals lacked imagination; it was static because defenders held enormous advantages. Artillery could devastate attacks before they began, and reserves could move by rail faster than exhausted infantry could exploit a breakthrough. Communication broke down once troops left their trenches, leaving attackers isolated in shell holes or captured enemy lines. Commanders experimented constantly with mines, creeping barrages, raids, gas, aircraft, tanks, and new infantry tactics, but each solution created new problems. The Western Front became a laboratory of modern war, and the price of learning was paid in lives.",
+        "img": "https://cdn.britannica.com/24/207224-050-E90EBF89/French-machine-gun-position-trenches-Western-Front-World-War-I-1914-1918.jpg",
+        "cap": "A French machine-gun position in the trenches of the Western Front",
+        "stats": [
+          {
+            "val": "700 km",
+            "lbl": "Approximate Western Front length"
+          },
+          {
+            "val": "Artillery",
+            "lbl": "Dominant battlefield weapon"
+          },
+          {
+            "val": "Attrition",
+            "lbl": "War becomes a test of endurance",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Christmas Truce",
+        "body": "In several sectors during Christmas 1914, soldiers climbed out of their trenches, met in no man's land, exchanged greetings, traded small gifts, buried the dead, and in some places sang carols or played improvised games. The truce was never official and never universal; many parts of the front kept fighting. Still, it revealed how close the opposing armies physically were, and how far the soldiers' daily reality could be from the slogans of governments and newspapers. Commanders soon discouraged and punished fraternization, rotating units and ordering raids to keep hostility alive. The truce became famous because it showed a brief human interruption inside a machine of industrial war that was becoming harder to stop. The truce also reminds us that the early war still contained traces of an older world. Many soldiers believed the war might end soon, and the routines of total war had not yet hardened completely. As casualties mounted and propaganda intensified, such moments became harder to imagine. High commands worried that fraternization would weaken discipline, so they ordered artillery fire, patrols, and raids around future holidays. The memory of Christmas 1914 survived because it contrasted so sharply with what followed: gas attacks, mass offensives, deeper hatred, and the feeling that the war had become a system larger than the men inside it.",
+        "img": "https://cdn.britannica.com/24/207224-050-E90EBF89/French-machine-gun-position-trenches-Western-Front-World-War-I-1914-1918.jpg",
+        "cap": "A French machine-gun position in the trenches of the Western Front",
+        "stats": [
+          {
+            "val": "Dec 1914",
+            "lbl": "Unofficial ceasefires"
+          },
+          {
+            "val": "No Man's Land",
+            "lbl": "Shared meeting ground"
+          },
+          {
+            "val": "Never Repeated",
+            "lbl": "Commanders later prevented similar truces",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gallipoli",
+    "year": "1915",
+    "date": "April 1915 - January 1916",
+    "title": "Gallipoli Campaign",
+    "sub": "The Dardanelles Gamble",
+    "view": {
+      "center": [
+        40.25,
+        26.35
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "latlng": [
+          40.25,
+          26.28
+        ],
+        "label": "Gallipoli Peninsula",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          40.15,
+          26.4
+        ],
+        "label": "Dardanelles",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "gallipoli-landing-zone",
+        "label": "Allied landing zone",
+        "color": "#2980b9",
+        "opacity": 0.2,
+        "coordinates": [
+          [
+            26.15,
+            40.45
+          ],
+          [
+            26.25,
+            40.47
+          ],
+          [
+            26.35,
+            40.42
+          ],
+          [
+            26.38,
+            40.3
+          ],
+          [
+            26.34,
+            40.18
+          ],
+          [
+            26.25,
+            40.1
+          ],
+          [
+            26.16,
+            40.16
+          ],
+          [
+            26.12,
+            40.3
+          ],
+          [
+            26.15,
+            40.45
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "A Route to Russia",
+        "body": "The Gallipoli campaign grew from a strategic problem: the Allies needed a way to help Russia, pressure the Ottoman Empire, and possibly open a new front that might break the deadlock in Europe. British leaders hoped that forcing the Dardanelles and threatening Constantinople would knock the Ottomans out of the war and reopen a sea route to Russian ports. After naval attacks failed against mines, shore batteries, and narrow waters, Allied troops landed on the Gallipoli Peninsula in April 1915. British, French, Australian, New Zealand, Indian, and other imperial forces faced steep terrain, poor maps, confused planning, and determined Ottoman defenders under commanders including Mustafa Kemal. The campaign quickly became another brutal stalemate. The plan appealed to leaders who wanted an alternative to the slaughter on the Western Front, but it underestimated geography and Ottoman resilience. The peninsula's ridges, gullies, scrubland, and narrow beaches favored defenders who knew the ground. Allied command was divided, intelligence was weak, and landings often occurred in confusion. Ottoman forces, meanwhile, fought with determination because the campaign threatened the imperial capital itself. Gallipoli shows how a strategic shortcut can become a trap when ambition outruns preparation. It also widened the war's emotional geography, drawing colonial and dominion troops into a campaign far from home.",
+        "img": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2152323821/settings_images/sdHq75v8R2CXxgVWqzvn_TheBattleofgallipolicampaign.jpg",
+        "cap": "The Allied campaign on the Gallipoli Peninsula",
+        "stats": [
+          {
+            "val": "25 Apr 1915",
+            "lbl": "Main landings begin"
+          },
+          {
+            "val": "Ottoman Empire",
+            "lbl": "Defender of the straits"
+          },
+          {
+            "val": "Dardanelles",
+            "lbl": "Strategic waterway",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Evacuation and Memory",
+        "body": "Gallipoli became a costly failure because the Allies could not break out from cramped beachheads or overcome Ottoman control of the heights. Heat, thirst, disease, supply failures, cliffs, and exposed positions made daily life miserable for attackers and defenders alike. The eventual evacuation in late 1915 and January 1916 was one of the operation's few well-executed phases, carried out with surprisingly light losses compared with the landings. Strategically, the campaign failed to open the straits or relieve Russia. Culturally, it left deep marks: it strengthened Turkish memory of resistance and helped shape national identities in Australia and New Zealand through the ANZAC experience. The memory of Gallipoli developed differently for each society that fought there. In Turkey, it became associated with defense of the homeland and the rise of Mustafa Kemal, later Ataturk. In Australia and New Zealand, the ANZAC story became a central part of national identity, emphasizing courage, mateship, suffering, and sacrifice even in defeat. For Britain, Gallipoli damaged political careers and exposed failures in planning. For the Ottoman Empire, victory did not save the empire in the long run, but it delayed Allied ambitions and proved that the Central Powers could still win major defensive successes outside Europe.",
+        "img": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2152323821/settings_images/sdHq75v8R2CXxgVWqzvn_TheBattleofgallipolicampaign.jpg",
+        "cap": "The Allied campaign on the Gallipoli Peninsula",
+        "stats": [
+          {
+            "val": "250,000+",
+            "lbl": "Allied casualties"
+          },
+          {
+            "val": "250,000+",
+            "lbl": "Ottoman casualties"
+          },
+          {
+            "val": "Jan 1916",
+            "lbl": "Final Allied evacuation",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "verdun",
+    "year": "1916",
+    "date": "21 February - 18 December 1916",
+    "title": "Battle of Verdun",
+    "sub": "They Shall Not Pass",
+    "view": {
+      "center": [
+        49.2081,
+        5.4219
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          49.2081,
+          5.4219
+        ],
+        "label": "Verdun",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          49.216,
+          5.43
+        ],
+        "label": "Fort Douaumont",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "verdun-battlefield",
+        "label": "Verdun battlefield",
+        "color": "#c0392b",
+        "opacity": 0.2,
+        "coordinates": [
+          [
+            5.12,
+            49.36
+          ],
+          [
+            5.35,
+            49.42
+          ],
+          [
+            5.58,
+            49.34
+          ],
+          [
+            5.63,
+            49.16
+          ],
+          [
+            5.48,
+            49.02
+          ],
+          [
+            5.22,
+            49.02
+          ],
+          [
+            5.05,
+            49.16
+          ],
+          [
+            5.12,
+            49.36
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Germany Attacks the Fortress City",
+        "body": "Germany attacked Verdun in February 1916 because it believed France would defend the fortress city at almost any cost. General Erich von Falkenhayn hoped to force France into a battle of attrition that would drain its army and weaken Allied morale. Verdun's forts, ravines, woods, and villages became killing grounds under immense artillery fire. Fort Douaumont fell early, shocking France and turning the battle into a test of national endurance. Shells churned forests into splintered stumps and villages into ruins. Rather than producing a clean breakthrough, the offensive created a grinding cycle of attack, counterattack, exhaustion, and replacement that consumed both armies. Verdun's geography gave the battle its emotional force. Forts such as Douaumont and Vaux were not only military positions; they were symbols of French security after the humiliation of 1870-1871. German planners believed France would keep sending troops into the furnace rather than allow Verdun to fall. The opening bombardment was terrifying in scale, and many defenders were cut off, buried, or stunned before they could respond. Yet the German army also suffered heavily as it advanced into devastated terrain. The battle became a contest in which both sides were trapped by the symbolic importance they had assigned to the ground.",
+        "img": "https://cards.algoreducation.com/_next/image?url=https%3A%2F%2Ffiles.algoreducation.com%2Fproduction-ts%2F__S3__cacef94a-f8f4-4934-9483-f16887be4fc3&w=3840&q=75",
+        "cap": "The devastated battlefield during the Battle of Verdun",
+        "stats": [
+          {
+            "val": "302 Days",
+            "lbl": "Battle duration"
+          },
+          {
+            "val": "Fort Douaumont",
+            "lbl": "Key German capture"
+          },
+          {
+            "val": "Artillery Storm",
+            "lbl": "Millions of shells fired",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "A Symbol of French Resistance",
+        "body": "French defense at Verdun depended on rotation, supply, and symbolism. General Philippe Petain organized the Voie Sacree, the vital road that carried men, ammunition, food, and equipment into the battlefield. French units rotated through Verdun so that much of the army experienced the battle, spreading both trauma and shared memory. The phrase 'On ne passe pas' - they shall not pass - captured the emotional weight of the defense. By the time fighting ended in December 1916, the front had shifted little compared with the human cost. Verdun became less important as territory than as a symbol of sacrifice, endurance, and the terrible logic of attrition. Petain's defense emphasized artillery, logistics, and rotation, but Verdun still left deep psychological scars. Soldiers passed through a battlefield where landmarks disappeared and survival often depended on chance. Fort Vaux's defense, the recapture of Douaumont, and the constant movement along the Voie Sacree all entered French memory. Verdun also shaped later military thinking: commanders saw both the necessity of firepower and the danger of battles fought for prestige. The phrase 'They shall not pass' endured because it turned defensive suffering into a story of national resolve, even though the human cost was almost impossible to justify.",
+        "img": "https://cards.algoreducation.com/_next/image?url=https%3A%2F%2Ffiles.algoreducation.com%2Fproduction-ts%2F__S3__cacef94a-f8f4-4934-9483-f16887be4fc3&w=3840&q=75",
+        "cap": "The devastated battlefield during the Battle of Verdun",
+        "stats": [
+          {
+            "val": "700,000+",
+            "lbl": "Total casualties"
+          },
+          {
+            "val": "Voie Sacree",
+            "lbl": "French supply road"
+          },
+          {
+            "val": "On ne passe pas",
+            "lbl": "French slogan: They shall not pass",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "somme",
+    "year": "1916",
+    "date": "1 July - 18 November 1916",
+    "title": "Battle of the Somme",
+    "sub": "The Cost of Attrition",
+    "view": {
+      "center": [
+        50.03,
+        2.68
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          50.03,
+          2.68
+        ],
+        "label": "Somme battlefield",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          50.04,
+          2.69
+        ],
+        "label": "Thiepval",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "somme-front",
+        "label": "Somme offensive sector",
+        "color": "#2980b9",
+        "opacity": 0.2,
+        "coordinates": [
+          [
+            2.35,
+            50.2
+          ],
+          [
+            2.7,
+            50.25
+          ],
+          [
+            3.05,
+            50.1
+          ],
+          [
+            3.1,
+            49.9
+          ],
+          [
+            2.85,
+            49.75
+          ],
+          [
+            2.45,
+            49.82
+          ],
+          [
+            2.25,
+            50.02
+          ],
+          [
+            2.35,
+            50.2
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "The First Day",
+        "body": "The Somme offensive began on 1 July 1916 after a massive week-long bombardment that commanders hoped would destroy German wire, trenches, and artillery. Many German troops, however, survived in deep dugouts and emerged when the shelling lifted. British infantry advanced across exposed ground, often carrying heavy equipment and expecting limited resistance. Instead, machine-gun and artillery fire tore through the attacking waves. The first day became the bloodiest in British military history, with more than 57,000 casualties. The offensive had been intended partly to relieve pressure on Verdun, but it also exposed the gap between industrial firepower and the tactics still being used to cross open ground. The disaster of the first day was uneven across the front. Some units achieved objectives, especially where artillery preparation and tactics were better coordinated, while others were destroyed within minutes. Many attacking soldiers were volunteers from the so-called Pals battalions, recruited from the same towns, workplaces, and communities, so losses struck local society with concentrated force. The Somme also marked Britain's transition from a small professional army to a mass citizen army. Its opening day became a national wound, but commanders continued the offensive because they believed pressure had to be kept on Germany and Verdun had to be relieved.",
+        "img": "https://defenceindepth.co/wp-content/uploads/2016/06/large-11.jpg?w=800&h=400&crop=1",
+        "cap": "Troops on the battlefield during the Battle of the Somme",
+        "stats": [
+          {
+            "val": "57,000+",
+            "lbl": "British casualties on day one"
+          },
+          {
+            "val": "19,000+",
+            "lbl": "British dead on day one"
+          },
+          {
+            "val": "1 Jul 1916",
+            "lbl": "Opening day",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Tanks Appear",
+        "body": "The Somme continued for months after the disastrous first day, becoming a grinding offensive of limited advances, repeated bombardments, and huge losses on both sides. In September 1916, Britain introduced tanks at Flers-Courcelette, hoping armored vehicles could crush wire and cross trenches. The early Mark I tanks were slow, mechanically unreliable, vulnerable to breakdown, and too few to transform the battle, but they pointed toward a new kind of warfare. Aircraft also played a growing role in reconnaissance and artillery spotting. By November, the Allies had gained only a relatively small amount of ground, yet the battle became a grim lesson in how armies were learning, painfully and expensively, to fight modern war. The later phases of the Somme revealed how difficult adaptation was under battlefield conditions. Creeping barrages required precise timing, infantry needed better small-unit tactics, aircraft had to locate enemy batteries, and artillery had to cut wire without warning defenders too early. Tanks excited imaginations because they seemed to offer a way across no man's land, but their first appearance was more promise than solution. Still, the Somme forced armies to learn. By 1918, many of the painful lessons from battles like the Somme would be combined into more effective all-arms operations.",
+        "img": "https://defenceindepth.co/wp-content/uploads/2016/06/large-11.jpg?w=800&h=400&crop=1",
+        "cap": "Troops on the battlefield during the Battle of the Somme",
+        "stats": [
+          {
+            "val": "1M+",
+            "lbl": "Total casualties"
+          },
+          {
+            "val": "15 Sep",
+            "lbl": "Tanks first used in battle"
+          },
+          {
+            "val": "Attrition",
+            "lbl": "Small gains at enormous cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jutland",
+    "year": "1916",
+    "date": "31 May - 1 June 1916",
+    "title": "Battle of Jutland",
+    "sub": "The Dreadnought Clash",
+    "view": {
+      "center": [
+        56.7,
+        5.9
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          56.7,
+          5.9
+        ],
+        "label": "Jutland battle area",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          57.15,
+          -2.1
+        ],
+        "label": "British Grand Fleet base",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "north-sea-battle-zone",
+        "label": "North Sea battle zone",
+        "color": "#16a085",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            3.5,
+            58.2
+          ],
+          [
+            6.8,
+            58
+          ],
+          [
+            8.3,
+            56.7
+          ],
+          [
+            7,
+            55.4
+          ],
+          [
+            4,
+            55.2
+          ],
+          [
+            2.6,
+            56.7
+          ],
+          [
+            3.5,
+            58.2
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Battle Fleets Meet",
+        "body": "The Battle of Jutland was the largest naval clash of World War I and the great meeting of dreadnought fleets that naval planners had long imagined. Germany's High Seas Fleet hoped to lure out and damage part of Britain's Grand Fleet, reducing British naval superiority. British codebreaking and scouting brought larger forces into contact, producing a confused battle of cruisers, battlecruisers, destroyers, and battleships in the North Sea. Visibility was poor, communication was difficult, and commanders had to make decisions with incomplete information. The fighting showed the power and danger of modern naval technology: long-range guns, torpedoes, armor, mines, and fragile magazine safety all mattered in minutes. Jutland was shaped by years of naval rivalry before 1914. Britain depended on sea power for trade, empire, and survival, while Germany had built a battle fleet to challenge British dominance and gain diplomatic leverage. When the fleets finally met, the battle unfolded in phases: scouting forces clashed, battlecruisers took terrible punishment, and the main battle fleets maneuvered for position. Explosions aboard British battlecruisers revealed dangerous ammunition-handling practices, while German ships often survived heavy punishment. The battle was dramatic, but it also showed how hard it was to force decision at sea when both fleets feared catastrophic loss.",
+        "img": "https://www.britishbattles.com/wp-content/uploads/2018/03/1-German-Battleships-turn-away-on-coming-under-fire-1.jpg",
+        "cap": "German battleships turning away under fire during the Battle of Jutland",
+        "stats": [
+          {
+            "val": "250+",
+            "lbl": "Warships involved"
+          },
+          {
+            "val": "14",
+            "lbl": "British ships sunk"
+          },
+          {
+            "val": "11",
+            "lbl": "German ships sunk"
+          }
+        ]
+      },
+      {
+        "title": "Tactical Loss, Strategic Hold",
+        "body": "Germany sank more British ships and inflicted heavier losses, so it could claim a tactical success. Strategically, however, Britain kept command of the sea. The Grand Fleet remained able to blockade Germany, restrict trade, and pressure the Central Powers economically. The High Seas Fleet survived, but it rarely risked another full-scale battle. Jutland therefore became a battle with no simple victory: Germany performed well in combat, while Britain preserved the naval situation that mattered most. The result pushed Germany toward unrestricted submarine warfare, a decision that would eventually help bring the United States into the conflict. The strategic consequences mattered more than the scoreboard of ships sunk. Britain's blockade continued to tighten, contributing to shortages in Germany and weakening the home front over time. German leaders concluded that surface battle could not break British power, which strengthened arguments for unrestricted submarine warfare. That decision promised results but risked provoking the United States. In this sense, Jutland indirectly shaped the wider course of the war: it preserved British naval pressure and pushed Germany toward a desperate strategy that expanded the conflict further.",
+        "img": "https://www.britishbattles.com/wp-content/uploads/2018/03/1-German-Battleships-turn-away-on-coming-under-fire-1.jpg",
+        "cap": "German battleships turning away under fire during the Battle of Jutland",
+        "stats": [
+          {
+            "val": "North Sea",
+            "lbl": "Strategic theater"
+          },
+          {
+            "val": "Blockade",
+            "lbl": "British pressure continues"
+          },
+          {
+            "val": "Last Great Dreadnought Battle",
+            "lbl": "Peak of battleship warfare",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "us-enters",
+    "year": "1917",
+    "date": "6 April 1917",
+    "title": "United States Enters the War",
+    "sub": "A New Power Arrives",
+    "view": {
+      "center": [
+        38.9,
+        -77
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          38.8977,
+          -77.0365
+        ],
+        "label": "Washington, D.C.",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          48.8566,
+          2.3522
+        ],
+        "label": "Paris",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "atlantic-war-route",
+        "label": "Atlantic supply route",
+        "color": "#2980b9",
+        "opacity": 0.12,
+        "coordinates": [
+          [
+            -76,
+            41
+          ],
+          [
+            -55,
+            47
+          ],
+          [
+            -35,
+            49
+          ],
+          [
+            -15,
+            48
+          ],
+          [
+            -2,
+            49.5
+          ],
+          [
+            -3,
+            47
+          ],
+          [
+            -18,
+            45.8
+          ],
+          [
+            -38,
+            46.5
+          ],
+          [
+            -58,
+            43
+          ],
+          [
+            -76,
+            41
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "From Neutrality to War",
+        "body": "The United States entered the war after years of trying to remain officially neutral while trading heavily with the Allies. German unrestricted submarine warfare threatened American shipping and lives, especially after earlier shocks such as the sinking of the Lusitania. In 1917, Germany resumed the policy, gambling that it could starve Britain before the United States could mobilize. The Zimmermann Telegram, in which Germany proposed an alliance with Mexico if the United States entered the war, further inflamed opinion. President Woodrow Wilson asked Congress for a declaration of war, presenting American intervention as a defense of neutral rights and a broader effort to make the world safe for democracy. American neutrality had always been complicated. Banks, manufacturers, immigrant communities, pacifists, interventionists, and political leaders disagreed sharply about the war. Many Americans wanted to avoid Europe's catastrophe, but submarine warfare made neutrality harder to maintain because it challenged freedom of the seas and threatened American citizens. Wilson also saw the postwar settlement as something the United States should help shape. Entry into the war therefore combined anger, idealism, economics, security, and politics. The declaration in April 1917 did not instantly win the war, but it changed everyone's calculation about how long Germany could afford to continue.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9V9X6hSXdu61Kyd8L5s-HM4FBGDNhvqjGg&s",
+        "cap": "The United States enters the First World War",
+        "stats": [
+          {
+            "val": "6 Apr 1917",
+            "lbl": "War declared"
+          },
+          {
+            "val": "Zimmermann Telegram",
+            "lbl": "Major diplomatic trigger"
+          },
+          {
+            "val": "U-Boats",
+            "lbl": "Submarine warfare resumes",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The American Expeditionary Forces",
+        "body": "American military power did not appear instantly. The United States had to raise, train, equip, transport, and supply a mass army across the Atlantic while German submarines threatened shipping. General John J. Pershing insisted that the American Expeditionary Forces should fight as a distinct American army rather than simply fill gaps in British and French units. By 1918, American numbers were becoming decisive, giving the Allies fresh manpower at a time when all armies were exhausted. US troops fought at places such as Cantigny, Belleau Wood, Saint-Mihiel, and the Meuse-Argonne. Their arrival shifted morale as much as strategy: Germany now faced an enemy that was growing stronger each month. The AEF's growth placed enormous pressure on ports, railways, training camps, shipbuilding, and Allied coordination. American troops arrived with energy and numbers, but many lacked experience compared with veterans who had survived years of trench warfare. Pershing wanted open warfare and offensive spirit, while Allied commanders urged faster integration into existing armies. The compromise evolved over time as American units gained combat experience. By the Meuse-Argonne Offensive, the United States was fighting one of the largest battles in its history. Its contribution was not flawless, but it made Germany's long-term position hopeless.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9V9X6hSXdu61Kyd8L5s-HM4FBGDNhvqjGg&s",
+        "cap": "The United States enters the First World War",
+        "stats": [
+          {
+            "val": "2M+",
+            "lbl": "US soldiers sent to Europe"
+          },
+          {
+            "val": "Pershing",
+            "lbl": "AEF commander"
+          },
+          {
+            "val": "1918",
+            "lbl": "US strength becomes decisive",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "russia-exits",
+    "year": "1917",
+    "date": "1917 - 3 March 1918",
+    "title": "Russia Revolts and Leaves the War",
+    "sub": "Revolution on the Eastern Front",
+    "view": {
+      "center": [
+        55.75,
+        37.62
+      ],
+      "zoom": 4
+    },
+    "markers": [
+      {
+        "latlng": [
+          59.9343,
+          30.3351
+        ],
+        "label": "Petrograd",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          52.1,
+          23.7
+        ],
+        "label": "Brest-Litovsk",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "eastern-front-1917",
+        "label": "Eastern Front pressure zone",
+        "color": "#e67e22",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            20,
+            55
+          ],
+          [
+            24,
+            56
+          ],
+          [
+            29,
+            55
+          ],
+          [
+            32,
+            53
+          ],
+          [
+            31,
+            50
+          ],
+          [
+            27,
+            48.5
+          ],
+          [
+            23,
+            49
+          ],
+          [
+            20.5,
+            51
+          ],
+          [
+            20,
+            55
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Tsarist State Breaks",
+        "body": "Russia entered the war with enormous manpower but severe weaknesses in transport, supply, administration, and political trust. Repeated defeats, staggering casualties, food shortages, inflation, and anger at the monarchy eroded support for Tsar Nicholas II. In Petrograd, strikes and demonstrations grew into the February Revolution, and soldiers sent to restore order began joining the crowds. Nicholas abdicated in March 1917, ending centuries of Romanov rule. The provisional government promised reform but chose to continue the war, hoping to honor alliances and preserve Russia's international position. That decision deepened the crisis, because soldiers, workers, and peasants increasingly wanted peace, land, and bread more than victory. The Eastern Front had always been more fluid than the Western Front, but its scale made supply and command extremely difficult. Russian soldiers often fought bravely, yet shortages of shells, rifles, boots, and food undermined morale. At home, urban workers faced inflation and hunger, peasants wanted land, and elites lost faith in the Tsar's leadership. The monarchy's association with military failure and court scandal made reform too late. After February, Russia had dual power: the provisional government claimed formal authority, while soviets of workers and soldiers held growing influence. Continuing the war made that unstable arrangement even weaker.",
+        "img": "https://cdn.britannica.com/78/121178-050-95767572/crowd-Vladimir-Ilyich-Lenin-Russian-Revolution-1917.jpg",
+        "cap": "Vladimir Lenin addressing a crowd during the Russian Revolution",
+        "stats": [
+          {
+            "val": "Mar 1917",
+            "lbl": "Nicholas II abdicates"
+          },
+          {
+            "val": "Millions",
+            "lbl": "Russian casualties by 1917"
+          },
+          {
+            "val": "Petrograd",
+            "lbl": "Revolutionary center",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Brest-Litovsk",
+        "body": "After the Bolsheviks seized power in the October Revolution, they promised to end Russia's participation in the war. Negotiations with Germany at Brest-Litovsk were harsh and humiliating. When talks stalled, Germany advanced again, forcing the new Soviet government to accept severe terms in March 1918. Russia gave up influence over huge territories including Ukraine, Poland, Finland, the Baltic lands, and parts of the Caucasus. The treaty ended fighting on the Eastern Front, but it also intensified civil conflict inside Russia and freed German divisions for the west. For Germany, Brest-Litovsk created one final chance to win before American power fully arrived. Brest-Litovsk was one of the harshest settlements of the war. The Bolsheviks accepted it because they believed survival of their revolution mattered more than territory, and because the Russian army was disintegrating. Many opponents used the treaty as proof that the Bolsheviks had betrayed Russia, feeding the civil war that followed. Germany gained resources and strategic depth in the east, but occupation also required troops and administration. The victory came too late to solve Germany's deeper problems. The treaty's terms were later overturned by Germany's defeat, but the collapse of the Eastern Front had already reshaped the final year of the war.",
+        "img": "https://cdn.britannica.com/78/121178-050-95767572/crowd-Vladimir-Ilyich-Lenin-Russian-Revolution-1917.jpg",
+        "cap": "Vladimir Lenin addressing a crowd during the Russian Revolution",
+        "stats": [
+          {
+            "val": "3 Mar 1918",
+            "lbl": "Treaty signed"
+          },
+          {
+            "val": "Eastern Front",
+            "lbl": "Fighting effectively ends"
+          },
+          {
+            "val": "German Gamble",
+            "lbl": "Troops shift west for 1918",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hundred-days",
+    "year": "1918",
+    "date": "March - November 1918",
+    "title": "Spring Offensive and Hundred Days",
+    "sub": "The Final German Gamble",
+    "view": {
+      "center": [
+        49.9,
+        2.9
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          49.9,
+          2.3
+        ],
+        "label": "Amiens",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          49.15,
+          3.35
+        ],
+        "label": "Marne sector",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "hundred-days-advance",
+        "label": "Allied counteroffensive zone",
+        "color": "#27ae60",
+        "opacity": 0.18,
+        "coordinates": [
+          [
+            1.8,
+            50.4
+          ],
+          [
+            2.8,
+            50.5
+          ],
+          [
+            4,
+            50.1
+          ],
+          [
+            4.8,
+            49.4
+          ],
+          [
+            5,
+            48.7
+          ],
+          [
+            4.2,
+            48.5
+          ],
+          [
+            3.2,
+            48.9
+          ],
+          [
+            2.4,
+            49.4
+          ],
+          [
+            1.8,
+            50
+          ],
+          [
+            1.8,
+            50.4
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Operation Michael",
+        "body": "Operation Michael was Germany's great gamble in spring 1918. With Russia out of the war, German commanders shifted divisions west and tried to defeat the Allies before American forces became overwhelming. Stormtrooper units used infiltration tactics to bypass strongpoints, disrupt command, and push deep into Allied lines. At first the offensive achieved dramatic gains, breaking through areas that had barely moved for years. But success created new problems: troops outran artillery, supplies, horses, and rail links; exhausted soldiers stopped to loot Allied depots; and the offensive lacked a clear strategic objective after the breakthrough. Germany won ground but failed to destroy the Allied armies. The German offensives of 1918 were tactically impressive but strategically fragile. Stormtroopers could penetrate weak points, but the regular infantry following them often struggled to keep up. German horses were exhausted, roads were ruined, and supply columns could not move quickly through captured battlefield zones. The offensives also consumed Germany's best remaining troops. Each attack created a bulge in the line but not a decisive victory. Meanwhile, Allied command under Ferdinand Foch improved coordination between armies. Operation Michael frightened the Allies, but it also spent the strength Germany needed to survive the counterattack that followed.",
+        "img": "https://lh4.googleusercontent.com/proxy/ryMdT0xnsIK12lzG8Hur8AtCM49URZa9FZjMafnROUtq8Xqb5mcOCx3953YZ5DWmnqc39bbivBzxAXTfwdih6Tm8YQ1YQT5xDzfwqsdj77jmpekvKgGyaUDwB62oJg",
+        "cap": "German troops during the Spring Offensive of 1918",
+        "stats": [
+          {
+            "val": "21 Mar 1918",
+            "lbl": "Operation Michael begins"
+          },
+          {
+            "val": "Stormtroopers",
+            "lbl": "German infiltration units"
+          },
+          {
+            "val": "Last Gamble",
+            "lbl": "Germany seeks victory before US buildup",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Hundred Days",
+        "body": "The Allied counteroffensive began at Amiens on 8 August 1918, a day German commander Erich Ludendorff later called the black day of the German Army. Allied forces combined artillery, tanks, aircraft, infantry, deception, and improved coordination more effectively than in earlier battles. Instead of one symbolic breakthrough, the Hundred Days became a sequence of blows across the Western Front, forcing Germany back from prepared positions. Canadian, Australian, British, French, American, and other Allied forces all contributed to the pressure. German morale and manpower collapsed as retreat became continuous. By autumn, Germany's allies were also falling apart, making an armistice unavoidable. The Hundred Days was not a single battle but a sustained operational collapse of the German position. Allied armies attacked repeatedly, using surprise, limited objectives, better logistics, and combined arms to avoid the worst failures of earlier offensives. The Hindenburg Line, once presented as nearly impregnable, was breached. German soldiers increasingly surrendered in large numbers, while civilians at home faced hunger and political unrest. The Allied advance also encouraged Germany's allies to seek peace separately. By November, Germany was not invaded deeply, but its army could no longer restore the front or promise victory. The armistice came from military defeat and domestic breakdown together.",
+        "img": "https://lh4.googleusercontent.com/proxy/ryMdT0xnsIK12lzG8Hur8AtCM49URZa9FZjMafnROUtq8Xqb5mcOCx3953YZ5DWmnqc39bbivBzxAXTfwdih6Tm8YQ1YQT5xDzfwqsdj77jmpekvKgGyaUDwB62oJg",
+        "cap": "German troops during the Spring Offensive of 1918",
+        "stats": [
+          {
+            "val": "8 Aug 1918",
+            "lbl": "Battle of Amiens begins"
+          },
+          {
+            "val": "100 Days",
+            "lbl": "Allied final offensive"
+          },
+          {
+            "val": "Combined Arms",
+            "lbl": "Modern tactics mature",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "armistice-versailles",
+    "year": "1918",
+    "date": "11 November 1918 - 28 June 1919",
+    "title": "Armistice and Versailles",
+    "sub": "The War Ends, the Century Changes",
+    "view": {
+      "center": [
+        48.86,
+        2.35
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          49.43,
+          2.9
+        ],
+        "label": "Compiegne Forest",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          48.8049,
+          2.1204
+        ],
+        "label": "Versailles",
+        "type": "minor"
+      }
+    ],
+    "regions": [
+      {
+        "id": "postwar-europe-focus",
+        "label": "Postwar settlement focus",
+        "color": "#f1c40f",
+        "opacity": 0.12,
+        "coordinates": [
+          [
+            -5,
+            52
+          ],
+          [
+            2,
+            55
+          ],
+          [
+            10,
+            54
+          ],
+          [
+            18,
+            51
+          ],
+          [
+            22,
+            47
+          ],
+          [
+            18,
+            44
+          ],
+          [
+            9,
+            43
+          ],
+          [
+            2,
+            45
+          ],
+          [
+            -4,
+            48
+          ],
+          [
+            -5,
+            52
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Eleventh Hour",
+        "body": "By late 1918, Germany's military position had become impossible. Its armies were retreating, Bulgaria and the Ottoman Empire had collapsed, Austria-Hungary was disintegrating, and unrest was spreading at home. Sailors mutinied, workers demonstrated, and political leaders feared revolution. Germany asked for an armistice based partly on Wilson's Fourteen Points, hoping for less punitive terms than a total surrender might bring. Fighting continued until the agreement took effect at 11:00 AM on 11 November 1918, meaning soldiers still died in the final hours. The silence that followed was not simple celebration. It brought relief, grief, exhaustion, and the knowledge that millions would never return. The armistice was signed in a railway carriage in the Compiegne Forest, a setting that later became symbolically important. Its terms required Germany to evacuate occupied territory, surrender heavy weapons, and accept Allied occupation of bridgeheads over the Rhine. For soldiers, the final hours were bitter because commanders sometimes kept attacking to secure positions before the deadline. For civilians, the end brought celebration mixed with anxiety about food, grief, demobilization, and political upheaval. The war stopped suddenly, but its consequences did not. Millions of wounded men, widows, orphans, refugees, and veterans had to live inside the peace that followed.",
+        "img": "https://ossettheritage.co.uk/wp-content/uploads/2021/07/Armistice_1918-1.jpg",
+        "cap": "Crowds celebrating the Armistice of 11 November 1918",
+        "stats": [
+          {
+            "val": "11 Nov 1918",
+            "lbl": "Armistice signed"
+          },
+          {
+            "val": "11:00 AM",
+            "lbl": "Fighting stops"
+          },
+          {
+            "val": "9M+",
+            "lbl": "Military deaths",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Treaty of Versailles",
+        "body": "The Treaty of Versailles tried to turn military victory into a political settlement, but the peacemakers faced conflicting goals. France wanted security against future German aggression, Britain wanted balance and imperial stability, the United States promoted self-determination and the League of Nations, and many smaller nations demanded borders of their own. Germany lost territory, accepted military limits, gave up colonies, and was assigned responsibility for the war through the war guilt clause. Reparations became a lasting source of resentment and argument. The treaty formally ended the conflict with Germany, but it left many people convinced that the peace was either too harsh, too weak, or unfinished. Versailles was only one part of the wider Paris peace settlement, but it became the most controversial. The treaty tried to punish Germany, prevent another war, and create a new international order at the same time. Those goals often conflicted. Some Germans believed the armistice had been followed by betrayal, feeding the stab-in-the-back myth. Some French leaders feared the treaty was not strong enough to guarantee security. Many colonized peoples heard Wilson's language of self-determination and wondered why it did not apply to them. The settlement redrew maps, but it could not resolve all the ambitions and resentments unleashed by the war.",
+        "img": "https://ossettheritage.co.uk/wp-content/uploads/2021/07/Armistice_1918-1.jpg",
+        "cap": "Crowds celebrating the Armistice of 11 November 1918",
+        "stats": [
+          {
+            "val": "28 Jun 1919",
+            "lbl": "Treaty signed"
+          },
+          {
+            "val": "4 Empires",
+            "lbl": "German, Austro-Hungarian, Russian, Ottoman collapse"
+          },
+          {
+            "val": "New Europe",
+            "lbl": "Borders and states reshaped",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "A World Remade",
+        "body": "World War I destroyed or fatally weakened four empires: German, Austro-Hungarian, Russian, and Ottoman. New states appeared, borders shifted, minorities found themselves inside new countries, and revolutionary movements gained force. The League of Nations promised collective security, but it lacked the power and unity needed to solve every crisis. The war accelerated changes in technology, medicine, propaganda, state power, women's public roles, colonial nationalism, and American global influence. It also left deep wounds: bereavement, disability, debt, political extremism, and arguments over responsibility. The war ended in 1918, but the world it created remained unstable, and many of its unresolved tensions shaped the road to World War II. The postwar world was marked by both hope and instability. New constitutions, new borders, and new international institutions suggested that politics could be rebuilt, yet violence continued in Eastern Europe, the Middle East, Ireland, Russia, and beyond. Veterans returned to societies that often did not know how to absorb their trauma. States had grown more powerful through censorship, rationing, conscription, surveillance, and economic planning. The war also changed culture: memorials, literature, art, and public rituals tried to make sense of loss on an unprecedented scale. World War I was not just a prelude to World War II; it was a rupture that transformed the twentieth century.",
+        "img": "https://ossettheritage.co.uk/wp-content/uploads/2021/07/Armistice_1918-1.jpg",
+        "cap": "Crowds celebrating the Armistice of 11 November 1918",
+        "stats": [
+          {
+            "val": "League of Nations",
+            "lbl": "New international body"
+          },
+          {
+            "val": "1918-1923",
+            "lbl": "Postwar border upheaval"
+          },
+          {
+            "val": "Unfinished Peace",
+            "lbl": "Legacy reaches into World War II",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: World War I",
+        "img": "https://ossettheritage.co.uk/wp-content/uploads/2021/07/Armistice_1918-1.jpg",
+        "cap": "Crowds celebrating the Armistice of 11 November 1918",
+        "body": "The armistice ended the fighting, but the peace dismantled empires, redrew borders, and left political and economic wounds that shaped the rest of the twentieth century.",
+        "stats": [
+          {
+            "val": "~22 million military casualties",
+            "lbl": "Allied Powers casualties, approximate"
+          },
+          {
+            "val": "~15 million military casualties",
+            "lbl": "Central Powers casualties, approximate"
+          },
+          {
+            "val": "Allied victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The armistice ended the fighting, but the peace dismantled empires, redrew borders, and left political and economic wounds that shaped the rest of the twentieth century.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

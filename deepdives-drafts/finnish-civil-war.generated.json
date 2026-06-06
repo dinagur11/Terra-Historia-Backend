@@ -1,0 +1,468 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1918,
+    "date": "1918-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Finnish Civil War began",
+    "view": {
+      "center": [
+        62,
+        25
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Russian Civil War to Finnish Civil War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
+        "cap": "Historical connection: Revolution spreads into newly independent Finland",
+        "body": "The Russian Revolution destroyed imperial authority in Finland just as the country declared independence. Political polarization, food shortages, and armed Red and White guards then turned the struggle over Finland's new state into civil war.",
+        "stats": [
+          {
+            "val": "Russian Civil War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "Revolution spreads into newly independent Finland"
+          },
+          {
+            "val": "Finnish Civil War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Russian Revolution destroyed imperial authority in Finland just as the country declared independence. Political polarization, food shortages, and armed Red and White guards then turned the struggle over Finland's new state into civil war.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Finnish Civil War",
+        "body": "Finland's independence from Russia coincided with food shortages, social polarization, armed militias, and the revolutionary crisis created by World War I.\n\nThe Conflict Takes Shape: The Red and White camps fought over political power, social order, and the future direction of the new Finnish state. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1918-1918",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Swedes%2C_Germans%2C_Russians_in_%C3%85land_1918.jpg",
+        "cap": "Opening context for the Finnish Civil War"
+      }
+    ]
+  },
+  {
+    "id": "invasion-of-land",
+    "year": 1918,
+    "date": "1918-02-15",
+    "title": "Invasion of Åland",
+    "sub": "Part of Finnish Civil War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Invasion of Åland",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Swedes%2C_Germans%2C_Russians_in_%C3%85land_1918.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Invasion_of_%C3%85land",
+        "body": "The Invasion of Åland was a 1918 military campaign of World War I in Åland, Finland. The islands, still hosting Soviet Russian troops, were first invaded by Sweden in late February and then by the German Empire in early March. The conflict was also related to the Finnish Civil War including minor fighting between the Finnish Whites and the Finnish Reds.\n\nWhy This Moment Matters: Invasion of Åland was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.\n\nConsequences: The effects of Invasion of Åland extended beyond its immediate result. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-tampere",
+    "year": 1918,
+    "date": "1918-03-08",
+    "title": "Battle of Tampere",
+    "sub": "Part of Finnish Civil War",
+    "view": {
+      "center": [
+        61.5,
+        23.75
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Tampere",
+        "latlng": [
+          61.5,
+          23.75
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Tampere",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tampere_destroyed_in_Civil_War.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Tampere",
+        "body": "The Battle of Tampere was a 1918 Finnish Civil War battle, fought in Tampere, Finland from 15 March to 6 April between the Whites and the Reds. It is the most famous and deadly of all the Finnish Civil War battles. Its bloody aftermath saw the Whites execute hundreds of captured Reds with another 11,000 prisoners sent to the Kalevankangas camp.\n\nWhy This Moment Matters: Battle of Tampere was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.\n\nConsequences: The effects of Battle of Tampere extended beyond its immediate result. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-ruovesi",
+    "year": 1918,
+    "date": "1918-03-19",
+    "title": "Battle of Ruovesi",
+    "sub": "Part of Finnish Civil War",
+    "view": {
+      "center": [
+        61.896865,
+        24.106484
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Ruovesi",
+        "latlng": [
+          61.896865,
+          24.106484
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Ruovesi",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Punakaartin_ampumaketju_Ruovedell%C3%A4_%2826936606416%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Ruovesi",
+        "body": "The Battle of Ruovesi was a major battle during the Finnish Civil War and on the Eastern Front of World War I fought in Ruovesi, Finland from 5 February to 19 March 1918 between the Whites and the Reds with support for the latter from Russian volunteers.\n\nWhy This Moment Matters: Battle of Ruovesi was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.\n\nConsequences: The effects of Battle of Ruovesi extended beyond its immediate result. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-rautu",
+    "year": 1918,
+    "date": "1918-04-05",
+    "title": "Battle of Rautu",
+    "sub": "Part of Finnish Civil War",
+    "view": {
+      "center": [
+        60.547069,
+        30.216672
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Rautu",
+        "latlng": [
+          60.547069,
+          30.216672
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Rautu",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Rautu_station_1918.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Rautu",
+        "body": "The Battle of Rautu was a 1918 Finnish Civil War battle, fought in Rautu, Finland from 21 February to 5 April 1918 between the Finnish Whites and the Finnish Reds supported by the Russian Bolsheviks.\n\nWhy This Moment Matters: Battle of Rautu was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.\n\nConsequences: The effects of Battle of Rautu extended beyond its immediate result. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-helsinki",
+    "year": 1918,
+    "date": "1918-04-13",
+    "title": "Battle of Helsinki",
+    "sub": "Part of Finnish Civil War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Helsinki",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Baltic_Sea_Division_in_Helsinki_1918.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Helsinki",
+        "body": "The Battle of Helsinki was a 1918 Finnish Civil War battle, fought on 12–13 April by the German troops and Finnish Whites against the Finnish Reds in Helsinki, Finland. Together with the battles of Tampere and Vyborg, it was one of the three major urban battles of the Finnish Civil War. The Germans invaded Helsinki despite the opposition of Finnish White Army leader Carl Gustaf Emil Mannerheim who wanted to attack the capital city with his own troops after Tampere had fallen on 6 April. However, the Germans had their own interest in taking Helsinki as quickly as possible and then moving further east towards the Russian border. The city had been under Red control for 11 weeks since the beginning of the war."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Battle of Helsinki was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.\n\nConsequences: The effects of Battle of Helsinki extended beyond its immediate result. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-viipuri",
+    "year": 1918,
+    "date": "1918-04-24",
+    "title": "Battle of Viipuri",
+    "sub": "Part of Finnish Civil War",
+    "view": {
+      "center": [
+        60.706967,
+        28.748952
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Viipuri",
+        "latlng": [
+          60.706967,
+          28.748952
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Viipuri",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vyborg_prisoners_1918.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Viipuri",
+        "body": "The Battle of Viipuri was a 1918 Finnish Civil War battle, fought 24–29 April between the Finnish Whites and the Finnish Reds in Viipuri. Together with the Battle of Tampere and Battle of Helsinki, it was one of the three major urban battles of the Finnish Civil War. The battle is also remembered because of its bloody aftermath, as the Whites executed up to 400 non-aligned military personnel and civilians of Russian and associated ethnicities.\n\nWhy This Moment Matters: Battle of Viipuri was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.\n\nConsequences: The effects of Battle of Viipuri extended beyond its immediate result. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "6 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-h-meenlinna",
+    "year": 1918,
+    "date": "1918-04-26",
+    "title": "Battle of Hämeenlinna",
+    "sub": "Part of Finnish Civil War",
+    "view": {
+      "center": [
+        60.996799,
+        24.463589
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Hämeenlinna",
+        "latlng": [
+          60.996799,
+          24.463589
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Hämeenlinna",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/H%C3%A4meenlinna_red_prisoners.JPG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_H%C3%A4meenlinna",
+        "body": "The Battle of Hämeenlinna was a battle within the Finnish Civil War that took place in the city of Hämeenlinna, Finland on 26 April 1918.\n\nWhy This Moment Matters: Battle of Hämeenlinna was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.\n\nConsequences: The effects of Battle of Hämeenlinna extended beyond its immediate result. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "7 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vyborg-massacre",
+    "year": 1918,
+    "date": "1918-04-29",
+    "title": "Vyborg massacre",
+    "sub": "Part of Finnish Civil War",
+    "view": {
+      "center": [
+        60.709166666,
+        28.744166666
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Vyborg massacre",
+        "latlng": [
+          60.709166666,
+          28.744166666
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Vyborg massacre",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vyborg_massacre.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Viipuri_massacre",
+        "body": "The Viipuri massacre was the killing of approximately 360 to 420 Russians in the city of Viipuri during the Finnish Civil War in April–May 1918. The massacre took place during and after the Battle of Viipuri as the White Guards captured the city from the Red Guards. At least half of the victims were Russian soldiers and military personnel. The slain were mainly men and young boys, as young as 12-13 years old: nine out of ten were men fit for military service, according to Finnish propaganda. The White Guards were \"cleansing\" the city of Red Guards of whom 800 were slain; however, only a small minority of the killed Russians were affiliated with the Finnish labour movement."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Vyborg massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The Red and White camps fought over political power, social order, and the future direction of the new Finnish state.\n\nConsequences: The effects of Vyborg massacre extended beyond its immediate result. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "8 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1918,
+    "date": "1918-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Finnish Civil War",
+    "view": {
+      "center": [
+        62,
+        25
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "German troops supported the Whites, while Russian forces and the wider revolutionary struggle influenced the Reds.\n\nThe Human Cost: Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended.",
+        "stats": [
+          {
+            "val": "Approximately 36,000 dead, many from executions and camps",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1918,
+    "date": "1918-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Finnish Civil War ended and what followed",
+    "view": {
+      "center": [
+        62,
+        25
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Finnish Civil War",
+        "body": "The White victory secured a non-socialist government but left deep divisions that shaped Finnish politics for decades."
+      },
+      {
+        "title": "War Summary: Finnish Civil War",
+        "body": "The White victory secured a non-socialist government but left deep divisions that shaped Finnish politics for decades. Executions, prison camps, hunger, and political terror killed many people after the largest battles had ended.",
+        "stats": [
+          {
+            "val": "White victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Approximately 36,000 dead, many from executions and camps",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "The White victory secured a non-socialist government but left deep divisions that shaped Finnish politics for decades.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vyborg_massacre.jpg",
+        "cap": "The outcome and legacy of the Finnish Civil War"
+      }
+    ]
+  }
+]

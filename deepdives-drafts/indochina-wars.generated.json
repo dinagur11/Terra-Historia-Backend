@@ -1,0 +1,278 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1946,
+    "date": "1946-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Indochina Wars began",
+    "view": {
+      "center": [
+        16,
+        105
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From World War II to Indochina Wars",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+        "cap": "Historical connection: Collapse of French colonial authority",
+        "body": "World War II weakened France and destroyed the old colonial order in Indochina. Vietnamese independence movements then fought France, opening decades of connected regional and Cold War conflicts.",
+        "stats": [
+          {
+            "val": "World War II",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Decolonization",
+            "lbl": "Collapse of French colonial authority"
+          },
+          {
+            "val": "Indochina Wars",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "World War II weakened France and destroyed the old colonial order in Indochina. Vietnamese independence movements then fought France, opening decades of connected regional and Cold War conflicts.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Indochina Wars",
+        "body": "The collapse of French colonial authority and competing nationalist, communist, and anti-communist movements produced decades of interconnected warfare.\n\nThe Conflict Takes Shape: Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1946-1991",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg",
+        "cap": "Opening context for the Indochina Wars"
+      }
+    ]
+  },
+  {
+    "id": "war-in-southern-vietnam",
+    "year": 1945,
+    "date": "1945-09-13",
+    "title": "War in southern Vietnam",
+    "sub": "Part of Indochina Wars",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "War in southern Vietnam",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/War_in_southern_Vietnam_(1945%E2%80%931946)",
+        "body": "The 1945–1946 War in Southern Vietnam, codenamed Operation Masterdom by the British, and also known as the Southern Resistance War by the Vietnamese, was an armed conflict in southern Vietnam during which British-Indian and French forces fought to suppress Vietnamese independence movements, which included non-communist nationalists, Trotskyists, and the Stalinist-front Viet Minh, to take control of the southern half of the country. It began shortly after the end of World War II, specifically the unconditional surrender of Japan.\n\nWhy This Moment Matters: War in southern Vietnam was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.",
+        "stats": [
+          {
+            "val": "1945",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 4",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      },
+      {
+        "title": "Consequences",
+        "body": "The effects of War in southern Vietnam extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia. Its place in the wider campaign also influenced later military choices and political calculations."
+      }
+    ]
+  },
+  {
+    "id": "first-indochina-war",
+    "year": 1946,
+    "date": "1946-12-19",
+    "title": "First Indochina War",
+    "sub": "Part of Indochina Wars",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "First Indochina War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/First_Indochina_War_COLLAGE.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/First_Indochina_War",
+        "body": "The First Indochina War, known alternatively internationally as the French Indochina War, was fought in French Indochina between France and the Viet Minh and their respective allies, from 19 December 1946 until 11 August 1954. Most of the engagements of this conflict occurred in Vietnam.\n\nWhy This Moment Matters: First Indochina War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.\n\nConsequences: The effects of First Indochina War extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1946",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 4",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cambodian-civil-war",
+    "year": 1967,
+    "date": "1967-03-11",
+    "title": "Cambodian Civil War",
+    "sub": "Part of Indochina Wars",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Cambodian Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/11ACRCambodia1970_%28Colorized%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Cambodian_Civil_War",
+        "body": "The Cambodian Civil War was a civil war in Cambodia fought between the Khmer Rouge, supported by North Vietnam and China, against the government of the Kingdom of Cambodia and, after October 1970, the Khmer Republic, which had succeeded the kingdom after a coup, both supported by the United States and South Vietnam. The conflict was part of the Vietnam War.\n\nWhy This Moment Matters: Cambodian Civil War was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.\n\nConsequences: The effects of Cambodian Civil War extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1967",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 4",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "third-indochina-war",
+    "year": 1975,
+    "date": "1975-05-01",
+    "title": "Third Indochina War",
+    "sub": "Part of Indochina Wars",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Third Indochina War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Indochina_1979_map_de.svg/1280px-Indochina_1979_map_de.svg.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Third_Indochina_War",
+        "body": "The Third Indochina War was a series of interconnected military conflicts among the various communist factions over strategic influence in mainland Southeast Asia after communist victory in South Vietnam, Laos, and Cambodia in 1975. The conflict primarily started due to continued raids and incursions by the Khmer Rouge into Vietnamese territory that they sought to retake. These incursions would result in the Cambodian–Vietnamese War in which the newly unified Vietnam overthrew the Pol Pot regime and the Khmer Rouge, in turn ending the Cambodian genocide. Vietnam had installed a government led by many opponents of Pol Pot, most notably Hun Sen, a former Khmer Rouge commander. This led to Vietnam's occupation of Cambodia for over a decade. The Vietnamese push to completely destroy the Khmer Rouge led to them conducting border raids in Thailand against those who had provided sanctuary."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Third Indochina War was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.\n\nConsequences: The effects of Third Indochina War extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1975",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 4",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1990,
+    "date": "1990-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Indochina Wars",
+    "view": {
+      "center": [
+        16,
+        105
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "France, the United States, China, and the Soviet Union supplied or deployed forces, turning local struggles into international wars.\n\nThe Human Cost: Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia.",
+        "stats": [
+          {
+            "val": "Millions killed across several connected wars",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1991,
+    "date": "1991-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Indochina Wars ended and what followed",
+    "view": {
+      "center": [
+        16,
+        105
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Indochina Wars",
+        "body": "Colonial rule ended and communist governments prevailed in much of Indochina, but regional wars continued after the fall of Saigon."
+      },
+      {
+        "title": "War Summary: Indochina Wars",
+        "body": "Colonial rule ended and communist governments prevailed in much of Indochina, but regional wars continued after the fall of Saigon. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia.",
+        "stats": [
+          {
+            "val": "Communist and anti-colonial victories, followed by regional conflict",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Millions killed across several connected wars",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Colonial rule ended and communist governments prevailed in much of Indochina, but regional wars continued after the fall of Saigon.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Indochina_1979_map_de.svg/1280px-Indochina_1979_map_de.svg.png",
+        "cap": "The outcome and legacy of the Indochina Wars"
+      }
+    ]
+  }
+]

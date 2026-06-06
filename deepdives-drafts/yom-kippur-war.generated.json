@@ -1,0 +1,533 @@
+[
+  {
+    "id": "operation-badr",
+    "year": 1973,
+    "date": "1973-01-01",
+    "title": "Operation Badr",
+    "sub": "Israeli survival, recovery, and counteroffensive front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From War of Attrition to Yom Kippur War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mastvic.jpg",
+        "cap": "Historical connection: Failed settlement and renewed attack",
+        "body": "The War of Attrition ended without returning the territories captured in 1967 or producing a political settlement. Egypt and Syria concluded that another major offensive was necessary to break the deadlock. Their surprise attack on Yom Kippur in 1973 began the next war.",
+        "stats": [
+          {
+            "val": "War of Attrition",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Failed settlement and renewed attack"
+          },
+          {
+            "val": "Yom Kippur War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The War of Attrition ended without returning the territories captured in 1967 or producing a political settlement. Egypt and Syria concluded that another major offensive was necessary to break the deadlock. Their surprise attack on Yom Kippur in 1973 began the next war.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Operation Badr",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Egyptianbridge.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Badr_(1973)",
+        "body": "Operation Badr, also known as Plan Badr, was an Egyptian military offensive and operation across the Suez Canal that destroyed the Bar-Lev Line, a chain of Israeli fortifications along the frontline of the Israeli-occupied Sinai Peninsula, on 6 October 1973. It was launched in conjunction with a Syrian military offensive against the Israeli-occupied Golan Heights, triggering the Yom Kippur War. During the War of Attrition, which preceded Operation Badr, both Egypt and Syria had been seeking to recover the territories that Israel had captured from them during the 1967 Arab–Israeli War. Operation Badr was the Egyptian crossing of the Suez Canal, and from Israel's perspective it was the shock that shattered confidence after 1967.",
+        "stats": [
+          {
+            "val": "6 Oct 1973",
+            "lbl": "Egypt crosses canal"
+          },
+          {
+            "val": "~80,000 Egyptians",
+            "lbl": "Initial crossing force, approx."
+          },
+          {
+            "val": "Bar-Lev Line",
+            "lbl": "Israeli defenses breached"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It forced Israel into an emergency mobilization and changed the psychology of the conflict.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "Operation Badr mattered because it forced Israel to make choices about recovering from strategic surprise and preventing Egyptian-Syrian gains from becoming permanent. It forced Israel into an emergency mobilization and changed the psychology of the conflict.",
+        "stats": [
+          {
+            "val": "6 Oct 1973",
+            "lbl": "Egypt crosses canal"
+          },
+          {
+            "val": "~80,000 Egyptians",
+            "lbl": "Initial crossing force, approx."
+          },
+          {
+            "val": "Bar-Lev Line",
+            "lbl": "Israeli defenses breached"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It forced Israel into an emergency mobilization and changed the psychology of the conflict.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-the-chinese-farm",
+    "year": 1973,
+    "date": "1973-01-01",
+    "title": "Battle of the Chinese Farm",
+    "sub": "Israeli survival, recovery, and counteroffensive front",
+    "view": {
+      "center": [
+        30.45,
+        32.4
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of the Chinese Farm",
+        "latlng": [
+          30.45,
+          32.4
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of the Chinese Farm",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Destroyed_tank_of_the_Egyptian_army_on_the_Sinai%2C_1973_%282%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_the_Chinese_Farm",
+        "body": "The Battle of the Chinese Farm took place during October 15 to October 17, 1973 between the Egyptian Army and the Israel Defense Forces (IDF), as part of the Yom Kippur War. It was fought in the Sinai Peninsula, north of the Great Bitter Lake and just east of the Suez Canal, near an Egyptian agricultural research station. The area was known to the Israeli military as the Chinese Farm – a misnomer resulting from the research station's use of Japanese-made equipment, with Japanese writing on the machinery mistaken by Israeli observers for Chinese. The Chinese Farm was a brutal fight during Israel's effort to cross the canal and reverse the Egyptian offensive.",
+        "stats": [
+          {
+            "val": "15-17 Oct 1973",
+            "lbl": "Battle period"
+          },
+          {
+            "val": "Canal crossing",
+            "lbl": "Israeli counteroffensive hinge"
+          },
+          {
+            "val": "Heavy armor losses",
+            "lbl": "Brutal close combat"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It became one of the war's hardest battles and opened the road to Israel's counterstroke west of the canal.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "Battle of the Chinese Farm mattered because it forced Israel to make choices about recovering from strategic surprise and preventing Egyptian-Syrian gains from becoming permanent. It became one of the war's hardest battles and opened the road to Israel's counterstroke west of the canal.",
+        "stats": [
+          {
+            "val": "15-17 Oct 1973",
+            "lbl": "Battle period"
+          },
+          {
+            "val": "Canal crossing",
+            "lbl": "Israeli counteroffensive hinge"
+          },
+          {
+            "val": "Heavy armor losses",
+            "lbl": "Brutal close combat"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It became one of the war's hardest battles and opened the road to Israel's counterstroke west of the canal.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ofira-air-battle",
+    "year": 1973,
+    "date": "1973-10-06",
+    "title": "Ofira Air Battle",
+    "sub": "Israeli survival, recovery, and counteroffensive front",
+    "view": {
+      "center": [
+        27.91222222,
+        34.32972222
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Ofira Air Battle",
+        "latlng": [
+          27.91222222,
+          34.32972222
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ofira Air Battle",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ofira_Air_Battle.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Ofira_Air_Battle",
+        "body": "The Ofira Air Battle was one of the first air battles of the Yom Kippur War. On 6 October 1973, Egypt launched a massive surprise attack on Israel that included over 200 Egyptian aircraft participating in an opening airstrike. The Israeli Air Force (IAF) Base Ofira at Sharm el-Sheikh came under attack by 20 Egyptian Air Force MiG-17s and their eight MiG-21 escorts. Not realizing the extent of the attack, Israel quickly scrambled two F-4E Phantom II fighter jets. The Israeli pilots proceeded to jettison their external fuel tanks and engage all 28 MiGs in aerial combat. In just under six minutes, seven Egyptian MiGs had been shot down and the remaining Egyptian planes disengaged and returned to Egypt. The Israeli Phantoms returned to their base. The Egyptians dispute the Israeli account of the battle, but they never did provide their own version of what happened. One of the Egyptian pilots killed was Egyptian President Anwar Sadat's half-brother, Atef. At Ofira, Israeli aircraft defended the southern Sinai against Egyptian attack in the opening hours.",
+        "stats": [
+          {
+            "val": "2 Phantoms",
+            "lbl": "Israeli interceptors"
+          },
+          {
+            "val": "20+ Egyptian aircraft",
+            "lbl": "Attacking force, approx."
+          },
+          {
+            "val": "Opening hours",
+            "lbl": "Sinai air defense"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that even under surprise, quick local action could blunt enemy momentum.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "Ofira Air Battle mattered because it forced Israel to make choices about recovering from strategic surprise and preventing Egyptian-Syrian gains from becoming permanent. It showed that even under surprise, quick local action could blunt enemy momentum.",
+        "stats": [
+          {
+            "val": "2 Phantoms",
+            "lbl": "Israeli interceptors"
+          },
+          {
+            "val": "20+ Egyptian aircraft",
+            "lbl": "Attacking force, approx."
+          },
+          {
+            "val": "Opening hours",
+            "lbl": "Sinai air defense"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that even under surprise, quick local action could blunt enemy momentum.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-latakia",
+    "year": 1973,
+    "date": "1973-10-07",
+    "title": "Battle of Latakia",
+    "sub": "Israeli survival, recovery, and counteroffensive front",
+    "view": {
+      "center": [
+        35.52105,
+        35.726114
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Latakia",
+        "latlng": [
+          35.52105,
+          35.726114
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Latakia",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Battle_Latakia_en.svg/960px-Battle_Latakia_en.svg.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Latakia",
+        "body": "The Battle of Latakia was a small but revolutionary naval action of the Yom Kippur War, fought on 7 October 1973 between Israel and Syria. It was the first naval battle in history to see combat between surface-to-surface missile-equipped missile boats and the use of electronic deception. Latakia was a major Israeli naval victory using missile boats and electronic warfare.\n\nWhy It Matters: Battle of Latakia mattered because it forced Israel to make choices about recovering from strategic surprise and preventing Egyptian-Syrian gains from becoming permanent. It proved the effectiveness of Israel's modern navy and protected the coast from Syrian naval pressure.",
+        "stats": [
+          {
+            "val": "7 Oct 1973",
+            "lbl": "Naval battle date"
+          },
+          {
+            "val": "Missile boats",
+            "lbl": "First major missile-boat clash"
+          },
+          {
+            "val": "No Israeli losses",
+            "lbl": "Israeli naval success"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It proved the effectiveness of Israel's modern navy and protected the coast from Syrian naval pressure.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-model-5",
+    "year": 1973,
+    "date": "1973-10-07",
+    "title": "Operation Model 5",
+    "sub": "Israeli survival, recovery, and counteroffensive front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Model 5",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/Syrian_Arab_Army%27s_%22Kub%22_Air_Defense_System_in_Yom_Kippur_War%2C_1973.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Model_5",
+        "body": "Operation Model 5 is the name of an Israeli Air Force operation, and the common name for the ensuing anti-aircraft battle, which took place over the Golan Heights on the October 7, 1973, the second day of the Yom Kippur War. Operation Model 5 reflected Israel's early effort to strike Syrian air defenses on the Golan front.\n\nWhy It Matters: Operation Model 5 mattered because it forced Israel to make choices about recovering from strategic surprise and preventing Egyptian-Syrian gains from becoming permanent. It showed the difficulty of fighting under dense surface-to-air missile coverage.",
+        "stats": [
+          {
+            "val": "7 Oct 1973",
+            "lbl": "Air operation"
+          },
+          {
+            "val": "SAM threat",
+            "lbl": "Syrian missile defenses"
+          },
+          {
+            "val": "Costly strike",
+            "lbl": "Air force learns hard limits"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed the difficulty of fighting under dense surface-to-air missile coverage.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-baltim",
+    "year": 1973,
+    "date": "1973-10-09",
+    "title": "Battle of Baltim",
+    "sub": "Israeli survival, recovery, and counteroffensive front",
+    "view": {
+      "center": [
+        31.65513611,
+        31.45729167
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Baltim",
+        "latlng": [
+          31.65513611,
+          31.45729167
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Baltim",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battle_baltim_en.svg/960px-Battle_baltim_en.svg.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Baltim",
+        "body": "The Battle of Baltim was fought between the Israeli Navy and the Egyptian Navy on 8–9 October, 1973, during the Yom Kippur War. It took place off the Nile Delta, between Baltim and Damietta. The battle began when six Israeli Sa'ar-class missile boats heading toward Port Said were engaged by four Egyptian Osa-class missile boats coming from Alexandria. It lasted about forty minutes. The Osas fired Styx missiles, missed, and began to withdraw back to Alexandria when the Israelis began to give chase. Two Osas were sunk by Gabriel missiles within a span of ten minutes, and a third was sunk twenty-five minutes later. The fourth made it back to base. Baltim was another naval clash that strengthened Israeli confidence at sea.",
+        "stats": [
+          {
+            "val": "8-9 Oct 1973",
+            "lbl": "Naval battle"
+          },
+          {
+            "val": "Mediterranean",
+            "lbl": "Egyptian-Israeli naval clash"
+          },
+          {
+            "val": "Gabriel missiles",
+            "lbl": "Israeli weapon advantage"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It helped secure Israeli maritime freedom during a war fought mainly on land and in the air.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "Battle of Baltim mattered because it forced Israel to make choices about recovering from strategic surprise and preventing Egyptian-Syrian gains from becoming permanent. It helped secure Israeli maritime freedom during a war fought mainly on land and in the air.",
+        "stats": [
+          {
+            "val": "8-9 Oct 1973",
+            "lbl": "Naval battle"
+          },
+          {
+            "val": "Mediterranean",
+            "lbl": "Egyptian-Israeli naval clash"
+          },
+          {
+            "val": "Gabriel missiles",
+            "lbl": "Israeli weapon advantage"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It helped secure Israeli maritime freedom during a war fought mainly on land and in the air.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "valley-of-tears",
+    "year": 1973,
+    "date": "1973-10-09",
+    "title": "Valley of Tears",
+    "sub": "Israeli survival, recovery, and counteroffensive front",
+    "view": {
+      "center": [
+        33.1772,
+        35.8017
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Valley of Tears",
+        "latlng": [
+          33.1772,
+          35.8017
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Valley of Tears",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Destroyed_Syrian_T-62_with_Fallen_Crew_Member_Somewhere_in_the_Golan_Sector%2C_Yom_Kippur_War%2C_8_October_1973.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Valley_of_Tears",
+        "body": "The Valley of Tears is the name given to an area in the Golan Heights after it became the site of a major battle in 1973 during the Yom Kippur War, known as the Valley of Tears Battle, which was fought from 6 October to 9 October. Although massively outnumbered, the Israeli forces managed to hold their positions and on the fourth day of the battle the Syrians withdrew, just as the Israeli defences were almost at the point of collapse. The Valley of Tears was the desperate armored defense of the northern Golan Heights against Syrian forces.\n\nWhy It Matters: Valley of Tears mattered because it forced Israel to make choices about recovering from strategic surprise and preventing Egyptian-Syrian gains from becoming permanent. It became a symbol of Israeli resilience under surprise attack and helped prevent a Syrian breakthrough.",
+        "stats": [
+          {
+            "val": "~100 Israeli tanks",
+            "lbl": "Defending force, approx."
+          },
+          {
+            "val": "~500 Syrian tanks",
+            "lbl": "Attacking force, approx."
+          },
+          {
+            "val": "Golan Heights",
+            "lbl": "Northern front saved"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It became a symbol of Israeli resilience under surprise attack and helped prevent a Syrian breakthrough.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-abirey-halev",
+    "year": 1973,
+    "date": "1973-10-23",
+    "title": "Operation Abirey-Halev",
+    "sub": "Israeli survival, recovery, and counteroffensive front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Abirey-Halev",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israeli_Tanks_Cross_the_Suez_Canal_-_Flickr_-_Israel_Defense_Forces.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Abirey-Halev",
+        "body": "Operation Abirey-Halev or Operation Abirey-Lev also known as Operation Stouthearted Men and Operation Valiant, code-named Operation Gazelle, was an Israeli operation that took place in the center of the Suez Canal on 15–23 October 1973 during the Yom Kippur War. Operation Abirey-Halev was Israel's canal-crossing counteroffensive under Ariel Sharon and other commanders.\n\nWhy It Matters: Operation Abirey-Halev mattered because it forced Israel to make choices about recovering from strategic surprise and preventing Egyptian-Syrian gains from becoming permanent. It shifted the southern front, encircled Egypt's Third Army, and gave Israel leverage for the ceasefire.",
+        "stats": [
+          {
+            "val": "16 Oct 1973",
+            "lbl": "Canal crossing begins"
+          },
+          {
+            "val": "West bank of Suez",
+            "lbl": "Israeli forces cross into Egypt"
+          },
+          {
+            "val": "Third Army",
+            "lbl": "Egyptian force encircled"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It shifted the southern front, encircled Egypt's Third Army, and gave Israel leverage for the ceasefire.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: Yom Kippur War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israeli_Tanks_Cross_the_Suez_Canal_-_Flickr_-_Israel_Defense_Forces.jpg",
+        "cap": "The end and legacy of the Yom Kippur War",
+        "body": "Israel recovered from the surprise attack and gained battlefield leverage, but Egypt restored political credibility. The war ultimately opened the path to Egyptian-Israeli peace.",
+        "stats": [
+          {
+            "val": "2,656 killed",
+            "lbl": "Israel casualties, approximate"
+          },
+          {
+            "val": "~8,000-18,000 killed",
+            "lbl": "Arab coalition casualties, approximate"
+          },
+          {
+            "val": "Inconclusive military result",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel recovered from the surprise attack and gained battlefield leverage, but Egypt restored political credibility. The war ultimately opened the path to Egyptian-Israeli peace.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

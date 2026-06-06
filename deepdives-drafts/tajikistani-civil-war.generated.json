@@ -1,0 +1,241 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1992,
+    "date": "1992-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Tajikistani Civil War began",
+    "view": {
+      "center": [
+        39,
+        71
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Transnistria War to Tajikistani Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
+        "cap": "Historical connection: Post-Soviet state collapse and factional conflict",
+        "body": "The Soviet collapse removed the institutions that had contained regional and ideological competition in Tajikistan. Rival factions then fought for control of the newly independent state.",
+        "stats": [
+          {
+            "val": "Transnistria War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "Post-Soviet state collapse and factional conflict"
+          },
+          {
+            "val": "Tajikistani Civil War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Soviet collapse removed the institutions that had contained regional and ideological competition in Tajikistan. Rival factions then fought for control of the newly independent state.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Tajikistani Civil War",
+        "body": "Political competition after Soviet collapse split Tajikistan among regional, former communist, democratic, and Islamist factions.\n\nThe Conflict Takes Shape: The war determined control of the new state and the political place of opposition movements and regional communities. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1992-1997",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The war determined control of the new state and the political place of opposition movements and regional communities.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-hisar",
+    "year": 1992,
+    "date": "1992-09-20",
+    "title": "Operation Hisar",
+    "sub": "Part of Tajikistani Civil War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Hisar",
+        "img": "",
+        "cap": "",
+        "body": "Operation Hisar marked an important episode in the Tajikistani Civil War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Operation Hisar was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war determined control of the new state and the political place of opposition movements and regional communities.\n\nConsequences: The effects of Operation Hisar extended beyond its immediate result. Fighting, persecution, and economic collapse killed tens of thousands and displaced hundreds of thousands. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1992",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 3",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-at-the-12th-outpost-of-the-moscow-border-detachment",
+    "year": 1993,
+    "date": "1993-07-13",
+    "title": "Battle at the 12th outpost of the Moscow border detachment",
+    "sub": "Part of Tajikistani Civil War",
+    "view": {
+      "center": [
+        37.646166666,
+        70.19975
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle at the 12th outpost of the Moscow border detachment",
+        "latlng": [
+          37.646166666,
+          70.19975
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle at the 12th outpost of the Moscow border detachment",
+        "img": "",
+        "cap": "",
+        "body": "Battle at the 12th outpost of the Moscow border detachment marked an important episode in the Tajikistani Civil War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Battle at the 12th outpost of the Moscow border detachment was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war determined control of the new state and the political place of opposition movements and regional communities.\n\nConsequences: The effects of Battle at the 12th outpost of the Moscow border detachment extended beyond its immediate result. Fighting, persecution, and economic collapse killed tens of thousands and displaced hundreds of thousands. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1993",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 3",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agreement-about-public-consent-in-tajikistan",
+    "year": 1996,
+    "date": "1996-03-09",
+    "title": "Agreement about public consent in Tajikistan",
+    "sub": "Part of Tajikistani Civil War",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Agreement about public consent in Tajikistan",
+        "img": "",
+        "cap": "",
+        "body": "Agreement about public consent in Tajikistan marked an important episode in the Tajikistani Civil War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Agreement about public consent in Tajikistan was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war determined control of the new state and the political place of opposition movements and regional communities.\n\nConsequences: The effects of Agreement about public consent in Tajikistan extended beyond its immediate result. Fighting, persecution, and economic collapse killed tens of thousands and displaced hundreds of thousands. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1996",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 3",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1996,
+    "date": "1996-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Tajikistani Civil War",
+    "view": {
+      "center": [
+        39,
+        71
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "Russia and Uzbekistan backed the government, while opposition forces operated from Afghanistan and peace talks involved the UN and Iran.\n\nThe Human Cost: Fighting, persecution, and economic collapse killed tens of thousands and displaced hundreds of thousands.",
+        "stats": [
+          {
+            "val": "Approximately 50,000-100,000 killed",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1997,
+    "date": "1997-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Tajikistani Civil War ended and what followed",
+    "view": {
+      "center": [
+        39,
+        71
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Tajikistani Civil War",
+        "body": "A 1997 peace agreement integrated parts of the opposition into government, though power later became increasingly centralized."
+      },
+      {
+        "title": "War Summary: Tajikistani Civil War",
+        "body": "A 1997 peace agreement integrated parts of the opposition into government, though power later became increasingly centralized. Fighting, persecution, and economic collapse killed tens of thousands and displaced hundreds of thousands.",
+        "stats": [
+          {
+            "val": "Negotiated settlement favoring the government",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Approximately 50,000-100,000 killed",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "A 1997 peace agreement integrated parts of the opposition into government, though power later became increasingly centralized.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

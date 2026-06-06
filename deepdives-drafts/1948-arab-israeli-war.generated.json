@@ -1,0 +1,745 @@
+[
+  {
+    "id": "1947-1948-civil-war-in-mandatory-palestine",
+    "year": 1947,
+    "date": "1947-11-30",
+    "title": "The Civil War Begins",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From World War II to 1948 Arab-Israeli War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+        "cap": "Historical connection: End of the British Mandate",
+        "body": "World War II transformed the political future of Mandatory Palestine. The Holocaust intensified demands for a Jewish state, Britain withdrew from the mandate, and the United Nations proposed partition. The declaration of Israel and rejection of partition by neighboring Arab states led directly to war in 1948.",
+        "stats": [
+          {
+            "val": "World War II",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "End of the British Mandate"
+          },
+          {
+            "val": "1948 Arab-Israeli War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "World War II transformed the political future of Mandatory Palestine. The Holocaust intensified demands for a Jewish state, Britain withdrew from the mandate, and the United Nations proposed partition. The declaration of Israel and rejection of partition by neighboring Arab states led directly to war in 1948.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Civil War Begins",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PikiWiki_Israel_20804_The_Palmach.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/1947%E2%80%931948_civil_war_in_Mandatory_Palestine",
+        "body": "After the United Nations voted to partition Mandatory Palestine into Jewish and Arab states, Arab leaders rejected the plan and fighting began almost immediately. Jewish communities, roads, and convoys came under attack while the Yishuv prepared to defend the future state before the British withdrawal. The Haganah moved from local defense toward coordinated operations, while the Palmach protected isolated settlements and vital routes. From the Israeli point of view, this was the opening struggle for national survival before Israel had even declared independence.\n\nWhy It Matters: The civil-war phase forced the Yishuv to build a functioning army under fire and demonstrated that the Jewish state would have to be secured militarily, not merely approved diplomatically. From the Israeli perspective, this event helped determine whether the new state could defend its population, connect its territory, and emerge from invasion as a functioning sovereign country.",
+        "stats": [
+          {
+            "val": "29 Nov 1947",
+            "lbl": "UN partition vote"
+          },
+          {
+            "val": "Resolution 181",
+            "lbl": "Partition recommendation"
+          },
+          {
+            "val": "Before statehood",
+            "lbl": "Jewish forces fought without a sovereign state"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "The civil-war phase forced the Yishuv to build a functioning army under fire and demonstrated that the Jewish state would have to be secured militarily, not merely approved diplomatically.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-for-jerusalem",
+    "year": 1947,
+    "date": "1947-12-01",
+    "title": "The Battle for Jerusalem",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Battle for Jerusalem",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Porat_Yosef_attack.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_for_Jerusalem",
+        "body": "Jerusalem was home to roughly 100,000 Jews, but the road connecting it to the coastal plain ran through hostile terrain and was repeatedly blocked by Arab forces. Jewish convoys carrying food, fuel, ammunition, and medicine suffered ambushes and heavy losses. Operations Nachshon and Maccabi fought to reopen the road, while the improvised Burma Road later bypassed the Arab Legion position at Latrun. For Israel, keeping Jewish Jerusalem alive became one of the war's most urgent military and national missions.\n\nWhy It Matters: Holding and supplying Jewish Jerusalem prevented the city's surrender and made improvised logistics, convoy defense, and the Burma Road central symbols of Israeli endurance. From the Israeli perspective, this event helped determine whether the new state could defend its population, connect its territory, and emerge from invasion as a functioning sovereign country.",
+        "stats": [
+          {
+            "val": "~100,000 Jews",
+            "lbl": "Population under siege, approx."
+          },
+          {
+            "val": "Burma Road",
+            "lbl": "Emergency supply route"
+          },
+          {
+            "val": "Operation Nachshon",
+            "lbl": "First major road-opening offensive"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "Holding and supplying Jewish Jerusalem prevented the city's surrender and made improvised logistics, convoy defense, and the Burma Road central symbols of Israeli endurance.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "independence-and-arab-invasion",
+    "year": 1948,
+    "date": "1948-05-14",
+    "title": "Independence and Arab Invasion",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Independence and Arab Invasion",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tel_Aviv-Yafo_%28997008136796005171%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War",
+        "body": "David Ben-Gurion declared the establishment of the State of Israel on 14 May 1948 as the British Mandate ended. Within hours, armies from Egypt, Transjordan, Syria, Lebanon, and Iraq entered the new state or the former Mandate territory. Israel began its independence facing a multi-front invasion while still merging the Haganah, Palmach, Irgun, and Lehi into a national army. From the Israeli point of view, the war was no longer only an intercommunal struggle: it was a fight to prevent the destruction of the newly declared Jewish state.\n\nWhy It Matters: Israel survived the moment when its neighbors expected the new state to be defeated quickly, turning a declaration of independence into a durable political and military reality. From the Israeli perspective, this event helped determine whether the new state could defend its population, connect its territory, and emerge from invasion as a functioning sovereign country.",
+        "stats": [
+          {
+            "val": "14 May 1948",
+            "lbl": "Israel declares independence"
+          },
+          {
+            "val": "5 Arab armies",
+            "lbl": "Entered the war"
+          },
+          {
+            "val": "26 May 1948",
+            "lbl": "IDF formally established"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "Israel survived the moment when its neighbors expected the new state to be defeated quickly, turning a declaration of independence into a durable political and military reality.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battles-of-latrun",
+    "year": 1948,
+    "date": "1948-05-24",
+    "title": "Battles of Latrun",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        31.84,
+        34.98
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Latrun",
+        "latlng": [
+          31.83844167,
+          34.98075278
+        ],
+        "type": "major"
+      },
+      {
+        "label": "Jerusalem",
+        "latlng": [
+          31.778,
+          35.235
+        ],
+        "type": "minor"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battles of Latrun",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/PikiWiki_Israel_71510_armored_commemoration_in_latrun.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battles_of_Latrun_(1948)",
+        "body": "From the Israeli perspective, Latrun was one of the most painful and urgent struggles of the war. The Arab Legion held the fortress and junction controlling the main road from the coastal plain to Jerusalem. Jewish Jerusalem was isolated, short of food and supplies, and politically central to the new state. Israeli assaults on Latrun failed at heavy cost, including losses among newly arrived immigrants rushed into battle. Yet the failures forced Israel to improvise: engineers and soldiers opened the Burma Road, a bypass route that helped break the siege and keep Jewish Jerusalem alive. Although repeated assaults failed to capture the fortress, Israeli engineers and troops solved the strategic problem by opening the Burma Road around it.",
+        "stats": [
+          {
+            "val": "5 assaults",
+            "lbl": "Israeli attempts, commonly counted"
+          },
+          {
+            "val": "Arab Legion",
+            "lbl": "Defended Latrun"
+          },
+          {
+            "val": "Burma Road",
+            "lbl": "Bypassed the blockade"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It preserved the fight for Jewish Jerusalem and pushed Israel to improvise under extreme pressure.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "It preserved the fight for Jewish Jerusalem and pushed Israel to improvise under extreme pressure. Although repeated assaults failed to capture the fortress, Israeli engineers and troops solved the strategic problem by opening the Burma Road around it.",
+        "stats": [
+          {
+            "val": "5 assaults",
+            "lbl": "Israeli attempts, commonly counted"
+          },
+          {
+            "val": "Arab Legion",
+            "lbl": "Defended Latrun"
+          },
+          {
+            "val": "Burma Road",
+            "lbl": "Bypassed the blockade"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It preserved the fight for Jewish Jerusalem and pushed Israel to improvise under extreme pressure.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-pleshet",
+    "year": 1948,
+    "date": "1948-05-29",
+    "title": "Operation Pleshet",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        31.76,
+        34.66
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Isdud / Ashdod area",
+        "latlng": [
+          31.76415,
+          34.66641389
+        ],
+        "type": "major"
+      },
+      {
+        "label": "Tel Aviv",
+        "latlng": [
+          32.0853,
+          34.7818
+        ],
+        "type": "minor"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Pleshet",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Areal_View_Of_Isdud_Pre_1935.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Pleshet",
+        "body": "Operation Pleshet was fought from an Israeli point of view as an emergency action to stop the Egyptian Army from driving north along the coast. In late May 1948, Egyptian forces had advanced through the southern coastal plain and reached the Isdud area, close enough to threaten the road toward Tel Aviv and the center of the country. Israeli attacks did not fully destroy the Egyptian force, but they helped halt its advance. This mattered enormously: a continued Egyptian push north could have split Israeli territory and threatened the new state's most important urban center. The operation did not destroy the Egyptian army, but stopping its northward momentum helped protect Tel Aviv and bought Israel time to organize stronger forces.",
+        "stats": [
+          {
+            "val": "29 May 1948",
+            "lbl": "Emergency counterattack"
+          },
+          {
+            "val": "Ad Halom",
+            "lbl": "Egyptian advance halted nearby"
+          },
+          {
+            "val": "Tel Aviv",
+            "lbl": "Strategic city protected"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It helped prevent Egyptian forces from reaching Israel's central coastal heartland.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "It helped prevent Egyptian forces from reaching Israel's central coastal heartland. The operation did not destroy the Egyptian army, but stopping its northward momentum helped protect Tel Aviv and bought Israel time to organize stronger forces.",
+        "stats": [
+          {
+            "val": "29 May 1948",
+            "lbl": "Emergency counterattack"
+          },
+          {
+            "val": "Ad Halom",
+            "lbl": "Egyptian advance halted nearby"
+          },
+          {
+            "val": "Tel Aviv",
+            "lbl": "Strategic city protected"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It helped prevent Egyptian forces from reaching Israel's central coastal heartland.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-danny",
+    "year": 1948,
+    "date": "1948-07-09",
+    "title": "Operation Danny",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        31.95,
+        34.95
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Lydda / Lod",
+        "latlng": [
+          31.95,
+          34.9
+        ],
+        "type": "major"
+      },
+      {
+        "label": "Ramle",
+        "latlng": [
+          31.93,
+          34.87
+        ],
+        "type": "minor"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Danny",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/LyddaAirportCapture_%28cropped%29.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Dani",
+        "body": "From the Israeli point of view, Operation Danny was about securing the vulnerable heart of the new state. Tel Aviv, the coastal plain, and the road toward Jerusalem were under pressure, while Arab Legion positions and Palestinian irregular forces threatened movement between Jewish population centers. In July 1948, after the first truce ended, Israeli forces moved against Lydda and Ramle and tried to push eastward. The operation opened space around the Tel Aviv-Jerusalem corridor, but it also became one of the most controversial episodes of the war because of the flight and expulsion of many Arab residents from Lydda and Ramle. For Israel, the military gain was strategic depth; for Palestinians, it became part of the wider displacement remembered as the Nakba. The offensive was Israel's largest operation to that point and helped widen the protected corridor between the coastal heartland and Jerusalem.",
+        "stats": [
+          {
+            "val": "July 1948",
+            "lbl": "Ten Days fighting"
+          },
+          {
+            "val": "Lydda and Ramle",
+            "lbl": "Major objectives captured"
+          },
+          {
+            "val": "~6,000 troops",
+            "lbl": "Israeli force, approx."
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It strengthened Israel's central front and shaped both Israeli security geography and Palestinian memory of 1948.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "It strengthened Israel's central front and shaped both Israeli security geography and Palestinian memory of 1948. The offensive was Israel's largest operation to that point and helped widen the protected corridor between the coastal heartland and Jerusalem.",
+        "stats": [
+          {
+            "val": "July 1948",
+            "lbl": "Ten Days fighting"
+          },
+          {
+            "val": "Lydda and Ramle",
+            "lbl": "Major objectives captured"
+          },
+          {
+            "val": "~6,000 troops",
+            "lbl": "Israeli force, approx."
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It strengthened Israel's central front and shaped both Israeli security geography and Palestinian memory of 1948.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-yoav",
+    "year": 1948,
+    "date": "1948-10-15",
+    "title": "Operation Yoav",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        31.25,
+        34.78
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Beersheba",
+        "latlng": [
+          31.252,
+          34.791
+        ],
+        "type": "major"
+      },
+      {
+        "label": "Negev front",
+        "latlng": [
+          31,
+          34.7
+        ],
+        "type": "minor"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Yoav",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Beersheba_1948.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Yoav",
+        "body": "Operation Yoav was Israel's major October 1948 offensive in the south. Its goal was to break Egyptian pressure, reopen contact with isolated Israeli communities in the Negev, and shift the war from survival to initiative. Israeli forces attacked Egyptian positions across the southern front, opened corridors, and captured Beersheba. From the Israeli point of view, Yoav proved that the IDF had become more coordinated and capable than it had been in May. It also helped secure the Negev as part of Israel's future territory. The operation shifted the southern front in Israel's favor and opened the way toward Beersheba and the wider Negev.\n\nWhy It Matters: It shifted the southern war in Israel's favor and helped anchor Israeli control of the Negev. The operation shifted the southern front in Israel's favor and opened the way toward Beersheba and the wider Negev.",
+        "stats": [
+          {
+            "val": "15-22 Oct 1948",
+            "lbl": "Main offensive"
+          },
+          {
+            "val": "Beersheba",
+            "lbl": "Captured by Israeli forces"
+          },
+          {
+            "val": "Negev",
+            "lbl": "Connection restored"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It shifted the southern war in Israel's favor and helped anchor Israeli control of the Negev.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-hiram",
+    "year": 1948,
+    "date": "1948-10-29",
+    "title": "Operation Hiram",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        33,
+        35.45
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Upper Galilee",
+        "latlng": [
+          33,
+          35.45
+        ],
+        "type": "major"
+      },
+      {
+        "label": "Safed",
+        "latlng": [
+          32.965,
+          35.498
+        ],
+        "type": "minor"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Hiram",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Saasaa_1948.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Hiram",
+        "body": "Operation Hiram was Israel's late October offensive in the Upper Galilee. Israeli commanders aimed to remove the remaining Arab Liberation Army presence, secure northern Jewish communities, and end the threat of a hostile enclave near the Lebanese border. The operation moved quickly and brought the Galilee under Israeli control. From the Israeli viewpoint, this secured the northern frontier; for many Arab communities, it meant displacement, flight, and a permanent change in the region's demography. In roughly sixty hours, Israeli forces secured the Upper Galilee and pushed the Arab Liberation Army away from Israel's northern communities.\n\nWhy It Matters: It secured Israel's northern territory before the final armistice map took shape. In roughly sixty hours, Israeli forces secured the Upper Galilee and pushed the Arab Liberation Army away from Israel's northern communities.",
+        "stats": [
+          {
+            "val": "29-31 Oct 1948",
+            "lbl": "Rapid offensive"
+          },
+          {
+            "val": "~60 hours",
+            "lbl": "Operation duration"
+          },
+          {
+            "val": "Upper Galilee",
+            "lbl": "Secured by Israel"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It secured Israel's northern territory before the final armistice map took shape.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-horev",
+    "year": 1948,
+    "date": "1948-12-22",
+    "title": "Operation Horev",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        30.8,
+        34.5
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Operation Horev - Negev front",
+        "latlng": [
+          30.8,
+          34.5
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Horev",
+        "img": "",
+        "cap": "",
+        "body": "Operation Horev was Israel's major winter offensive against the Egyptian army in the Negev. Israeli forces attacked fortified positions, cut supply routes, and maneuvered around Egyptian units, with some troops briefly crossing into Sinai before international pressure led them to withdraw. The operation broke Egypt's ability to continue offensive action and placed Israel in a strong position for armistice negotiations.\n\nWhy It Matters: Operation Horev transformed the southern front from an Egyptian threat into an Israeli strategic advantage and pushed Egypt toward armistice negotiations.",
+        "stats": [
+          {
+            "val": "22 Dec 1948",
+            "lbl": "Offensive begins"
+          },
+          {
+            "val": "Negev and Sinai",
+            "lbl": "Main theater"
+          },
+          {
+            "val": "Egyptian army",
+            "lbl": "Driven toward armistice"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "Operation Horev transformed the southern front from an Egyptian threat into an Israeli strategic advantage and pushed Egypt toward armistice negotiations.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-uvda",
+    "year": 1949,
+    "date": "1949-03-05",
+    "title": "Operation Uvda",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        29.55,
+        34.95
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Eilat / Umm Rashrash",
+        "latlng": [
+          29.55,
+          34.95
+        ],
+        "type": "major"
+      },
+      {
+        "label": "Negev",
+        "latlng": [
+          30.6,
+          34.8
+        ],
+        "type": "minor"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Uvda",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/25/Raising_the_Ink_Flag_at_Umm_Rashrash_%28Eilat%29.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Uvda",
+        "body": "Operation Uvda was the final Israeli operation of the 1948 war. Israeli forces moved through the Negev toward Umm Rashrash, today Eilat, and raised the Ink Flag at the Red Sea. From the Israeli point of view, this was a symbolic and strategic conclusion: it linked the state to the Red Sea and demonstrated control over the southern Negev before the armistice map hardened. The operation involved little fighting compared with earlier battles, but its territorial significance was enormous. The almost bloodless advance ended with the improvised Ink Flag raised at Umm Rashrash, giving Israel access to the Red Sea.\n\nWhy It Matters: It completed Israel's hold on the southern Negev and opened the route to the Red Sea. The almost bloodless advance ended with the improvised Ink Flag raised at Umm Rashrash, giving Israel access to the Red Sea.",
+        "stats": [
+          {
+            "val": "5-10 Mar 1949",
+            "lbl": "Final Israeli operation"
+          },
+          {
+            "val": "Ink Flag",
+            "lbl": "Raised at Umm Rashrash"
+          },
+          {
+            "val": "Eilat",
+            "lbl": "Future Red Sea port"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It completed Israel's hold on the southern Negev and opened the route to the Red Sea.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1949-armistice-agreements",
+    "year": 1949,
+    "date": "1949-07-20",
+    "title": "1949 Armistice Agreements",
+    "sub": "Israel's War of Independence",
+    "view": {
+      "center": [
+        31.8,
+        35
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Rhodes armistice talks",
+        "latlng": [
+          36.434,
+          28.217
+        ],
+        "type": "major"
+      },
+      {
+        "label": "Jerusalem",
+        "latlng": [
+          31.778,
+          35.235
+        ],
+        "type": "minor"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "1949 Armistice Agreements",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Palestine_Military_Situation%2C_April_6%2C_1949%2C_Truman_Papers.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/1949_Armistice_Agreements",
+        "body": "The 1949 Armistice Agreements ended the main fighting between Israel and Egypt, Lebanon, Jordan, and Syria. From the Israeli point of view, the agreements confirmed survival: the state declared in May 1948 had endured invasion, expanded beyond parts of the UN partition plan, and gained internationally recognized ceasefire lines. These lines, later known as the Green Line, were not formal peace borders. They left major issues unresolved, including refugees, Jerusalem, and relations with neighboring Arab states. The agreements were armistices rather than peace treaties, but they confirmed that Israel had survived and established the Green Line as the practical boundary of the young state.",
+        "stats": [
+          {
+            "val": "1949",
+            "lbl": "Four armistice agreements"
+          },
+          {
+            "val": "Green Line",
+            "lbl": "Armistice boundary"
+          },
+          {
+            "val": "No peace treaty",
+            "lbl": "Fighting ended without final settlement"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It confirmed Israel's survival and created the political map that shaped decades of conflict.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "It confirmed Israel's survival and created the political map that shaped decades of conflict. The agreements were armistices rather than peace treaties, but they confirmed that Israel had survived and established the Green Line as the practical boundary of the young state.",
+        "stats": [
+          {
+            "val": "1949",
+            "lbl": "Four armistice agreements"
+          },
+          {
+            "val": "Green Line",
+            "lbl": "Armistice boundary"
+          },
+          {
+            "val": "No peace treaty",
+            "lbl": "Fighting ended without final settlement"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It confirmed Israel's survival and created the political map that shaped decades of conflict.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: 1948 Arab-Israeli War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Palestine_Military_Situation%2C_April_6%2C_1949%2C_Truman_Papers.jpg",
+        "cap": "The end and legacy of the 1948 Arab-Israeli War",
+        "body": "Israel survived and expanded beyond the proposed UN partition borders. The war also created a major Palestinian refugee crisis and left the Arab-Israeli conflict unresolved.",
+        "stats": [
+          {
+            "val": "~6,400 killed",
+            "lbl": "Israel casualties, approximate"
+          },
+          {
+            "val": "~10,000-15,000 killed",
+            "lbl": "Arab armies and Palestinians casualties, approximate"
+          },
+          {
+            "val": "Israeli victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel survived and expanded beyond the proposed UN partition borders. The war also created a major Palestinian refugee crisis and left the Arab-Israeli conflict unresolved.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

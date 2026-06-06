@@ -1,0 +1,296 @@
+[
+  {
+    "id": "wwii-events",
+    "title": "World War II",
+    "description": "Explore the deadliest conflict in human history, from the invasion of Poland to the fall of Berlin and the atomic bombings of Japan.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg"
+  },
+  {
+    "id": "wwi-events",
+    "title": "World War I",
+    "description": "A journey through the First World War - the trenches, alliances, revolutions, and battles that reshaped the modern world.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheshire_Regiment_trench_Somme_1916.jpg"
+  },
+  {
+    "id": "russian-civil-war",
+    "title": "Russian Civil War",
+    "description": "Follow the multi-sided civil war that tore apart the former Russian Empire after the revolutions of 1917.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG"
+  },
+  {
+    "id": "spanish-civil-war",
+    "title": "Spanish Civil War",
+    "description": "Explore the war between Republicans and Nationalists in Spain from 1936 to 1939, a brutal prelude to World War II.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers_on_their_way_to_the_front_during_the_spanish_civil_war_%286515607873%29.jpg"
+  },
+  {
+    "id": "winter-war",
+    "title": "Winter War",
+    "description": "Trace Finland's 1939-1940 struggle against the Soviet Union, from the invasion to the Moscow Peace Treaty.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_soldiers_marching.jpg"
+  },
+  {
+    "id": "continuation-war",
+    "title": "Continuation War",
+    "description": "Follow Finland's 1941-1944 war against the Soviet Union, from renewed fighting to the Moscow Armistice.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Continuation_War_1941.jpg"
+  },
+  {
+    "id": "1948-arab-israeli-war",
+    "title": "1948 Arab-Israeli War",
+    "description": "Follow Israel's War of Independence, from the struggle for Jerusalem and the Arab invasion to the campaigns that secured the new state.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PikiWiki_Israel_20804_The_Palmach.jpg"
+  },
+  {
+    "id": "korean-war",
+    "title": "Korean War",
+    "description": "Explore the rapid invasions, desperate defenses, amphibious landings, and international intervention that divided Korea.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/SNK_MAP_I_1000W.jpg"
+  },
+  {
+    "id": "vietnam-war",
+    "title": "Vietnam War",
+    "description": "Trace the long war in Vietnam through its major campaigns, political turning points, and the experience of American intervention.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Laos_1973-02_CIA.png"
+  },
+  {
+    "id": "suez-crisis",
+    "title": "Suez Crisis",
+    "description": "Follow the 1956 struggle over the Suez Canal involving Egypt, Israel, Britain, and France.",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Operation%20Yona%2C%201956%20IV.jpg"
+  },
+  {
+    "id": "laotian-civil-war",
+    "title": "Laotian Civil War",
+    "description": "Explore the hidden Cold War fought across Laos by local factions, regional powers, and covert American forces.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/La-map.png"
+  },
+  {
+    "id": "sand-war",
+    "title": "Sand War",
+    "description": "Examine the 1963 border war between Algeria and Morocco and the fragile post-colonial order in North Africa.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sand_War.jpg"
+  },
+  {
+    "id": "cambodian-civil-war",
+    "title": "Cambodian Civil War",
+    "description": "Trace Cambodia’s descent into civil war, foreign intervention, and the rise of the Khmer Rouge.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cambodia_August%2C_1970.png"
+  },
+  {
+    "id": "six-day-war",
+    "title": "Six-Day War",
+    "description": "Follow Israel’s decisive 1967 campaign across the Sinai, Jerusalem, the West Bank, and the Golan Heights.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/6dayswar1.jpg"
+  },
+  {
+    "id": "war-of-attrition",
+    "title": "War of Attrition",
+    "description": "Explore the prolonged artillery, commando, and air war fought mainly along the Suez Canal after 1967.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mastvic.jpg"
+  },
+  {
+    "id": "yom-kippur-war",
+    "title": "Yom Kippur War",
+    "description": "Explore Israel’s fight to recover from the surprise attacks of October 1973 on the Sinai and Golan fronts.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Egyptianbridge.jpg"
+  },
+  {
+    "id": "third-indochina-war",
+    "title": "Third Indochina War",
+    "description": "Trace the conflicts that followed the Vietnam War, including fighting in Cambodia and along the China-Vietnam border.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Hmong_refugees_arrested_and_forcibly_deported_to_Laos_by_Thai_army.jpeg"
+  },
+  {
+    "id": "chadian-libyan-war",
+    "title": "Chadian-Libyan War",
+    "description": "Explore the desert war in which mobile Chadian forces and French intervention defeated Libyan expansion.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tschad_GUNT.jpg"
+  },
+  {
+    "id": "iran-iraq-war",
+    "title": "Iran-Iraq War",
+    "description": "Follow eight years of invasion, urban battles, attrition, tanker attacks, and direct American naval involvement.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Battle_of_khorramshahr_2.jpg"
+  },
+  {
+    "id": "1982-lebanon-war",
+    "title": "1982 Lebanon War",
+    "description": "Explore Israel’s 1982 campaign against the PLO, its battles with Syria, and the difficult aftermath in Lebanon.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Beaufort1982.jpg"
+  },
+  {
+    "id": "falklands-war",
+    "title": "Falklands War",
+    "description": "Follow Britain’s distant 1982 expedition through naval warfare, amphibious landings, and the battles for the islands.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Blackbuck.operation.png"
+  },
+  {
+    "id": "finnish-civil-war",
+    "title": "Finnish Civil War",
+    "description": "Explore Finnish Civil War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Russian Revolution destroyed imperial authority in Finland just as the country declared independence.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Swedes%2C_Germans%2C_Russians_in_%C3%85land_1918.jpg"
+  },
+  {
+    "id": "estonian-war-of-independence",
+    "title": "Estonian War of Independence",
+    "description": "Explore Estonian War of Independence through its origins, major turning points, international dimension, human cost, and lasting consequences. The Russian Civil War created both the opportunity and the danger for Estonian independence.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Joala_lahing_2.jpg"
+  },
+  {
+    "id": "lithuanian-soviet-war",
+    "title": "Lithuanian-Soviet War",
+    "description": "Explore Lithuanian-Soviet War through its origins, major turning points, international dimension, human cost, and lasting consequences. Lithuania emerged from the collapse of the Russian Empire, but Soviet forces advanced west during the Russian Civil War.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg"
+  },
+  {
+    "id": "polish-lithuanian-war",
+    "title": "Polish-Lithuanian War",
+    "description": "Explore Polish-Lithuanian War through its origins, major turning points, international dimension, human cost, and lasting consequences. Lithuania survived the Soviet offensive, but independence did not settle its borders.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg"
+  },
+  {
+    "id": "turkish-war-of-independence",
+    "title": "Turkish War of Independence",
+    "description": "Explore Turkish War of Independence through its origins, major turning points, international dimension, human cost, and lasting consequences. World War I ended with the Ottoman Empire defeated and Allied powers planning its partition.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_g%C3%BCney_cephesi_kolaj.jpg"
+  },
+  {
+    "id": "eastern-front",
+    "title": "Eastern Front",
+    "description": "Explore Eastern Front through its origins, major turning points, international dimension, human cost, and lasting consequences. World War II became a war of annihilation when Nazi Germany invaded the Soviet Union.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Operation_Barbarossa_collage.jpg"
+  },
+  {
+    "id": "soviet-finnish-wars",
+    "title": "Soviet-Finnish Wars",
+    "description": "Explore Soviet-Finnish Wars through its origins, major turning points, international dimension, human cost, and lasting consequences. The Winter War was the first part of a longer struggle over Finland's frontier with the Soviet Union.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_soldiers_marching.jpg"
+  },
+  {
+    "id": "lapland-war",
+    "title": "Lapland War",
+    "description": "Explore Lapland War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Continuation War ended with Finland accepting Soviet armistice terms.",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Evakoita%20Sodankyl%C3%A4ss%C3%A4.jpg"
+  },
+  {
+    "id": "indonesian-national-revolution",
+    "title": "Indonesian National Revolution",
+    "description": "Explore Indonesian National Revolution through its origins, major turning points, international dimension, human cost, and lasting consequences. World War II shattered Dutch colonial control and ended with Japan's sudden surrender.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/IWM-SE-5865-tank-Surabaya-19451127.jpg"
+  },
+  {
+    "id": "indochina-wars",
+    "title": "Indochina Wars",
+    "description": "Explore Indochina Wars through its origins, major turning points, international dimension, human cost, and lasting consequences. World War II weakened France and destroyed the old colonial order in Indochina.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg"
+  },
+  {
+    "id": "war-in-southern-vietnam",
+    "title": "War in Southern Vietnam",
+    "description": "Explore War in Southern Vietnam through its origins, major turning points, international dimension, human cost, and lasting consequences. The Indochina Wars left Vietnam divided after the defeat of France.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg"
+  },
+  {
+    "id": "rwandan-civil-war",
+    "title": "Rwandan Civil War",
+    "description": "Explore Rwandan Civil War through its origins, major turning points, international dimension, human cost, and lasting consequences. The end of European colonial rule left Rwanda with hardened political divisions and large refugee communities.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg"
+  },
+  {
+    "id": "shaba-ii",
+    "title": "Shaba II",
+    "description": "Explore Shaba II through its origins, major turning points, international dimension, human cost, and lasting consequences. Post-colonial central Africa remained vulnerable to rebellion, foreign intervention, and Cold War competition.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mortier2.jpg"
+  },
+  {
+    "id": "toyota-war",
+    "title": "Toyota War",
+    "description": "Explore Toyota War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Chadian-Libyan War reached its decisive phase when Chadian forces united against Libya's northern occupation.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/OuadiDoum.jpg"
+  },
+  {
+    "id": "croatian-war-of-independence",
+    "title": "Croatian War of Independence",
+    "description": "Explore Croatian War of Independence through its origins, major turning points, international dimension, human cost, and lasting consequences. World War II's aftermath created socialist Yugoslavia, but that federal order collapsed after the Cold War.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg"
+  },
+  {
+    "id": "croat-bosniak-war",
+    "title": "Croat-Bosniak War",
+    "description": "Explore Croat-Bosniak War through its origins, major turning points, international dimension, human cost, and lasting consequences. The breakup of Yugoslavia spread from Croatia into Bosnia and Herzegovina.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ahmici_massacre.jpg"
+  },
+  {
+    "id": "kosovo-war",
+    "title": "Kosovo War",
+    "description": "Explore Kosovo War through its origins, major turning points, international dimension, human cost, and lasting consequences. The earlier Yugoslav wars did not resolve Kosovo's status or Serbia's treatment of its Albanian majority.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Drenica_region.png"
+  },
+  {
+    "id": "transnistria-war",
+    "title": "Transnistria War",
+    "description": "Explore Transnistria War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Soviet collapse reopened questions of borders, language, and identity across former republics.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg"
+  },
+  {
+    "id": "war-in-abkhazia",
+    "title": "War in Abkhazia",
+    "description": "Explore War in Abkhazia through its origins, major turning points, international dimension, human cost, and lasting consequences. Like Transnistria, Abkhazia became a separatist battlefield after Soviet authority disappeared.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/War_in_Abkhazia_1992.PNG"
+  },
+  {
+    "id": "tajikistani-civil-war",
+    "title": "Tajikistani Civil War",
+    "description": "Explore Tajikistani Civil War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Soviet collapse removed the institutions that had contained regional and ideological competition in Tajikistan.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg"
+  },
+  {
+    "id": "first-chechen-war",
+    "title": "First Chechen War",
+    "description": "Explore First Chechen War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Russian Empire's violent history in the Caucasus and the Soviet collapse encouraged Chechen separatism.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Evstafiev-Chechnya-BURNED.jpg"
+  },
+  {
+    "id": "war-of-dagestan",
+    "title": "War of Dagestan",
+    "description": "Explore War of Dagestan through its origins, major turning points, international dimension, human cost, and lasting consequences. The unresolved First Chechen War left armed Islamist factions operating from Chechnya.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Evstafiev-Chechnya-BURNED.jpg"
+  },
+  {
+    "id": "second-chechen-war",
+    "title": "Second Chechen War",
+    "description": "Explore Second Chechen War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Dagestan incursion gave Moscow the immediate reason to invade Chechnya again.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Apartment_bombing.jpg"
+  },
+  {
+    "id": "south-lebanon-conflict",
+    "title": "South Lebanon Conflict",
+    "description": "Explore South Lebanon Conflict through its origins, major turning points, international dimension, human cost, and lasting consequences. Israel's 1982 invasion removed the PLO leadership from Beirut but did not end violence in Lebanon.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Operation_Law_and_Order._VI.jpg"
+  },
+  {
+    "id": "gulf-war",
+    "title": "Gulf War",
+    "description": "Explore Gulf War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Iran-Iraq War left Iraq militarized, indebted, and economically strained.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg"
+  },
+  {
+    "id": "war-on-terrorism",
+    "title": "War on Terror",
+    "description": "Explore War on Terror through its origins, major turning points, international dimension, human cost, and lasting consequences. The Gulf War expanded the long-term American military presence in the Middle East, which became one grievance used by transnational jihadist groups.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Collage_conflicto_interno_armado_en_Colombia.jpg"
+  },
+  {
+    "id": "war-in-afghanistan-2001-2021",
+    "title": "War in Afghanistan",
+    "description": "Explore War in Afghanistan through its origins, major turning points, international dimension, human cost, and lasting consequences. The first major campaign of the War on Terror targeted al-Qaeda and the Taliban government that sheltered it.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg/3840px-U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg"
+  },
+  {
+    "id": "iran-israel-proxy-conflict",
+    "title": "Iran-Israel Proxy Conflict",
+    "description": "Explore Iran-Israel Proxy Conflict through its origins, major turning points, international dimension, human cost, and lasting consequences. The South Lebanon conflict strengthened Hezbollah and tied it closely to Iran's regional strategy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/USS_New_Jersey_firing_in_Beirut%2C_1984.jpg"
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "id": "1970-cambodian-coup-d-tat",
+    "year": 1970,
+    "date": "1970-03-18",
+    "title": "1970 Cambodian coup d'état",
+    "sub": "United States regional intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Vietnam War to Cambodian Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Laos_1973-02_CIA.png",
+        "cap": "Historical connection: War expands into Cambodia",
+        "body": "The Vietnam War destabilized Cambodia as Vietnamese communist forces operated across its border and the United States expanded bombing and ground operations. Domestic political conflict intensified after Prince Sihanouk was removed. The result was a civil war that enabled the Khmer Rouge to seize power.",
+        "stats": [
+          {
+            "val": "Vietnam War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Regional conflict chain",
+            "lbl": "War expands into Cambodia"
+          },
+          {
+            "val": "Cambodian Civil War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Vietnam War destabilized Cambodia as Vietnamese communist forces operated across its border and the United States expanded bombing and ground operations. Domestic political conflict intensified after Prince Sihanouk was removed. The result was a civil war that enabled the Khmer Rouge to seize power.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "1970 Cambodian coup d'état",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/1970_Cambodian_coup_d'%C3%A9tat",
+        "body": "The 1970 Cambodian coup d'état was the removal of the Cambodian Chief of State, Prince Norodom Sihanouk, after a vote in the National Assembly on 18 March 1970. Emergency powers were subsequently invoked by the Prime Minister Lon Nol, who became effective head of state, and led ultimately to the removal of Queen Sisowath Kossamak and the proclamation of the Khmer Republic later that year. It is generally seen as a turning point in the Cambodian Civil War. No longer a monarchy, Cambodia was semi-officially called \"État du Cambodge\" in the intervening six months after the coup, until the republic was proclaimed. For Washington, the coup mattered because Cambodia stopped being a formally neutral buffer and became directly tied to the Vietnam War. The new Lon Nol government aligned more openly against North Vietnamese and Viet Cong sanctuaries.",
+        "stats": [
+          {
+            "val": "18 Mar 1970",
+            "lbl": "Sihanouk removed"
+          },
+          {
+            "val": "Lon Nol",
+            "lbl": "New anti-communist leader"
+          },
+          {
+            "val": "Neutrality ends",
+            "lbl": "Cambodia enters war directly"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It widened the war and made Cambodia a central battlefield in the US effort to cut communist supply routes.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "1970 Cambodian coup d'état mattered because it forced United States to make choices about limiting communist expansion and protecting the wider Vietnam War strategy. It widened the war and made Cambodia a central battlefield in the US effort to cut communist supply routes.",
+        "stats": [
+          {
+            "val": "18 Mar 1970",
+            "lbl": "Sihanouk removed"
+          },
+          {
+            "val": "Lon Nol",
+            "lbl": "New anti-communist leader"
+          },
+          {
+            "val": "Neutrality ends",
+            "lbl": "Cambodia enters war directly"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It widened the war and made Cambodia a central battlefield in the US effort to cut communist supply routes.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-chenla-i",
+    "year": 1970,
+    "date": "1970-08-01",
+    "title": "Operation Chenla I",
+    "sub": "United States regional intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Chenla I",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cambodia_August%2C_1970.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Chenla_I",
+        "body": "Operation Chenla I or Chenla One was a major military operation conducted by the Khmer National Armed Forces (FANK) during the Cambodian Civil War. It began in late August 1970 and ended in February 1971, due to the FANK High Command's decision to withdraw some units from Tang Kauk to protect Phnom Penh after Pochentong airbase was attacked. This operation was part of the Cambodian government's attempt, with US backing and air support, to regain initiative against communist forces.\n\nWhy It Matters: Operation Chenla I mattered because it forced United States to make choices about limiting communist expansion and protecting the wider Vietnam War strategy. It showed that local anti-communist forces could act offensively, but only inside a fragile military and political environment.",
+        "stats": [
+          {
+            "val": "1970",
+            "lbl": "Government offensive"
+          },
+          {
+            "val": "Route 6",
+            "lbl": "Key road objective"
+          },
+          {
+            "val": "Temporary success",
+            "lbl": "Momentum proves fragile"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that local anti-communist forces could act offensively, but only inside a fragile military and political environment.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-chenla-ii",
+    "year": 1971,
+    "date": "1971-08-20",
+    "title": "Operation Chenla II",
+    "sub": "United States regional intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Chenla II",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Operation_Chenla_II.svg/1920px-Operation_Chenla_II.svg.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Chenla_II",
+        "body": "Operation Chenla II or Chenla Two was a major military operation conducted by the Khmer National Armed Forces (FANK) during the Cambodian Civil War from 20 August to 3 December 1971. Chenla II exposed how vulnerable Cambodian forces were when they advanced beyond secure support and supply.\n\nWhy It Matters: Operation Chenla II mattered because it forced United States to make choices about limiting communist expansion and protecting the wider Vietnam War strategy. It revealed the limits of US-backed Cambodian operations and strengthened communist momentum.",
+        "stats": [
+          {
+            "val": "1971",
+            "lbl": "Major offensive"
+          },
+          {
+            "val": "Heavy losses",
+            "lbl": "Government forces mauled"
+          },
+          {
+            "val": "Khmer Rouge grows",
+            "lbl": "Insurgency gains initiative"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It revealed the limits of US-backed Cambodian operations and strengthened communist momentum.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-k-mp-ng-cham",
+    "year": 1973,
+    "date": "1973-08-16",
+    "title": "Battle of Kâmpóng Cham",
+    "sub": "United States regional intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Kâmpóng Cham",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Cambodia_May%2C_1973.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_K%C3%A2mp%C3%B3ng_Cham",
+        "body": "The Battle of Kâmpóng Cham was a military engagement from August to October 1973 for control of the Cambodian city of Kâmpóng Cham between Khmer Republic defenders and Khmer Rouge attackers. The fighting around Kampong Cham highlighted the struggle for towns, roads, and river routes that kept the Cambodian government alive.\n\nWhy It Matters: Battle of Kâmpóng Cham mattered because it forced United States to make choices about limiting communist expansion and protecting the wider Vietnam War strategy. It showed that the war was not only jungle warfare; control of transport nodes shaped survival.",
+        "stats": [
+          {
+            "val": "Mekong city",
+            "lbl": "Important river hub"
+          },
+          {
+            "val": "1973",
+            "lbl": "Heavy fighting period"
+          },
+          {
+            "val": "Supply routes",
+            "lbl": "River/road control matters"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It showed that the war was not only jungle warfare; control of transport nodes shaped survival.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-eagle-pull",
+    "year": 1975,
+    "date": "1975-04-12",
+    "title": "Operation Eagle Pull",
+    "sub": "United States regional intervention front",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Eagle Pull",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Marines_deploy_at_LZ_Hotel.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Eagle_Pull",
+        "body": "Operation Eagle Pull was the United States military evacuation by air of Phnom Penh, Cambodia, on 12 April 1975. At the beginning of April 1975, Phnom Penh, one of the last remaining strongholds of the Khmer Republic, was surrounded by the Khmer Rouge with the backing of the People's Republic of China (PRC) and totally dependent on aerial resupply through Pochentong Airport. With a Khmer Rouge victory imminent, the US government made contingency plans for the evacuation of US nationals and allied Cambodians by helicopter to ships in the Gulf of Thailand. Operation Eagle Pull took place on the morning of 12 April 1975 and was a tactical success carried out without any loss of life. Five days later the Khmer Republic collapsed and the Khmer Rouge occupied Phnom Penh. The US evacuation from Phnom Penh was a sign that American power could no longer hold the Cambodian government together.",
+        "stats": [
+          {
+            "val": "12 Apr 1975",
+            "lbl": "US evacuation"
+          },
+          {
+            "val": "Phnom Penh",
+            "lbl": "Capital abandoned"
+          },
+          {
+            "val": "276 evacuees",
+            "lbl": "Approx. people lifted out"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It marked the collapse of US influence in Cambodia and foreshadowed the fall of the capital.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Why It Matters",
+        "body": "Operation Eagle Pull mattered because it forced United States to make choices about limiting communist expansion and protecting the wider Vietnam War strategy. It marked the collapse of US influence in Cambodia and foreshadowed the fall of the capital.",
+        "stats": [
+          {
+            "val": "12 Apr 1975",
+            "lbl": "US evacuation"
+          },
+          {
+            "val": "Phnom Penh",
+            "lbl": "Capital abandoned"
+          },
+          {
+            "val": "276 evacuees",
+            "lbl": "Approx. people lifted out"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It marked the collapse of US influence in Cambodia and foreshadowed the fall of the capital.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fall-of-phnom-penh",
+    "year": 1975,
+    "date": "1975-04-12",
+    "title": "Fall of Phnom Penh",
+    "sub": "United States regional intervention front",
+    "view": {
+      "center": [
+        11.569583333,
+        104.921027777
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Fall of Phnom Penh",
+        "latlng": [
+          11.569583333,
+          104.921027777
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Fall of Phnom Penh",
+        "img": "",
+        "cap": "",
+        "body": "Draft note for Fall of Phnom Penh. Review and expand this slide before uploading. The fall of Phnom Penh ended the US-backed republic and brought the Khmer Rouge to power.\n\nWhy It Matters: Fall of Phnom Penh mattered because it forced United States to make choices about limiting communist expansion and protecting the wider Vietnam War strategy. It closed the Cambodian Civil War and opened one of the darkest chapters in modern Cambodian history.",
+        "stats": [
+          {
+            "val": "17 Apr 1975",
+            "lbl": "Capital falls"
+          },
+          {
+            "val": "Khmer Rouge victory",
+            "lbl": "Civil war ends"
+          },
+          {
+            "val": "Year Zero",
+            "lbl": "Radical regime begins"
+          },
+          {
+            "val": "The importance of this event:",
+            "lbl": "It closed the Cambodian Civil War and opened one of the darkest chapters in modern Cambodian history.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: Cambodian Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Marines_deploy_at_LZ_Hotel.jpg",
+        "cap": "The end and legacy of the Cambodian Civil War",
+        "body": "Phnom Penh fell to the Khmer Rouge in 1975. Their victory did not bring peace; it opened one of the twentieth century's most catastrophic genocidal regimes.",
+        "stats": [
+          {
+            "val": "~200,000 killed",
+            "lbl": "Khmer Republic and allies casualties, approximate"
+          },
+          {
+            "val": "~50,000 killed",
+            "lbl": "Khmer Rouge and allies casualties, approximate"
+          },
+          {
+            "val": "Khmer Rouge victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Phnom Penh fell to the Khmer Rouge in 1975. Their victory did not bring peace; it opened one of the twentieth century's most catastrophic genocidal regimes.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

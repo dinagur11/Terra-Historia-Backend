@@ -1,0 +1,172 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1918,
+    "date": "1918-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Lithuanian-Soviet War began",
+    "view": {
+      "center": [
+        55,
+        24
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Russian Civil War to Lithuanian-Soviet War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
+        "cap": "Historical connection: Bolshevik advance into Lithuania",
+        "body": "Lithuania emerged from the collapse of the Russian Empire, but Soviet forces advanced west during the Russian Civil War. The young republic had to fight immediately to preserve its independence.",
+        "stats": [
+          {
+            "val": "Russian Civil War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "Bolshevik advance into Lithuania"
+          },
+          {
+            "val": "Lithuanian-Soviet War",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "Lithuania emerged from the collapse of the Russian Empire, but Soviet forces advanced west during the Russian Civil War. The young republic had to fight immediately to preserve its independence.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Lithuanian-Soviet War",
+        "body": "Lithuania declared independence during the collapse of imperial Russia and Germany, but Soviet forces invaded as German troops withdrew.\n\nThe Conflict Takes Shape: The campaign decided whether Lithuania would become an independent republic or a Soviet republic. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1918-1919",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The campaign decided whether Lithuania would become an independent republic or a Soviet republic.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
+        "cap": "Opening context for the Lithuanian-Soviet War"
+      }
+    ]
+  },
+  {
+    "id": "lithuanian-soviet-war",
+    "year": 1914,
+    "date": "Review date",
+    "title": "Lithuanian–Soviet War",
+    "sub": "Generated overview draft",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Lithuanian–Soviet War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Lithuanian%E2%80%93Soviet_War",
+        "body": "The Lithuanian–Soviet War or Lithuanian–Bolshevik War was fought between newly independent Lithuania and the Russian Socialist Federative Soviet Republic in the aftermath of World War I. It was part of the larger Soviet westward offensive of 1918–1919. The offensive followed the retreat of German troops and sought to establish Soviet republics in Ukraine, Belarus, Lithuania, Latvia, Estonia, and Poland, and to link up with the German Revolution. By the end of December 1918, Soviet forces reached Lithuanian borders. Largely unopposed, they occupied one town after another and by the end of January 1919, they controlled about two thirds of the Lithuanian territory. In February, the Soviet advance was stopped by Lithuanian and German volunteers, who prevented the Soviets from capturing Kaunas, the temporary capital of Lithuania. From April 1919, the Lithuanian war went parallel with the Polish–Soviet War. Poland had territorial claims over Lithuania, especially the Vilnius Region; these tensions spilt over into the Polish–Lithuanian War."
+      },
+      {
+        "title": "Why This Moment Matters",
+        "body": "Lithuanian–Soviet War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The campaign decided whether Lithuania would become an independent republic or a Soviet republic.\n\nConsequences: The effects of Lithuanian–Soviet War extended beyond its immediate result. The young state mobilized scarce resources while towns repeatedly changed hands and civilians endured requisitions and insecurity. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1914",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 1",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1918,
+    "date": "1918-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Lithuanian-Soviet War",
+    "view": {
+      "center": [
+        55,
+        24
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "German volunteer formations, Polish forces, and the wider Russian Civil War shaped the rapidly changing front.\n\nThe Human Cost: The young state mobilized scarce resources while towns repeatedly changed hands and civilians endured requisitions and insecurity.",
+        "stats": [
+          {
+            "val": "Several thousand killed, wounded, or captured",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1919,
+    "date": "1919-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Lithuanian-Soviet War ended and what followed",
+    "view": {
+      "center": [
+        55,
+        24
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Lithuanian-Soviet War",
+        "body": "Lithuanian forces halted and expelled the Soviet offensive, preserving the republic despite further wars over its borders."
+      },
+      {
+        "title": "War Summary: Lithuanian-Soviet War",
+        "body": "Lithuanian forces halted and expelled the Soviet offensive, preserving the republic despite further wars over its borders. The young state mobilized scarce resources while towns repeatedly changed hands and civilians endured requisitions and insecurity.",
+        "stats": [
+          {
+            "val": "Lithuanian victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Several thousand killed, wounded, or captured",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Lithuanian forces halted and expelled the Soviet offensive, preserving the republic despite further wars over its borders.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
+        "cap": "The outcome and legacy of the Lithuanian-Soviet War"
+      }
+    ]
+  }
+]

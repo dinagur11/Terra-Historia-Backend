@@ -1,0 +1,1663 @@
+[
+  {
+    "id": "poland",
+    "year": "1939",
+    "date": "1 September 1939",
+    "title": "Invasion of Poland",
+    "sub": "The War Begins",
+    "view": {
+      "center": [
+        52.1,
+        19.5
+      ],
+      "zoom": 5
+    },
+    "regions": [
+      {
+        "id": "german-occupied",
+        "label": "German-occupied Poland",
+        "color": "#c0392b",
+        "opacity": 0.25,
+        "coordinates": [
+          [
+            14.12,
+            54.18
+          ],
+          [
+            14.35,
+            53.7
+          ],
+          [
+            14.55,
+            53.4
+          ],
+          [
+            15.2,
+            52.9
+          ],
+          [
+            15.6,
+            52.1
+          ],
+          [
+            16.2,
+            51.6
+          ],
+          [
+            17,
+            50.8
+          ],
+          [
+            17.8,
+            50.2
+          ],
+          [
+            18.6,
+            49.9
+          ],
+          [
+            19.5,
+            49.6
+          ],
+          [
+            20.5,
+            49.4
+          ],
+          [
+            21.8,
+            49.4
+          ],
+          [
+            22.5,
+            49.7
+          ],
+          [
+            23,
+            50.2
+          ],
+          [
+            23.2,
+            51
+          ],
+          [
+            23.3,
+            52
+          ],
+          [
+            23,
+            52.7
+          ],
+          [
+            22.5,
+            53.5
+          ],
+          [
+            21.8,
+            54.2
+          ],
+          [
+            20.5,
+            54.5
+          ],
+          [
+            19,
+            54.4
+          ],
+          [
+            17.5,
+            54.3
+          ],
+          [
+            16,
+            54.25
+          ],
+          [
+            14.8,
+            54.22
+          ],
+          [
+            14.12,
+            54.18
+          ]
+        ]
+      },
+      {
+        "id": "soviet-occupied",
+        "label": "Soviet-occupied Poland",
+        "color": "#e67e22",
+        "opacity": 0.25,
+        "coordinates": [
+          [
+            23,
+            52.7
+          ],
+          [
+            23.3,
+            52
+          ],
+          [
+            23.2,
+            51
+          ],
+          [
+            23,
+            50.2
+          ],
+          [
+            22.5,
+            49.7
+          ],
+          [
+            23.2,
+            49
+          ],
+          [
+            24,
+            48.6
+          ],
+          [
+            25.5,
+            48.5
+          ],
+          [
+            27,
+            48.7
+          ],
+          [
+            28.5,
+            49.5
+          ],
+          [
+            29.5,
+            50.5
+          ],
+          [
+            30.5,
+            51.5
+          ],
+          [
+            31.5,
+            52
+          ],
+          [
+            32,
+            52.5
+          ],
+          [
+            31,
+            53.5
+          ],
+          [
+            29.5,
+            54
+          ],
+          [
+            27.5,
+            54.2
+          ],
+          [
+            25.5,
+            54.1
+          ],
+          [
+            23.8,
+            54
+          ],
+          [
+            23,
+            53.5
+          ],
+          [
+            23,
+            52.7
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "From World War I to World War II",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheshire_Regiment_trench_Somme_1916.jpg",
+        "cap": "Historical connection: Unresolved postwar settlement",
+        "body": "World War II grew from the unstable peace that followed World War I. The Treaty of Versailles, economic crisis, wounded nationalism, and the failure of collective security gave revisionist powers room to overturn the postwar order. Germany's invasion of Poland transformed those unresolved tensions into another global war.",
+        "stats": [
+          {
+            "val": "World War I",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "Unresolved postwar settlement"
+          },
+          {
+            "val": "World War II",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "World War II grew from the unstable peace that followed World War I. The Treaty of Versailles, economic crisis, wounded nationalism, and the failure of collective security gave revisionist powers room to overturn the postwar order. Germany's invasion of Poland transformed those unresolved tensions into another global war.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Blitzkrieg Unleashed",
+        "body": "At 4:45 AM on 1 September 1939, Germany launched the most devastating military offensive Europe had ever seen. Over 1.5 million Wehrmacht soldiers crossed the Polish border simultaneously from three directions, inaugurating a new era of mechanised warfare that would define the conflict.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fall_of_Warsaw_in_1939.jpg/960px-Fall_of_Warsaw_in_1939.jpg",
+        "cap": "Fall of Warsaw, September 1939",
+        "stats": [
+          {
+            "val": "1.5 Million",
+            "lbl": "Wehrmacht troops deployed"
+          },
+          {
+            "val": "2,750",
+            "lbl": "German tanks and armoured vehicles"
+          },
+          {
+            "val": "2,315",
+            "lbl": "Luftwaffe aircraft in support"
+          },
+          {
+            "val": "3 Fronts",
+            "lbl": "Simultaneous axes of attack",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Poland Encircled",
+        "body": "The Polish Air Force was largely destroyed within days. On 17 September the Soviet Union invaded from the east under the secret Molotov–Ribbentrop Pact, completing Poland's encirclement. Despite fierce resistance in Warsaw, the nation was fighting two superpowers simultaneously.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_German-soviet_Invasion_of_Poland%2C_1939_HU3218.jpg/960px-The_German-soviet_Invasion_of_Poland%2C_1939_HU3218.jpg",
+        "cap": "View from a German Junkers Ju 52 bomber",
+        "stats": [
+          {
+            "val": "27 Days",
+            "lbl": "From invasion to capitulation"
+          },
+          {
+            "val": "17 Sep",
+            "lbl": "Soviet invasion from the east"
+          },
+          {
+            "val": "800,000",
+            "lbl": "Polish soldiers taken prisoner"
+          },
+          {
+            "val": "66,000",
+            "lbl": "Polish military killed in action",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The World Responds",
+        "body": "Britain and France declared war on Germany on 3 September — but aid came too late for Poland. Warsaw fell on the 27th. Poland was partitioned between Nazi Germany and the Soviet Union, vanishing once more from the map of Europe.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lokajski_-_Po_nalocie_Przed_Adrią_%281944%29.jpg/960px-Lokajski_-_Po_nalocie_Przed_Adrią_%281944%29.jpg",
+        "cap": "Warsaw after sustained Luftwaffe bombing raids",
+        "stats": [
+          {
+            "val": "70,000+",
+            "lbl": "Polish civilians killed"
+          },
+          {
+            "val": "3 Sep 1939",
+            "lbl": "Britain & France declare war"
+          },
+          {
+            "val": "5.7M",
+            "lbl": "Total Polish war dead by 1945",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "france",
+    "year": "1940",
+    "date": "May - June 1940",
+    "title": "Fall of France",
+    "sub": "The Collapse of Western Europe",
+    "view": {
+      "center": [
+        46.5,
+        2.5
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          51.03,
+          2.37
+        ],
+        "label": "Dunkirk",
+        "type": "target"
+      }
+    ],
+    "regions": [
+      {
+        "id": "german-occupation",
+        "label": "German-occupied France",
+        "color": "#c0392b",
+        "opacity": 0.22,
+        "coordinates": [
+          [
+            -4.78,
+            48.44
+          ],
+          [
+            -3.5,
+            48.6
+          ],
+          [
+            -2,
+            48.65
+          ],
+          [
+            -1,
+            48.6
+          ],
+          [
+            0.1,
+            49.1
+          ],
+          [
+            1.5,
+            50.1
+          ],
+          [
+            2.2,
+            51
+          ],
+          [
+            2.55,
+            51.1
+          ],
+          [
+            3.2,
+            50.7
+          ],
+          [
+            4,
+            50.3
+          ],
+          [
+            5,
+            49.6
+          ],
+          [
+            6,
+            49.2
+          ],
+          [
+            6.8,
+            49
+          ],
+          [
+            7.5,
+            48.3
+          ],
+          [
+            7.8,
+            47.6
+          ],
+          [
+            7.6,
+            47
+          ],
+          [
+            7,
+            45.9
+          ],
+          [
+            6.6,
+            45.1
+          ],
+          [
+            6.8,
+            44.1
+          ],
+          [
+            7.5,
+            43.8
+          ],
+          [
+            7.7,
+            43.7
+          ],
+          [
+            6.5,
+            43.1
+          ],
+          [
+            5,
+            43.3
+          ],
+          [
+            3.5,
+            43.2
+          ],
+          [
+            2.5,
+            42.5
+          ],
+          [
+            1.7,
+            42.5
+          ],
+          [
+            0.7,
+            42.8
+          ],
+          [
+            -0.3,
+            43.3
+          ],
+          [
+            -1.3,
+            43.6
+          ],
+          [
+            -1.8,
+            43.4
+          ],
+          [
+            -2.5,
+            43.5
+          ],
+          [
+            -3.5,
+            43.6
+          ],
+          [
+            -4.5,
+            43.5
+          ],
+          [
+            -5.1,
+            44.2
+          ],
+          [
+            -5.2,
+            45.5
+          ],
+          [
+            -4.8,
+            46.5
+          ],
+          [
+            -4.2,
+            47.5
+          ],
+          [
+            -4.78,
+            48.44
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Blitzkrieg in the West",
+        "body": "In May 1940 Germany launched a lightning offensive through Belgium and the Ardennes Forest, bypassing France's heavily fortified Maginot Line. Allied commanders believed the terrain was impassable to tanks — a catastrophic miscalculation.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/French_troops_barricades2_paris_1940.png/960px-French_troops_barricades2_paris_1940.png",
+        "cap": "French troops setting barricades in Paris",
+        "stats": [
+          {
+            "val": "6 Weeks",
+            "lbl": "Time it took France to collapse"
+          },
+          {
+            "val": "3 Million",
+            "lbl": "German troops committed"
+          },
+          {
+            "val": "2,500+",
+            "lbl": "German tanks deployed"
+          }
+        ]
+      },
+      {
+        "title": "Dunkirk Evacuation",
+        "body": "Hundreds of thousands of Allied soldiers became trapped on the beaches around Dunkirk. In a desperate evacuation, civilian boats joined Royal Navy vessels to rescue over 330,000 British and French troops across the English Channel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/British_troops_lifeboat_dunkerque.png/960px-British_troops_lifeboat_dunkerque.png",
+        "cap": "British troops escaping from Dunkirk in lifeboats",
+        "stats": [
+          {
+            "val": "338,000",
+            "lbl": "Allied troops evacuated"
+          },
+          {
+            "val": "800+",
+            "lbl": "Civilian and military vessels used"
+          }
+        ]
+      },
+      {
+        "title": "France Falls",
+        "body": "Paris fell on 14 June 1940. Days later France signed an armistice with Germany. Britain now stood alone against Nazi Germany as Hitler prepared for the next stage of the war.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/German_soldiers_before_Arc_du_Carrousel_1940.jpg/960px-German_soldiers_before_Arc_du_Carrousel_1940.jpg",
+        "cap": "Soldiers of German Wehrmacht in front of the Arc de Triomphe",
+        "stats": [
+          {
+            "val": "14 Jun 1940",
+            "lbl": "Paris occupied"
+          },
+          {
+            "val": "22 Jun 1940",
+            "lbl": "French surrender signed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "britain",
+    "year": "1940",
+    "date": "July - October 1940",
+    "title": "Battle of Britain",
+    "sub": "Their Finest Hour",
+    "view": {
+      "center": [
+        51.5,
+        0.5
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "latlng": [
+          51.51,
+          -0.13
+        ],
+        "label": "London",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          50.96,
+          1.85
+        ],
+        "label": "Calais",
+        "type": "minor"
+      },
+      {
+        "latlng": [
+          51.13,
+          1.31
+        ],
+        "label": "Dover",
+        "type": "minor"
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Air Campaign Begins",
+        "body": "In August 1940 the Luftwaffe launched its main offensive against Britain, targeting RAF radar stations and airfields in an attempt to destroy Fighter Command on the ground and in the air. It was the first major military campaign fought entirely by air forces — and the RAF was badly outnumbered from the start.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/RAF_station_under_attack_during_Battle_of_Britain_1940.jpg/960px-RAF_station_under_attack_during_Battle_of_Britain_1940.jpg",
+        "cap": "RAF station under attack during Battle of Britain",
+        "stats": [
+          {
+            "val": "2,936",
+            "lbl": "RAF pilots who fought"
+          },
+          {
+            "val": "1,963",
+            "lbl": "Luftwaffe aircraft deployed"
+          },
+          {
+            "val": "640",
+            "lbl": "RAF aircraft at battle's start"
+          },
+          {
+            "val": "3 months",
+            "lbl": "Duration of the aerial campaign",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Blitz",
+        "body": "Frustrated by the RAF's resilience, Hitler shifted targeting to British cities. London was bombed for 57 consecutive nights. But the switch saved Fighter Command — and cost Germany any chance of air supremacy. Britain endured. Churchill called it their finest hour.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/London_Blitz_791940.jpg/960px-London_Blitz_791940.jpg",
+        "cap": "The Blitz, December 1940",
+        "stats": [
+          {
+            "val": "43,000",
+            "lbl": "British civilians killed"
+          },
+          {
+            "val": "57 nights",
+            "lbl": "Consecutive bombing of London"
+          },
+          {
+            "val": "1M+",
+            "lbl": "London homes damaged or destroyed",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "barbarossa",
+    "year": "1941",
+    "date": "22 June 1941",
+    "title": "Operation Barbarossa",
+    "sub": "The Eastern Front Opens",
+    "view": {
+      "center": [
+        52,
+        28
+      ],
+      "zoom": 4
+    },
+    "regions": [
+      {
+        "id": "axis-advance",
+        "label": "Axis advance by Dec 1941",
+        "color": "#c0392b",
+        "opacity": 0.22,
+        "coordinates": [
+          [
+            22,
+            54.6
+          ],
+          [
+            22.8,
+            54.9
+          ],
+          [
+            23.5,
+            54.8
+          ],
+          [
+            24.5,
+            54.6
+          ],
+          [
+            25.5,
+            54.2
+          ],
+          [
+            26.5,
+            54
+          ],
+          [
+            27.5,
+            53.8
+          ],
+          [
+            28.5,
+            53.5
+          ],
+          [
+            29.5,
+            53
+          ],
+          [
+            30.5,
+            52.4
+          ],
+          [
+            31.5,
+            51.8
+          ],
+          [
+            32.5,
+            51.5
+          ],
+          [
+            33.5,
+            51.3
+          ],
+          [
+            34.5,
+            51.2
+          ],
+          [
+            35.5,
+            51
+          ],
+          [
+            36.5,
+            50.6
+          ],
+          [
+            37.5,
+            50
+          ],
+          [
+            38,
+            49.2
+          ],
+          [
+            37.5,
+            48
+          ],
+          [
+            36.5,
+            47
+          ],
+          [
+            35.5,
+            46.2
+          ],
+          [
+            34,
+            45.5
+          ],
+          [
+            32.5,
+            45.3
+          ],
+          [
+            31,
+            45.5
+          ],
+          [
+            30,
+            46
+          ],
+          [
+            28.5,
+            46.2
+          ],
+          [
+            27,
+            46.5
+          ],
+          [
+            26,
+            47
+          ],
+          [
+            25,
+            47.5
+          ],
+          [
+            24,
+            48
+          ],
+          [
+            23,
+            48.5
+          ],
+          [
+            22.5,
+            49
+          ],
+          [
+            22,
+            49.5
+          ],
+          [
+            22,
+            50.5
+          ],
+          [
+            22,
+            51.5
+          ],
+          [
+            22,
+            52.5
+          ],
+          [
+            22,
+            53.5
+          ],
+          [
+            22,
+            54.6
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Largest Invasion in History",
+        "body": "On 22 June 1941 Germany launched Operation Barbarossa, invading the Soviet Union along a front stretching nearly 3,000 kilometres. Hitler believed the USSR could be defeated within months.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Operation_Barbarossa_-_Germans_inspect_Russian_plane.jpg/960px-Operation_Barbarossa_-_Germans_inspect_Russian_plane.jpg",
+        "cap": "German soldiers inspect a downed Soviet plane during the early days of Barbarossa",
+        "stats": [
+          {
+            "val": "3 Million",
+            "lbl": "Axis troops involved"
+          },
+          {
+            "val": "3,500",
+            "lbl": "German tanks deployed"
+          },
+          {
+            "val": "2,700",
+            "lbl": "Aircraft supporting the invasion"
+          }
+        ]
+      },
+      {
+        "title": "Rapid German Advances",
+        "body": "German forces encircled massive Soviet armies and captured hundreds of thousands of prisoners. Entire Soviet regions collapsed under the speed and violence of the assault.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Russian_POW_%281941%29.jpg/960px-Russian_POW_%281941%29.jpg",
+        "cap": "Russian POWs on the way to German prison camps.",
+        "stats": [
+          {
+            "val": "600,000+",
+            "lbl": "Soviet POWs captured at Kiev"
+          },
+          {
+            "val": "1,000 km",
+            "lbl": "German advance in months"
+          }
+        ]
+      },
+      {
+        "title": "The Soviet Union Endures",
+        "body": "Despite catastrophic losses, the Soviet Union refused to collapse. As winter arrived outside Moscow, German offensives stalled. The Eastern Front would become the largest and deadliest theater of the war.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_soldiers_in_winter_uniforms.jpg/960px-German_soldiers_in_winter_uniforms.jpg",
+        "cap": "German soldiers in winter uniforms",
+        "stats": [
+          {
+            "val": "27 Million",
+            "lbl": "Total Soviet wartime deaths"
+          },
+          {
+            "val": "Dec 1941",
+            "lbl": "German advance on Moscow halted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pearl",
+    "year": "1941",
+    "date": "7 December 1941",
+    "title": "Pearl Harbour",
+    "sub": "A Date Which Will Live in Infamy",
+    "view": {
+      "center": [
+        21.36,
+        -157.97
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "latlng": [
+          21.36,
+          -157.97
+        ],
+        "label": "Pearl Harbour",
+        "type": "target"
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Sleeping Giant",
+        "body": "At 7:48 AM on 7 December 1941, 353 Imperial Japanese aircraft launched from six carriers struck the US Pacific Fleet at Pearl Harbour. The strike force had sailed in total radio silence across 3,400 miles of open Pacific — a feat of operational secrecy without parallel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/USS_SHAW_exploding_Pearl_Harbor_Nara_80-G-16871_2.jpg/960px-USS_SHAW_exploding_Pearl_Harbor_Nara_80-G-16871_2.jpg",
+        "cap": "The Japanese attack on Pearl Harbor",
+        "stats": [
+          {
+            "val": "353",
+            "lbl": "Japanese aircraft in two waves"
+          },
+          {
+            "val": "6",
+            "lbl": "Japanese carriers in Kido Butai"
+          },
+          {
+            "val": "3,400 mi",
+            "lbl": "Distance sailed in radio silence"
+          },
+          {
+            "val": "110 min",
+            "lbl": "Duration of the entire attack",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Battleship Row",
+        "body": "Eight US battleships were damaged or destroyed. The USS Arizona exploded catastrophically when a bomb pierced her forward ammunition magazine, killing 1,177 of her crew. The wreck remains a war grave, still leaking oil — what locals call her 'black tears'.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/USS_Arizona_burns_after_her_forward_magazines_have_exploded._Note_collapsed_foremast._%28408c0235-a3c7-9915-0cd4-643f9c88997f%29.jpg/960px-USS_Arizona_burns_after_her_forward_magazines_have_exploded._Note_collapsed_foremast._%28408c0235-a3c7-9915-0cd4-643f9c88997f%29.jpg",
+        "cap": "USS Arizona burns and sinks after her forward magazine detonated",
+        "stats": [
+          {
+            "val": "2,403",
+            "lbl": "Americans killed"
+          },
+          {
+            "val": "1,178",
+            "lbl": "Americans wounded"
+          },
+          {
+            "val": "8",
+            "lbl": "Battleships sunk or damaged"
+          },
+          {
+            "val": "328",
+            "lbl": "US aircraft destroyed or damaged",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "America Awakens",
+        "body": "The following day, President Roosevelt addressed Congress. His 'Day of Infamy' speech lasted seven minutes. War was declared within hours. Three days later, Germany and Italy declared war on the United States — transforming a European conflict into a truly global war.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fdr_delivers_speech.jpg/960px-Fdr_delivers_speech.jpg",
+        "cap": "President Franklin Delano Roosevelt delivers his Day of Infamy speech",
+        "stats": [
+          {
+            "val": "16 Million",
+            "lbl": "Americans who would serve"
+          },
+          {
+            "val": "$341B",
+            "lbl": "US wartime spending (1940s dollars)"
+          },
+          {
+            "val": "1 hour",
+            "lbl": "Time for Congress to declare war",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stalingrad",
+    "year": "1942",
+    "date": "Aug 1942 – Feb 1943",
+    "title": "Battle of Stalingrad",
+    "sub": "The Turning Point",
+    "view": {
+      "center": [
+        49.5,
+        42
+      ],
+      "zoom": 5
+    },
+    "regions": [
+      {
+        "id": "german-advance",
+        "label": "German advance to Stalingrad",
+        "color": "#c0392b",
+        "opacity": 0.22,
+        "coordinates": [
+          [
+            33.5,
+            51
+          ],
+          [
+            35,
+            50.5
+          ],
+          [
+            36.5,
+            50
+          ],
+          [
+            38,
+            49.5
+          ],
+          [
+            39,
+            49
+          ],
+          [
+            40,
+            48.5
+          ],
+          [
+            41,
+            48
+          ],
+          [
+            42,
+            47.5
+          ],
+          [
+            43,
+            47.2
+          ],
+          [
+            44,
+            47
+          ],
+          [
+            44.51,
+            48.71
+          ],
+          [
+            45,
+            48.5
+          ],
+          [
+            45.5,
+            48
+          ],
+          [
+            46,
+            47.5
+          ],
+          [
+            46.5,
+            47
+          ],
+          [
+            46.8,
+            46.5
+          ],
+          [
+            46.5,
+            46
+          ],
+          [
+            45.5,
+            45.5
+          ],
+          [
+            44,
+            45.2
+          ],
+          [
+            42.5,
+            45
+          ],
+          [
+            41,
+            45.2
+          ],
+          [
+            39.5,
+            45.5
+          ],
+          [
+            38,
+            46
+          ],
+          [
+            36.5,
+            46.5
+          ],
+          [
+            35,
+            47
+          ],
+          [
+            33.5,
+            47.5
+          ],
+          [
+            32,
+            48.5
+          ],
+          [
+            31.5,
+            49.5
+          ],
+          [
+            32,
+            50.5
+          ],
+          [
+            33.5,
+            51
+          ]
+        ]
+      },
+      {
+        "id": "soviet-encirclement",
+        "label": "Soviet encirclement",
+        "color": "#27ae60",
+        "opacity": 0.22,
+        "coordinates": [
+          [
+            42,
+            50.5
+          ],
+          [
+            43,
+            50.8
+          ],
+          [
+            44,
+            51
+          ],
+          [
+            45,
+            50.8
+          ],
+          [
+            46,
+            50.5
+          ],
+          [
+            47,
+            50
+          ],
+          [
+            47.5,
+            49.5
+          ],
+          [
+            47.8,
+            49
+          ],
+          [
+            47.5,
+            48.5
+          ],
+          [
+            47,
+            48
+          ],
+          [
+            46.5,
+            47.5
+          ],
+          [
+            46,
+            47
+          ],
+          [
+            45,
+            47.2
+          ],
+          [
+            44.51,
+            47.5
+          ],
+          [
+            44,
+            47.8
+          ],
+          [
+            43,
+            48.2
+          ],
+          [
+            42,
+            48.5
+          ],
+          [
+            41.5,
+            49
+          ],
+          [
+            41.5,
+            49.5
+          ],
+          [
+            42,
+            50
+          ],
+          [
+            42,
+            50.5
+          ]
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "title": "Hitler's Obsession",
+        "body": "Stalingrad — a city bearing Stalin's name on the Volga River — became the focal point of Germany's 1942 summer offensive. What began as a strategic objective became an ideological fixation that would consume an entire German army and mark the war's turning point.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Destoyed_Buildings_in_Stalingrad%2C_1942_%2815%29.jpg/960px-Destoyed_Buildings_in_Stalingrad%2C_1942_%2815%29.jpg",
+        "cap": "Destroyed buildings in Stalingrad, 1942",
+        "stats": [
+          {
+            "val": "300,000",
+            "lbl": "Axis troops encircled"
+          },
+          {
+            "val": "1,000+",
+            "lbl": "Luftwaffe aircraft in support"
+          },
+          {
+            "val": "6 months",
+            "lbl": "Duration of the battle"
+          },
+          {
+            "val": "2km",
+            "lbl": "Width of Soviet-held bank at narrowest",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Rattenkrieg",
+        "body": "The Germans called it Rattenkrieg — Rat War. Soviet defenders contested every building, every floor, every room. Pavlov's House was held by a single platoon for 60 days — longer than it took Germany to conquer France. Snipers stalked through rubble and sewers.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stalingrad_-_ruined_city.jpg/960px-Stalingrad_-_ruined_city.jpg",
+        "cap": "Soviet soldiers fight amid the ruins of Stalingrad's factory district",
+        "stats": [
+          {
+            "val": "60 Days",
+            "lbl": "Pavlov's House held by 25 men"
+          },
+          {
+            "val": "225",
+            "lbl": "Confirmed kills by sniper Vasily Zaitsev"
+          },
+          {
+            "val": "94%",
+            "lbl": "Of the city destroyed by fighting",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Operation Uranus",
+        "body": "In November 1942, Marshal Zhukov unleashed a massive pincer attack that encircled the entire German 6th Army. Field Marshal Paulus surrendered on 2 February 1943 — the first major German defeat and the moment the tide irrevocably turned.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Field_Marshal_Paulus%2C_General_Heitz_and_other_German_officers_of_the_6th_Army_after_its_surrender.jpg/960px-Field_Marshal_Paulus%2C_General_Heitz_and_other_German_officers_of_the_6th_Army_after_its_surrender.jpg",
+        "cap": "Field Marshal Paulus surrenders at Stalingrad, 2 February 1943",
+        "stats": [
+          {
+            "val": "800,000+",
+            "lbl": "Total Axis casualties"
+          },
+          {
+            "val": "91,000",
+            "lbl": "German soldiers taken prisoner"
+          },
+          {
+            "val": "5,000",
+            "lbl": "Survivors who returned to Germany",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dday",
+    "year": "1944",
+    "date": "6 June 1944",
+    "title": "D-Day",
+    "sub": "Operation Overlord",
+    "view": {
+      "center": [
+        49.8,
+        -0.8
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "latlng": [
+          49.38,
+          -1.05
+        ],
+        "label": "Omaha & Utah",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          49.33,
+          0.35
+        ],
+        "label": "Gold · Juno · Sword",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          50.8,
+          -1.09
+        ],
+        "label": "Portsmouth",
+        "type": "minor"
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Longest Day",
+        "body": "Operation Overlord was the largest seaborne invasion in history. Under Supreme Commander Eisenhower, 156,000 Allied troops crossed the English Channel on 6 June 1944, supported by 11,000 aircraft and nearly 7,000 naval vessels. The liberation of Western Europe had begun.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Normandy-June-6th-1944-US-troops-assault-Omaha-Beach-during-the-D-Day-landings.png/960px-Normandy-June-6th-1944-US-troops-assault-Omaha-Beach-during-the-D-Day-landings.png",
+        "cap": "US troops wade ashore from a Higgins boat onto Omaha Beach, June 1944",
+        "stats": [
+          {
+            "val": "156,000",
+            "lbl": "Allied troops landed on D-Day"
+          },
+          {
+            "val": "6,939",
+            "lbl": "Naval vessels in the armada"
+          },
+          {
+            "val": "11,000",
+            "lbl": "Allied aircraft in support"
+          },
+          {
+            "val": "5 Beaches",
+            "lbl": "Utah, Omaha, Gold, Juno, Sword",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Omaha Beach",
+        "body": "Omaha Beach was a bloodbath. US troops landed directly in front of fortified German positions on towering bluffs. By mid-morning casualties were so severe that General Bradley considered abandoning the beach. Small groups of survivors pressed forward and broke through.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Royal_Navy_during_the_Second_World_War-_Operation_Overlord_%28the_Normandy_Landings%29-_D-day_6_June_1944_A24459.jpg/960px-The_Royal_Navy_during_the_Second_World_War-_Operation_Overlord_%28the_Normandy_Landings%29-_D-day_6_June_1944_A24459.jpg",
+        "cap": "Operation Overlord, the Normandy Landings, 1944",
+        "stats": [
+          {
+            "val": "2,000+",
+            "lbl": "US casualties at Omaha alone"
+          },
+          {
+            "val": "8km",
+            "lbl": "Width of Omaha Beach assault zone"
+          },
+          {
+            "val": "10,000+",
+            "lbl": "Total Allied D-Day casualties",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The Liberation",
+        "body": "By nightfall all five beaches were secured. Paris was liberated on 25 August. By September, Allied forces had pushed to Germany's own border. D-Day proved a second front could be held — squeezing the Reich from East and West. The end was now inevitable.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg/960px-Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg",
+        "cap": "Crowds celebrate the liberation of Paris, August 1944",
+        "stats": [
+          {
+            "val": "25 Aug",
+            "lbl": "Liberation of Paris"
+          },
+          {
+            "val": "2M+",
+            "lbl": "Allied troops in France by August"
+          },
+          {
+            "val": "80 days",
+            "lbl": "From D-Day to German border",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "auschwitz",
+    "year": "1945",
+    "date": "27 January 1945",
+    "title": "Liberation of Auschwitz",
+    "sub": "The Holocaust Revealed",
+    "view": {
+      "center": [
+        50.03,
+        19.2
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "latlng": [
+          50.03,
+          19.2
+        ],
+        "label": "Auschwitz",
+        "type": "target"
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Nazi Death Camps",
+        "body": "Auschwitz became the largest concentration and extermination camp operated by Nazi Germany. Jews from across occupied Europe were deported there as part of the Holocaust.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Auschwitz-Work_Set_Free-new.JPG/960px-Auschwitz-Work_Set_Free-new.JPG",
+        "cap": "The main gate of Auschwitz-Birkenau",
+        "stats": [
+          {
+            "val": "1.1 Million",
+            "lbl": "People murdered at Auschwitz"
+          },
+          {
+            "val": "90%",
+            "lbl": "Victims who were Jewish"
+          }
+        ]
+      },
+      {
+        "title": "Liberation",
+        "body": "On 27 January 1945 Soviet troops entered Auschwitz and discovered thousands of starving prisoners, along with evidence of industrial-scale mass murder. Much of the world was confronted for the first time with the true scale of Nazi atrocities.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Auschwitz_Liberated_January_1945.jpg/960px-Auschwitz_Liberated_January_1945.jpg",
+        "cap": "Prisoners during liberation by the Soviet Red Army",
+        "stats": [
+          {
+            "val": "7,000",
+            "lbl": "Prisoners found alive"
+          },
+          {
+            "val": "27 Jan 1945",
+            "lbl": "Camp liberated"
+          }
+        ]
+      },
+      {
+        "title": "Never Again",
+        "body": "The Holocaust claimed the lives of approximately six million Jews, alongside millions of other victims persecuted by the Nazi regime. Auschwitz became the enduring symbol of genocide and crimes against humanity.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Auschwitz_Muzeum_Shoes.jpg/960px-Auschwitz_Muzeum_Shoes.jpg",
+        "cap": "Shoes of victims displayed at the Auschwitz-Birkenau Memorial and Museum",
+        "stats": [
+          {
+            "val": "6 Million",
+            "lbl": "Jewish victims of the Holocaust"
+          },
+          {
+            "val": "1945",
+            "lbl": "The full horrors become known"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "berlin",
+    "year": "1945",
+    "date": "April – May 1945",
+    "title": "Fall of Berlin",
+    "sub": "The End of Nazi Germany",
+    "view": {
+      "center": [
+        52.52,
+        13.4
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "latlng": [
+          52.52,
+          13.4
+        ],
+        "label": "Berlin",
+        "type": "target"
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Final Offensive",
+        "body": "In April 1945 the Soviet Red Army launched its final assault on Berlin. Millions of Soviet troops encircled the German capital as Nazi Germany collapsed on all fronts.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Фото_%22На_подступах_к_Берлину%22_%28184803_7%29.jpg/960px-Фото_%22На_подступах_к_Берлину%22_%28184803_7%29.jpg",
+        "cap": "Soviet tanks on the way to Berlin, April 1945",
+        "stats": [
+          {
+            "val": "2.5 Million",
+            "lbl": "Soviet troops in the Berlin offensive"
+          },
+          {
+            "val": "45,000",
+            "lbl": "Soviet artillery pieces deployed"
+          }
+        ]
+      },
+      {
+        "title": "Hitler's Last Days",
+        "body": "As Soviet forces fought street by street through Berlin, Adolf Hitler remained inside the Führerbunker beneath the Reich Chancellery. On 30 April 1945, with defeat inevitable, Hitler committed suicide.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruins_of_the_Reichstag_in_Berlin%2C_3_June_1945._BU8573.jpg/960px-Ruins_of_the_Reichstag_in_Berlin%2C_3_June_1945._BU8573.jpg",
+        "cap": "The ruined Reichstag, symbol of the fallen Third Reich, May 1945",
+        "stats": [
+          {
+            "val": "30 Apr 1945",
+            "lbl": "Hitler dies in the bunker"
+          },
+          {
+            "val": "2 Days",
+            "lbl": "Between Hitler's death and Berlin's surrender"
+          }
+        ]
+      },
+      {
+        "title": "Victory in Europe",
+        "body": "Berlin surrendered on 2 May 1945. One week later Germany capitulated unconditionally. Across Europe crowds celebrated Victory in Europe Day — but the war in the Pacific still continued.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Raising_a_flag_over_the_Reichstag_-_Restoration.jpg/960px-Raising_a_flag_over_the_Reichstag_-_Restoration.jpg",
+        "cap": "Soviet soldiers raise the Red Army flag over the Reichstag, 2 May 1945",
+        "stats": [
+          {
+            "val": "8 May 1945",
+            "lbl": "VE Day"
+          },
+          {
+            "val": "300,000+",
+            "lbl": "Estimated Battle of Berlin deaths"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vj",
+    "year": "1945",
+    "date": "Aug - Sept 1945",
+    "title": "Victory over Japan",
+    "sub": "The War Ends",
+    "view": {
+      "center": [
+        33.5,
+        131.5
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "latlng": [
+          34.39,
+          132.45
+        ],
+        "label": "Hiroshima",
+        "type": "target"
+      },
+      {
+        "latlng": [
+          32.75,
+          129.87
+        ],
+        "label": "Nagasaki",
+        "type": "target"
+      }
+    ],
+    "slides": [
+      {
+        "title": "The Atomic Decision",
+        "body": "By summer 1945, Japan's cities were being firebombed, yet its military refused to surrender. President Truman, facing estimates of over a million Allied casualties in a land invasion of the Japanese home islands, authorised the use of a weapon unlike any before.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atomic_Cloud_Rises_Over_Nagasaki%2C_HD.4F.002_%2811873155226%29.jpg/960px-Atomic_Cloud_Rises_Over_Nagasaki%2C_HD.4F.002_%2811873155226%29.jpg",
+        "cap": "The atomic cloud rises over Nagasaki, 9 August 1945",
+        "stats": [
+          {
+            "val": "70–80,000",
+            "lbl": "Killed instantly at Hiroshima"
+          },
+          {
+            "val": "40,000",
+            "lbl": "Killed instantly at Nagasaki"
+          },
+          {
+            "val": "1M+",
+            "lbl": "Projected Allied casualties avoided"
+          },
+          {
+            "val": "2 bombs",
+            "lbl": "Little Boy (6 Aug) & Fat Man (9 Aug)",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Japan Surrenders",
+        "body": "The bomb on Hiroshima fell on 6 August. Nagasaki followed three days later. On 15 August, Emperor Hirohito broadcast Japan's surrender — the first time most Japanese had ever heard their Emperor's voice. The formal surrender was signed on the USS Missouri on 2 September 1945.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/HMCS_Prince_Robert_on_V-J_Day.jpg/960px-HMCS_Prince_Robert_on_V-J_Day.jpg",
+        "cap": "Ordinary Seaman receives an extra rum ration during Victory over Japan",
+        "stats": [
+          {
+            "val": "2 Sep 1945",
+            "lbl": "Formal surrender signed"
+          },
+          {
+            "val": "15 Aug",
+            "lbl": "Emperor's surrender broadcast"
+          },
+          {
+            "val": "3M+",
+            "lbl": "Japanese military deaths in the war",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "The World Remade",
+        "body": "The Second World War cost an estimated 70–85 million lives — the deadliest conflict in human history. The United Nations was founded. Europe was divided. The atomic age had dawned. The world of 1945 bore almost no resemblance to that of 1939.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Allied_Commanders_after_Germany_Surrendered.jpg/960px-Allied_Commanders_after_Germany_Surrendered.jpg",
+        "cap": "Allied commanders gather as the Second World War draws to a close",
+        "stats": [
+          {
+            "val": "70–85M",
+            "lbl": "Total lives lost in the war"
+          },
+          {
+            "val": "30M",
+            "lbl": "Civilians killed — 54% of all deaths"
+          },
+          {
+            "val": "1945",
+            "lbl": "United Nations founded"
+          },
+          {
+            "val": "$4.1T",
+            "lbl": "Estimated total economic cost",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "War Summary: World War II",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Allied_Commanders_after_Germany_Surrendered.jpg/960px-Allied_Commanders_after_Germany_Surrendered.jpg",
+        "cap": "The end and legacy of the World War II",
+        "body": "The Axis powers were defeated and occupied, the Holocaust was exposed, and the United States and Soviet Union emerged as rival superpowers in a transformed international order.",
+        "stats": [
+          {
+            "val": "~16 million military deaths",
+            "lbl": "Allied Powers casualties, approximate"
+          },
+          {
+            "val": "~8 million military deaths",
+            "lbl": "Axis Powers casualties, approximate"
+          },
+          {
+            "val": "Allied victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The Axis powers were defeated and occupied, the Holocaust was exposed, and the United States and Soviet Union emerged as rival superpowers in a transformed international order.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

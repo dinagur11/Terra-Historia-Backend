@@ -1,0 +1,593 @@
+{
+  "size": {
+    "width": 3900,
+    "height": 2200,
+    "nodeWidth": 230,
+    "nodeHeight": 142
+  },
+  "types": {
+    "aftermath": {
+      "label": "Direct aftermath",
+      "color": "#d5ad45"
+    },
+    "ideological": {
+      "label": "Ideological influence",
+      "color": "#be6666"
+    },
+    "coldWar": {
+      "label": "Cold War escalation",
+      "color": "#62a0c3"
+    },
+    "regional": {
+      "label": "Regional conflict chain",
+      "color": "#7bad79"
+    },
+    "decolonization": {
+      "label": "Decolonization",
+      "color": "#9a7bc1"
+    }
+  },
+  "nodes": {
+    "wwi-events": {
+      "x": 55,
+      "y": 550,
+      "years": "1914-1918",
+      "root": true
+    },
+    "russian-civil-war": {
+      "x": 360,
+      "y": 120,
+      "years": "1917-1923"
+    },
+    "spanish-civil-war": {
+      "x": 680,
+      "y": 30,
+      "years": "1936-1939"
+    },
+    "wwii-events": {
+      "x": 680,
+      "y": 480,
+      "years": "1939-1945",
+      "major": true
+    },
+    "winter-war": {
+      "x": 680,
+      "y": 245,
+      "years": "1939-1940"
+    },
+    "continuation-war": {
+      "x": 995,
+      "y": 210,
+      "years": "1941-1944"
+    },
+    "korean-war": {
+      "x": 1010,
+      "y": 420,
+      "years": "1950-1953"
+    },
+    "1948-arab-israeli-war": {
+      "x": 1010,
+      "y": 720,
+      "years": "1948-1949"
+    },
+    "suez-crisis": {
+      "x": 1325,
+      "y": 655,
+      "years": "1956"
+    },
+    "six-day-war": {
+      "x": 1640,
+      "y": 730,
+      "years": "1967"
+    },
+    "war-of-attrition": {
+      "x": 1955,
+      "y": 660,
+      "years": "1967-1970"
+    },
+    "yom-kippur-war": {
+      "x": 1955,
+      "y": 850,
+      "years": "1973"
+    },
+    "1982-lebanon-war": {
+      "x": 2580,
+      "y": 960,
+      "years": "1982"
+    },
+    "vietnam-war": {
+      "x": 1325,
+      "y": 345,
+      "years": "1955-1975"
+    },
+    "laotian-civil-war": {
+      "x": 1640,
+      "y": 260,
+      "years": "1959-1975"
+    },
+    "cambodian-civil-war": {
+      "x": 1640,
+      "y": 450,
+      "years": "1967-1975"
+    },
+    "third-indochina-war": {
+      "x": 1955,
+      "y": 355,
+      "years": "1975-1991"
+    },
+    "sand-war": {
+      "x": 1325,
+      "y": 1080,
+      "years": "1963"
+    },
+    "chadian-libyan-war": {
+      "x": 1955,
+      "y": 1080,
+      "years": "1978-1987"
+    },
+    "iran-iraq-war": {
+      "x": 2270,
+      "y": 725,
+      "years": "1980-1988"
+    },
+    "falklands-war": {
+      "x": 1640,
+      "y": 30,
+      "years": "1982"
+    },
+    "finnish-civil-war": {
+      "x": 680,
+      "y": 800,
+      "years": "1918"
+    },
+    "estonian-war-of-independence": {
+      "x": 680,
+      "y": 1280,
+      "years": "1918-1920"
+    },
+    "lithuanian-soviet-war": {
+      "x": 680,
+      "y": 1450,
+      "years": "1918-1919"
+    },
+    "polish-lithuanian-war": {
+      "x": 1010,
+      "y": 1450,
+      "years": "1919-1920"
+    },
+    "turkish-war-of-independence": {
+      "x": 680,
+      "y": 1620,
+      "years": "1919-1923"
+    },
+    "eastern-front": {
+      "x": 1010,
+      "y": 20,
+      "years": "1941-1945"
+    },
+    "soviet-finnish-wars": {
+      "x": 1010,
+      "y": 1280,
+      "years": "1939-1944"
+    },
+    "lapland-war": {
+      "x": 1325,
+      "y": 1280,
+      "years": "1944-1945"
+    },
+    "indonesian-national-revolution": {
+      "x": 1010,
+      "y": 1620,
+      "years": "1945-1949"
+    },
+    "indochina-wars": {
+      "x": 1325,
+      "y": 1620,
+      "years": "1946-1991"
+    },
+    "war-in-southern-vietnam": {
+      "x": 1640,
+      "y": 1620,
+      "years": "1955-1975"
+    },
+    "rwandan-civil-war": {
+      "x": 1325,
+      "y": 1960,
+      "years": "1990-1994"
+    },
+    "shaba-ii": {
+      "x": 1640,
+      "y": 1960,
+      "years": "1978"
+    },
+    "toyota-war": {
+      "x": 2270,
+      "y": 1080,
+      "years": "1986-1987"
+    },
+    "croatian-war-of-independence": {
+      "x": 1640,
+      "y": 1280,
+      "years": "1991-1995"
+    },
+    "croat-bosniak-war": {
+      "x": 1955,
+      "y": 1280,
+      "years": "1992-1994"
+    },
+    "kosovo-war": {
+      "x": 2270,
+      "y": 1280,
+      "years": "1998-1999"
+    },
+    "transnistria-war": {
+      "x": 1325,
+      "y": 1450,
+      "years": "1990-1992"
+    },
+    "war-in-abkhazia": {
+      "x": 1640,
+      "y": 1450,
+      "years": "1992-1993"
+    },
+    "tajikistani-civil-war": {
+      "x": 1955,
+      "y": 1450,
+      "years": "1992-1997"
+    },
+    "first-chechen-war": {
+      "x": 1325,
+      "y": 20,
+      "years": "1994-1996"
+    },
+    "war-of-dagestan": {
+      "x": 1640,
+      "y": 20,
+      "years": "1999"
+    },
+    "second-chechen-war": {
+      "x": 1955,
+      "y": 20,
+      "years": "1999-2009"
+    },
+    "south-lebanon-conflict": {
+      "x": 2860,
+      "y": 960,
+      "years": "1985-2000"
+    },
+    "gulf-war": {
+      "x": 2580,
+      "y": 725,
+      "years": "1990-1991"
+    },
+    "war-on-terrorism": {
+      "x": 3210,
+      "y": 725,
+      "years": "2001-present"
+    },
+    "war-in-afghanistan-2001-2021": {
+      "x": 3540,
+      "y": 725,
+      "years": "2001-2021"
+    },
+    "iran-israel-proxy-conflict": {
+      "x": 2860,
+      "y": 725,
+      "years": "1985-present"
+    }
+  },
+  "relationships": [
+    {
+      "from": "wwi-events",
+      "to": "russian-civil-war",
+      "type": "aftermath",
+      "label": "Revolution and imperial collapse"
+    },
+    {
+      "from": "wwi-events",
+      "to": "wwii-events",
+      "type": "aftermath",
+      "label": "Unresolved postwar settlement"
+    },
+    {
+      "from": "russian-civil-war",
+      "to": "spanish-civil-war",
+      "type": "ideological",
+      "label": "Communism and anti-communism"
+    },
+    {
+      "from": "spanish-civil-war",
+      "to": "wwii-events",
+      "type": "ideological",
+      "label": "Prelude to global war"
+    },
+    {
+      "from": "russian-civil-war",
+      "to": "winter-war",
+      "type": "aftermath",
+      "label": "Rise of the Soviet Union"
+    },
+    {
+      "from": "winter-war",
+      "to": "continuation-war",
+      "type": "regional",
+      "label": "Lost territory and renewed war"
+    },
+    {
+      "from": "wwii-events",
+      "to": "continuation-war",
+      "type": "regional",
+      "label": "Eastern Front"
+    },
+    {
+      "from": "wwii-events",
+      "to": "korean-war",
+      "type": "coldWar",
+      "label": "Division after Japanese surrender"
+    },
+    {
+      "from": "korean-war",
+      "to": "vietnam-war",
+      "type": "coldWar",
+      "label": "Containment and proxy warfare"
+    },
+    {
+      "from": "vietnam-war",
+      "to": "laotian-civil-war",
+      "type": "regional",
+      "label": "Interlocking Indochina battlefield"
+    },
+    {
+      "from": "vietnam-war",
+      "to": "cambodian-civil-war",
+      "type": "regional",
+      "label": "War expands into Cambodia"
+    },
+    {
+      "from": "laotian-civil-war",
+      "to": "third-indochina-war",
+      "type": "regional",
+      "label": "Postwar Indochina"
+    },
+    {
+      "from": "cambodian-civil-war",
+      "to": "third-indochina-war",
+      "type": "regional",
+      "label": "Khmer Rouge and Vietnamese intervention"
+    },
+    {
+      "from": "wwii-events",
+      "to": "1948-arab-israeli-war",
+      "type": "aftermath",
+      "label": "End of the British Mandate"
+    },
+    {
+      "from": "1948-arab-israeli-war",
+      "to": "suez-crisis",
+      "type": "regional",
+      "label": "Unresolved Arab-Israeli conflict"
+    },
+    {
+      "from": "suez-crisis",
+      "to": "six-day-war",
+      "type": "regional",
+      "label": "Regional rivalry"
+    },
+    {
+      "from": "six-day-war",
+      "to": "war-of-attrition",
+      "type": "regional",
+      "label": "Dispute over occupied territory"
+    },
+    {
+      "from": "war-of-attrition",
+      "to": "yom-kippur-war",
+      "type": "regional",
+      "label": "Failed settlement and renewed attack"
+    },
+    {
+      "from": "yom-kippur-war",
+      "to": "1982-lebanon-war",
+      "type": "regional",
+      "label": "Conflict shifts toward Lebanon"
+    },
+    {
+      "from": "wwii-events",
+      "to": "sand-war",
+      "type": "decolonization",
+      "label": "Post-colonial borders"
+    },
+    {
+      "from": "sand-war",
+      "to": "chadian-libyan-war",
+      "type": "regional",
+      "label": "North African border disputes"
+    },
+    {
+      "from": "wwii-events",
+      "to": "falklands-war",
+      "type": "decolonization",
+      "label": "Unresolved imperial sovereignty"
+    },
+    {
+      "from": "yom-kippur-war",
+      "to": "iran-iraq-war",
+      "type": "regional",
+      "label": "Changing Middle Eastern power balance"
+    },
+    {
+      "from": "iran-iraq-war",
+      "to": "1982-lebanon-war",
+      "type": "regional",
+      "label": "Regional proxy networks"
+    },
+    {
+      "from": "russian-civil-war",
+      "to": "finnish-civil-war",
+      "type": "aftermath",
+      "label": "Revolution spreads into newly independent Finland"
+    },
+    {
+      "from": "russian-civil-war",
+      "to": "estonian-war-of-independence",
+      "type": "aftermath",
+      "label": "Imperial collapse and Baltic independence"
+    },
+    {
+      "from": "russian-civil-war",
+      "to": "lithuanian-soviet-war",
+      "type": "aftermath",
+      "label": "Bolshevik advance into Lithuania"
+    },
+    {
+      "from": "lithuanian-soviet-war",
+      "to": "polish-lithuanian-war",
+      "type": "regional",
+      "label": "Competing borders after imperial collapse"
+    },
+    {
+      "from": "wwi-events",
+      "to": "turkish-war-of-independence",
+      "type": "aftermath",
+      "label": "Defeat and partition of the Ottoman Empire"
+    },
+    {
+      "from": "wwii-events",
+      "to": "eastern-front",
+      "type": "regional",
+      "label": "Nazi invasion of the Soviet Union"
+    },
+    {
+      "from": "winter-war",
+      "to": "soviet-finnish-wars",
+      "type": "regional",
+      "label": "Renewed struggle over Finland and the Soviet frontier"
+    },
+    {
+      "from": "continuation-war",
+      "to": "lapland-war",
+      "type": "aftermath",
+      "label": "Armistice requires Finland to expel Germany"
+    },
+    {
+      "from": "wwii-events",
+      "to": "indonesian-national-revolution",
+      "type": "decolonization",
+      "label": "Japanese surrender and the end of Dutch colonial rule"
+    },
+    {
+      "from": "wwii-events",
+      "to": "indochina-wars",
+      "type": "decolonization",
+      "label": "Collapse of French colonial authority"
+    },
+    {
+      "from": "indochina-wars",
+      "to": "war-in-southern-vietnam",
+      "type": "coldWar",
+      "label": "Partition and insurgency in Vietnam"
+    },
+    {
+      "from": "wwii-events",
+      "to": "rwandan-civil-war",
+      "type": "decolonization",
+      "label": "Post-colonial division and unresolved refugee crisis"
+    },
+    {
+      "from": "rwandan-civil-war",
+      "to": "shaba-ii",
+      "type": "regional",
+      "label": "Cold War instability in central Africa"
+    },
+    {
+      "from": "chadian-libyan-war",
+      "to": "toyota-war",
+      "type": "regional",
+      "label": "Final campaign against Libya in northern Chad"
+    },
+    {
+      "from": "wwii-events",
+      "to": "croatian-war-of-independence",
+      "type": "aftermath",
+      "label": "Collapse of Yugoslavia's postwar order"
+    },
+    {
+      "from": "croatian-war-of-independence",
+      "to": "croat-bosniak-war",
+      "type": "regional",
+      "label": "Yugoslav dissolution spreads into Bosnia"
+    },
+    {
+      "from": "croat-bosniak-war",
+      "to": "kosovo-war",
+      "type": "regional",
+      "label": "Unresolved Yugoslav breakup"
+    },
+    {
+      "from": "russian-civil-war",
+      "to": "transnistria-war",
+      "type": "aftermath",
+      "label": "Soviet collapse reopens territorial divisions"
+    },
+    {
+      "from": "transnistria-war",
+      "to": "war-in-abkhazia",
+      "type": "regional",
+      "label": "Separatism after Soviet collapse"
+    },
+    {
+      "from": "transnistria-war",
+      "to": "tajikistani-civil-war",
+      "type": "regional",
+      "label": "Post-Soviet state collapse and factional conflict"
+    },
+    {
+      "from": "russian-civil-war",
+      "to": "first-chechen-war",
+      "type": "aftermath",
+      "label": "Separatism after Soviet collapse"
+    },
+    {
+      "from": "first-chechen-war",
+      "to": "war-of-dagestan",
+      "type": "regional",
+      "label": "Chechen conflict spreads into Dagestan"
+    },
+    {
+      "from": "war-of-dagestan",
+      "to": "second-chechen-war",
+      "type": "regional",
+      "label": "Dagestan incursion triggers renewed Russian invasion"
+    },
+    {
+      "from": "1982-lebanon-war",
+      "to": "south-lebanon-conflict",
+      "type": "regional",
+      "label": "Occupation and resistance after the Lebanon War"
+    },
+    {
+      "from": "iran-iraq-war",
+      "to": "gulf-war",
+      "type": "aftermath",
+      "label": "Iraqi debt and militarization after the Iran-Iraq War"
+    },
+    {
+      "from": "gulf-war",
+      "to": "war-on-terrorism",
+      "type": "aftermath",
+      "label": "US regional presence and transnational militancy"
+    },
+    {
+      "from": "war-on-terrorism",
+      "to": "war-in-afghanistan-2001-2021",
+      "type": "regional",
+      "label": "First major campaign of the War on Terror"
+    },
+    {
+      "from": "iran-iraq-war",
+      "to": "iran-israel-proxy-conflict",
+      "type": "regional",
+      "label": "Iranian regional networks and shifting power"
+    }
+  ]
+}

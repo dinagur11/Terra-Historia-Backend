@@ -1,0 +1,460 @@
+[
+  {
+    "id": "origins-and-road-to-war",
+    "year": 1918,
+    "date": "1918-01-01",
+    "title": "Origins and Road to War",
+    "sub": "How the Estonian War of Independence began",
+    "view": {
+      "center": [
+        59,
+        25
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Russian Civil War to Estonian War of Independence",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
+        "cap": "Historical connection: Imperial collapse and Baltic independence",
+        "body": "The Russian Civil War created both the opportunity and the danger for Estonian independence. Estonia declared sovereignty as empires collapsed, but then had to defeat a Bolshevik attempt to restore control.",
+        "stats": [
+          {
+            "val": "Russian Civil War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "Direct aftermath",
+            "lbl": "Imperial collapse and Baltic independence"
+          },
+          {
+            "val": "Estonian War of Independence",
+            "lbl": "The next conflict to explore"
+          },
+          {
+            "val": "Why they connect",
+            "lbl": "The Russian Civil War created both the opportunity and the danger for Estonian independence. Estonia declared sovereignty as empires collapsed, but then had to defeat a Bolshevik attempt to restore control.",
+            "full": true
+          }
+        ]
+      },
+      {
+        "title": "Before the Estonian War of Independence",
+        "body": "Estonia declared independence as the German occupation ended, but the Red Army invaded to restore Bolshevik control over the former Russian imperial province.\n\nThe Conflict Takes Shape: The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "stats": [
+          {
+            "val": "1918-1920",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Joala_lahing_2.jpg",
+        "cap": "Opening context for the Estonian War of Independence"
+      }
+    ]
+  },
+  {
+    "id": "battle-of-narva",
+    "year": 1918,
+    "date": "1918-11-28",
+    "title": "Battle of Narva",
+    "sub": "Part of Estonian War of Independence",
+    "view": {
+      "center": [
+        59.45,
+        28.033333333
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Narva",
+        "latlng": [
+          59.45,
+          28.033333333
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Narva",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Joala_lahing_2.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Narva_(1918)",
+        "body": "The Battle of Narva took place on 29 November 1918 in the city of Narva and Jaanilinn between troops from the Provisional Government of Estonia and the Russian Red Army. The battle is considered the beginning of the Estonian Independence War. The Infanterie-Regiment Nr. 405 of the German Imperial Army was also involved against the Red Army.\n\nWhy This Moment Matters: Battle of Narva was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.\n\nConsequences: The effects of Battle of Narva extended beyond its immediate result. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Year"
+          },
+          {
+            "val": "1 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-tartu",
+    "year": 1919,
+    "date": "1919-01-13",
+    "title": "Battle of Tartu",
+    "sub": "Part of Estonian War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Tartu",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Soomusronglased_1919._aasta_jaanuaris_Tartut_vabastamas.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Tartu_(1919)",
+        "body": "The Battle of Tartu was fought between the 13th and 14th of January, 1919 in the Estonian War of Independence between the units of the Estonian 2nd Division and the forces of the Red Latvian Riflemen. The battle was a significant battle in the Estonian War of Independence, allowing Estonian troops to liberate the rest of Southern Estonia from Soviet forces.\n\nWhy This Moment Matters: Battle of Tartu was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.\n\nConsequences: The effects of Battle of Tartu extended beyond its immediate result. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "2 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-utria",
+    "year": 1919,
+    "date": "1919-01-17",
+    "title": "Battle of Utria",
+    "sub": "Part of Estonian War of Independence",
+    "view": {
+      "center": [
+        59.4,
+        27.916666666
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Utria",
+        "latlng": [
+          59.4,
+          27.916666666
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Utria",
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Utria%20pank.JPG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Utria",
+        "body": "Battle of Utria also known as the Utria Landing took place during the Estonian War of Independence on 17–20 January 1919 at Udria beach. It was an amphibious landing consisting mainly of Finnish volunteers.\n\nWhy This Moment Matters: Battle of Utria was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.\n\nConsequences: The effects of Battle of Utria extended beyond its immediate result. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "3 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-laagna",
+    "year": 1919,
+    "date": "1919-01-18",
+    "title": "Battle of Laagna",
+    "sub": "Part of Estonian War of Independence",
+    "view": {
+      "center": [
+        59.383333333,
+        27.983333333
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Laagna",
+        "latlng": [
+          59.383333333,
+          27.983333333
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Laagna",
+        "img": "",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Laagna",
+        "body": "Battle of Laagna took place in Laagna, Estonia, during the Estonian War of Independence. A battalion of Estonian marines and four companies of Finnish volunteers under the overall command of Martin Ekström attacked Red Army positions at Laagna as part of a wider operation targeting Narva.\n\nWhy This Moment Matters: Battle of Laagna was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.\n\nConsequences: The effects of Battle of Laagna extended beyond its immediate result. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "4 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-paju",
+    "year": 1919,
+    "date": "1919-01-31",
+    "title": "Battle of Paju",
+    "sub": "Part of Estonian War of Independence",
+    "view": {
+      "center": [
+        57.82014444,
+        26.11162778
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Paju",
+        "latlng": [
+          57.82014444,
+          26.11162778
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Paju",
+        "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/Battle_of_Paju.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Paju",
+        "body": "The Battle of Paju was fought in Paju, near Valga, Estonia, on 31 January 1919 during the Estonian War of Independence. After heavy fighting, the Tartu-Valga group of the Estonian Army pushed the Red Latvian Riflemen out of the Paju Manor. It was the fiercest battle in the early period of war. Estonian commander Julius Kuperjanov fell in the fighting.\n\nWhy This Moment Matters: Battle of Paju was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.\n\nConsequences: The effects of Battle of Paju extended beyond its immediate result. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "5 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "revolt-of-saaremaa",
+    "year": 1919,
+    "date": "1919-02-16",
+    "title": "Revolt of Saaremaa",
+    "sub": "Part of Estonian War of Independence",
+    "view": {
+      "center": [
+        50,
+        15
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Revolt of Saaremaa",
+        "img": "",
+        "cap": "",
+        "body": "Revolt of Saaremaa marked an important episode in the Estonian War of Independence. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Revolt of Saaremaa was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.\n\nConsequences: The effects of Revolt of Saaremaa extended beyond its immediate result. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "6 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-c-sis",
+    "year": 1919,
+    "date": "1919-06-05",
+    "title": "Battle of Cēsis",
+    "sub": "Part of Estonian War of Independence",
+    "view": {
+      "center": [
+        57.313055555,
+        25.274722222
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Cēsis",
+        "latlng": [
+          57.313055555,
+          25.274722222
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Cēsis",
+        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Latvian%20Independence%20War%201919.06.22.svg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_C%C4%93sis_(1919)",
+        "body": "The Battle of Cēsis, fought near Cēsis (Wenden) in June 1919, was a decisive battle in the Estonian War of Independence and the Latvian War of Independence. After heavy fighting, an Estonian force moving from the north, supplemented by Latvian units, repelled Baltic German attacks and went on a full counter-attack.\n\nWhy This Moment Matters: Battle of Cēsis was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.\n\nConsequences: The effects of Battle of Cēsis extended beyond its immediate result. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "7 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-krivasoo",
+    "year": 1919,
+    "date": "1919-11-18",
+    "title": "Battle of Krivasoo",
+    "sub": "Part of Estonian War of Independence",
+    "view": {
+      "center": [
+        59.2558,
+        27.9326
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Battle of Krivasoo",
+        "latlng": [
+          59.2558,
+          27.9326
+        ],
+        "type": "major"
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Krivasoo",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Patarei_nr_2_1919.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Krivasoo",
+        "body": "Battle of Krivasoo took place near the Krivasoo, Estonia during the Estonian War of Independence between the Estonian Army and the Red Army. It is considered one of the last engagements of the conflict before a ceasefire was called in early January 1920.\n\nWhy This Moment Matters: Battle of Krivasoo was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The young republic fought for national survival against Soviet forces and later against German-led Landeswehr formations.\n\nConsequences: The effects of Battle of Krivasoo extended beyond its immediate result. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Year"
+          },
+          {
+            "val": "8 of 8",
+            "lbl": "Existing timeline event"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1919,
+    "date": "1919-01-01",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the Estonian War of Independence",
+    "view": {
+      "center": [
+        59,
+        25
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "British naval support, Finnish volunteers, White Russian forces, and fighting in neighboring Latvia affected Estonia's ability to survive.\n\nThe Human Cost: Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation.",
+        "stats": [
+          {
+            "val": "Several thousand killed and wounded",
+            "lbl": "Estimated human cost",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 1920,
+    "date": "1920-01-01",
+    "title": "Outcome and Legacy",
+    "sub": "How the Estonian War of Independence ended and what followed",
+    "view": {
+      "center": [
+        59,
+        25
+      ],
+      "zoom": 3
+    },
+    "markers": [],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of the Estonian War of Independence",
+        "body": "Estonian forces secured the country, and Soviet Russia recognized Estonian independence in the Treaty of Tartu."
+      },
+      {
+        "title": "War Summary: Estonian War of Independence",
+        "body": "Estonian forces secured the country, and Soviet Russia recognized Estonian independence in the Treaty of Tartu. Mobilization and shifting fronts placed severe pressure on a small population already exhausted by world war and occupation.",
+        "stats": [
+          {
+            "val": "Estonian victory",
+            "lbl": "Outcome / winner"
+          },
+          {
+            "val": "Several thousand killed and wounded",
+            "lbl": "Casualties / human cost"
+          },
+          {
+            "val": "Estonian forces secured the country, and Soviet Russia recognized Estonian independence in the Treaty of Tartu.",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Patarei_nr_2_1919.jpg",
+        "cap": "The outcome and legacy of the Estonian War of Independence"
+      }
+    ]
+  }
+]
