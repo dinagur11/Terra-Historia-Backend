@@ -61,19 +61,24 @@ router.get("/me/progress", async (req, res) => {
 });
 
 router.put("/me/progress", async (req, res) => {
-  const { deepDiveProgress = {}, timelineProgress = {} } = req.body;
+  const { timelineId } = req.body;
+  if (!timelineId || typeof timelineId !== "string") {
+    return res.status(400).json({ error: "timelineId is required" });
+  }
 
   try {
-    await getOrCreateUser(req.user);
-    const user = await updateUserProgress(req.user.userId, {
-      deepDiveProgress,
-      timelineProgress,
+    const user = await getOrCreateUser(req.user);
+    const nextTimelineProgress = {
+      ...user.timelineProgress,
+      [timelineId]: true,
+    };
+
+    const updated = await updateUserProgress(req.user.userId, {
+      deepDiveProgress: user.deepDiveProgress,
+      timelineProgress: nextTimelineProgress,
     });
 
-    res.json({
-      deepDiveProgress: user.deepDiveProgress,
-      timelineProgress: user.timelineProgress,
-    });
+    res.json({ timelineProgress: updated.timelineProgress });
   } catch (err) {
     console.error("Update progress error:", err);
     res.status(500).json({ error: "Internal server error" });

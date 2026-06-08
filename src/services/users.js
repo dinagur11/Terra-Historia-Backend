@@ -100,27 +100,6 @@ export async function updateUserProgress(userId, progress) {
   return User.fromItem(result.Attributes);
 }
 
-export async function addUserSuggestion(userId, suggestion) {
-  const now = new Date().toISOString();
-
-  const result = await dynamo.send(
-    new UpdateCommand({
-      TableName: getUsersTable(),
-      Key: { userId },
-      UpdateExpression:
-        "SET suggestions = list_append(if_not_exists(suggestions, :empty), :suggestion), updatedAt = :updatedAt",
-      ExpressionAttributeValues: {
-        ":empty": [],
-        ":suggestion": [suggestion],
-        ":updatedAt": now,
-      },
-      ReturnValues: "ALL_NEW",
-    })
-  );
-
-  return User.fromItem(result.Attributes);
-}
-
 export async function getAllSuggestions() {
   const suggestions = [];
   let exclusiveStartKey;
@@ -151,3 +130,52 @@ export async function getAllSuggestions() {
 
   return suggestions.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
 }
+
+export async function addUserSuggestion(userId, suggestion) {
+  const now = new Date().toISOString();
+
+  const result = await dynamo.send(
+    new UpdateCommand({
+      TableName: getUsersTable(),
+      Key: { userId },
+      UpdateExpression:
+        "SET suggestions = list_append(if_not_exists(suggestions, :empty), :suggestion), updatedAt = :updatedAt",
+      ExpressionAttributeValues: {
+        ":empty": [],
+        ":suggestion": [suggestion],
+        ":updatedAt": now,
+      },
+      ReturnValues: "ALL_NEW",
+    })
+  );
+
+  return User.fromItem(result.Attributes);
+}
+
+export async function updateSuggestionStatus(userId, suggestionId, status) {
+  const user = await getUserById(userId);
+  if (!user) throw new Error("User not found");
+
+  const index = user.suggestions.findIndex(s => s.suggestionId === suggestionId);
+  if (index === -1) throw new Error("Suggestion not found");
+
+  const now = new Date().toISOString();
+
+  const result = await dynamo.send(
+    new UpdateCommand({
+      TableName: getUsersTable(),
+      Key: { userId },
+      UpdateExpression: `SET suggestions[${index}].#status = :status, suggestions[${index}].updatedAt = :updatedAt, updatedAt = :updatedAt`,
+      ExpressionAttributeNames: { "#status": "status" },
+      ExpressionAttributeValues: {
+        ":status": status,
+        ":updatedAt": now,
+      },
+      ReturnValues: "ALL_NEW",
+    })
+  );
+
+  return User.fromItem(result.Attributes);
+}
+
+

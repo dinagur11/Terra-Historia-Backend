@@ -6,10 +6,12 @@ import {
   addUserSuggestion,
   getAllSuggestions,
   getOrCreateUser,
+  updateSuggestionStatus, 
 } from "../services/users.js";
 
 const router = Router();
 const ALLOWED_TYPES = new Set(["event", "mistake", "other"]);
+const ALLOWED_STATUSES = new Set(["pending", "accepted", "declined"]);
 
 router.use(requireAuth);
 
@@ -33,6 +35,28 @@ router.get("/", async (req, res) => {
     });
   } catch (err) {
     console.error("Get suggestions error:", err);
+    res.status(500).json({ error: "Internal server error" });
+  }
+});
+
+router.patch("/:userId/:suggestionId/status", async (req, res) => {
+  try {
+    const isDeveloper = req.user.groups.includes("developers");
+    if (!isDeveloper) {
+      return res.status(403).json({ error: "Forbidden" });
+    }
+
+    const { userId, suggestionId } = req.params;
+    const { status } = req.body;
+
+    if (!ALLOWED_STATUSES.has(status)) {
+      return res.status(400).json({ error: "Invalid status" });
+    }
+
+    await updateSuggestionStatus(userId, suggestionId, status);
+    res.json({ success: true, status });
+  } catch (err) {
+    console.error("Update suggestion status error:", err);
     res.status(500).json({ error: "Internal server error" });
   }
 });
