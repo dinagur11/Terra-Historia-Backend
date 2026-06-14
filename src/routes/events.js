@@ -1,5 +1,5 @@
 import { Router } from "express"
-import { getJsonFromS3 } from "../services/s3.js"
+import { getJsonFromS3 } from "../services/S3.js"
 
 const router = Router()
 
