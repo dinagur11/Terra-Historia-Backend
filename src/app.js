@@ -8,7 +8,7 @@ import deepDivesRouter from "./routes/deep-dives.js"
 import suggestionsRouter from "./routes/suggestions.js"
 const app = express()
 
-app.use(cors())
+app.use(cors({ origin: 'https://main.d16d5gmih31530.amplifyapp.com' }));
 app.use(express.json())
 
 app.use("/events", eventsRouter)
