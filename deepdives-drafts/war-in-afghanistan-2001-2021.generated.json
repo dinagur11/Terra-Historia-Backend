@@ -7,31 +7,59 @@
     "sub": "How the War in Afghanistan began",
     "view": {
       "center": [
-        34,
-        66
+        34.5,
+        69.2
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "World Trade Center",
+        "latlng": [
+          40.7115,
+          -74.0134
+        ],
+        "type": "major",
+        "description": "The 9/11 attacks triggered the U.S. demand that the Taliban surrender al-Qaeda leaders."
+      },
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The Taliban government controlled Kabul before the U.S.-led intervention."
+      },
+      {
+        "label": "Kandahar",
+        "latlng": [
+          31.6289,
+          65.7372
+        ],
+        "type": "major",
+        "description": "The Taliban's southern base of power became central to the opening campaign."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "From War on Terror to War in Afghanistan",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Collage_conflicto_interno_armado_en_Colombia.jpg",
-        "cap": "Historical connection: First major campaign of the War on Terror",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg",
+        "cap": "The World Trade Center smoking on September 11, 2001",
         "body": "The first major campaign of the War on Terror targeted al-Qaeda and the Taliban government that sheltered it. A rapid intervention became a twenty-year counterinsurgency and state-building war.",
         "stats": [
           {
-            "val": "War on Terror",
-            "lbl": "Previous conflict in this path"
+            "val": "Previous conflict in this path",
+            "lbl": "War on Terror"
           },
           {
-            "val": "Regional conflict chain",
-            "lbl": "First major campaign of the War on Terror"
+            "val": "First major campaign of the War on Terror",
+            "lbl": "Regional conflict chain"
           },
           {
-            "val": "War in Afghanistan",
-            "lbl": "The next conflict to explore"
+            "val": "The next conflict to explore",
+            "lbl": "War in Afghanistan"
           },
           {
             "val": "Why they connect",
@@ -42,22 +70,23 @@
       },
       {
         "title": "Before the War in Afghanistan",
-        "body": "After the September 11 attacks, the United States demanded that the Taliban surrender al-Qaeda leaders. A US-led intervention then removed the Taliban government.\n\nThe Conflict Takes Shape: The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "body": "After the September 11 attacks, the United States demanded that the Taliban surrender Osama bin Laden and other al-Qaeda leaders, close terrorist training camps, and allow access to al-Qaeda infrastructure in Afghanistan. The Taliban refused to hand bin Laden over under U.S. terms and tried to bargain for evidence or third-country arrangements instead.\n\nThat refusal made Afghanistan the first battlefield of the War on Terror. The U.S. partnered with the Northern Alliance, used air power, CIA teams, and special operations forces, and quickly removed the Taliban government. The hard part came afterward: al-Qaeda leaders escaped, the Taliban reorganized, and a short punitive campaign turned into a twenty-year war of insurgency, state-building, corruption, counterterrorism, and exhaustion.",
         "stats": [
           {
             "val": "2001-2021",
             "lbl": "Conflict period"
           },
           {
-            "val": "The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.",
-            "lbl": "What was at stake",
+            "val": "What was at stake",
+            "lbl": "The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg/3840px-U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg",
-        "cap": "Opening context for the War in Afghanistan"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg",
+        "cap": "The World Trade Center smoking on September 11, 2001"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "operation-enduring-freedom",
@@ -67,35 +96,58 @@
     "sub": "Part of War in Afghanistan (2001–2021)",
     "view": {
       "center": [
-        50,
-        15
+        33.5,
+        66
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The U.S.-led campaign and Northern Alliance advance toppled Taliban rule in the capital."
+      },
+      {
+        "label": "Kandahar",
+        "latlng": [
+          31.6289,
+          65.7372
+        ],
+        "type": "major",
+        "description": "Kandahar's fall marked the collapse of the Taliban's first regime."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Enduring Freedom",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg/3840px-U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Operation_Enduring_Freedom",
         "body": "Operation Enduring Freedom (OEF) was the official name used by the U.S. government for both the first stage (2001–2014) of the war in Afghanistan (2001–2021) and related military operations during the broader-scale global war on terrorism. On 7 October 2001, in response to the September 11 attacks, President George W. Bush announced that airstrikes against al-Qaeda and the Taliban had begun in Afghanistan. Beyond the military activities in Afghanistan, a number of U.S military command structures operating under the Operation Enduring Freedom banner were also affiliated with several counterterrorism missions in other countries, such as OEF-Philippines and OEF-Trans Sahara."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Operation Enduring Freedom was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of Operation Enduring Freedom extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of Operation Enduring Freedom extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians.",
         "stats": [
           {
             "val": "2001",
             "lbl": "Year"
           },
           {
-            "val": "1 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Operation Enduring Freedom (OEF) was the official name used by the U.S. government for both the first stage (2001–2014) of the war in Afghanistan (2001–2021) and related military operations during the broader-scale global war on terrorism.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Enduring_Freedom"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "battle-of-tora-bora",
@@ -105,44 +157,58 @@
     "sub": "Part of War in Afghanistan (2001–2021)",
     "view": {
       "center": [
-        34.11666667,
-        70.21666667
+        34.1,
+        70.2
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Battle of Tora Bora",
+        "label": "Tora Bora",
         "latlng": [
-          34.11666667,
-          70.21666667
+          34.1,
+          70.2
         ],
-        "type": "major"
+        "type": "target",
+        "description": "U.S.-backed Afghan forces fought al-Qaeda in the mountain complex where bin Laden was believed to be hiding."
+      },
+      {
+        "label": "Pakistan border",
+        "latlng": [
+          34,
+          70.8
+        ],
+        "type": "major",
+        "description": "Al-Qaeda leaders escaped through rugged border routes, prolonging the war."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Tora Bora",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Strikes_on_Tora_Bora.png",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Strikes_on_Tora_Bora.png",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Tora_Bora",
-        "body": "The Battle of Tora Bora occurred from 30 November to 17 December 2001, as part of the United States invasion of Afghanistan during the War in Afghanistan (2001–2021). It took place around the cave complex of Tora Bora in the Safed Koh mountain range, near Afghanistan's eastern border with Pakistan. In the battle, the U.S., U.K., Germany, and allied Afghan troops fought al-Qaeda; the Taliban, who controlled the country's government; and other Islamic extremists.\n\nWhy This Moment Matters: Battle of Tora Bora was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.",
+        "body": "The Battle of Tora Bora occurred from 30 November to 17 December 2001, as part of the United States invasion of Afghanistan during the War in Afghanistan (2001–2021). It took place around the cave complex of Tora Bora in the Safed Koh mountain range, near Afghanistan's eastern border with Pakistan. In the battle, the U.S., U.K., Germany, and allied Afghan troops fought al-Qaeda; the Taliban, who controlled the country's government; and other Islamic extremists.",
         "stats": [
           {
             "val": "2001",
             "lbl": "Year"
           },
           {
-            "val": "2 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The Battle of Tora Bora occurred from 30 November to 17 December 2001, as part of the United States invasion of Afghanistan during the War in Afghanistan (2001–2021).",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Battle of Tora Bora extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of Battle of Tora Bora extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Strikes_on_Tora_Bora.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Tora_Bora"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "operation-anaconda",
@@ -152,44 +218,58 @@
     "sub": "Part of War in Afghanistan (2001–2021)",
     "view": {
       "center": [
-        33.366666666,
-        69.183333333
+        33.35,
+        69.22
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Operation Anaconda",
+        "label": "Shah-i-Kot Valley",
         "latlng": [
-          33.366666666,
-          69.183333333
+          33.35,
+          69.22
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Operation Anaconda targeted al-Qaeda and Taliban fighters in this valley in March 2002."
+      },
+      {
+        "label": "Gardez",
+        "latlng": [
+          33.6,
+          69.22
+        ],
+        "type": "major",
+        "description": "The operation staged from nearby eastern Afghan positions."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Anaconda",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Soldiers_from_the_10th_Mountain_Division_%28Light_Infantry%29%2C_participating_in_the_Combined_Joint_Task_Force_Mountain%27s_Operation_Anaconda%2C_prepare_to_dig_into_fighting_positions_after_a_day_of_reacting_to_enemy_fire%2C_March_2002.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Anaconda",
-        "body": "Operation Anaconda or the Battle of Shah-i-Kot was a military operation that took place in early March 2002 as part of the war in Afghanistan. CIA paramilitary officers, working with their allies, attempted to destroy al-Qaeda and Taliban forces. The operation took place in the Shah-i-Kot Valley and Arma Mountains southeast of Zormat. This operation was the first large-scale battle in the post-2001 war in Afghanistan since the Battle of Tora Bora in December 2001. This was the first operation in the Afghanistan theater to involve a large number of U.S. forces participating in direct combat activities.\n\nWhy This Moment Matters: Operation Anaconda was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Soldier_with_1st_Battalion%2C_187th_Infantry_Regiment%2C_101st_Airborne_Division_%28Air_Assault%29%2C_takes_a_knee_and_watches_for_enemy_movement_during_a_pause_in_a_road_march_during_Operation_Anaconda%2C_March_2002.jpg/250px-thumbnail.jpg",
+        "cap": "U.S. soldiers during Operation Anaconda",
+        "body": "Operation Anaconda or the Battle of Shah-i-Kot was a military operation that took place in early March 2002 as part of the war in Afghanistan. CIA paramilitary officers, working with their allies, attempted to destroy al-Qaeda and Taliban forces. The operation took place in the Shah-i-Kot Valley and Arma Mountains southeast of Zormat. This operation was the first large-scale battle in the post-2001 war in Afghanistan since the Battle of Tora Bora in December 2001. This was the first operation in the Afghanistan theater to involve a large number of U.S. forces participating in direct combat activities.",
         "stats": [
           {
             "val": "2002",
             "lbl": "Year"
           },
           {
-            "val": "3 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Operation Anaconda or the Battle of Shah-i-Kot was a military operation that took place in early March 2002 as part of the war in Afghanistan.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Operation Anaconda extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of Operation Anaconda extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Soldier_with_1st_Battalion%2C_187th_Infantry_Regiment%2C_101st_Airborne_Division_%28Air_Assault%29%2C_takes_a_knee_and_watches_for_enemy_movement_during_a_pause_in_a_road_march_during_Operation_Anaconda%2C_March_2002.jpg/250px-thumbnail.jpg",
+        "cap": "U.S. soldiers during Operation Anaconda"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "operation-moshtarak",
@@ -199,44 +279,58 @@
     "sub": "Part of War in Afghanistan (2001–2021)",
     "view": {
       "center": [
-        31.516667,
-        64.116667
+        31.62,
+        64.36
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Operation Moshtarak",
+        "label": "Marjah",
         "latlng": [
-          31.516667,
-          64.116667
+          31.62,
+          64.36
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Operation Moshtarak was a major coalition-Afghan offensive in Helmand Province."
+      },
+      {
+        "label": "Helmand Province",
+        "latlng": [
+          31,
+          64
+        ],
+        "type": "major",
+        "description": "Helmand became one of the war's toughest Taliban strongholds."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Moshtarak",
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1st%20Battalion%203rd%20Marines%20near%20Marja.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/1st%20Battalion%203rd%20Marines%20near%20Marja.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Operation_Moshtarak",
         "body": "Operation Moshtarak, also known as the Battle of Marjah, was an International Security Assistance Force (ISAF) pacification offensive in the town of Marjah, Helmand Province, Afghanistan. It involved a combined total of 15,000 Afghan, American, British, Canadian, Danish, and Estonian troops, constituting the largest joint operation of the War in Afghanistan up to that point. The purpose of the operation was to remove the Taliban from Marja, thus eliminating the last Taliban stronghold in central Helmand Province.\nThe main target of the offensive was the town of Marjah, which had been controlled for years by the Taliban as well as drug traffickers."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Operation Moshtarak was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of Operation Moshtarak extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of Operation Moshtarak extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians.",
         "stats": [
           {
             "val": "2010",
             "lbl": "Year"
           },
           {
-            "val": "4 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "It involved a combined total of 15,000 Afghan, American, British, Canadian, Danish, and Estonian troops, constituting the largest joint operation of the War in Afghanistan up to that point.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/1st%20Battalion%203rd%20Marines%20near%20Marja.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Moshtarak"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "resolute-support-mission",
@@ -246,35 +340,58 @@
     "sub": "Part of War in Afghanistan (2001–2021)",
     "view": {
       "center": [
-        50,
-        15
+        34.946,
+        69.265
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Bagram",
+        "latlng": [
+          34.946,
+          69.265
+        ],
+        "type": "target",
+        "description": "The mission shifted toward training and advising Afghan forces while U.S. counterterrorism continued."
+      },
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "major",
+        "description": "The Afghan government depended on international support and security assistance."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Resolute Support Mission",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Resolute_Support.svg/250px-Resolute_Support.svg.png",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Resolute_Support.svg",
         "cap": "Source: https://en.wikipedia.org/wiki/Resolute_Support_Mission",
         "body": "Resolute Support Mission (RSM) or Operation Resolute Support was a NATO-led multinational mission in Afghanistan. It began on 1 January 2015 as the successor to the International Security Assistance Force (ISAF), which was completed on 28 December 2014. Pursuant to United Nations Security Council Resolution 2189 of 2014, RSM was a noncombat mission aimed at advising and training Afghan security forces to provide long-term security to the country, under the aegis of the U.S.–Afghanistan Strategic Partnership Agreement between the United States and Afghanistan, which was originally supposed to run from 1 January 2015 and was to \"remain in force until the end of 2024 and beyond\" unless terminated with two years' advance notice."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Resolute Support Mission was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of Resolute Support Mission extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of Resolute Support Mission extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians.",
         "stats": [
           {
             "val": "2014",
             "lbl": "Year"
           },
           {
-            "val": "5 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Resolute Support Mission (RSM) or Operation Resolute Support was a NATO-led multinational mission in Afghanistan.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Resolute_Support.svg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Resolute_Support_Mission"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "2020-2021-u-s-troop-withdrawal-from-afghanistan",
@@ -284,35 +401,58 @@
     "sub": "Part of War in Afghanistan (2001–2021)",
     "view": {
       "center": [
-        50,
-        15
+        34.5553,
+        69.2075
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Doha",
+        "latlng": [
+          25.2854,
+          51.531
+        ],
+        "type": "major",
+        "description": "The U.S.-Taliban agreement set the path toward withdrawal."
+      },
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The withdrawal left the Afghan government exposed to Taliban advances."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "2020–2021 U.S. troop withdrawal from Afghanistan",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/C-17s_support_Afghanistan_drawdown_2021.jpg/3840px-C-17s_support_Afghanistan_drawdown_2021.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/C-17s_support_Afghanistan_drawdown_2021.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/2020%E2%80%932021_U.S._troop_withdrawal_from_Afghanistan",
         "body": "The United States Armed Forces completed their withdrawal from Afghanistan on 30 August 2021, marking the end of the 2001–2021 war. In February 2020, the first Trump administration and the Taliban signed the United States–Taliban deal in Doha, Qatar, which stipulated fighting restrictions for both the US and the Taliban, and in return for the Taliban's counter-terrorism commitments, provided for the withdrawal of all NATO forces from Afghanistan by 1 May 2021. Following the deal, the US dramatically reduced the number of air attacks on the Taliban to the detriment of the Afghan National Security Forces (ANSF), and its fight against the Taliban insurgency."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "2020–2021 U.S. troop withdrawal from Afghanistan was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of 2020–2021 U.S. troop withdrawal from Afghanistan extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "2020–2021 U.S.The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of 2020–2021 U.S. troop withdrawal from Afghanistan extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians.",
         "stats": [
           {
             "val": "2020",
             "lbl": "Year"
           },
           {
-            "val": "6 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Political result",
+            "lbl": "In February 2020, the first Trump administration and the Taliban signed the United States–Taliban deal in Doha, Qatar, which stipulated fighting restrictions for both the US and the Taliban, and in return for the Taliban's counter-terrorism commitments, provided for the withdrawal of all NATO forces from Afghanistan by 1 May 2021.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/C-17s_support_Afghanistan_drawdown_2021.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/2020%E2%80%932021_U.S._troop_withdrawal_from_Afghanistan"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "2021-taliban-offensive",
@@ -322,35 +462,67 @@
     "sub": "Part of War in Afghanistan (2001–2021)",
     "view": {
       "center": [
-        50,
-        15
+        34.5,
+        66
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kandahar",
+        "latlng": [
+          31.6289,
+          65.7372
+        ],
+        "type": "major",
+        "description": "The Taliban swept through southern strongholds during the 2021 offensive."
+      },
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The offensive ended with the fall of the capital."
+      },
+      {
+        "label": "Northern cities",
+        "latlng": [
+          36.7,
+          67.1
+        ],
+        "type": "major",
+        "description": "Rapid Taliban gains in the north shattered confidence in Afghan government defenses."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "2021 Taliban offensive",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Taliban_Offensive.png/3840px-2021_Taliban_Offensive.png",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/2021_Taliban_Offensive.png",
         "cap": "Source: https://en.wikipedia.org/wiki/2021_Taliban_offensive",
-        "body": "The Taliban insurgent group and allied militants conducted a military offensive in 2021 that led to the fall of the Islamic Republic of Afghanistan and the end of the nearly 20-year war in Afghanistan that had begun following the United States invasion of the country. The Taliban victory had widespread domestic and international ramifications regarding human rights and proliferation of terrorism. The offensive included a continuation of the bottom-up succession of negotiated or paid surrenders to the Taliban from the village level upwards that started following the February 2020 US–Taliban deal.\n\nWhy This Moment Matters: 2021 Taliban offensive was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.",
+        "body": "The Taliban insurgent group and allied militants conducted a military offensive in 2021 that led to the fall of the Islamic Republic of Afghanistan and the end of the nearly 20-year war in Afghanistan that had begun following the United States invasion of the country. The Taliban victory had widespread domestic and international ramifications regarding human rights and proliferation of terrorism. The offensive included a continuation of the bottom-up succession of negotiated or paid surrenders to the Taliban from the village level upwards that started following the February 2020 US–Taliban deal.",
         "stats": [
           {
             "val": "2021",
             "lbl": "Year"
           },
           {
-            "val": "7 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The Taliban insurgent group and allied militants conducted a military offensive in 2021 that led to the fall of the Islamic Republic of Afghanistan and the end of the nearly 20-year war in Afghanistan that had begun following the United States invasion of the country.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of 2021 Taliban offensive extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of 2021 Taliban offensive extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/2021_Taliban_Offensive.png",
+        "cap": "Source: https://en.wikipedia.org/wiki/2021_Taliban_offensive"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "fall-of-kabul",
@@ -360,89 +532,152 @@
     "sub": "Part of War in Afghanistan (2001–2021)",
     "view": {
       "center": [
-        34.5,
-        69.166666666
+        34.5553,
+        69.2075
       ],
-      "zoom": 5
+      "zoom": 10
     },
     "markers": [
       {
-        "label": "Fall of Kabul",
+        "label": "Kabul",
         "latlng": [
-          34.5,
-          69.166666666
+          34.5553,
+          69.2075
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The Taliban entered Kabul on 15 August 2021 as the Afghan government collapsed."
+      },
+      {
+        "label": "Kabul airport",
+        "latlng": [
+          34.5659,
+          69.2123
+        ],
+        "type": "major",
+        "description": "The evacuation became the final crisis of the U.S. withdrawal."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Fall of Kabul",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fall_of_Kabul_%E2%80%93_collage.jpeg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Fall_of_Kabul_%E2%80%93_collage.jpeg",
         "cap": "Source: https://en.wikipedia.org/wiki/Fall_of_Kabul_(2021)",
-        "body": "On 15 August 2021, Afghanistan's capital city of Kabul was captured by the Taliban after a major insurgent offensive that began in May 2021. It was the final action of the War in Afghanistan, and marked a total victory for the Taliban. This led to the overthrowing of the Islamic Republic of Afghanistan under President Ashraf Ghani and the reinstatement of the Islamic Emirate of Afghanistan under the control of the Taliban.\n\nWhy This Moment Matters: Fall of Kabul was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The war evolved from counterterrorism into an attempt to build and defend an Afghan republic against a renewed Taliban insurgency.\n\nConsequences: The effects of Fall of Kabul extended beyond its immediate result. Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "On 15 August 2021, Afghanistan's capital city of Kabul was captured by the Taliban after a major insurgent offensive that began in May 2021. It was the final action of the War in Afghanistan, and marked a total victory for the Taliban. This led to the overthrowing of the Islamic Republic of Afghanistan under President Ashraf Ghani and the reinstatement of the Islamic Emirate of Afghanistan under the control of the Taliban.",
         "stats": [
           {
             "val": "2021",
             "lbl": "Year"
           },
           {
-            "val": "8 of 8",
-            "lbl": "Existing timeline event"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "international-and-human-dimensions",
-    "year": 2020,
-    "date": "2020-01-01",
-    "title": "International and Human Dimensions",
-    "sub": "The wider impact of the War in Afghanistan",
-    "view": {
-      "center": [
-        34,
-        66
-      ],
-      "zoom": 3
-    },
-    "markers": [],
-    "regions": [],
-    "slides": [
-      {
-        "title": "International Dimension",
-        "body": "NATO, neighboring states, aid organizations, and Pakistan's relationship with the Taliban all shaped the twenty-year campaign.\n\nThe Human Cost: Bombings, raids, insurgent attacks, displacement, and institutional collapse killed and injured large numbers of Afghan civilians.",
-        "stats": [
-          {
-            "val": "More than 170,000 killed, including over 46,000 civilians",
-            "lbl": "Estimated human cost",
+            "val": "Outcome",
+            "lbl": "On 15 August 2021, Afghanistan's capital city of Kabul was captured by the Taliban after a major insurgent offensive that began in May 2021.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 2021,
+    "date": "2021-08-15",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the War in Afghanistan",
+    "view": {
+      "center": [
+        34.5,
+        66
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The war's political endpoint was the Taliban's return to the capital."
+      },
+      {
+        "label": "Helmand",
+        "latlng": [
+          31,
+          64
+        ],
+        "type": "major",
+        "description": "Some of the heaviest coalition fighting and Afghan civilian harm occurred in the south."
+      },
+      {
+        "label": "Kabul airport",
+        "latlng": [
+          34.5659,
+          69.2123
+        ],
+        "type": "major",
+        "description": "The final evacuation symbolized the war's chaotic end."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "The war killed Afghans, coalition troops, contractors, aid workers, journalists, Taliban fighters, and Afghan security forces, while displacing millions and leaving trauma that outlasted the final withdrawal. U.S. losses were smaller than Afghan losses but politically central: about 2,459 U.S. military personnel died and about 20,769 were wounded in the Afghanistan war.\n\nThe financial cost was enormous. Brown University's Costs of War project estimates the Afghanistan war cost roughly $2.26 trillion when war operations, interest, reconstruction, and veterans' care are counted. The result was deeply contested: al-Qaeda's original sanctuary was disrupted, but the Taliban returned to power in 2021.",
+        "stats": [
+          {
+            "val": "2,459 U.S. dead / 20,769 wounded",
+            "lbl": "U.S. military casualties in Afghanistan, with total war costs estimated around $2.26 trillion.",
+            "full": true
+          }
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg"
+      }
+    ],
+    "arrows": []
   },
   {
     "id": "outcome-and-legacy",
     "year": 2021,
-    "date": "2021-01-01",
+    "date": "2021-08-15",
     "title": "Outcome and Legacy",
     "sub": "How the War in Afghanistan ended and what followed",
     "view": {
       "center": [
-        34,
+        34.5,
         66
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The Taliban's return to Kabul ended the U.S.-backed Afghan republic."
+      },
+      {
+        "label": "Doha",
+        "latlng": [
+          25.2854,
+          51.531
+        ],
+        "type": "major",
+        "description": "The withdrawal agreement remains central to the war's legacy."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "The End of the War in Afghanistan",
-        "body": "Foreign forces withdrew in 2021, the Afghan republic collapsed, and the Taliban returned to power."
+        "body": "Foreign forces withdrew in 2021, the Afghan republic collapsed, and the Taliban returned to power.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Fall_of_Kabul_%E2%80%93_collage.jpeg",
+        "cap": "The outcome and legacy of the War in Afghanistan"
       },
       {
         "title": "War Summary: War in Afghanistan",
@@ -462,9 +697,10 @@
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fall_of_Kabul_%E2%80%93_collage.jpeg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Fall_of_Kabul_%E2%80%93_collage.jpeg",
         "cap": "The outcome and legacy of the War in Afghanistan"
       }
-    ]
+    ],
+    "arrows": []
   }
 ]

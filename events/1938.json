@@ -1,0 +1,112 @@
+[
+  {
+    "id": "leon-blum-1938-1",
+    "name": "Léon Blum",
+    "date": "March 14 1938",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "French Premier Léon Blum reassures the Czechoslovak government that France will honor its treaty obligations to aid Czechoslovakia, in the event of a German invasion. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "ludwig-beck-1938-2",
+    "name": "Ludwig Beck",
+    "date": "April 24 1938",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "General Ludwig Beck, Chief of the German Army's General Staff, submits a memorandum to Hitler opposing Fall Grün (Case Green), the plan for a war with Czechoslovakia, under the grounds that Germany is ill-prepared for the world war likely to result from such an attack."
+  },
+  {
+    "id": "tsuyama-massacre-1938-3",
+    "name": "Tsuyama massacre",
+    "date": "May 21 1938",
+    "location": "Tsuyama massacre",
+    "coordinates": {
+      "lat": 35.15905556,
+      "lng": 134.03425556
+    },
+    "summary": "Tsuyama massacre: Matsuo Toi kills 30 people in a village in Okayama, Japan, in the world's worst spree killing by an individual until 1957. The Tsuyama massacre (津山事件, Tsuyama jiken) was a mass murder-suicide that occurred on the night of 21 May 1938 in the rural village of Kamocho Yukishige close to Kamo, Tsuyama in Okayama, Empire of Japan."
+  },
+  {
+    "id": "south-african-press-association-1938-4",
+    "name": "South African Press Association",
+    "date": "July 1 1938",
+    "location": "South Africa",
+    "coordinates": {
+      "lat": -25.7479,
+      "lng": 28.2293
+    },
+    "summary": "The South African Press Association is established, with offices in Cape Town, Johannesburg, Durban, Bloemfontein and Pretoria. The South African Press Association (SAPA) was the national news agency of South Africa from 1938 until its closure on 31 March 2015."
+  },
+  {
+    "id": "1938-greek-coup-detat-attempt-1938-5",
+    "name": "1938 Greek coup d'état attempt",
+    "date": "July 24 1938",
+    "location": "Greece",
+    "coordinates": {
+      "lat": 37.9838,
+      "lng": 23.7275
+    },
+    "summary": "1938 Greek coup d'état attempt: A revolt against the Ioannis Metaxas dictatorship in Greece is put down in Chania. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "konrad-henlein-1938-6",
+    "name": "Konrad Henlein",
+    "date": "September 13 1938",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The followers of Konrad Henlein begin an armed revolt against the Czechoslovak government in Sudetenland. Martial law is declared and after much bloodshed on both sides order is temporarily restored. Neville Chamberlain personally sends a telegram to Hitler, urgently requesting that they both meet."
+  },
+  {
+    "id": "league-of-nations-1938-7",
+    "name": "League of Nations",
+    "date": "September 17 1938",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Winston Churchill warns of grave consequences to European security, if Czechoslovakia is partitioned. The same day, Soviet Foreign Commissar Maxim Litvinov makes a similar statement in the League of Nations. The League of Nations (LN or LoN; French: Société des Nations [sɔsjete de nɑsjɔ̃], SdN) was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace."
+  },
+  {
+    "id": "during-a-meeting-between-neville-chamberlain-the-recently-elected-prem-1938-8",
+    "name": "During a meeting between Neville Chamberlain, the recently elected Premie...",
+    "date": "September 17 1938",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "During a meeting between Neville Chamberlain, the recently elected Premier of France, Édouard Daladier, and Daladier's Foreign Minister, Georges Bonnet, it becomes apparent that neither the British nor the French governments are prepared to go to war over the Sudetenland. The Soviet Union declares it will come to the defence of Czechoslovakia only if France honours her commitment to defend Czechoslovak independence."
+  },
+  {
+    "id": "graham-christie-1938-9",
+    "name": "Graham Christie",
+    "date": "September 28 1938",
+    "location": "Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "Colonel Graham Christie, former British military attaché in Berlin, is told by Carl Friedrich Goerdeler that the mobilization of the Royal Navy has badly damaged the popularity of the Nazi regime, as the German public realizes that Fall Grün is likely to cause a world war."
+  },
+  {
+    "id": "holocaust-1938-10",
+    "name": "Holocaust",
+    "date": "November 9 1938",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "Holocaust - Kristallnacht: In Germany, the \"night of broken glass\" begins as Nazi activists and sympathizers loot and burn Jewish businesses (the all night affair sees 7,500 Jewish businesses destroyed, 267 synagogues burned, 91 Jews killed and at least 25,000 Jewish men arrested). One of several significant events on 9 November in German history."
+  }
+]

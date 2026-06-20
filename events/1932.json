@@ -1,0 +1,112 @@
+[
+  {
+    "id": "hattie-caraway-1932-1",
+    "name": "Hattie Caraway",
+    "date": "January 12 1932",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Hattie W. Caraway of Arkansas becomes the first woman to be elected to the United States Senate, succeeding her late husband, Thaddeus Caraway, in a special election, The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "league-of-nations-1932-2",
+    "name": "League of Nations",
+    "date": "January 31 1932",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The League of Nations again recommends negotiations between the Republic of China and Japan. The League of Nations (LN or LoN; French: Société des Nations [sɔsjete de nɑsjɔ̃], SdN) was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. It was founded on 10 January 1920 by the Paris Peace Conference that ended the First World War."
+  },
+  {
+    "id": "world-disarmament-conference-1932-3",
+    "name": "World Disarmament Conference",
+    "date": "January 31 1932",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "A general World Disarmament Conference begins in Geneva. The principal issue at the conference is the demand made by Germany for (\"equality of status\" i.e. abolishing Part V of the Treaty of Versailles, which had disarmed Germany) and the French demand for (\"security\" i.e. maintaining Part V)."
+  },
+  {
+    "id": "kurt-von-schleicher-1932-4",
+    "name": "Kurt von Schleicher",
+    "date": "April 29 1932",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "The politically powerful General Kurt von Schleicher meets secretly with Adolf Hitler. Schleicher tells Hitler that he is scheming to bring down the Brüning government in Germany and asks for Nazi support of the new \"presidential government\" Schleicher is planning to form. Schleicher and Hitler negotiate a \"gentlemen's agreement\" where in exchange for lifting the ban on the SA and SS and having the Reichstag dissolved for early elections this summer, the Nazis will support Schleicher's new chancellor."
+  },
+  {
+    "id": "yun-bong-gil-1932-5",
+    "name": "Yun Bong-gil",
+    "date": "April 29 1932",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "summary": "Korean pro-independence paramilitary Yun Bong-gil detonates a bomb at a gathering of Japanese government and military officials in Shanghai's Hongkou Park, killing General Yoshinori Shirakawa and injuring Mamoru Shigemitsu and Vice Admiral Kichisaburō Nomura. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  },
+  {
+    "id": "great-depression-1932-6",
+    "name": "Great Depression",
+    "date": "July 8 1932",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The Dow Jones Industrial Average in the United States reaches its lowest level of the Great Depression, bottoming out at 41.22. The Great Depression was a severe global economic downturn from 1929 to 1939. The period was characterized by high rates of unemployment and poverty, drastic reductions in industrial production and international trade, and widespread bank and business failures around the world."
+  },
+  {
+    "id": "hitler-meets-with-schleicher-and-reneges-on-the-gentlemens-agreement-1932-7",
+    "name": "Hitler meets with Schleicher and reneges on the \"gentlemen's agreement\",...",
+    "date": "August 5 1932",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Hitler meets with Schleicher and reneges on the \"gentlemen's agreement\", demanding that he be appointed Chancellor. Schleicher agrees to support Hitler as Chancellor provided that he can remain minister of defense. Schleicher sets up a meeting between Hindenburg and Hitler on August 13 to discuss Hitler's possible appointment as Chancellor."
+  },
+  {
+    "id": "hitler-meets-president-von-hindenburg-and-asks-to-be-appointed-as-chan-1932-8",
+    "name": "Hitler meets President von Hindenburg and asks to be appointed as Chancellor",
+    "date": "August 13 1932",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Hitler meets President von Hindenburg and asks to be appointed as Chancellor. Hindenburg refuses under the grounds that Hitler is not qualified to be Chancellor and asks him instead to serve as Vice-Chancellor in Papen's government. Hitler announces his \"all or nothing\" strategy in which he will oppose any government not headed by himself and will accept no office other than Chancellor."
+  },
+  {
+    "id": "treaty-of-versailles-1932-9",
+    "name": "Treaty of Versailles",
+    "date": "December 1 1932",
+    "location": "Versailles",
+    "coordinates": {
+      "lat": 48.8049,
+      "lng": 2.1204
+    },
+    "summary": "Germany returns to the World Disarmament Conference after the other powers agree to accept gleichberechtigung \"in principle\". Henceforward, it is clear that Germany will be allowed to rearm beyond the limits imposed by the Treaty of Versailles. The Treaty of Versailles was a peace treaty signed on 28 June 1919. As the most important treaty of World War I, it ended the state of war between Germany and most of the Allied Powers."
+  },
+  {
+    "id": "kurt-baron-von-schroder-1932-10",
+    "name": "Kurt Baron von Schröder",
+    "date": "December 28 1932",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The Cologne banker Kurt von Schröder, who is a close friend of Papen and a NSDAP member, meets with Adolf Hitler to tell him that Papen wants to set up a meeting to discuss how they can work together. Papen wants Nazi support to return to the Chancellorship while Hitler wants Papen to convince Hindenburg to appoint him Chancellor. Hitler agrees to meet Papen on January 3, 1933."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "league-of-nations-1919-1",
+    "name": "League of Nations",
+    "date": "January 25 1919",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "The League of Nations is founded in Paris, France. The League of Nations (LN or LoN; French: Société des Nations [sɔsjete de nɑsjɔ̃], SdN) was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. It was founded on 10 January 1920 by the Paris Peace Conference that ended the First World War."
+  },
+  {
+    "id": "eugene-v-debs-1919-2",
+    "name": "Eugene V. Debs",
+    "date": "April 12 1919",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Eugene V. Debs enters prison at the Atlanta Federal Penitentiary in Atlanta, Georgia for speaking out against conscription in the United States during World War I. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "jallianwala-bagh-massacre-1919-3",
+    "name": "Jallianwala Bagh massacre",
+    "date": "April 12 1919",
+    "location": "Jallianwala Bagh massacre",
+    "coordinates": {
+      "lat": 31.62055556,
+      "lng": 74.88055556
+    },
+    "summary": "Amritsar Massacre: Under the command of Reginald Dyer, detachments of the 9th Gorkha Rifles and the 59th Scinde Rifles massacre 379 Sikh civilians at Jallianwala Bagh in Amritsar, in the Punjab Province. The Jallianwala Bagh massacre (IPA: [dʒəlɪjãːʋaːlaː baːɣ, baːɡ]), also known as the Amritsar massacre, took place on 13 April 1919."
+  },
+  {
+    "id": "turkish-war-of-independence-1919-4",
+    "name": "Turkish War of Independence",
+    "date": "May 14 1919",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Mustafa Kemal Atatürk lands at Samsun on the Anatolian Black Sea coast, marking the start of the Turkish War of Independence. The anniversary of this event is also an official day of Turkish Youth. The Turkish War of Independence (15 May 1919 – 24 July 1923) was a series of military campaigns and a revolution waged by the Turkish National Movement, after the Ottoman Empire was occupied and partitioned following its defeat in World War I."
+  },
+  {
+    "id": "treaty-of-versailles-1919-5",
+    "name": "Treaty of Versailles",
+    "date": "June 26 1919",
+    "location": "Versailles",
+    "coordinates": {
+      "lat": 48.8049,
+      "lng": 2.1204
+    },
+    "summary": "The Treaty of Versailles is signed, formally ending World War I, five years to the day since the assassination of Archduke Franz Ferdinand. John Maynard Keynes, who has been present at the conference and is unhappy with the terms of the treaty, brings out his own analysis later in the year, entitled The Economic Consequences of the Peace."
+  },
+  {
+    "id": "estonian-war-of-independence-1919-6",
+    "name": "Estonian War of Independence",
+    "date": "July 2 1919",
+    "location": "Estonia",
+    "coordinates": {
+      "lat": 59.437,
+      "lng": 24.7536
+    },
+    "summary": "Estonian and Latvian Wars of Independence: The pro-German Baltische Landeswehr signs a peace treaty with Estonia and Latvia. The pro-German Prime Minister of Latvia Andrievs Niedra resigns, and Latvian forces take over Riga on July 8. The Estonian War of Independence, also known as the Estonian Liberation War, and War of Freedom in Estonia, was a defensive campaign of the Estonian Army and its allies, most notably the United Kingdom and Finland, against the Soviet Russian westward offensive of 1918–1919 and the 1919 aggression of the pro–German Baltische Landeswehr."
+  },
+  {
+    "id": "friedrich-ebert-1919-7",
+    "name": "Friedrich Ebert",
+    "date": "August 21 1919",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "Friedrich Ebert becomes the first President of Germany (Reichspräsident) under the Weimar Constitution. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "treaty-of-saint-germain-1919-8",
+    "name": "Treaty of Saint-Germain",
+    "date": "September 10 1919",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The Treaty of Saint-Germain is signed, ending World War I with Austria-Hungary and declaring that the latter's empire is to be dissolved. The Republic of German-Austria becomes the First Austrian Republic but retains less than 40% of the prewar imperial territory."
+  },
+  {
+    "id": "1919-luxembourg-general-election-the-first-in-the-duchy-with-female-su-1919-9",
+    "name": "1919 Luxembourg general election, the first in the duchy with female suff...",
+    "date": "October 26 1919",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "1919 Luxembourg general election, the first in the duchy with female suffrage, following constitutional amendments of May 15. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "russian-revolution-1919-10",
+    "name": "Russian Revolution",
+    "date": "November 1 1919",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "The first of the Palmer Raids is conducted on the second anniversary of the Russian Revolution: over 10,000 suspected communists and anarchists are arrested in 23 different U.S. cities by the end of January 1920. The Russian Revolution was a period of political and social change in Russia, starting in 1917. This period saw Russia abolish its monarchy and adopt a socialist form of government following two successive revolutions and a civil war."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "germany-reunification-1990",
+    "name": "German Reunification",
+    "date": "October 3 1990",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "East and West Germany were reunified into a single nation."
+  },
+  {
+    "id": "iraq-kuwait-1990",
+    "name": "Iraq Invades Kuwait",
+    "date": "August 2 1990",
+    "location": "Kuwait",
+    "coordinates": {
+      "lat": 29.3759,
+      "lng": 47.9774
+    },
+    "summary": "Iraq invaded Kuwait, leading to the Gulf War."
+  },
+  {
+    "id": "hubble-launch-1990",
+    "name": "Hubble Space Telescope Launched",
+    "date": "April 24 1990",
+    "location": "USA",
+    "coordinates": {
+      "lat": 28.5729,
+      "lng": -80.649
+    },
+    "summary": "NASA launched the Hubble Space Telescope."
+  },
+  {
+    "id": "mandela-release-1990",
+    "name": "Nelson Mandela Released",
+    "date": "February 11 1990",
+    "location": "South Africa",
+    "coordinates": {
+      "lat": -33.9249,
+      "lng": 18.4241
+    },
+    "summary": "Nelson Mandela was released after 27 years in prison."
+  },
+  {
+    "id": "yemen-unification-1990",
+    "name": "Yemen Unification",
+    "date": "May 22 1990",
+    "location": "Yemen",
+    "coordinates": {
+      "lat": 15.5527,
+      "lng": 48.5164
+    },
+    "summary": "North and South Yemen unified into a single state."
+  },
+  {
+    "id": "thatcher-resigns-1990",
+    "name": "Margaret Thatcher Resigns",
+    "date": "November 28 1990",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "UK Prime Minister Margaret Thatcher resigned after 11 years in office."
+  }
+]

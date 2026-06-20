@@ -1,0 +1,112 @@
+[
+  {
+    "id": "richard-nixon-1972-1",
+    "name": "Richard Nixon",
+    "date": "February 21 1972",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "28 – U.S. President Richard Nixon makes an unprecedented 8-day visit to the People's Republic of China and meets with Mao Zedong. Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D."
+  },
+  {
+    "id": "universal-postal-union-1972-2",
+    "name": "Universal Postal Union",
+    "date": "April 13 1972",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan. The Universal Postal Union (UPU, French: Union postale universelle) is a specialized agency of the United Nations (UN) that coordinates postal policies among member nations and facilitates a uniform worldwide postal system."
+  },
+  {
+    "id": "vietnam-war-1972-3",
+    "name": "Vietnam War",
+    "date": "June 5 1972",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War: Associated Press photographer Nick Ut takes his Pulitzer Prize-winning photograph of a naked nine-year-old Phan Thi Kim Phuc running down a road after being burned by napalm. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies."
+  },
+  {
+    "id": "watergate-scandal-1972-4",
+    "name": "Watergate scandal",
+    "date": "June 16 1972",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "President Richard Nixon and White House chief of staff H. R. Haldeman were recorded discussing the use of the CIA to obstruct the FBI investigation into the Watergate break-in. The recording later became known as the smoking-gun tape and helped demonstrate presidential involvement in the cover-up."
+  },
+  {
+    "id": "munich-massacre-1972-5",
+    "name": "Munich massacre",
+    "date": "September 5 1972",
+    "location": "Israel",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "6 – Munich massacre: Eleven Israeli athletes at the 1972 Summer Olympics in Munich are murdered after eight members of the Arab terrorist group Black September invade the Olympic Village; five guerillas and one policeman are also killed in a failed hostage rescue. The Munich massacre was a terrorist attack during the 1972 Summer Olympics in Munich, West Germany, carried out by eight members of the Palestinian militant organisation Black September."
+  },
+  {
+    "id": "chinajapan-relations-1972-6",
+    "name": "China–Japan relations",
+    "date": "September 29 1972",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "China–Japan relations: The Joint Communiqué of the Government of Japan and the Government of the People's Republic of China is signed in Beijing, which normalizes Japanese diplomatic relations with the People's Republic of China after breaking official ties with the Republic of China (Taiwan). The relationship between China and Japan spans thousands of years."
+  },
+  {
+    "id": "first-publication-reporting-the-production-of-a-recombinant-dna-molecu-1972-7",
+    "name": "first publication reporting the production of a recombinant DNA molecule,...",
+    "date": "October 1972",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The first publication reporting the production of a recombinant DNA molecule, by Paul Berg and colleagues, marks the birth of modern molecular biology methodology. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "1972-australian-federal-election-1972-8",
+    "name": "1972 Australian federal election",
+    "date": "December 2 1972",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "1972 Australian federal election: The Labor Party led by Gough Whitlam defeats the Liberal/Country Coalition government led by Prime Minister William McMahon. Consequently, Whitlam becomes the first Labor Prime Minister of Australia since the defeat of Ben Chifley in 1949. Whitlam will be sworn in on December 5; his first action using executive power is to withdraw all Australian personnel from the Vietnam War. McMahon resigns from the Liberal leadership almost immediately; he will be replaced by outgoing Treasurer Billy Snedden."
+  },
+  {
+    "id": "united-airlines-flight-553-1972-9",
+    "name": "United Airlines Flight 553",
+    "date": "December 2 1972",
+    "location": "Chicago",
+    "coordinates": {
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "summary": "United Airlines Flight 553 crashes short of a runway in Chicago, killing 43 of 61 passengers and two people on the ground. A day later, over $10,000 cash is found in the purse of Watergate conspirator Howard Hunt's wife, who was on board."
+  },
+  {
+    "id": "united-nations-environment-programme-1972-10",
+    "name": "United Nations Environment Programme",
+    "date": "December 15 1972",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations Environment Programme is established as a specialized agency of the United Nations. The United Nations Environment Programme (UNEP) is responsible for coordinating responses to environmental issues within the United Nations System. Its mandate is to provide leadership, deliver science and develop solutions on a wide range of issues, including climate change, the management of marine and terrestrial ecosystems, and green economic development."
+  }
+]

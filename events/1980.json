@@ -1,0 +1,68 @@
+[
+  {
+    "id": "moscow-olympics-1980",
+    "name": "Moscow Olympics",
+    "date": "July 19 1980",
+    "location": "Moscow, USSR",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "The Summer Olympics were held in Moscow amid a major U.S.-led boycott."
+  },
+  {
+    "id": "iran-iraq-war-1980",
+    "name": "Iran–Iraq War Begins",
+    "date": "September 22 1980",
+    "location": "Iran / Iraq",
+    "coordinates": {
+      "lat": 32,
+      "lng": 47
+    },
+    "summary": "A long and devastating war began between Iran and Iraq."
+  },
+  {
+    "id": "mtv-launch-1980",
+    "name": "CNN Launched",
+    "date": "June 1 1980",
+    "location": "USA",
+    "coordinates": {
+      "lat": 33.749,
+      "lng": -84.388
+    },
+    "summary": "CNN became the first 24-hour news television channel."
+  },
+  {
+    "id": "reagan-election-1980",
+    "name": "Ronald Reagan Elected",
+    "date": "November 4 1980",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Ronald Reagan was elected President of the United States."
+  },
+  {
+    "id": "mount-st-helens-1980",
+    "name": "Mount St. Helens Eruption",
+    "date": "May 18 1980",
+    "location": "USA",
+    "coordinates": {
+      "lat": 46.1912,
+      "lng": -122.1944
+    },
+    "summary": "A major volcanic eruption caused widespread destruction."
+  },
+  {
+    "id": "john-lennon-1980",
+    "name": "John Lennon Assassinated",
+    "date": "December 8 1980",
+    "location": "New York, USA",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Former Beatle John Lennon was shot and killed."
+  }
+]

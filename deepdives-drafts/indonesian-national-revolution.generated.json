@@ -7,18 +7,37 @@
     "sub": "How the Indonesian National Revolution began",
     "view": {
       "center": [
-        -3,
-        113
+        -7,
+        108.6
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Jakarta",
+        "latlng": [
+          -6.2088,
+          106.8456
+        ],
+        "type": "target",
+        "description": "Sukarno and Mohammad Hatta proclaimed Indonesian independence in Jakarta on 17 August 1945."
+      },
+      {
+        "label": "Yogyakarta",
+        "latlng": [
+          -7.7956,
+          110.3695
+        ],
+        "type": "major",
+        "description": "Yogyakarta later became the republican capital and a center of resistance."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "From World War II to Indonesian National Revolution",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
-        "cap": "Historical connection: Japanese surrender and the end of Dutch colonial rule",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/COLLECTIE_TROPENMUSEUM_%27Javaanse_Revolutionairen_strijden_voor_onafhankelijkheid._Ze_zijn_voor_het_merendeel_bewapend_met_bamboesperen_de_enkele_geweren_zijn_afkomstig_van_Japanners%27_TMnr_10001495.jpg/250px-thumbnail.jpg",
+        "cap": "Visual reference for Origins and Road to War.",
         "body": "World War II shattered Dutch colonial control and ended with Japan's sudden surrender. Indonesian nationalists used that opening to declare independence and resist the attempted restoration of empire.",
         "stats": [
           {
@@ -42,20 +61,20 @@
       },
       {
         "title": "Before the Indonesian National Revolution",
-        "body": "Indonesian nationalists declared independence after Japan's surrender, while the Netherlands attempted to restore colonial rule.\n\nThe Conflict Takes Shape: The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "body": "Indonesian nationalists declared independence after Japan's surrender, while the Netherlands attempted to restore colonial rule.",
         "stats": [
           {
             "val": "1945-1949",
             "lbl": "Conflict period"
           },
           {
-            "val": "The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.",
-            "lbl": "What was at stake",
+            "val": "What was at stake",
+            "lbl": "The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/IWM-SE-5865-tank-Surabaya-19451127.jpg",
-        "cap": "Opening context for the Indonesian National Revolution"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/COLLECTIE_TROPENMUSEUM_%27Javaanse_Revolutionairen_strijden_voor_onafhankelijkheid._Ze_zijn_voor_het_merendeel_bewapend_met_bamboesperen_de_enkele_geweren_zijn_afkomstig_van_Japanners%27_TMnr_10001495.jpg/250px-thumbnail.jpg",
+        "cap": "Visual reference for Origins and Road to War."
       }
     ]
   },
@@ -67,42 +86,56 @@
     "sub": "Part of Indonesian National Revolution",
     "view": {
       "center": [
-        -8.42305556,
-        115.24861111
+        -7.2575,
+        112.7521
       ],
-      "zoom": 5
+      "zoom": 10
     },
     "markers": [
       {
-        "label": "Battle of Surabaya",
+        "label": "Surabaya",
         "latlng": [
-          -8.42305556,
-          115.24861111
+          -7.2575,
+          112.7521
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The largest battle of the revolution made Surabaya a national symbol of resistance."
+      },
+      {
+        "label": "Jembatan Merah",
+        "latlng": [
+          -7.236,
+          112.738
+        ],
+        "type": "major",
+        "description": "Fighting around the Red Bridge area became associated with the battle's opening confrontations."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Surabaya",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/IWM-SE-5865-tank-Surabaya-19451127.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/IWM-SE-5865-tank-Surabaya-19451127.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Surabaya",
-        "body": "The Battle of Surabaya was a major battle in the Indonesian National Revolution fought between regular infantry and militia of the Indonesian nationalist movement and British and British Indian troops against the re-imposition of Dutch colonial rule. The peak of the battle was in November 1945, and was the largest single battle of the revolution and became a national symbol of Indonesian resistance. Considered a heroic effort by Indonesians, the battle helped galvanise Indonesian and international support for Indonesian independence. 10 November is celebrated annually as Heroes' Day.\n\nWhy This Moment Matters: Battle of Surabaya was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.",
+        "body": "The Battle of Surabaya was a major battle in the Indonesian National Revolution fought between regular infantry and militia of the Indonesian nationalist movement and British and British Indian troops against the re-imposition of Dutch colonial rule. The peak of the battle was in November 1945, and was the largest single battle of the revolution and became a national symbol of Indonesian resistance. Considered a heroic effort by Indonesians, the battle helped galvanise Indonesian and international support for Indonesian independence. 10 November is celebrated annually as Heroes' Day.",
         "stats": [
           {
             "val": "1945",
             "lbl": "Year"
           },
           {
-            "val": "1 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The peak of the battle was in November 1945, and was the largest single battle of the revolution and became a national symbol of Indonesian resistance.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Battle of Surabaya extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of Battle of Surabaya extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/IWM-SE-5865-tank-Surabaya-19451127.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Surabaya",
+        "stats": []
       }
     ]
   },
@@ -114,33 +147,56 @@
     "sub": "Part of Indonesian National Revolution",
     "view": {
       "center": [
-        50,
-        15
+        -7.263,
+        110.405
       ],
-      "zoom": 3
+      "zoom": 9
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Ambarawa",
+        "latlng": [
+          -7.263,
+          110.405
+        ],
+        "type": "target",
+        "description": "Indonesian forces pushed British and Dutch units out of Ambarawa after weeks of fighting."
+      },
+      {
+        "label": "Semarang",
+        "latlng": [
+          -6.9667,
+          110.4167
+        ],
+        "type": "major",
+        "description": "The wider central Java campaign connected Ambarawa to Semarang and Magelang."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Ambarawa",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_British_Occupation_of_Java_SE5896.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_British_Occupation_of_Java_SE5896.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Ambarawa",
-        "body": "The Semarang offensive \nis composite of the Battle of Ambarawa, Magelang offensive, Battle of Ungaran or Ungaran offensive, and Semarang offensive proper. This major battle took place between the recently created Indonesian Army and the British Army with the Dutch forces that occurred between 20 October 1945 and 2 March 1946 in Semarang city, Semarang Regency, and Magelang Regency in Central Java, Indonesia. Perhaps the most successful Indonesian offensive of the Indonesian Revolution, this offensive tightened British and Dutch control from the Magelang and Semarang metropolitan areas to only Semarang city. In modern times, 15 December is celebrated as the Indonesian National Infantry Day."
+        "body": "The Semarang offensive\nis composite of the Battle of Ambarawa, Magelang offensive, Battle of Ungaran or Ungaran offensive, and Semarang offensive proper. This major battle took place between the recently created Indonesian Army and the British Army with the Dutch forces that occurred between 20 October 1945 and 2 March 1946 in Semarang city, Semarang Regency, and Magelang Regency in Central Java, Indonesia. Perhaps the most successful Indonesian offensive of the Indonesian Revolution, this offensive tightened British and Dutch control from the Magelang and Semarang metropolitan areas to only Semarang city. In modern times, 15 December is celebrated as the Indonesian National Infantry Day.",
+        "stats": []
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Battle of Ambarawa was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.\n\nConsequences: The effects of Battle of Ambarawa extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.\n\nConsequences: The effects of Battle of Ambarawa extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses.",
         "stats": [
           {
             "val": "1945",
             "lbl": "Year"
           },
           {
-            "val": "2 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "This major battle took place between the recently created Indonesian Army and the British Army with the Dutch forces that occurred between 20 October 1945 and 2 March 1946 in Semarang city, Semarang Regency, and Magelang Regency in Central Java, Indonesia.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_British_Occupation_of_Java_SE5896.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Ambarawa"
       }
     ]
   },
@@ -152,27 +208,38 @@
     "sub": "Part of Indonesian National Revolution",
     "view": {
       "center": [
-        50,
-        15
+        3.5952,
+        98.6722
       ],
-      "zoom": 3
+      "zoom": 9
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Medan",
+        "latlng": [
+          3.5952,
+          98.6722
+        ],
+        "type": "target",
+        "description": "Medan and its surroundings became the principal revolutionary battlefield in North Sumatra."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Medan",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Medan_Area_Memorial.jpg/1920px-Medan_Area_Memorial.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Medan",
-        "body": "The Battle of Medan, known locally as the Battle for the Medan Area took place between Allied forces and the Indonesian Army in Medan, North Sumatra, and its surrounding area during the Indonesian National Revolution.\n\nWhy This Moment Matters: Battle of Medan was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.\n\nConsequences: The effects of Battle of Medan extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Medan_bij_de_bezetting_van_Baoengan_maakten_onze_troepen_een_aantal_gevangenen%2C_Bestanddeelnr_7557.jpg/1920px-Medan_bij_de_bezetting_van_Baoengan_maakten_onze_troepen_een_aantal_gevangenen%2C_Bestanddeelnr_7557.jpg",
+        "cap": "Visual reference for Battle of Medan.",
+        "body": "The Battle of Medan, known locally as the Battle for the Medan Area took place between Allied forces and the Indonesian Army in Medan, North Sumatra, and its surrounding area during the Indonesian National Revolution.",
         "stats": [
           {
             "val": "1946",
             "lbl": "Year"
           },
           {
-            "val": "3 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The Battle of Medan, known locally as the Battle for the Medan Area took place between Allied forces and the Indonesian Army in Medan, North Sumatra, and its surrounding area during the Indonesian National Revolution.",
+            "full": true
           }
         ]
       }
@@ -186,27 +253,47 @@
     "sub": "Part of Indonesian National Revolution",
     "view": {
       "center": [
-        50,
-        15
+        -7.69,
+        110.6
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Yogyakarta",
+        "latlng": [
+          -7.7956,
+          110.3695
+        ],
+        "type": "target",
+        "description": "The republican capital was the center of the political crisis and attempted change of government."
+      },
+      {
+        "label": "Surakarta",
+        "latlng": [
+          -7.5755,
+          110.8243
+        ],
+        "type": "major",
+        "description": "Military and political tensions around Surakarta fed the kidnapping crisis and factional struggle."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "3 July Affair",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/3_July_Affair",
-        "body": "The 3 July Affair in 1946 was a political upheaval in the then newly formed Republic of Indonesia. Prime Minister Sutan Sjahrir was kidnapped by factions within the military opposing the Republic's negotiations with the Dutch during the Indonesian National Revolution. It ended with the release of Sjahrir and a re-structure of both the Republican government and the army.\n\nWhy This Moment Matters: 3 July Affair was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.\n\nConsequences: The effects of 3 July Affair extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sutan_Sjahrir%2C_10_Orang_Indonesia_Terbesar_Sekarang_%281952%29%2C_p136.jpg",
+        "cap": "Visual reference for 3 July Affair.",
+        "body": "The 3 July Affair in 1946 was a political upheaval in the then newly formed Republic of Indonesia. Prime Minister Sutan Sjahrir was kidnapped by factions within the military opposing the Republic's negotiations with the Dutch during the Indonesian National Revolution. It ended with the release of Sjahrir and a re-structure of both the Republican government and the army.",
         "stats": [
           {
             "val": "1946",
             "lbl": "Year"
           },
           {
-            "val": "4 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Historical detail",
+            "lbl": "The 3 July Affair in 1946 was a political upheaval in the then newly formed Republic of Indonesia.",
+            "full": true
           }
         ]
       }
@@ -220,27 +307,56 @@
     "sub": "Part of Indonesian National Revolution",
     "view": {
       "center": [
-        50,
-        15
+        -4.5,
+        108.5
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "West Java",
+        "latlng": [
+          -6.9,
+          107.6
+        ],
+        "type": "major",
+        "description": "Dutch Operation Product targeted republican territory, roads, and economic centers in Java."
+      },
+      {
+        "label": "East Java",
+        "latlng": [
+          -7.5,
+          112.3
+        ],
+        "type": "target",
+        "description": "Dutch columns seized key plantation and industrial areas while bypassing some republican forces."
+      },
+      {
+        "label": "East Sumatra",
+        "latlng": [
+          3.4,
+          99
+        ],
+        "type": "major",
+        "description": "The offensive also targeted economically valuable plantation regions on Sumatra."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Police Actions (Indonesia)",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/COLLECTIE_TROPENMUSEUM_Militaire_kolonne_tijdens_de_eerste_politionele_actie_TMnr_10029134.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/COLLECTIE_TROPENMUSEUM_Militaire_kolonne_tijdens_de_eerste_politionele_actie_TMnr_10029134.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Police_Actions_(Indonesia)",
-        "body": "The Police Actions, were two major military offensives that the Netherlands carried out on Java and Sumatra against the Republic of Indonesia during its struggle for independence in the Indonesian National Revolution. In Indonesia they are collectively known as the Dutch Military Aggressions, although the direct translation Aksi Polisionil is also used.\n\nWhy This Moment Matters: Police Actions (Indonesia) was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.\n\nConsequences: The effects of Police Actions (Indonesia) extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The Police Actions, were two major military offensives that the Netherlands carried out on Java and Sumatra against the Republic of Indonesia during its struggle for independence in the Indonesian National Revolution. In Indonesia they are collectively known as the Dutch Military Aggressions, although the direct translation Aksi Polisionil is also used.",
         "stats": [
           {
             "val": "1947",
             "lbl": "Year"
           },
           {
-            "val": "5 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The Police Actions, were two major military offensives that the Netherlands carried out on Java and Sumatra against the Republic of Indonesia during its struggle for independence in the Indonesian National Revolution.",
+            "full": true
           }
         ]
       }
@@ -254,27 +370,47 @@
     "sub": "Part of Indonesian National Revolution",
     "view": {
       "center": [
-        50,
-        15
+        -7.792,
+        110.4
       ],
-      "zoom": 3
+      "zoom": 10
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Maguwo airfield",
+        "latlng": [
+          -7.7882,
+          110.4317
+        ],
+        "type": "major",
+        "description": "Dutch paratroopers seized the airfield at the opening of Operation Kraai."
+      },
+      {
+        "label": "Yogyakarta",
+        "latlng": [
+          -7.7956,
+          110.3695
+        ],
+        "type": "target",
+        "description": "Dutch forces captured the republican capital and arrested senior leaders, but failed to end resistance."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Kraai",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nederlandse_troepen_trekken_Djokjakarta_binnen._Links_een_brandende_auto%2C_Bestanddeelnr_5111.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Nederlandse_troepen_trekken_Djokjakarta_binnen._Links_een_brandende_auto%2C_Bestanddeelnr_5111.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Operation_Kraai",
-        "body": "Operation Kraai was a Dutch military offensive launched in December 1948 against the Republic of Indonesia, after the failure of negotiations with the Republican government. The operation was one of two major offensives launched by the Netherlands during the Indonesian National Revolution, the other being Operation Product, and they are collectively referred to as the Police Actions.\n\nWhy This Moment Matters: Operation Kraai was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.\n\nConsequences: The effects of Operation Kraai extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "Operation Kraai was a Dutch military offensive launched in December 1948 against the Republic of Indonesia, after the failure of negotiations with the Republican government. The operation was one of two major offensives launched by the Netherlands during the Indonesian National Revolution, the other being Operation Product, and they are collectively referred to as the Police Actions.",
         "stats": [
           {
             "val": "1948",
             "lbl": "Year"
           },
           {
-            "val": "6 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Operation Kraai was a Dutch military offensive launched in December 1948 against the Republic of Indonesia, after the failure of negotiations with the Republican government.",
+            "full": true
           }
         ]
       }
@@ -289,35 +425,37 @@
     "view": {
       "center": [
         -0.375,
-        102.546944444
+        102.5469
       ],
-      "zoom": 5
+      "zoom": 10
     },
     "markers": [
       {
-        "label": "Rengat massacre",
+        "label": "Rengat",
         "latlng": [
           -0.375,
-          102.546944444
+          102.5469
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Dutch paratroopers captured Rengat and killed soldiers, officials, and civilians during and after the assault."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Rengat massacre",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/KITLV_A1161_-_De_Inderagiri_%28Batang_Koeantan%29_te_Rengat%2C_KITLV_402263.tiff/lossy-page1-1920px-KITLV_A1161_-_De_Inderagiri_%28Batang_Koeantan%29_te_Rengat%2C_KITLV_402263.tiff.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/KITLV_A1161_-_De_Inderagiri_%28Batang_Koeantan%29_te_Rengat%2C_KITLV_402263.tiff/lossy-page1-1280px-KITLV_A1161_-_De_Inderagiri_%28Batang_Koeantan%29_te_Rengat%2C_KITLV_402263.tiff.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Rengat_massacre",
-        "body": "The Rengat massacre was committed by the Royal Netherlands East Indies Army on 5 January 1949 in Rengat, Riau during Operation Kraai. Following the capture of the town, paratroopers of the Korps Speciale Troepen under lieutenant Rudy de Mey subjected confirmed and suspected TNI militants, civil servants, and ordinary townspeople to looting, rape, and summary execution. Bodies were disposed of in the Indragiri River.\n\nWhy This Moment Matters: Rengat massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.\n\nConsequences: The effects of Rengat massacre extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The Rengat massacre was committed by the Royal Netherlands East Indies Army on 5 January 1949 in Rengat, Riau during Operation Kraai. Following the capture of the town, paratroopers of the Korps Speciale Troepen under lieutenant Rudy de Mey subjected confirmed and suspected TNI militants, civil servants, and ordinary townspeople to looting, rape, and summary execution. Bodies were disposed of in the Indragiri River.",
         "stats": [
           {
             "val": "1949",
             "lbl": "Year"
           },
           {
-            "val": "7 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "The Rengat massacre was committed by the Royal Netherlands East Indies Army on 5 January 1949 in Rengat, Riau during Operation Kraai.",
+            "full": true
           }
         ]
       }
@@ -331,27 +469,47 @@
     "sub": "Part of Indonesian National Revolution",
     "view": {
       "center": [
-        50,
-        15
+        -7.798,
+        110.368
       ],
-      "zoom": 3
+      "zoom": 10
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Yogyakarta",
+        "latlng": [
+          -7.7956,
+          110.3695
+        ],
+        "type": "target",
+        "description": "Republican forces held Yogyakarta for several hours to demonstrate that the resistance remained effective."
+      },
+      {
+        "label": "Fort Vredeburg area",
+        "latlng": [
+          -7.8002,
+          110.3663
+        ],
+        "type": "major",
+        "description": "The city center became a visible stage for the temporary republican return."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "1 March General Offensive",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Munumen_Serangan_Umum_1_Maret_1949.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Munumen_Serangan_Umum_1_Maret_1949.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/General_Offensive_of_1_March_1949",
-        "body": "The General Offensive of 1 March 1949 was a military offensive during the Indonesian National Revolution where the city of Yogyakarta was held by Indonesian troops for six hours. This played an important role in causing international pressure to be exerted on the Netherlands.\n\nWhy This Moment Matters: 1 March General Offensive was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The revolution determined whether the Indonesian Republic would survive and whether Dutch colonial power could return.\n\nConsequences: The effects of 1 March General Offensive extended beyond its immediate result. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The General Offensive of 1 March 1949 was a military offensive during the Indonesian National Revolution where the city of Yogyakarta was held by Indonesian troops for six hours. This played an important role in causing international pressure to be exerted on the Netherlands.",
         "stats": [
           {
             "val": "1949",
             "lbl": "Year"
           },
           {
-            "val": "8 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The General Offensive of 1 March 1949 was a military offensive during the Indonesian National Revolution where the city of Yogyakarta was held by Indonesian troops for six hours.",
+            "full": true
           }
         ]
       }
@@ -359,8 +517,8 @@
   },
   {
     "id": "international-and-human-dimensions",
-    "year": 1948,
-    "date": "1948-01-01",
+    "year": 1949,
+    "date": "1949-03-01",
     "title": "International and Human Dimensions",
     "sub": "The wider impact of the Indonesian National Revolution",
     "view": {
@@ -368,9 +526,37 @@
         -3,
         113
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Jakarta",
+        "latlng": [
+          -6.2088,
+          106.8456
+        ],
+        "type": "major",
+        "description": "Diplomacy and military pressure converged in the colonial capital."
+      },
+      {
+        "label": "The Hague",
+        "latlng": [
+          52.0705,
+          4.3007
+        ],
+        "type": "minor",
+        "description": "Dutch political decisions and the Round Table Conference shaped the final transfer of sovereignty."
+      },
+      {
+        "label": "United Nations, New York",
+        "latlng": [
+          40.7494,
+          -73.968
+        ],
+        "type": "minor",
+        "description": "UN mediation and Security Council pressure constrained the Dutch campaign."
+      }
+    ],
     "regions": [],
     "slides": [
       {
@@ -382,50 +568,84 @@
             "lbl": "Estimated human cost",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/IWM-SE-5865-tank-Surabaya-19451127.jpg",
+        "cap": "Visual reference for International and Human Dimensions."
       }
     ]
   },
   {
     "id": "outcome-and-legacy",
     "year": 1949,
-    "date": "1949-01-01",
+    "date": "1949-03-01",
     "title": "Outcome and Legacy",
     "sub": "How the Indonesian National Revolution ended and what followed",
     "view": {
       "center": [
-        -3,
-        113
+        -7,
+        108.6
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Jakarta",
+        "latlng": [
+          -6.2088,
+          106.8456
+        ],
+        "type": "target",
+        "description": "Jakarta became the capital of the sovereign Indonesian state."
+      },
+      {
+        "label": "Yogyakarta",
+        "latlng": [
+          -7.7956,
+          110.3695
+        ],
+        "type": "major",
+        "description": "The wartime republican capital symbolizes political survival after Dutch occupation."
+      },
+      {
+        "label": "The Hague",
+        "latlng": [
+          52.0705,
+          4.3007
+        ],
+        "type": "minor",
+        "description": "The Netherlands agreed to transfer sovereignty at the Round Table Conference."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "The End of the Indonesian National Revolution",
-        "body": "The Netherlands transferred sovereignty in 1949 after military campaigns failed to eliminate the republic and international pressure increased."
+        "body": "The Netherlands transferred sovereignty in December 1949 after two major offensives failed to eliminate the republic and international pressure made continued colonial war increasingly costly. The revolution created an independent Indonesian state but left unresolved questions over federalism, military power, local revolutions, and West New Guinea. Estimates vary widely: roughly 45,000-100,000 Indonesian combatants and 25,000-100,000 civilians were killed, alongside more than 5,000 Dutch military deaths and additional British, Indian, Japanese, and Chinese Indonesian victims.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Indonesia_declaration_of_independence_17_August_1945.jpg/250px-Indonesia_declaration_of_independence_17_August_1945.jpg",
+        "cap": "Visual reference for Outcome and Legacy.",
+        "stats": []
       },
       {
         "title": "War Summary: Indonesian National Revolution",
-        "body": "The Netherlands transferred sovereignty in 1949 after military campaigns failed to eliminate the republic and international pressure increased. Urban battles, guerrilla warfare, reprisals, and population displacement caused extensive military and civilian losses.",
+        "body": "The Netherlands transferred sovereignty in December 1949 after two major offensives failed to eliminate the republic and international pressure made continued colonial war increasingly costly. The revolution created an independent Indonesian state but left unresolved questions over federalism, military power, local revolutions, and West New Guinea. Estimates vary widely: roughly 45,000-100,000 Indonesian combatants and 25,000-100,000 civilians were killed, alongside more than 5,000 Dutch military deaths and additional British, Indian, Japanese, and Chinese Indonesian victims.",
         "stats": [
           {
-            "val": "Indonesian victory",
-            "lbl": "Outcome / winner"
+            "val": "Indonesian victory and Dutch transfer of sovereignty",
+            "lbl": "Outcome / present status"
           },
           {
-            "val": "More than 100,000 Indonesians and several thousand Dutch troops killed",
-            "lbl": "Casualties / human cost"
+            "val": "Human cost",
+            "lbl": "Approximately 45,000-100,000 Indonesian combatants and 25,000-100,000 civilians killed; more than 5,000 Dutch military deaths",
+            "full": true
           },
           {
-            "val": "The Netherlands transferred sovereignty in 1949 after military campaigns failed to eliminate the republic and international pressure increased.",
-            "lbl": "Lasting legacy",
+            "val": "Final assessment",
+            "lbl": "The Netherlands transferred sovereignty in December 1949 after two major offensives failed to eliminate the republic and international pressure made continued colonial war increasingly costly. The revolution created an independent Indonesian state but left unresolved questions over federalism, military power, local revolutions, and West New Guinea. Estimates vary widely: roughly 45,000-100,000 Indonesian combatants and 25,000-100,000 civilians were killed, alongside more than 5,000 Dutch military deaths and additional British, Indian, Japanese, and Chinese Indonesian victims.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Munumen_Serangan_Umum_1_Maret_1949.jpg",
-        "cap": "The outcome and legacy of the Indonesian National Revolution"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Indonesia_declaration_of_independence_17_August_1945.jpg/250px-Indonesia_declaration_of_independence_17_August_1945.jpg",
+        "cap": "Visual reference for Outcome and Legacy."
       }
     ]
   }

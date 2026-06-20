@@ -1,0 +1,57 @@
+[
+  {
+    "id": "euro-currency-2002",
+    "name": "Euro Becomes Physical Currency",
+    "date": "January 1 2002",
+    "location": "European Union",
+    "coordinates": {
+      "lat": 50.8503,
+      "lng": 4.3517
+    },
+    "summary": "The euro was introduced as physical currency across multiple European countries."
+  },
+  {
+    "id": "salt-lake-olympics-2002",
+    "name": "Winter Olympics in Salt Lake City",
+    "date": "February 8 2002",
+    "location": "Salt Lake City, USA",
+    "coordinates": {
+      "lat": 40.7608,
+      "lng": -111.891
+    },
+    "summary": "The Winter Olympics were held under tight global security following 9/11."
+  },
+  {
+    "id": "icc-founded-2002",
+    "name": "International Criminal Court Established",
+    "date": "July 1 2002",
+    "location": "The Hague, Netherlands",
+    "coordinates": {
+      "lat": 52.0705,
+      "lng": 4.3007
+    },
+    "summary": "The ICC was established to prosecute war crimes and crimes against humanity."
+  },
+  {
+    "id": "african-union-2002",
+    "name": "African Union Founded",
+    "date": "July 9 2002",
+    "location": "Durban, South Africa",
+    "coordinates": {
+      "lat": -29.8587,
+      "lng": 31.0218
+    },
+    "summary": "The African Union replaced the Organization of African Unity."
+  },
+  {
+    "id": "bali-bombings-2002",
+    "name": "Bali Bombings",
+    "date": "October 12 2002",
+    "location": "Bali, Indonesia",
+    "coordinates": {
+      "lat": -8.4095,
+      "lng": 115.1889
+    },
+    "summary": "Terrorist bombings killed over 200 people in a major attack on tourists."
+  }
+]

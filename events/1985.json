@@ -1,0 +1,68 @@
+[
+  {
+    "id": "gorbachev-1985",
+    "name": "Mikhail Gorbachev Becomes Soviet Leader",
+    "date": "March 11 1985",
+    "location": "USSR",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Gorbachev became leader of the Soviet Union, introducing reforms like glasnost and perestroika."
+  },
+  {
+    "id": "live-aid-1985",
+    "name": "Live Aid Concert",
+    "date": "July 13 1985",
+    "location": "UK / USA",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "A global charity concert raised funds for famine relief in Ethiopia."
+  },
+  {
+    "id": "mexico-earthquake-1985",
+    "name": "Mexico City Earthquake",
+    "date": "September 19 1985",
+    "location": "Mexico",
+    "coordinates": {
+      "lat": 19.4326,
+      "lng": -99.1332
+    },
+    "summary": "A devastating earthquake killed thousands in Mexico City."
+  },
+  {
+    "id": "schengen-1985",
+    "name": "Schengen Agreement Signed",
+    "date": "June 14 1985",
+    "location": "Luxembourg",
+    "coordinates": {
+      "lat": 49.8153,
+      "lng": 6.1296
+    },
+    "summary": "European countries agreed to gradually abolish border controls."
+  },
+  {
+    "id": "titanic-found-1985",
+    "name": "Titanic Wreck Discovered",
+    "date": "September 1 1985",
+    "location": "Atlantic Ocean",
+    "coordinates": {
+      "lat": 41.7325,
+      "lng": -49.9469
+    },
+    "summary": "The wreck of the Titanic was discovered."
+  },
+  {
+    "id": "windows-1-1985",
+    "name": "Microsoft Windows 1.0 Released",
+    "date": "November 20 1985",
+    "location": "USA",
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    "summary": "Microsoft released its first graphical operating system."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pope-francis-2013",
+    "name": "Pope Francis Elected",
+    "date": "March 13 2013",
+    "location": "Vatican City",
+    "coordinates": {
+      "lat": 41.9029,
+      "lng": 12.4534
+    },
+    "summary": "Pope Francis became the first pope from the Americas."
+  },
+  {
+    "id": "boston-marathon-2013",
+    "name": "Boston Marathon Bombing",
+    "date": "April 15 2013",
+    "location": "Boston, USA",
+    "coordinates": {
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    "summary": "Bombings during the marathon killed three people and injured hundreds."
+  },
+  {
+    "id": "snowden-2013",
+    "name": "Snowden Revelations",
+    "date": "June 5 2013",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Leaks revealed global surveillance programs."
+  },
+  {
+    "id": "philippines-typhoon-2013",
+    "name": "Typhoon Haiyan",
+    "date": "November 8 2013",
+    "location": "Philippines",
+    "coordinates": {
+      "lat": 11,
+      "lng": 125
+    },
+    "summary": "One of the strongest storms ever recorded caused massive destruction."
+  },
+  {
+    "id": "mandela-death-2013",
+    "name": "Nelson Mandela Dies",
+    "date": "December 5 2013",
+    "location": "South Africa",
+    "coordinates": {
+      "lat": -30.5595,
+      "lng": 22.9375
+    },
+    "summary": "Nelson Mandela passed away at age 95."
+  },
+  {
+    "id": "syria-chemical-2013",
+    "name": "Syria Chemical Weapons Crisis",
+    "date": "August 21 2013",
+    "location": "Syria",
+    "coordinates": {
+      "lat": 33.5138,
+      "lng": 36.2765
+    },
+    "summary": "A chemical weapons attack in Syria drew international condemnation."
+  }
+]

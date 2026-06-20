@@ -1,0 +1,112 @@
+[
+  {
+    "id": "west-berlin-1964-1",
+    "name": "West Berlin",
+    "date": "Twenty 1964",
+    "location": "West Berlin",
+    "coordinates": {
+      "lat": 52.5,
+      "lng": 13.28
+    },
+    "summary": "three men and thirty-one women escape to West Berlin through a narrow tunnel under the Berlin Wall. West Berlin (German: Berlin (West) or West-Berlin, German pronunciation: [ˈvɛstbɛʁˌliːn] ) was a political enclave which comprised the western part of Berlin from 1948 until 1990, during the Cold War. Although West Berlin was de jure not part of West Germany, lacked any sovereignty, and was under military occupation until German reunification in 1990, the territory was claimed by the Federal Republic of Germany (FRG)."
+  },
+  {
+    "id": "taiwan-1964-2",
+    "name": "Taiwan",
+    "date": "February 10 1964",
+    "location": "Taiwan",
+    "coordinates": {
+      "lat": 24,
+      "lng": 121
+    },
+    "summary": "The Republic of China severs diplomatic relations with France because of French recognition of the People's Republic of China. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "vietnam-war-1964-3",
+    "name": "Vietnam War",
+    "date": "May 1 1964",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War: Attack on USNS Card – An explosion caused by Viet Cong commandos causes carrier USNS Card to sink in the port of Saigon. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies."
+  },
+  {
+    "id": "times-square-1964-4",
+    "name": "Times Square",
+    "date": "May 1 1964",
+    "location": "Times Square",
+    "coordinates": {
+      "lat": 40.7575,
+      "lng": -73.9858
+    },
+    "summary": "Some 400–1,000 students march through Times Square, New York, and another 700 in San Francisco, in the first major student demonstration against the Vietnam War. Smaller marches also occur in Boston, Seattle, and Madison, Wisconsin. Times Square is one of the world's busiest pedestrian intersections, tourist destinations, and entertainment hubs. It is formed by the junction of Broadway, Seventh Avenue, and 42nd Street in Midtown Manhattan, New York City."
+  },
+  {
+    "id": "civil-rights-act-of-1964-1964-5",
+    "name": "Civil Rights Act of 1964",
+    "date": "July 2 1964",
+    "location": "Washington, D.C., USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The Civil Rights Act of 1964 becomes law, outlawing major forms of racial discrimination and segregation in the United States. 241, enacted July 2, 1964) is a landmark civil rights and labor law in the United States that outlaws discrimination based on race, color, religion, sex, and national origin. It prohibits unequal application of voter registration requirements, racial segregation in schools and public accommodations, and employment discrimination."
+  },
+  {
+    "id": "operation-pierce-arrow-1964-6",
+    "name": "Operation Pierce Arrow",
+    "date": "August 2 1964",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Vietnam War: Operation Pierce Arrow – Aircraft from carriers USS Ticonderoga and USS Constellation bomb North Vietnam in retaliation for strikes against U.S. destroyers in the Gulf of Tonkin. Operation Pierce Arrow was a U.S. bombing campaign at the beginning of the Vietnam War. In response to the Gulf of Tonkin incident when the destroyers USS Maddox and USS Turner Joy of the United States Navy engaged North Vietnamese ships, sustaining light damage as they gathered electronic intelligence while in the international waters of the Gulf of Tonkin, U.S."
+  },
+  {
+    "id": "vietnam-war-1964-7",
+    "name": "Vietnam War",
+    "date": "August 16 1964",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War: In a coup, General Nguyễn Khánh replaces Dương Văn Minh as South Vietnam's chief of state and establishes a new constitution, drafted partly by the U.S. Embassy. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies."
+  },
+  {
+    "id": "596-nuclear-test-1964-8",
+    "name": "596 (nuclear test)",
+    "date": "October 17 1964",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "596 (nuclear test): The People's Republic of China explodes an atomic bomb in Sinkiang. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "united-states-national-security-council-1964-9",
+    "name": "United States National Security Council",
+    "date": "November 24 1964",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Vietnam War: United States National Security Council members, including Robert McNamara, Dean Rusk, and Maxwell Taylor, agree to recommend a plan for a 2-stage escalation of bombing in North Vietnam, to President Lyndon B. Johnson. The United States National Security Council (NSC) is the national security council used by the president of the United States for consideration of national security, military, and foreign policy matters."
+  },
+  {
+    "id": "civil-rights-act-of-1964-1964-10",
+    "name": "Civil Rights Act of 1964",
+    "date": "December 14 1964",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Heart of Atlanta Motel v. United States (379 US 241 1964): The U.S. Supreme Court rules that, in accordance with the Civil Rights Act of 1964, establishments providing public accommodation must refrain from racial discrimination. 241, enacted July 2, 1964) is a landmark civil rights and labor law in the United States that outlaws discrimination based on race, color, religion, sex, and national origin."
+  }
+]

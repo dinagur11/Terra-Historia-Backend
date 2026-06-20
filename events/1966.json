@@ -1,0 +1,112 @@
+[
+  {
+    "id": "lyndon-b-johnson-1966-1",
+    "name": "Lyndon B. Johnson",
+    "date": "February 4 1966",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Lyndon B. Johnson of the United States and Nguyễn Cao Kỳ of South Vietnam convene with other officials in a summit in Honolulu, Hawaii to discuss the course of the Vietnam War. Lyndon Baines Johnson (August 27, 1908 – January 22, 1973), also known as LBJ, was the 36th president of the United States from 1963 to 1969."
+  },
+  {
+    "id": "nelsons-pillar-1966-2",
+    "name": "Nelson's Pillar",
+    "date": "March 7 1966",
+    "location": "Nelson's Pillar",
+    "coordinates": {
+      "lat": 53.34980556,
+      "lng": -6.26025
+    },
+    "summary": "Nelson's Pillar in O'Connell Street, Dublin, is clandestinely blown up by former Irish Republican Army volunteers marking this year's 50th anniversary of the Easter Rising. Nelson's Pillar (also known as the Nelson Pillar or simply the Pillar) was a large granite column capped by a statue of Horatio Nelson, built in the centre of what was then Sackville Street (later renamed O'Connell Street) in Dublin, Ireland."
+  },
+  {
+    "id": "charles-de-gaulle-1966-3",
+    "name": "Charles de Gaulle",
+    "date": "March 7 1966",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Charles de Gaulle asks U.S. President Lyndon B. Johnson for negotiations about the state of NATO equipment in France. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period."
+  },
+  {
+    "id": "cultural-revolution-1966-4",
+    "name": "Cultural Revolution",
+    "date": "May 14 1966",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The Chinese Communist Party issues the 'May 16 Notice', marking the beginning of the Cultural Revolution. The Cultural Revolution, formally known as the Great Proletarian Cultural Revolution, was a sociopolitical movement in the People's Republic of China (PRC). It was launched by CCP chairman Mao Zedong in 1966 and lasted until his death in 1976."
+  },
+  {
+    "id": "vietnam-war-1966-5",
+    "name": "Vietnam War",
+    "date": "June 28 1966",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "Vietnam War: U.S. planes begin bombing Hanoi and Haiphong. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations."
+  },
+  {
+    "id": "mcdonnell-douglas-f-4-phantom-ii-1966-6",
+    "name": "McDonnell Douglas F-4 Phantom II",
+    "date": "July 23 1966",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "A USAF F-4C Phantom #63-7599 is shot down by a North Vietnamese SAM-2 northeast of Hanoi, the first loss of a U.S. aircraft to a Vietnamese surface-to-air missile in the Vietnam War. The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber that was developed by McDonnell Aircraft for the United States Navy."
+  },
+  {
+    "id": "nato-decides-to-move-supreme-headquarters-allied-powers-europe-to-belg-1966-7",
+    "name": "NATO decides to move Supreme Headquarters Allied Powers Europe to Belgium",
+    "date": "September 9 1966",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "NATO decides to move Supreme Headquarters Allied Powers Europe to Belgium. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "binh-tai-massacre-1966-8",
+    "name": "Binh Tai Massacre",
+    "date": "October 9 1966",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War: Binh Tai Massacre. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "united-nations-1966-9",
+    "name": "United Nations",
+    "date": "October 21 1966",
+    "location": "Africa",
+    "coordinates": {
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    "summary": "The United Nations terminates the mandate given by the League of Nations and proclaims that South West Africa will be administrated by the United Nations. This is rejected by South Africa. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "binh-hoa-massacre-1966-10",
+    "name": "Bình Hòa massacre",
+    "date": "December 6 1966",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War: Bình Hòa massacre. The Bình Hòa Massacre, (Vietnamese: thảm sát Bình Hoà, Korean: 빈호아 학살) was a massacre purportedly conducted by South Korean forces between December 3 and December 6, 1966, of 430 unarmed civilians in Bình Hòa village, Quảng Ngãi Province in South Vietnam. In 2000, however, it was reported that a monument within the village, gave the dates of the massacre as October 22, 24, and 26, 1966 and said that 403 people were killed by the South Koreans."
+  }
+]

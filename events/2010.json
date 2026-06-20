@@ -1,0 +1,46 @@
+[
+  {
+    "id": "haiti-earthquake-2010",
+    "name": "Haiti Earthquake",
+    "date": "January 12 2010",
+    "location": "Haiti",
+    "coordinates": {
+      "lat": 18.9712,
+      "lng": -72.2852
+    },
+    "summary": "A devastating earthquake killed over 200,000 people and caused widespread destruction."
+  },
+  {
+    "id": "deepwater-horizon-2010",
+    "name": "Deepwater Horizon Oil Spill",
+    "date": "April 20 2010",
+    "location": "Gulf of Mexico",
+    "coordinates": {
+      "lat": 28.738,
+      "lng": -88.3659
+    },
+    "summary": "An explosion on an oil rig caused one of the largest environmental disasters in history."
+  },
+  {
+    "id": "arab-spring-begins-2010",
+    "name": "Arab Spring Begins",
+    "date": "December 17 2010",
+    "location": "Tunisia",
+    "coordinates": {
+      "lat": 33.8869,
+      "lng": 9.5375
+    },
+    "summary": "Protests in Tunisia sparked a wave of uprisings across the Arab world."
+  },
+  {
+    "id": "instagram-launch-2010",
+    "name": "Instagram Launched",
+    "date": "October 6 2010",
+    "location": "USA",
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "summary": "Instagram was launched, becoming a major social media platform focused on photo sharing."
+  }
+]

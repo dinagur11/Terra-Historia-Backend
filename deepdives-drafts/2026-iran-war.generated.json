@@ -1,0 +1,364 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2026,
+    "date": "2026-02-28",
+    "title": "From Twelve-Day War to 2026 Iran War",
+    "sub": "Connection and background to 2026 Iran War",
+    "view": {
+      "center": [
+        32.0853,
+        34.7818
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Tel Aviv",
+        "latlng": [
+          32.0853,
+          34.7818
+        ],
+        "type": "major",
+        "description": "The 2025 missile war shaped Israeli prevention planning for 2026."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Twelve-Day War to 2026 Iran War",
+        "img": "https://cdn.britannica.com/48/273848-050-DBBAECA3/tel-aviv-israel-missile-strike-iran-june-13-2025.jpg",
+        "cap": "Historical overview: From Twelve-Day War to 2026 Iran War",
+        "body": "The 2026 Iran War grew from the unresolved aftermath of the Twelve-Day War. Iran worked to recover missile capacity, repair strategic networks, and preserve regional proxy pressure, while Israel watched for signs that Tehran was rebuilding the same threat.\n\nFor Israel, the issue was prevention. Waiting until Iran restored its full strike capacity would have meant accepting a larger future war under worse conditions.",
+        "stats": [
+          {
+            "val": "Twelve-Day War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "28 February 2026-present",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "From the Israeli security perspective, the war is intended to remove an existential nuclear and missile threat, weaken the Iranian regime's regional war network, and prevent another cycle of temporary deterrence.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "opening-strikes",
+    "year": 2026,
+    "date": "2026-02-28",
+    "title": "Operations Roaring Lion and Epic Fury",
+    "sub": "Part of 2026 Iran War",
+    "view": {
+      "center": [
+        35.6892,
+        51.389
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Tehran leadership zone",
+        "latlng": [
+          35.6892,
+          51.389
+        ],
+        "type": "major",
+        "description": "Opening strikes hit leadership and command systems."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operations Roaring Lion and Epic Fury",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation-Roaring-Lion-0004.jpg",
+        "cap": "Historical overview: Operations Roaring Lion and Epic Fury",
+        "body": "Operations Roaring Lion and Epic Fury struck Iranian leadership, command, and military infrastructure at the opening of the war. The death of Iran's leader during the campaign shook the regime's command structure and became the war's defining political shock.\n\nIsrael's objective was to break the regime's ability to coordinate missile fire, proxy retaliation, and nuclear recovery at the same time. The strikes aimed to create confusion at the top before Iran could impose a coordinated regional response.",
+        "stats": [
+          {
+            "val": "28 Feb 2026",
+            "lbl": "War begins"
+          },
+          {
+            "val": "Israel and United States",
+            "lbl": "Joint campaign"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iranian-regional-retaliation",
+    "year": 2026,
+    "date": "2026-03-01",
+    "title": "Iranian Regional Retaliation",
+    "sub": "Part of 2026 Iran War",
+    "view": {
+      "center": [
+        32.5,
+        44.5
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Regional missile arc",
+        "latlng": [
+          32.5,
+          44.5
+        ],
+        "type": "major",
+        "description": "Iran retaliated through missiles and regional pressure."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Iranian Regional Retaliation",
+        "img": "https://www.thecable.ng/wp-content/uploads/2026/02/fe24a48e-d6a2-4e74-be60-e9045d8148f8.jpeg",
+        "cap": "Historical overview: Iranian Regional Retaliation",
+        "body": "Iran answered through missiles, regional assets, and proxy pressure intended to stretch Israel and its partners across multiple fronts. The retaliation showed that even after leadership losses, Tehran's network could still produce danger through redundancy and ideology.\n\nIsrael treated the response as proof that Iran's regional system had to be degraded, not merely deterred. The war became a contest over whether Iran could keep exporting pressure while under attack at home.",
+        "stats": [
+          {
+            "val": "650 missile attacks by 8 Apr",
+            "lbl": "Reported against Israel"
+          },
+          {
+            "val": "24 civilians killed",
+            "lbl": "Israel and West Bank through ceasefire"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hormuz-closure",
+    "year": 2026,
+    "date": "2026-03-02",
+    "title": "Closure of the Strait of Hormuz",
+    "sub": "Part of 2026 Iran War",
+    "view": {
+      "center": [
+        26.566,
+        56.25
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Strait of Hormuz",
+        "latlng": [
+          26.566,
+          56.25
+        ],
+        "type": "major",
+        "description": "Iran used maritime pressure to globalize the crisis."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Closure of the Strait of Hormuz",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/BP_petrol_station_in_Semaphore%2C_South_Australia_during_the_2026_Iran_war_fuel_crisis_(DSCF4256).jpg",
+        "cap": "Historical overview: Closure of the Strait of Hormuz",
+        "body": "The attempted closure of the Strait of Hormuz turned the war into a global economic crisis. Iran used maritime pressure to raise the cost of the campaign and force outside powers to push for a ceasefire.\n\nFor Israel and its partners, Hormuz showed why Iran's military power could not be separated from international security. A regime able to threaten both Israeli cities and global energy routes could not be treated as a local problem.",
+        "stats": [
+          {
+            "val": "Strait of Hormuz",
+            "lbl": "Global shipping chokepoint"
+          },
+          {
+            "val": "Energy disruption",
+            "lbl": "Worldwide consequence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iranian-leadership-and-military-struck",
+    "year": 2026,
+    "date": "2026-03-05",
+    "title": "Iranian Leadership and Military Struck",
+    "sub": "Part of 2026 Iran War",
+    "view": {
+      "center": [
+        35.7,
+        51.4
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Iranian military command",
+        "latlng": [
+          35.7,
+          51.4
+        ],
+        "type": "major",
+        "description": "Follow-on strikes sought to prevent quick regime recovery."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Iranian Leadership and Military Struck",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/2026_Iran_war_collage_2.jpg",
+        "cap": "Historical overview: Iranian Leadership and Military Struck",
+        "body": "Follow-on strikes targeted surviving leadership nodes, military headquarters, and missile infrastructure. Israel sought to prevent Iran from replacing commanders quickly enough to sustain pressure.\n\nThe campaign was designed to keep Iran off balance. The more Tehran struggled to command its forces, the harder it became to coordinate proxy attacks, missile salvos, and nuclear recovery.",
+        "stats": [
+          {
+            "val": "Senior leadership killed",
+            "lbl": "Strategic effect"
+          },
+          {
+            "val": "Thousands of targets",
+            "lbl": "Campaign scale"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "april-ceasefire",
+    "year": 2026,
+    "date": "2026-04-08",
+    "title": "Fragile April Ceasefire",
+    "sub": "Part of 2026 Iran War",
+    "view": {
+      "center": [
+        26.5,
+        51
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Gulf ceasefire track",
+        "latlng": [
+          26.5,
+          51
+        ],
+        "type": "major",
+        "description": "The April ceasefire depended on whether Iran would rebuild."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Fragile April Ceasefire",
+        "img": "https://i.guim.co.uk/img/media/7cde4a66207fd4d8c625b447df29716f6e1a7235/0_0_5499_3666/master/5499.jpg?width=465&dpr=1&s=none&crop=none",
+        "cap": "Historical overview: Fragile April Ceasefire",
+        "body": "The April ceasefire reduced open fire but did not settle the strategic dispute. Iran still wanted to recover deterrence and preserve its regional network, while Israel insisted that rebuilding the prewar threat would restart the conflict.\n\nThe ceasefire was fragile because it depended on verification and restraint from a regime that had already used proxies and missile pressure as policy tools. Israeli planners treated it as a pause to watch closely, not an end.",
+        "stats": [
+          {
+            "val": "8 Apr 2026",
+            "lbl": "Ceasefire begins"
+          },
+          {
+            "val": "Fragile truce",
+            "lbl": "Core issues unresolved"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "june-peace-negotiations",
+    "year": 2026,
+    "date": "2026-06-14",
+    "title": "June Peace Negotiations Under Pressure",
+    "sub": "Part of 2026 Iran War",
+    "view": {
+      "center": [
+        25.3,
+        51.5
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Negotiation pressure track",
+        "latlng": [
+          25.3,
+          51.5
+        ],
+        "type": "major",
+        "description": "Talks focused on limits, verification, and sanctions relief."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "June Peace Negotiations Under Pressure",
+        "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a33bc2eb069-1781775406-e1781775521871.jpg?resize=770%2C513&quality=80",
+        "cap": "Historical overview: June Peace Negotiations Under Pressure",
+        "body": "June negotiations took place under military and economic pressure, with Iran seeking relief and Israel seeking enforceable limits. The talks were shaped by the memory of previous pauses that allowed rearmament.\n\nFor Israel, any deal had to answer practical questions: who verifies nuclear limits, who stops missile rebuilding, and what happens if Iran shifts the burden back to Hezbollah, militias, or the Houthis.",
+        "stats": [
+          {
+            "val": "14 Jun 2026",
+            "lbl": "Talks face renewed regional escalation"
+          },
+          {
+            "val": "Proposed agreement",
+            "lbl": "Not yet a durable peace settlement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2026,
+    "date": "2026-06-15",
+    "title": "Conflict Summary: 2026 Iran War",
+    "sub": "Final summary of 2026 Iran War",
+    "view": {
+      "center": [
+        32,
+        44
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Iran-Israel regional theater",
+        "latlng": [
+          32,
+          44
+        ],
+        "type": "major",
+        "description": "The war tested whether Iran's strike network could be kept degraded."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: 2026 Iran War",
+        "img": "https://sites.uab.edu/humanrights/files/2026/04/AdobeStock_1889551481.jpeg",
+        "cap": "Historical overview: Conflict Summary: 2026 Iran War",
+        "body": "The 2026 Iran War was a continuation of the fight to prevent Iran from restoring the strategic threat damaged in 2025. Israel's campaign focused on leadership, missiles, proxies, and nuclear recovery, while Iran tried to answer through regional escalation and economic pressure.\n\nThe war's outcome remains tied to enforcement. If Iran can rebuild behind diplomacy, the conflict will return; if the limits hold, Israel gains time and a safer regional balance.",
+        "stats": [
+          {
+            "val": "Fragile ceasefire and negotiations as of June 15, 2026",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "More than 6,000 killed region-wide; estimates remain disputed and changing",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "As of June 15, 2026, direct US-Israel-Iran fighting remains constrained by a fragile ceasefire while negotiations continue. Israel and the United States inflicted extraordinary damage on Iran's leadership and military capabilities, but Iran retained missiles, regional allies, and leverage over Hormuz. A proposed peace framework remains contested, and the war's final outcome is not yet known.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

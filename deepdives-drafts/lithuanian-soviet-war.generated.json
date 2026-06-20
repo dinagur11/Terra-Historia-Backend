@@ -2,96 +2,502 @@
   {
     "id": "origins-and-road-to-war",
     "year": 1918,
-    "date": "1918-01-01",
+    "date": "1918-11-11",
     "title": "Origins and Road to War",
-    "sub": "How the Lithuanian-Soviet War began",
+    "sub": "Lithuania builds a state as empires collapse",
+    "view": {
+      "center": [
+        55.1,
+        24
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "major",
+        "description": "Lithuania claimed Vilnius as its capital, but control of the city shifted as German forces withdrew and Soviet forces advanced."
+      },
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "target",
+        "description": "Kaunas became the practical center of Lithuanian state-building when Vilnius became unsafe."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Independence Under Immediate Pressure",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Volunteers_of_the_Lithuanian_Armed_Forces_heading_to_the_Lithuanian_Wars_of_Independence_in_Vilkavi%C5%A1kis%2C_1919.jpg/250px-Volunteers_of_the_Lithuanian_Armed_Forces_heading_to_the_Lithuanian_Wars_of_Independence_in_Vilkavi%C5%A1kis%2C_1919.jpg",
+        "cap": "Lithuanian volunteers heading to the independence wars.",
+        "body": "Lithuania declared independence in the ruins of World War I, but sovereignty existed first as a claim more than a settled reality. German occupation authorities were withdrawing, Soviet forces moved west through the former empire, and the Lithuanian government had to build an army, administration, and foreign ties while the front approached.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Origins and Road to War",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "State-building and war begin together",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soviet-westward-offensive",
+    "year": 1918,
+    "date": "1918-12-12",
+    "title": "Soviet Westward Offensive",
+    "sub": "Red Army forces enter Lithuania",
+    "view": {
+      "center": [
+        55.4,
+        25.6
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Daugavpils axis",
+        "latlng": [
+          55.874,
+          26.536
+        ],
+        "type": "major",
+        "description": "Soviet forces advanced from the northeast through the old imperial rail and road corridors."
+      },
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "target",
+        "description": "The advance threatened the city before Lithuania had a mature army."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Red Army Moves West",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Soviet_POWs_in_Lithuania.jpg/330px-Soviet_POWs_in_Lithuania.jpg",
+        "cap": "Soviet prisoners of war in a Lithuanian camp.",
+        "body": "Soviet forces advanced into Lithuania as part of a broader westward push after Germany's defeat. The campaign aimed to spread revolutionary power into the former imperial borderlands. Lithuania's problem was brutally practical: there were too few trained troops, too little equipment, and too little time to defend every symbolic place.",
+        "stats": [
+          {
+            "val": "1918",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Soviet Westward Offensive",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Lithuania is forced to trade space for time",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "government-withdraws-to-kaunas",
+    "year": 1919,
+    "date": "1919-01-02",
+    "title": "Government Withdraws to Kaunas",
+    "sub": "The capital question becomes a survival question",
+    "view": {
+      "center": [
+        54.8985,
+        23.9036
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "major",
+        "description": "Vilnius was lost as a secure seat of government during the first Soviet advance."
+      },
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "target",
+        "description": "Kaunas became Lithuania's temporary capital and organizational hub."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "A Retreat That Preserved the State",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Enlistment_in_the_Lithuanian_Army%2C_Panemun%C4%97%2C_Kaunas_1919.jpg/250px-Enlistment_in_the_Lithuanian_Army%2C_Panemun%C4%97%2C_Kaunas_1919.jpg",
+        "cap": "Enlistment in the Lithuanian Army in Kaunas, 1919.",
+        "body": "The Lithuanian government withdrew to Kaunas as Vilnius became exposed. Losing the historic capital was a severe blow, but the move preserved the institutions needed to keep fighting: ministries, recruitment, foreign contacts, and command structures. Kaunas became the working capital of a state still fighting to prove it could exist.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Government Withdraws to Kaunas",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Institutional survival matters as much as battlefield control",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-kedainiai",
+    "year": 1919,
+    "date": "1919-02-08",
+    "title": "Battle of Kėdainiai",
+    "sub": "Lithuanian forces hold the road to Kaunas",
+    "view": {
+      "center": [
+        55.2883,
+        23.9747
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Kėdainiai",
+        "latlng": [
+          55.2883,
+          23.9747
+        ],
+        "type": "target",
+        "description": "Fighting around Kėdainiai helped block Soviet movement toward Kaunas."
+      },
+      {
+        "label": "Kaunas approaches",
+        "latlng": [
+          54.95,
+          24.1
+        ],
+        "type": "major",
+        "description": "The defense of Kaunas was the defense of the Lithuanian government's survival."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Stopping the Advance Toward Kaunas",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Soviet_POWs_in_Lithuania.jpg/330px-Soviet_POWs_in_Lithuania.jpg",
+        "cap": "Visual reference for Battle of Kėdainiai.",
+        "body": "Kėdainiai mattered because it sat on the approaches to the temporary capital. Lithuanian volunteers and early regular units fought to stop Soviet movement before it could break the government's center. The battle showed that the young army could do more than retreat: it could hold key nodes long enough for recruitment and outside support to matter.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Battle of Kėdainiai",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Helps shield Kaunas from Soviet advance",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-jieznas",
+    "year": 1919,
+    "date": "1919-02-10",
+    "title": "Battle of Jieznas",
+    "sub": "A local defeat becomes an army lesson",
+    "view": {
+      "center": [
+        54.6,
+        24.18
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Jieznas",
+        "latlng": [
+          54.6,
+          24.18
+        ],
+        "type": "target",
+        "description": "The fighting exposed weaknesses in Lithuanian command, training, and coordination."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Cost of Learning Under Fire",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bolseviku_7_pulko_kariai.jpg/250px-Bolseviku_7_pulko_kariai.jpg",
+        "cap": "Visual reference for Battle of Jieznas.",
+        "body": "The Battle of Jieznas was a painful early fight for Lithuanian forces. Poor coordination and inexperience contributed to losses, but the episode also clarified what the army had to fix quickly: command discipline, reconnaissance, communications, and the ability to coordinate volunteers with regular units.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Battle of Jieznas",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Early setbacks shape a more capable army",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-alytus",
+    "year": 1919,
+    "date": "1919-02-12",
+    "title": "Battle of Alytus",
+    "sub": "Southern Lithuania becomes a battlefield",
+    "view": {
+      "center": [
+        54.3963,
+        24.0459
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Alytus",
+        "latlng": [
+          54.3963,
+          24.0459
+        ],
+        "type": "target",
+        "description": "Alytus guarded southern approaches and became one of the early tests of Lithuanian defense."
+      },
+      {
+        "label": "Nemunas crossing",
+        "latlng": [
+          54.4,
+          24.05
+        ],
+        "type": "major",
+        "description": "River crossings shaped movement and supply in southern Lithuania."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Holding the Southern Approach",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lithuanian_Wars_of_Independence%2C_War_with_Poland._Field_kitchen_of_the_5th_infantry_regiment_of_Grand_Duke_K%C4%99stutis_of_Lithuania_at_the_front_near_Vievis._1920%2C_Lithuania.jpg",
+        "cap": "Visual reference for Battle of Alytus.",
+        "body": "Alytus was important because southern routes and Nemunas crossings could open the way toward the Lithuanian interior. Fighting there showed the war's geographic spread: this was not only a struggle for Vilnius, but a contest over roads, rivers, towns, and the fragile state network being built behind them.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Battle of Alytus",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "River and road control shaped the campaign",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "saxon-volunteers-and-german-support",
+    "year": 1919,
+    "date": "1919-03-01",
+    "title": "Saxon Volunteers and German Support",
+    "sub": "Foreign support buys time",
     "view": {
       "center": [
         55,
         24
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "major",
+        "description": "German assistance and Saxon volunteers helped stabilize Lithuanian defenses while the army organized."
+      },
+      {
+        "label": "Rail corridors",
+        "latlng": [
+          55.1,
+          24.3
+        ],
+        "type": "minor",
+        "description": "Rail access mattered for moving troops, weapons, and supplies in a state short of resources."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "From Russian Civil War to Lithuanian-Soviet War",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
-        "cap": "Historical connection: Bolshevik advance into Lithuania",
-        "body": "Lithuania emerged from the collapse of the Russian Empire, but Soviet forces advanced west during the Russian Civil War. The young republic had to fight immediately to preserve its independence.",
+        "title": "An Uneasy but Useful Partnership",
+        "img": "https://www.nevingtonwarmuseum.com/uploads/9/1/7/5/9175276/published/nevington-lithuiania-volunteers3_1.jpg?1552098465",
+        "cap": "Visual reference for Saxon Volunteers and German Support.",
+        "body": "German support and Saxon volunteer formations helped Lithuania resist the Soviet advance. The partnership was not simple: Germany had its own regional interests after defeat in World War I. Still, weapons, officers, and trained troops gave Lithuania time to turn volunteers into a functioning army.",
         "stats": [
           {
-            "val": "Russian Civil War",
-            "lbl": "Previous conflict in this path"
+            "val": "1919",
+            "lbl": "Timeline year"
           },
           {
-            "val": "Direct aftermath",
-            "lbl": "Bolshevik advance into Lithuania"
+            "val": "Saxon Volunteers and German Support",
+            "lbl": "Event focus"
           },
           {
-            "val": "Lithuanian-Soviet War",
-            "lbl": "The next conflict to explore"
-          },
-          {
-            "val": "Why they connect",
-            "lbl": "Lithuania emerged from the collapse of the Russian Empire, but Soviet forces advanced west during the Russian Civil War. The young republic had to fight immediately to preserve its independence.",
+            "val": "Why this moment matters",
+            "lbl": "Foreign support helps Lithuania survive the army-building phase",
             "full": true
           }
         ]
-      },
-      {
-        "title": "Before the Lithuanian-Soviet War",
-        "body": "Lithuania declared independence during the collapse of imperial Russia and Germany, but Soviet forces invaded as German troops withdrew.\n\nThe Conflict Takes Shape: The campaign decided whether Lithuania would become an independent republic or a Soviet republic. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
-        "stats": [
-          {
-            "val": "1918-1919",
-            "lbl": "Conflict period"
-          },
-          {
-            "val": "The campaign decided whether Lithuania would become an independent republic or a Soviet republic.",
-            "lbl": "What was at stake",
-            "full": true
-          }
-        ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
-        "cap": "Opening context for the Lithuanian-Soviet War"
       }
     ]
   },
   {
-    "id": "lithuanian-soviet-war",
-    "year": 1914,
-    "date": "Review date",
-    "title": "Lithuanian–Soviet War",
-    "sub": "Generated overview draft",
+    "id": "battle-of-ukmerge",
+    "year": 1919,
+    "date": "1919-05-03",
+    "title": "Battle of Ukmergė",
+    "sub": "Lithuania begins pushing back",
     "view": {
       "center": [
-        50,
-        15
+        55.2453,
+        24.7636
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Ukmergė",
+        "latlng": [
+          55.2453,
+          24.7636
+        ],
+        "type": "target",
+        "description": "The Lithuanian advance toward Ukmergė marked the shift from defense to counteroffensive."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Lithuanian–Soviet War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Lithuanian%E2%80%93Soviet_War",
-        "body": "The Lithuanian–Soviet War or Lithuanian–Bolshevik War was fought between newly independent Lithuania and the Russian Socialist Federative Soviet Republic in the aftermath of World War I. It was part of the larger Soviet westward offensive of 1918–1919. The offensive followed the retreat of German troops and sought to establish Soviet republics in Ukraine, Belarus, Lithuania, Latvia, Estonia, and Poland, and to link up with the German Revolution. By the end of December 1918, Soviet forces reached Lithuanian borders. Largely unopposed, they occupied one town after another and by the end of January 1919, they controlled about two thirds of the Lithuanian territory. In February, the Soviet advance was stopped by Lithuanian and German volunteers, who prevented the Soviets from capturing Kaunas, the temporary capital of Lithuania. From April 1919, the Lithuanian war went parallel with the Polish–Soviet War. Poland had territorial claims over Lithuania, especially the Vilnius Region; these tensions spilt over into the Polish–Lithuanian War."
-      },
-      {
-        "title": "Why This Moment Matters",
-        "body": "Lithuanian–Soviet War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The campaign decided whether Lithuania would become an independent republic or a Soviet republic.\n\nConsequences: The effects of Lithuanian–Soviet War extended beyond its immediate result. The young state mobilized scarce resources while towns repeatedly changed hands and civilians endured requisitions and insecurity. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "From Defense to Counteroffensive",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bermontians_planes_captured_by_the_Lithuanian_Army.jpg/1920px-Bermontians_planes_captured_by_the_Lithuanian_Army.jpg",
+        "cap": "Visual reference for Battle of Ukmergė.",
+        "body": "By spring 1919, Lithuanian forces were better organized and able to push Soviet troops back from parts of central Lithuania. Ukmergė mattered as a road hub and as evidence that the front was changing. The army that had improvised around Kaunas was now capable of coordinated offensive action.",
         "stats": [
           {
-            "val": "1914",
-            "lbl": "Year"
+            "val": "1919",
+            "lbl": "Timeline year"
           },
           {
-            "val": "1 of 1",
-            "lbl": "Existing timeline event"
+            "val": "Battle of Ukmergė",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Lithuanian counteroffensive gains momentum",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zarasai-operation",
+    "year": 1919,
+    "date": "1919-08-25",
+    "title": "Zarasai Operation",
+    "sub": "The Red Army is pushed out of Lithuania",
+    "view": {
+      "center": [
+        55.7333,
+        26.25
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Zarasai",
+        "latlng": [
+          55.7333,
+          26.25
+        ],
+        "type": "target",
+        "description": "The northeastern offensive helped clear Soviet forces from Lithuanian territory."
+      },
+      {
+        "label": "Daugavpils direction",
+        "latlng": [
+          55.874,
+          26.536
+        ],
+        "type": "major",
+        "description": "The campaign linked Lithuania's front to the wider anti-Bolshevik fighting around Latvia and Belarus."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Clearing the Northeast",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lithuanian_soldiers_during_the_Lithuanian_Wars_of_Independence_%28between_1919%E2%80%931920%29.jpg/250px-Lithuanian_soldiers_during_the_Lithuanian_Wars_of_Independence_%28between_1919%E2%80%931920%29.jpg",
+        "cap": "Lithuanian soldiers during the independence wars.",
+        "body": "The Zarasai operation helped push Soviet forces out of Lithuania's northeast. By this phase, the Lithuanian army had gained experience, outside support had stabilized the front, and the Soviet position was strained by several wars at once. The operation gave Lithuania a stronger military position before new disputes with Poland and Bermondtian forces complicated independence.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Zarasai Operation",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Soviet forces are pushed beyond Lithuania's core territory",
+            "full": true
           }
         ]
       }
@@ -99,27 +505,56 @@
   },
   {
     "id": "international-and-human-dimensions",
-    "year": 1918,
-    "date": "1918-01-01",
+    "year": 1919,
+    "date": "1919-09-01",
     "title": "International and Human Dimensions",
-    "sub": "The wider impact of the Lithuanian-Soviet War",
+    "sub": "A small state fights in a crowded borderland",
     "view": {
       "center": [
-        55,
+        55.1,
         24
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "target",
+        "description": "Government institutions, recruitment, and diplomacy made Kaunas the human and political center of the war."
+      },
+      {
+        "label": "Vilnius region",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "major",
+        "description": "The unresolved status of Vilnius connected the Soviet war to the coming Polish-Lithuanian conflict."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "International Dimension",
-        "body": "German volunteer formations, Polish forces, and the wider Russian Civil War shaped the rapidly changing front.\n\nThe Human Cost: The young state mobilized scarce resources while towns repeatedly changed hands and civilians endured requisitions and insecurity.",
+        "title": "War, Mobilization, and Uncertain Borders",
+        "img": "https://preview.redd.it/lithuanian-troops-with-a-camel-that-was-taken-from-soviet-v0-40hicthdxac71.jpg?width=640&crop=smart&auto=webp&s=40e2b7913dea3987f3a52106d3f534418b7b1c33",
+        "cap": "Visual reference for International and Human Dimensions.",
+        "body": "Lithuanian civilians lived through requisitions, mobilization, shifting authorities, and fear that independence might disappear before it was recognized. Internationally, the war overlapped with German withdrawal, the Russian Civil War, Latvian fighting, and Poland's rise. Every battlefield decision also affected later border diplomacy.",
         "stats": [
           {
-            "val": "Several thousand killed, wounded, or captured",
-            "lbl": "Estimated human cost",
+            "val": "1919",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "International and Human Dimensions",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "The war leaves border questions unresolved",
             "full": true
           }
         ]
@@ -129,43 +564,58 @@
   {
     "id": "outcome-and-legacy",
     "year": 1919,
-    "date": "1919-01-01",
+    "date": "1919-09-01",
     "title": "Outcome and Legacy",
-    "sub": "How the Lithuanian-Soviet War ended and what followed",
+    "sub": "Lithuania survives but its borders remain contested",
     "view": {
       "center": [
-        55,
+        55.1,
         24
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "target",
+        "description": "Kaunas remained Lithuania's temporary capital after the war because Vilnius stayed disputed."
+      },
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "major",
+        "description": "The unresolved Vilnius question led directly into the Polish-Lithuanian struggle."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "The End of the Lithuanian-Soviet War",
-        "body": "Lithuanian forces halted and expelled the Soviet offensive, preserving the republic despite further wars over its borders."
-      },
-      {
-        "title": "War Summary: Lithuanian-Soviet War",
-        "body": "Lithuanian forces halted and expelled the Soviet offensive, preserving the republic despite further wars over its borders. The young state mobilized scarce resources while towns repeatedly changed hands and civilians endured requisitions and insecurity.",
+        "title": "Victory Without a Settled Map",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg/250px-Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
+        "cap": "Lithuanian soldiers in the contested Vilnius period.",
+        "body": "Lithuania survived the Soviet offensive and built an army capable of defending the state. That was a major victory. But independence did not settle the map: Vilnius, Suwałki, and relations with Poland remained open wounds. The Lithuanian-Soviet War therefore ends with survival, not closure.",
         "stats": [
           {
-            "val": "Lithuanian victory",
-            "lbl": "Outcome / winner"
+            "val": "1919",
+            "lbl": "Timeline year"
           },
           {
-            "val": "Several thousand killed, wounded, or captured",
-            "lbl": "Casualties / human cost"
+            "val": "Outcome and Legacy",
+            "lbl": "Event focus"
           },
           {
-            "val": "Lithuanian forces halted and expelled the Soviet offensive, preserving the republic despite further wars over its borders.",
-            "lbl": "Lasting legacy",
+            "val": "Why this moment matters",
+            "lbl": "Survival against Soviet forces leads into new border wars",
             "full": true
           }
-        ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
-        "cap": "The outcome and legacy of the Lithuanian-Soviet War"
+        ]
       }
     ]
   }

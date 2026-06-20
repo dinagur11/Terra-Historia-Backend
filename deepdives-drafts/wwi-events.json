@@ -1,7 +1,7 @@
 [
   {
     "id": "sarajevo",
-    "year": "1914",
+    "year": 1914,
     "date": "28 June 1914",
     "title": "Assassination at Sarajevo",
     "sub": "The Spark in the Balkans",
@@ -19,7 +19,8 @@
           18.4131
         ],
         "label": "Sarajevo",
-        "type": "target"
+        "type": "target",
+        "description": "Sarajevo marks the assassination of Archduke Franz Ferdinand, the crisis point that triggered the July Crisis."
       }
     ],
     "regions": [
@@ -127,7 +128,7 @@
   },
   {
     "id": "belgium-marne",
-    "year": "1914",
+    "year": 1914,
     "date": "August - September 1914",
     "title": "Invasion of Belgium and the Marne",
     "sub": "The War of Movement Ends",
@@ -145,7 +146,8 @@
           4.35
         ],
         "label": "Brussels",
-        "type": "minor"
+        "type": "minor",
+        "description": "Brussels marks Belgium's invasion route and the violation of Belgian neutrality."
       },
       {
         "latlng": [
@@ -153,7 +155,8 @@
           3.4
         ],
         "label": "Marne",
-        "type": "target"
+        "type": "target",
+        "description": "The Marne marks the Allied counterattack that halted Germany's 1914 advance toward Paris."
       },
       {
         "latlng": [
@@ -161,7 +164,8 @@
           5.57
         ],
         "label": "Liege",
-        "type": "minor"
+        "type": "minor",
+        "description": "Liege marks the Belgian fortress city whose resistance slowed the German advance."
       }
     ],
     "regions": [
@@ -222,7 +226,7 @@
       {
         "title": "Through Neutral Belgium",
         "body": "Germany opened the western campaign by invading Luxembourg and neutral Belgium, following the logic of the Schlieffen Plan: defeat France quickly in the west, then turn east before Russia could fully mobilize. The plan depended on speed, railway coordination, and a wide sweep through Belgium into northern France. Belgian resistance at Liege and other fortified positions slowed the advance more than German planners expected, while reports of harsh German reprisals hardened Allied opinion. The violation of Belgian neutrality also brought Britain into the war on 4 August 1914. By turning a war between continental alliances into a fight involving the British Empire, Germany widened the conflict and made a quick diplomatic settlement far less likely. The invasion of Belgium also changed the moral language of the war. Britain had strategic reasons to oppose German control of the Channel coast, but Belgian neutrality gave the government a powerful public justification. Refugees, destroyed towns, and stories of atrocities circulated through Allied newspapers, helping turn the conflict into a struggle over law, civilization, and small nations. For Germany, the delays in Belgium were costly because the plan required precise timing. Each day lost in sieges and disrupted movement made it harder to encircle Paris and defeat France before the Eastern Front became more dangerous.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/German_soldiers_Battle_of_Marne_WWI.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/German_soldiers_Battle_of_Marne_WWI.jpg",
         "cap": "German soldiers during the opening campaign on the Western Front",
         "stats": [
           {
@@ -243,8 +247,8 @@
       {
         "title": "The Marne Saves Paris",
         "body": "By early September 1914, German armies were close enough to Paris that the French government left the capital for Bordeaux. Yet the advance had stretched German supply lines, exhausted troops, and opened gaps between armies. French commander Joseph Joffre and the British Expeditionary Force counterattacked along the Marne, using every available reserve, including troops rushed from Paris in taxis that became a lasting symbol of emergency mobilization. The German right wing bent back, and the advance stalled. Both sides then tried to outflank each other in the Race to the Sea, extending the front northward. Within weeks, mobile war gave way to trenches, wire, and artillery positions that neither side could easily break. The Battle of the Marne did more than save Paris. It destroyed the assumption that the war in the west would be decided in a single campaign. German commanders pulled back to the Aisne and dug in on defensible ground; Allied troops followed and dug in opposite them. The front solidified because neither side had enough mobility or firepower coordination to break through and exploit success. The failed German advance also forced both sides to reconsider their expectations. A war planned in weeks was now becoming a war measured in production, manpower reserves, food supplies, and public endurance.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/German_soldiers_Battle_of_Marne_WWI.jpg",
-        "cap": "German soldiers during the First Battle of the Marne",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/German_soldiers_Battle_of_Marne_WWI.jpg",
+        "cap": "German soldiers during the opening campaign on the Western Front",
         "stats": [
           {
             "val": "6-12 Sep",
@@ -265,14 +269,14 @@
   },
   {
     "id": "trench-stalemate",
-    "year": "1914",
+    "year": 1914,
     "date": "Late 1914 - 1915",
     "title": "The Trenches Take Hold",
     "sub": "A New Kind of Industrial War",
     "view": {
       "center": [
-        50.3,
-        2.8
+        49.75,
+        4.3
       ],
       "zoom": 5
     },
@@ -283,7 +287,8 @@
           2.89
         ],
         "label": "Ypres Salient",
-        "type": "target"
+        "type": "target",
+        "description": "The Ypres Salient marks the dangerous front where trench warfare hardened in Flanders."
       },
       {
         "latlng": [
@@ -291,95 +296,152 @@
           2.68
         ],
         "label": "Somme sector",
-        "type": "minor"
+        "type": "minor",
+        "description": "The Somme sector marks part of the Western Front trench system that became a symbol of stalemate."
       }
     ],
     "regions": [
       {
-        "id": "western-front-line",
-        "label": "Western Front trench zone",
+        "id": "western-front-trench-belt",
+        "label": "Western Front trench belt",
         "color": "#8e44ad",
-        "opacity": 0.16,
+        "opacity": 0.2,
         "coordinates": [
           [
-            2.4,
-            51.1
+            2.58,
+            51.18
           ],
           [
-            2.9,
-            50.9
+            2.68,
+            51.03
+          ],
+          [
+            2.7,
+            50.86
+          ],
+          [
+            2.62,
+            50.63
+          ],
+          [
+            2.55,
+            50.42
+          ],
+          [
+            2.46,
+            50.18
+          ],
+          [
+            2.47,
+            49.93
+          ],
+          [
+            2.75,
+            49.56
           ],
           [
             3.1,
-            50.5
+            49.3
           ],
           [
-            2.8,
-            50.1
+            3.76,
+            49.08
           ],
           [
-            2.9,
-            49.8
+            4.5,
+            48.98
           ],
           [
-            3.4,
-            49.4
+            5.14,
+            49
           ],
           [
-            4.2,
-            49.1
+            5.42,
+            48.77
           ],
           [
-            5,
-            48.8
+            5.88,
+            48.68
           ],
           [
-            5.6,
-            48.4
+            6.36,
+            48.34
           ],
           [
-            6.2,
-            47.9
+            6.7,
+            47.95
           ],
           [
-            6.5,
+            7.08,
+            47.55
+          ],
+          [
+            7.32,
             47.6
           ],
           [
-            6,
-            47.5
+            6.98,
+            48.05
           ],
           [
-            5.4,
-            48
+            6.62,
+            48.48
           ],
           [
-            4.7,
-            48.4
+            6.1,
+            48.86
           ],
           [
-            3.8,
-            48.8
+            5.62,
+            49.03
           ],
           [
-            3,
-            49.2
+            5.46,
+            49.28
           ],
           [
-            2.4,
-            49.8
+            4.82,
+            49.33
           ],
           [
-            2.1,
-            50.4
+            4.08,
+            49.42
           ],
           [
-            2,
-            50.9
+            3.48,
+            49.56
           ],
           [
-            2.4,
-            51.1
+            3.08,
+            49.83
+          ],
+          [
+            2.92,
+            50.09
+          ],
+          [
+            2.98,
+            50.34
+          ],
+          [
+            3.12,
+            50.54
+          ],
+          [
+            3.1,
+            50.74
+          ],
+          [
+            3.02,
+            50.94
+          ],
+          [
+            2.86,
+            51.12
+          ],
+          [
+            2.58,
+            51.18
           ]
         ]
       }
@@ -431,7 +493,7 @@
   },
   {
     "id": "gallipoli",
-    "year": "1915",
+    "year": 1915,
     "date": "April 1915 - January 1916",
     "title": "Gallipoli Campaign",
     "sub": "The Dardanelles Gamble",
@@ -449,7 +511,8 @@
           26.28
         ],
         "label": "Gallipoli Peninsula",
-        "type": "target"
+        "type": "target",
+        "description": "The Gallipoli Peninsula marks the Allied landing area in the campaign to force the Dardanelles."
       },
       {
         "latlng": [
@@ -457,7 +520,8 @@
           26.4
         ],
         "label": "Dardanelles",
-        "type": "minor"
+        "type": "minor",
+        "description": "The Dardanelles marks the strait the Allies hoped to open to reach the Ottoman capital and Russia."
       }
     ],
     "regions": [
@@ -553,7 +617,7 @@
   },
   {
     "id": "verdun",
-    "year": "1916",
+    "year": 1916,
     "date": "21 February - 18 December 1916",
     "title": "Battle of Verdun",
     "sub": "They Shall Not Pass",
@@ -571,7 +635,8 @@
           5.4219
         ],
         "label": "Verdun",
-        "type": "target"
+        "type": "target",
+        "description": "Verdun marks the fortress city Germany attacked in one of the war's longest battles."
       },
       {
         "latlng": [
@@ -579,7 +644,8 @@
           5.43
         ],
         "label": "Fort Douaumont",
-        "type": "minor"
+        "type": "minor",
+        "description": "Fort Douaumont marks a key Verdun strongpoint whose capture and recapture shaped the battle."
       }
     ],
     "regions": [
@@ -628,7 +694,7 @@
       {
         "title": "Germany Attacks the Fortress City",
         "body": "Germany attacked Verdun in February 1916 because it believed France would defend the fortress city at almost any cost. General Erich von Falkenhayn hoped to force France into a battle of attrition that would drain its army and weaken Allied morale. Verdun's forts, ravines, woods, and villages became killing grounds under immense artillery fire. Fort Douaumont fell early, shocking France and turning the battle into a test of national endurance. Shells churned forests into splintered stumps and villages into ruins. Rather than producing a clean breakthrough, the offensive created a grinding cycle of attack, counterattack, exhaustion, and replacement that consumed both armies. Verdun's geography gave the battle its emotional force. Forts such as Douaumont and Vaux were not only military positions; they were symbols of French security after the humiliation of 1870-1871. German planners believed France would keep sending troops into the furnace rather than allow Verdun to fall. The opening bombardment was terrifying in scale, and many defenders were cut off, buried, or stunned before they could respond. Yet the German army also suffered heavily as it advanced into devastated terrain. The battle became a contest in which both sides were trapped by the symbolic importance they had assigned to the ground.",
-        "img": "https://cards.algoreducation.com/_next/image?url=https%3A%2F%2Ffiles.algoreducation.com%2Fproduction-ts%2F__S3__cacef94a-f8f4-4934-9483-f16887be4fc3&w=3840&q=75",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Battle_of_Verdun_map.png",
         "cap": "The devastated battlefield during the Battle of Verdun",
         "stats": [
           {
@@ -649,7 +715,7 @@
       {
         "title": "A Symbol of French Resistance",
         "body": "French defense at Verdun depended on rotation, supply, and symbolism. General Philippe Petain organized the Voie Sacree, the vital road that carried men, ammunition, food, and equipment into the battlefield. French units rotated through Verdun so that much of the army experienced the battle, spreading both trauma and shared memory. The phrase 'On ne passe pas' - they shall not pass - captured the emotional weight of the defense. By the time fighting ended in December 1916, the front had shifted little compared with the human cost. Verdun became less important as territory than as a symbol of sacrifice, endurance, and the terrible logic of attrition. Petain's defense emphasized artillery, logistics, and rotation, but Verdun still left deep psychological scars. Soldiers passed through a battlefield where landmarks disappeared and survival often depended on chance. Fort Vaux's defense, the recapture of Douaumont, and the constant movement along the Voie Sacree all entered French memory. Verdun also shaped later military thinking: commanders saw both the necessity of firepower and the danger of battles fought for prestige. The phrase 'They shall not pass' endured because it turned defensive suffering into a story of national resolve, even though the human cost was almost impossible to justify.",
-        "img": "https://cards.algoreducation.com/_next/image?url=https%3A%2F%2Ffiles.algoreducation.com%2Fproduction-ts%2F__S3__cacef94a-f8f4-4934-9483-f16887be4fc3&w=3840&q=75",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Battle_of_Verdun_map.png",
         "cap": "The devastated battlefield during the Battle of Verdun",
         "stats": [
           {
@@ -671,7 +737,7 @@
   },
   {
     "id": "somme",
-    "year": "1916",
+    "year": 1916,
     "date": "1 July - 18 November 1916",
     "title": "Battle of the Somme",
     "sub": "The Cost of Attrition",
@@ -689,7 +755,8 @@
           2.68
         ],
         "label": "Somme battlefield",
-        "type": "target"
+        "type": "target",
+        "description": "The Somme battlefield marks the 1916 Allied offensive and its enormous casualties."
       },
       {
         "latlng": [
@@ -697,7 +764,8 @@
           2.69
         ],
         "label": "Thiepval",
-        "type": "minor"
+        "type": "minor",
+        "description": "Thiepval marks one of the Somme's most fought-over sectors and later its major memorial."
       }
     ],
     "regions": [
@@ -789,7 +857,7 @@
   },
   {
     "id": "jutland",
-    "year": "1916",
+    "year": 1916,
     "date": "31 May - 1 June 1916",
     "title": "Battle of Jutland",
     "sub": "The Dreadnought Clash",
@@ -807,7 +875,8 @@
           5.9
         ],
         "label": "Jutland battle area",
-        "type": "target"
+        "type": "target",
+        "description": "The Jutland battle area marks the North Sea clash between the British Grand Fleet and German High Seas Fleet."
       },
       {
         "latlng": [
@@ -815,7 +884,8 @@
           -2.1
         ],
         "label": "British Grand Fleet base",
-        "type": "minor"
+        "type": "minor",
+        "description": "The British Grand Fleet base marks Scapa Flow, the main Royal Navy base for the North Sea war."
       }
     ],
     "regions": [
@@ -902,7 +972,7 @@
   },
   {
     "id": "us-enters",
-    "year": "1917",
+    "year": 1917,
     "date": "6 April 1917",
     "title": "United States Enters the War",
     "sub": "A New Power Arrives",
@@ -920,7 +990,8 @@
           -77.0365
         ],
         "label": "Washington, D.C.",
-        "type": "target"
+        "type": "target",
+        "description": "Washington, D.C. marks the U.S. declaration of war in April 1917."
       },
       {
         "latlng": [
@@ -928,7 +999,8 @@
           2.3522
         ],
         "label": "Paris",
-        "type": "minor"
+        "type": "minor",
+        "description": "Paris marks the Allied capital whose defense American manpower and resources helped sustain."
       }
     ],
     "regions": [
@@ -985,7 +1057,7 @@
       {
         "title": "From Neutrality to War",
         "body": "The United States entered the war after years of trying to remain officially neutral while trading heavily with the Allies. German unrestricted submarine warfare threatened American shipping and lives, especially after earlier shocks such as the sinking of the Lusitania. In 1917, Germany resumed the policy, gambling that it could starve Britain before the United States could mobilize. The Zimmermann Telegram, in which Germany proposed an alliance with Mexico if the United States entered the war, further inflamed opinion. President Woodrow Wilson asked Congress for a declaration of war, presenting American intervention as a defense of neutral rights and a broader effort to make the world safe for democracy. American neutrality had always been complicated. Banks, manufacturers, immigrant communities, pacifists, interventionists, and political leaders disagreed sharply about the war. Many Americans wanted to avoid Europe's catastrophe, but submarine warfare made neutrality harder to maintain because it challenged freedom of the seas and threatened American citizens. Wilson also saw the postwar settlement as something the United States should help shape. Entry into the war therefore combined anger, idealism, economics, security, and politics. The declaration in April 1917 did not instantly win the war, but it changed everyone's calculation about how long Germany could afford to continue.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9V9X6hSXdu61Kyd8L5s-HM4FBGDNhvqjGg&s",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/President_Woodrow_Wilson_asking_Congress_to_declare_war_on_Germany%2C_2_April_1917.jpg/1280px-President_Woodrow_Wilson_asking_Congress_to_declare_war_on_Germany%2C_2_April_1917.jpg",
         "cap": "The United States enters the First World War",
         "stats": [
           {
@@ -1006,7 +1078,7 @@
       {
         "title": "The American Expeditionary Forces",
         "body": "American military power did not appear instantly. The United States had to raise, train, equip, transport, and supply a mass army across the Atlantic while German submarines threatened shipping. General John J. Pershing insisted that the American Expeditionary Forces should fight as a distinct American army rather than simply fill gaps in British and French units. By 1918, American numbers were becoming decisive, giving the Allies fresh manpower at a time when all armies were exhausted. US troops fought at places such as Cantigny, Belleau Wood, Saint-Mihiel, and the Meuse-Argonne. Their arrival shifted morale as much as strategy: Germany now faced an enemy that was growing stronger each month. The AEF's growth placed enormous pressure on ports, railways, training camps, shipbuilding, and Allied coordination. American troops arrived with energy and numbers, but many lacked experience compared with veterans who had survived years of trench warfare. Pershing wanted open warfare and offensive spirit, while Allied commanders urged faster integration into existing armies. The compromise evolved over time as American units gained combat experience. By the Meuse-Argonne Offensive, the United States was fighting one of the largest battles in its history. Its contribution was not flawless, but it made Germany's long-term position hopeless.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9V9X6hSXdu61Kyd8L5s-HM4FBGDNhvqjGg&s",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/President_Woodrow_Wilson_asking_Congress_to_declare_war_on_Germany%2C_2_April_1917.jpg/1280px-President_Woodrow_Wilson_asking_Congress_to_declare_war_on_Germany%2C_2_April_1917.jpg",
         "cap": "The United States enters the First World War",
         "stats": [
           {
@@ -1028,7 +1100,7 @@
   },
   {
     "id": "russia-exits",
-    "year": "1917",
+    "year": 1917,
     "date": "1917 - 3 March 1918",
     "title": "Russia Revolts and Leaves the War",
     "sub": "Revolution on the Eastern Front",
@@ -1046,7 +1118,8 @@
           30.3351
         ],
         "label": "Petrograd",
-        "type": "target"
+        "type": "target",
+        "description": "Petrograd marks the revolutionary center where Russia's wartime government collapsed."
       },
       {
         "latlng": [
@@ -1054,7 +1127,8 @@
           23.7
         ],
         "label": "Brest-Litovsk",
-        "type": "minor"
+        "type": "minor",
+        "description": "Brest-Litovsk marks the treaty that took Russia out of World War I."
       }
     ],
     "regions": [
@@ -1150,7 +1224,7 @@
   },
   {
     "id": "hundred-days",
-    "year": "1918",
+    "year": 1918,
     "date": "March - November 1918",
     "title": "Spring Offensive and Hundred Days",
     "sub": "The Final German Gamble",
@@ -1168,7 +1242,8 @@
           2.3
         ],
         "label": "Amiens",
-        "type": "target"
+        "type": "target",
+        "description": "Amiens marks the Allied attack that opened the Hundred Days Offensive."
       },
       {
         "latlng": [
@@ -1176,7 +1251,8 @@
           3.35
         ],
         "label": "Marne sector",
-        "type": "minor"
+        "type": "minor",
+        "description": "The Marne sector marks the failed German offensive and Allied counterstroke in 1918."
       }
     ],
     "regions": [
@@ -1233,7 +1309,7 @@
       {
         "title": "Operation Michael",
         "body": "Operation Michael was Germany's great gamble in spring 1918. With Russia out of the war, German commanders shifted divisions west and tried to defeat the Allies before American forces became overwhelming. Stormtrooper units used infiltration tactics to bypass strongpoints, disrupt command, and push deep into Allied lines. At first the offensive achieved dramatic gains, breaking through areas that had barely moved for years. But success created new problems: troops outran artillery, supplies, horses, and rail links; exhausted soldiers stopped to loot Allied depots; and the offensive lacked a clear strategic objective after the breakthrough. Germany won ground but failed to destroy the Allied armies. The German offensives of 1918 were tactically impressive but strategically fragile. Stormtroopers could penetrate weak points, but the regular infantry following them often struggled to keep up. German horses were exhausted, roads were ruined, and supply columns could not move quickly through captured battlefield zones. The offensives also consumed Germany's best remaining troops. Each attack created a bulge in the line but not a decisive victory. Meanwhile, Allied command under Ferdinand Foch improved coordination between armies. Operation Michael frightened the Allies, but it also spent the strength Germany needed to survive the counterattack that followed.",
-        "img": "https://lh4.googleusercontent.com/proxy/ryMdT0xnsIK12lzG8Hur8AtCM49URZa9FZjMafnROUtq8Xqb5mcOCx3953YZ5DWmnqc39bbivBzxAXTfwdih6Tm8YQ1YQT5xDzfwqsdj77jmpekvKgGyaUDwB62oJg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Western_front_1918_german.jpg",
         "cap": "German troops during the Spring Offensive of 1918",
         "stats": [
           {
@@ -1254,7 +1330,7 @@
       {
         "title": "The Hundred Days",
         "body": "The Allied counteroffensive began at Amiens on 8 August 1918, a day German commander Erich Ludendorff later called the black day of the German Army. Allied forces combined artillery, tanks, aircraft, infantry, deception, and improved coordination more effectively than in earlier battles. Instead of one symbolic breakthrough, the Hundred Days became a sequence of blows across the Western Front, forcing Germany back from prepared positions. Canadian, Australian, British, French, American, and other Allied forces all contributed to the pressure. German morale and manpower collapsed as retreat became continuous. By autumn, Germany's allies were also falling apart, making an armistice unavoidable. The Hundred Days was not a single battle but a sustained operational collapse of the German position. Allied armies attacked repeatedly, using surprise, limited objectives, better logistics, and combined arms to avoid the worst failures of earlier offensives. The Hindenburg Line, once presented as nearly impregnable, was breached. German soldiers increasingly surrendered in large numbers, while civilians at home faced hunger and political unrest. The Allied advance also encouraged Germany's allies to seek peace separately. By November, Germany was not invaded deeply, but its army could no longer restore the front or promise victory. The armistice came from military defeat and domestic breakdown together.",
-        "img": "https://lh4.googleusercontent.com/proxy/ryMdT0xnsIK12lzG8Hur8AtCM49URZa9FZjMafnROUtq8Xqb5mcOCx3953YZ5DWmnqc39bbivBzxAXTfwdih6Tm8YQ1YQT5xDzfwqsdj77jmpekvKgGyaUDwB62oJg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Western_front_1918_german.jpg",
         "cap": "German troops during the Spring Offensive of 1918",
         "stats": [
           {
@@ -1276,7 +1352,7 @@
   },
   {
     "id": "armistice-versailles",
-    "year": "1918",
+    "year": 1918,
     "date": "11 November 1918 - 28 June 1919",
     "title": "Armistice and Versailles",
     "sub": "The War Ends, the Century Changes",
@@ -1294,7 +1370,8 @@
           2.9
         ],
         "label": "Compiegne Forest",
-        "type": "target"
+        "type": "target",
+        "description": "Compiegne Forest marks the railway carriage where Germany signed the armistice."
       },
       {
         "latlng": [
@@ -1302,7 +1379,8 @@
           2.1204
         ],
         "label": "Versailles",
-        "type": "minor"
+        "type": "minor",
+        "description": "Versailles marks the peace treaty that formally ended the war with Germany."
       }
     ],
     "regions": [

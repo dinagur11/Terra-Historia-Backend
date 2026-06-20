@@ -1,0 +1,112 @@
+[
+  {
+    "id": "constantinople-agreement-1915-1",
+    "name": "Constantinople Agreement",
+    "date": "March 18 1915",
+    "location": "Istanbul",
+    "coordinates": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    "summary": "WWI: Britain, France, and the Russian Empire secretly agree that Russia would receive Constantinople and the Straits if the Entente defeated the Ottoman Empire. The agreement showed how wartime diplomacy tied military victory to postwar territorial promises."
+  },
+  {
+    "id": "second-battle-of-ypres-1915-2",
+    "name": "Second Battle of Ypres",
+    "date": "April 22 1915",
+    "location": "Ypres",
+    "coordinates": {
+      "lat": 50.851,
+      "lng": 2.885
+    },
+    "summary": "WWI: Germany uses poison gas on a large scale near Ypres, opening a new and terrifying chapter in trench warfare. Canadian, British, French, and colonial troops hold the line despite heavy casualties."
+  },
+  {
+    "id": "armenian-intellectuals-deported-1915-3",
+    "name": "Deportation of Armenian Intellectuals",
+    "date": "April 24 1915",
+    "location": "Istanbul",
+    "coordinates": {
+      "lat": 41.0136,
+      "lng": 28.955
+    },
+    "summary": "WWI / Armenian Genocide: Ottoman authorities arrest and deport Armenian community leaders in Constantinople. The arrests are widely treated as the beginning of the Armenian genocide."
+  },
+  {
+    "id": "gallipoli-campaign-1915-4",
+    "name": "Gallipoli Campaign Begins",
+    "date": "April 25 1915",
+    "location": "Gallipoli Peninsula",
+    "coordinates": {
+      "lat": 40.2375,
+      "lng": 26.2775
+    },
+    "summary": "WWI: Allied troops land at Gallipoli to try to force the Dardanelles, knock the Ottoman Empire out of the war, and reopen a route to Russia. The campaign becomes a costly stalemate."
+  },
+  {
+    "id": "lusitania-sunk-1915-5",
+    "name": "Sinking of RMS Lusitania",
+    "date": "May 7 1915",
+    "location": "Off the coast of Ireland",
+    "coordinates": {
+      "lat": 51.4167,
+      "lng": -8.55
+    },
+    "summary": "WWI: German submarine U-20 sinks RMS Lusitania off Ireland, killing 1,199 people. The attack shocks world opinion and pushes the United States closer to confrontation with Germany."
+  },
+  {
+    "id": "gorlice-tarnow-offensive-1915-6",
+    "name": "Gorlice-Tarnow Offensive",
+    "date": "May 2 1915",
+    "location": "Gorlice",
+    "coordinates": {
+      "lat": 49.655,
+      "lng": 21.16
+    },
+    "summary": "WWI: German and Austro-Hungarian forces break through Russian lines in Galicia. The offensive begins the Great Retreat and inflicts a major defeat on the Russian Empire."
+  },
+  {
+    "id": "italy-enters-wwi-1915-7",
+    "name": "Italy Enters World War I",
+    "date": "May 23 1915",
+    "location": "Rome",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "WWI: Italy declares war on Austria-Hungary after joining the Entente through the Treaty of London. A brutal mountain front opens along the Alps and Isonzo River."
+  },
+  {
+    "id": "great-retreat-1915-8",
+    "name": "Russian Great Retreat",
+    "date": "July 1915",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "WWI: Russian armies abandon Poland and much of the western empire under Central Powers pressure. The retreat damages Russian morale and deepens the empire's political crisis."
+  },
+  {
+    "id": "battle-of-loos-1915-9",
+    "name": "Battle of Loos",
+    "date": "September 25 1915",
+    "location": "Loos-en-Gohelle",
+    "coordinates": {
+      "lat": 50.4583,
+      "lng": 2.7942
+    },
+    "summary": "WWI: British forces attack at Loos and use poison gas for the first time. Initial gains cannot be exploited, and casualties are severe."
+  },
+  {
+    "id": "gallipoli-evacuation-1915-10",
+    "name": "Gallipoli Evacuation Begins",
+    "date": "December 1915",
+    "location": "Gallipoli Peninsula",
+    "coordinates": {
+      "lat": 40.2375,
+      "lng": 26.2775
+    },
+    "summary": "WWI: Allied commanders begin evacuating Gallipoli after months of failed attacks, disease, and supply problems. The withdrawal is one of the campaign's few well-executed operations."
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1978,
+    "date": "1978-03-11",
+    "title": "From Lebanese Civil War to Operation Litani",
+    "sub": "Connection and background to Operation Litani",
+    "view": {
+      "center": [
+        33.05,
+        35.25
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Coastal Road attack route",
+        "latlng": [
+          32.38,
+          34.87
+        ],
+        "type": "major",
+        "description": "The massacre on Israel's coastal highway made the threat from Lebanon feel immediate to Israeli civilians and leaders."
+      },
+      {
+        "label": "Southern Lebanon",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "target",
+        "description": "PLO bases in the south gave militants proximity to the Galilee and Israeli border communities."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Lebanese Civil War to Operation Litani",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Operation_Litani_V.jpg",
+        "cap": "Historical overview: From Lebanese Civil War to Operation Litani",
+        "body": "During Lebanon's civil war, the PLO used southern Lebanon to launch attacks against Israel. The Coastal Road massacre, in which Palestinian militants killed 38 Israeli civilians including 13 children, triggered a large Israeli response.\n\nIsrael sought to push armed groups away from its northern communities. Lebanon and the UN sought restoration of Lebanese sovereignty, while the PLO aimed to preserve its southern bases.\n\nThis background is essential to understanding Operation Litani: the conflict emerged from accumulated security failures, political choices, and unresolved disputes rather than from a single isolated incident. The recorded indicators, including March-June 1978 (key detail), help convey the episode's scale and the pressures facing decision-makers.",
+        "stats": [
+          {
+            "val": "March-June 1978",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "Israel sought to push armed groups away from its northern communities. Lebanon and the UN sought restoration of Lebanese sovereignty, while the PLO aimed to preserve its southern bases.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coastal-road-massacre",
+    "year": 1978,
+    "date": "1978-03-11",
+    "title": "Coastal Road Massacre",
+    "sub": "Part of Operation Litani",
+    "view": {
+      "center": [
+        32.39,
+        34.87
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Coastal Road",
+        "latlng": [
+          32.39,
+          34.87
+        ],
+        "type": "major",
+        "description": "Fatah gunmen attacked civilians traveling on Israel's coast, killing 38 Israelis including children."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Coastal Road Massacre",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%94%D7%A4%D7%99%D7%92%D7%95%D7%A2_%D7%91%D7%9B%D7%91%D7%99%D7%A9_%D7%94%D7%97%D7%95%D7%A3_1978.jpg",
+        "cap": "Historical overview: Coastal Road Massacre",
+        "body": "Fatah militants landed on Israel's coast, hijacked vehicles, and attacked civilians. Thirty-eight Israelis were killed, including thirteen children, making it one of Israel's deadliest terrorist attacks.\n\nThe Israeli dilemma was immediate and concrete: northern towns could not be left exposed to PLO raids launched from across an unstable border. The campaign was designed to push armed infrastructure away from Israel, while exposing how little authority the Lebanese state or UN forces could impose in the south.",
+        "stats": [
+          {
+            "val": "38 Israelis killed",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "invasion",
+    "year": 1978,
+    "date": "1978-03-14",
+    "title": "Israel Launches Operation Litani",
+    "sub": "Part of Operation Litani",
+    "view": {
+      "center": [
+        33.21,
+        35.43
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Israel-Lebanon border",
+        "latlng": [
+          33.11,
+          35.55
+        ],
+        "type": "target",
+        "description": "Israeli forces crossed north to push armed groups away from communities in the Galilee."
+      },
+      {
+        "label": "Litani River line",
+        "latlng": [
+          33.33,
+          35.33
+        ],
+        "type": "minor",
+        "description": "The river became the rough northern limit of the operation's security objective."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Israel Launches Operation Litani",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Operation_Litani_V.jpg",
+        "cap": "Historical overview: Israel Launches Operation Litani",
+        "body": "Israeli forces entered southern Lebanon to destroy PLO infrastructure and establish distance from the border. They advanced to the Litani River except around Tyre.\n\nThe Israeli dilemma was immediate and concrete: northern towns could not be left exposed to PLO raids launched from across an unstable border. The campaign was designed to push armed infrastructure away from Israel, while exposing how little authority the Lebanese state or UN forces could impose in the south.",
+        "stats": [
+          {
+            "val": "14 March 1978",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plo-withdraws-north",
+    "year": 1978,
+    "date": "1978-03-18",
+    "title": "PLO Forces Withdraw North",
+    "sub": "Part of Operation Litani",
+    "view": {
+      "center": [
+        33.34,
+        35.3
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Litani River",
+        "latlng": [
+          33.34,
+          35.3
+        ],
+        "type": "target",
+        "description": "Israeli pressure forced organized PLO units away from the border zone, though militants remained active elsewhere in Lebanon."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "PLO Forces Withdraw North",
+        "img": "https://www.idf.il/media/g2qf5sge/whatsapp-image-2017-10-30-at-133947.jpeg",
+        "cap": "Historical overview: PLO Forces Withdraw North",
+        "body": "Israeli pressure forced much of the PLO's organized presence north of the Litani, but fighters and weapons remained embedded in Lebanon's broader civil war.\n\nThe Israeli dilemma was immediate and concrete: northern towns could not be left exposed to PLO raids launched from across an unstable border. The campaign was designed to push armed infrastructure away from Israel, while exposing how little authority the Lebanese state or UN forces could impose in the south.",
+        "stats": [
+          {
+            "val": "March 1978",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "resolution-425",
+    "year": 1978,
+    "date": "1978-03-19",
+    "title": "Resolution 425 Creates UNIFIL",
+    "sub": "Part of Operation Litani",
+    "view": {
+      "center": [
+        33.28,
+        35.37
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "UNIFIL area",
+        "latlng": [
+          33.28,
+          35.37
+        ],
+        "type": "major",
+        "description": "UNIFIL was deployed to confirm withdrawal and help restore Lebanese authority, but its mandate left it limited against armed groups."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Resolution 425 Creates UNIFIL",
+        "img": "https://s.lorientlejour.com/storage/attachments/1465/HLPUNIFIL_817024.jpg/r/1200/HLPUNIFIL_817024.jpg",
+        "cap": "Historical overview: Resolution 425 Creates UNIFIL",
+        "body": "The UN Security Council called for Israeli withdrawal and created UNIFIL to confirm it, restore peace, and assist the Lebanese government in regaining authority.\n\nThe Israeli dilemma was immediate and concrete: northern towns could not be left exposed to PLO raids launched from across an unstable border. The campaign was designed to push armed infrastructure away from Israel, while exposing how little authority the Lebanese state or UN forces could impose in the south.",
+        "stats": [
+          {
+            "val": "19 March 1978",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "israeli-withdrawal",
+    "year": 1978,
+    "date": "1978-06-13",
+    "title": "Israeli Withdrawal",
+    "sub": "Part of Operation Litani",
+    "view": {
+      "center": [
+        33.2,
+        35.35
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Security handover zone",
+        "latlng": [
+          33.2,
+          35.35
+        ],
+        "type": "target",
+        "description": "Israel withdrew from most positions while relying on local allied forces because the border threat had not disappeared."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Israeli Withdrawal",
+        "img": "https://www.idf.il/media/s55becnl/whatsapp-image-2017-10-30-at-133947-1.jpeg?width=500&height=340.625",
+        "cap": "Historical overview: Israeli Withdrawal",
+        "body": "Israel withdrew while transferring positions to the allied South Lebanon Army rather than effective Lebanese state control. PLO attacks later resumed, leaving the core threat unresolved.\n\nThe Israeli dilemma was immediate and concrete: northern towns could not be left exposed to PLO raids launched from across an unstable border. The campaign was designed to push armed infrastructure away from Israel, while exposing how little authority the Lebanese state or UN forces could impose in the south.",
+        "stats": [
+          {
+            "val": "June 1978",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1978,
+    "date": "1978-06-13",
+    "title": "Conflict Summary: Operation Litani",
+    "sub": "Final summary of Operation Litani",
+    "view": {
+      "center": [
+        33.25,
+        35.38
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Southern Lebanon theater",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "major",
+        "description": "The operation pushed the PLO back temporarily, but the area remained the central arena of Israel's northern security problem."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Operation Litani",
+        "img": "https://i.guim.co.uk/img/media/598c1eea1edd89423114b16037d2ba2e6739f0f8/18_15_2097_1258/master/2097.jpg?width=445&dpr=1&s=none&crop=none",
+        "cap": "Historical overview: Conflict Summary: Operation Litani",
+        "body": "Operation Litani was a tactical Israeli success against PLO positions and followed a devastating terrorist attack, but it did not create durable border security. UNIFIL lacked the power to restore Lebanese sovereignty or prevent armed groups from rebuilding.\n\nTaken as a whole, Operation Litani shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Israeli withdrawal and UNIFIL deployment",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "Hundreds killed, including many Lebanese and Palestinian civilians",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Operation Litani was a tactical Israeli success against PLO positions and followed a devastating terrorist attack, but it did not create durable border security. UNIFIL lacked the power to restore Lebanese sovereignty or prevent armed groups from rebuilding.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

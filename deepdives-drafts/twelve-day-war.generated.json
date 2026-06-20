@@ -1,0 +1,320 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2025,
+    "date": "2025-06-13",
+    "title": "From Israel-Hamas War to Twelve-Day War",
+    "sub": "Connection and background to Twelve-Day War",
+    "view": {
+      "center": [
+        31.9,
+        34.9
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Israel",
+        "latlng": [
+          31.9,
+          34.9
+        ],
+        "type": "major",
+        "description": "Israel faced direct Iranian missile threats after years of proxy warfare."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Israel-Hamas War to Twelve-Day War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Pictures_of_the_Israeli_attack_on_Tehran_1_Mehr_(2).jpg",
+        "cap": "Historical overview: From Israel-Hamas War to Twelve-Day War",
+        "body": "The Gaza war expanded into a regional struggle with Iran's allied groups and direct Iran-Israel exchanges in 2024. Israel concluded that Iran's advancing nuclear program and missile arsenal required direct action rather than continued proxy containment.\n\nIsrael aimed to delay Iran's nuclear and ballistic-missile programs, remove senior military leadership, and demonstrate that distance would not protect threats to Israeli survival.\n\nThis background is essential to understanding Twelve-Day War: the conflict emerged from accumulated security failures, political choices, and unresolved disputes rather than from a single isolated incident. The recorded indicators, including Israel-Hamas War (previous conflict in this path) and 13-24 June 2025 (conflict period), help convey the episode's scale and the pressures facing decision-makers.",
+        "stats": [
+          {
+            "val": "Israel-Hamas War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "13-24 June 2025",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "Israel aimed to delay Iran's nuclear and ballistic-missile programs, remove senior military leadership, and demonstrate that distance would not protect threats to Israeli survival.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-rising-lion",
+    "year": 2025,
+    "date": "2025-06-13",
+    "title": "Operation Rising Lion",
+    "sub": "Part of Twelve-Day War",
+    "view": {
+      "center": [
+        35.6892,
+        51.389
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Tehran",
+        "latlng": [
+          35.6892,
+          51.389
+        ],
+        "type": "major",
+        "description": "Israeli strikes targeted Iranian command and strategic infrastructure."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Rising Lion",
+        "img": "https://www.gov.il/BlobFolder/news/operation-rising-lion-update/en/English_Swords_of_Iron_Operation-Rising-Lion-Logo.jpg",
+        "cap": "Historical overview: Operation Rising Lion",
+        "body": "Operation Rising Lion opened with Israeli strikes against Iranian nuclear, missile, and command targets. The operation reflected Israel's view that Iran's direct missile attacks and nuclear progress had crossed a threshold that could not be managed by proxy containment alone.\n\nThe campaign aimed to compress years of threat reduction into days: hit the systems that could threaten Israeli cities, disrupt command, and demonstrate that distance would not protect Iran's strategic infrastructure.",
+        "stats": [
+          {
+            "val": "13 Jun 2025",
+            "lbl": "War begins"
+          },
+          {
+            "val": "Surprise operation",
+            "lbl": "Israeli advantage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iranian-missile-retaliation",
+    "year": 2025,
+    "date": "2025-06-14",
+    "title": "Iranian Missile Retaliation",
+    "sub": "Part of Twelve-Day War",
+    "view": {
+      "center": [
+        32.0853,
+        34.7818
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Tel Aviv",
+        "latlng": [
+          32.0853,
+          34.7818
+        ],
+        "type": "major",
+        "description": "Iranian missiles targeted Israeli population centers."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Iranian Missile Retaliation",
+        "img": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-13T185611Z_1352841734_RC2T1FA0M0MK_RTRMADP_3_IRAN-NUCLEAR-ISRAEL-1024x683.jpg",
+        "cap": "Historical overview: Iranian Missile Retaliation",
+        "body": "Iran answered with direct missile salvos against Israel, testing air defenses and civilian resilience. The attack confirmed that the conflict had moved beyond shadow war into open state-to-state confrontation.\n\nFor Israel, the retaliation justified the original logic of the campaign: Iran was not only sponsoring proxies, it was willing to fire directly at Israeli territory. Defensive success mattered, but so did preventing future salvos from becoming routine.",
+        "stats": [
+          {
+            "val": "Ballistic missiles and drones",
+            "lbl": "Iranian response"
+          },
+          {
+            "val": "Israeli civilians killed",
+            "lbl": "Home-front cost"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "air-superiority",
+    "year": 2025,
+    "date": "2025-06-16",
+    "title": "Israeli Air Superiority Over Iran",
+    "sub": "Part of Twelve-Day War",
+    "view": {
+      "center": [
+        34.8,
+        48.5
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Western Iran",
+        "latlng": [
+          34.8,
+          48.5
+        ],
+        "type": "major",
+        "description": "Israel's air campaign reduced Iran's freedom of action over its own territory."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Israeli Air Superiority Over Iran",
+        "img": "https://cdn-ilelhjd.nitrocdn.com/sIjAVWUHBRvPrlJXCHdtYIrbbBOnQsGe/assets/images/optimized/rev-2f31f5b/www.longwarjournal.org/wp-content/uploads/2026/03/IDF-F-16s-1000-1024x681.jpg",
+        "cap": "Historical overview: Israeli Air Superiority Over Iran",
+        "body": "Israel's air campaign demonstrated the reach of its intelligence and air force over Iranian territory. Strikes against air defense, missile, and command targets reduced Iran's freedom of action and showed that Tehran could not rely on geography as a shield.\n\nAir superiority was important because it let Israel keep pressure on strategic targets while limiting the need for a wider ground or regional war. It also signaled to Iran's proxies that their patron was vulnerable at home.",
+        "stats": [
+          {
+            "val": "Long-range sorties",
+            "lbl": "Israeli air campaign"
+          },
+          {
+            "val": "Air defenses degraded",
+            "lbl": "Operational result"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "us-nuclear-strikes",
+    "year": 2025,
+    "date": "2025-06-22",
+    "title": "United States Strikes Nuclear Sites",
+    "sub": "Part of Twelve-Day War",
+    "view": {
+      "center": [
+        34.884,
+        50.995
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Fordow / nuclear sites",
+        "latlng": [
+          34.884,
+          50.995
+        ],
+        "type": "major",
+        "description": "US strikes added pressure on Iran's nuclear infrastructure."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "United States Strikes Nuclear Sites",
+        "img": "https://i.ytimg.com/vi/AYlvHXIxZuk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBWJL5lSmTYfNShlKKHPDRi8IAFzQ",
+        "cap": "Historical overview: United States Strikes Nuclear Sites",
+        "body": "US strikes against nuclear sites widened the campaign and emphasized that Iran's nuclear infrastructure was an international security concern, not only an Israeli one. The strikes added American weight to the effort to delay or damage Iran's nuclear path.\n\nFor Israel, US participation strengthened deterrence and reduced the chance that Iran could simply absorb Israeli attacks and rebuild quickly. It also made the ceasefire diplomacy that followed more credible.",
+        "stats": [
+          {
+            "val": "Fordow, Natanz, Isfahan",
+            "lbl": "Nuclear sites struck"
+          },
+          {
+            "val": "US enters war",
+            "lbl": "Strategic escalation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ceasefire",
+    "year": 2025,
+    "date": "2025-06-24",
+    "title": "Ceasefire",
+    "sub": "Part of Twelve-Day War",
+    "view": {
+      "center": [
+        32,
+        44
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Regional ceasefire track",
+        "latlng": [
+          32,
+          44
+        ],
+        "type": "major",
+        "description": "The ceasefire paused direct state-to-state fighting."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ceasefire",
+        "img": "https://infinitygalaxy.org/wp-content/uploads/2025/06/iran-israel-ceasefire-impact-on-oil-and-bitumen-markets.png",
+        "cap": "Historical overview: Ceasefire",
+        "body": "The ceasefire paused direct fighting after both sides absorbed major blows. Israel had demonstrated reach and damaged key Iranian systems, while Iran had shown it could still impose missile risk on Israeli civilians.\n\nThe truce was therefore tactical rather than final. The question became whether Iran would rebuild its missile and nuclear programs or accept a more constrained position.",
+        "stats": [
+          {
+            "val": "12 days",
+            "lbl": "War duration"
+          },
+          {
+            "val": "24 Jun 2025",
+            "lbl": "Ceasefire"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2025,
+    "date": "2025-06-24",
+    "title": "Conflict Summary: Twelve-Day War",
+    "sub": "Final summary of Twelve-Day War",
+    "view": {
+      "center": [
+        33.8,
+        43
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Iran-Israel theater",
+        "latlng": [
+          33.8,
+          43
+        ],
+        "type": "major",
+        "description": "The war moved the shadow conflict into direct confrontation."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Twelve-Day War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/132313_iran_war_-_accommodation_complex_PikiWiki_Israel.jpg",
+        "cap": "Historical overview: Conflict Summary: Twelve-Day War",
+        "body": "Israel demonstrated extraordinary intelligence reach and air power and, with the United States, seriously damaged Iran's nuclear and missile infrastructure. The campaign bought time rather than a permanent solution, and Iran rebuilt enough capability for war to return in 2026.\n\nTaken as a whole, Twelve-Day War shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Ceasefire after major damage to Iranian capabilities",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Civilian and military casualties in Iran and Israel; exact totals remain disputed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel demonstrated extraordinary intelligence reach and air power and, with the United States, seriously damaged Iran's nuclear and missile infrastructure. The campaign bought time rather than a permanent solution, and Iran rebuilt enough capability for war to return in 2026.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

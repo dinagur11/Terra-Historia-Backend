@@ -1,0 +1,112 @@
+[
+  {
+    "id": "british-broadcasting-company-1926-1",
+    "name": "British Broadcasting Company",
+    "date": "January 16 1926",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "A British Broadcasting Company radio play by Ronald Knox about workers' revolution in London causes a panic among those who have not heard the preliminary announcement that it is a satire on broadcasting. The British Broadcasting Company Limited (BBC) was the commercial forerunner to the public British Broadcasting Corporation and formed on 18 October 1922 by British and American electrical companies doing business in the United Kingdom."
+  },
+  {
+    "id": "john-logie-baird-1926-2",
+    "name": "John Logie Baird",
+    "date": "January 26 1926",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Scottish inventor John Logie Baird demonstrates a mechanical television system at his London laboratory for members of the Royal Institution and a reporter from The Times. John Logie Baird (; 13 August 1888 – 14 June 1946) was a Scottish inventor, electrical engineer and innovator who demonstrated the world's first mechanical television system on 26 January 1926."
+  },
+  {
+    "id": "lebanon-1926-3",
+    "name": "Lebanon",
+    "date": "May 23 1926",
+    "location": "Lebanon",
+    "coordinates": {
+      "lat": 33.83333333,
+      "lng": 35.83333333
+    },
+    "summary": "The first Lebanese constitution is established. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "rif-war-1926-4",
+    "name": "Rif War",
+    "date": "May 26 1926",
+    "location": "Morocco",
+    "coordinates": {
+      "lat": 34.0209,
+      "lng": -6.8416
+    },
+    "summary": "The Rif War ends, when Rif rebels surrender in Morocco. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "28-may-1926-coup-detat-1926-5",
+    "name": "28 May 1926 coup d'état",
+    "date": "May 28 1926",
+    "location": "Portugal",
+    "coordinates": {
+      "lat": 38.7223,
+      "lng": -9.1393
+    },
+    "summary": "The 1926 coup d'état, commanded by Manuel Gomes da Costa in Portugal, installs the Ditadura Nacional (National Dictatorship), followed by António de Oliveira Salazar's Estado Novo. The 28 May 1926 coup d'état, sometimes called 28 May Revolution or, during the period of the corporatist Estado Novo (English: New State), the National Revolution (Portuguese: Revolução Nacional), was a military coup of a nationalist origin, that put an end to the unstable Portuguese First Republic and initiated 48 years of corporatist and nationalist rule within Portugal."
+  },
+  {
+    "id": "in-mexico-the-entry-into-force-of-anticlerical-measures-stipulated-in--1926-6",
+    "name": "In Mexico, the entry into force of anticlerical measures stipulated in th...",
+    "date": "August 1 1926",
+    "location": "Mexico",
+    "coordinates": {
+      "lat": 19.4326,
+      "lng": -99.1332
+    },
+    "summary": "In Mexico, the entry into force of anticlerical measures stipulated in the Constitution of 1917 causes the Cristero War from August 3. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "gertrude-ederle-1926-7",
+    "name": "Gertrude Ederle",
+    "date": "August 6 1926",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "American Gertrude Ederle becomes the first woman to swim the English Channel, from France to England. Gertrude Caroline Ederle (; October 23, 1905 – November 30, 2003) was an American competition swimmer, Olympic champion, and world record-holder in five events. On August 6, 1926, she became the first woman to swim across the English Channel."
+  },
+  {
+    "id": "league-of-nations-1926-8",
+    "name": "League of Nations",
+    "date": "September 23 1926",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "The League of Nations Slavery Convention abolishes all types of slavery. The League of Nations (LN or LoN; French: Société des Nations [sɔsjete de nɑsjɔ̃], SdN) was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. It was founded on 10 January 1920 by the Paris Peace Conference that ended the First World War."
+  },
+  {
+    "id": "1926-lithuanian-coup-detat-1926-9",
+    "name": "1926 Lithuanian coup d'état",
+    "date": "December 17 1926",
+    "location": "Lithuania",
+    "coordinates": {
+      "lat": 54.6872,
+      "lng": 25.2797
+    },
+    "summary": "1926 Lithuanian coup d'état: A democratically elected government is overthrown in Lithuania; Antanas Smetona assumes power. The 1926 Lithuanian coup d'état (Lithuanian: 1926-ųjų perversmas) was a military coup d'état in Lithuania that replaced the democratically elected government with a authoritarian regime led by Antanas Smetona. The coup took place on 17 December 1926 and was largely organized by the military; Smetona's role remains the subject of debate."
+  },
+  {
+    "id": "muthulakshmi-reddi-1926-10",
+    "name": "Muthulakshmi Reddi",
+    "date": "December 23 1926",
+    "location": "Global",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "summary": "Muthulakshmi Reddi becomes the first woman to be appointed to a legislature in India, the Madras Legislative Council. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  }
+]

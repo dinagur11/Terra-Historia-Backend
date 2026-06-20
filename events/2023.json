@@ -1,0 +1,68 @@
+[
+  {
+    "id": "israel-hamas-2023",
+    "name": "Israel–Hamas War Begins",
+    "date": "October 7 2023",
+    "location": "Israel / Gaza",
+    "coordinates": {
+      "lat": 31.5,
+      "lng": 34.8
+    },
+    "summary": "A major conflict began after Hamas attacks on Israel."
+  },
+  {
+    "id": "titan-sub-2023",
+    "name": "Titan Submersible Disaster",
+    "date": "June 18 2023",
+    "location": "Atlantic Ocean",
+    "coordinates": {
+      "lat": 41.7325,
+      "lng": -49.9469
+    },
+    "summary": "A submersible imploded during a Titanic expedition."
+  },
+  {
+    "id": "ai-boom-2023",
+    "name": "AI Boom Accelerates",
+    "date": "2023",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "AI tools saw massive global adoption."
+  },
+  {
+    "id": "turkey-earthquake-2023",
+    "name": "Turkey–Syria Earthquake",
+    "date": "February 6 2023",
+    "location": "Turkey",
+    "coordinates": {
+      "lat": 37.0662,
+      "lng": 37.3833
+    },
+    "summary": "A devastating earthquake killed tens of thousands."
+  },
+  {
+    "id": "king-charles-2023",
+    "name": "King Charles III Coronation",
+    "date": "May 6 2023",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Charles III was crowned king."
+  },
+  {
+    "id": "india-moon-2023",
+    "name": "India Lands on the Moon",
+    "date": "August 23 2023",
+    "location": "Moon",
+    "coordinates": {
+      "lat": -69.3741,
+      "lng": 32.32
+    },
+    "summary": "India became the fourth country to land on the Moon."
+  }
+]

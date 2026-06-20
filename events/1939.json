@@ -1,0 +1,112 @@
+[
+  {
+    "id": "occupation-of-czechoslovakia-1939-1",
+    "name": "Germany Occupies Bohemia and Moravia",
+    "date": "March 15 1939",
+    "location": "Prague",
+    "coordinates": {
+      "lat": 50.0755,
+      "lng": 14.4378
+    },
+    "summary": "WWII prelude: German troops occupy the Czech lands, proving Hitler's ambitions go beyond revising Versailles."
+  },
+  {
+    "id": "italy-invades-albania-1939-2",
+    "name": "Italy Invades Albania",
+    "date": "April 7 1939",
+    "location": "Tirana",
+    "coordinates": {
+      "lat": 41.3275,
+      "lng": 19.8189
+    },
+    "summary": "WWII prelude: Fascist Italy invades and occupies Albania, expanding Axis control in the Balkans."
+  },
+  {
+    "id": "pact-of-steel-1939-3",
+    "name": "Pact of Steel",
+    "date": "May 22 1939",
+    "location": "Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "WWII prelude: Germany and Italy sign a military alliance, tightening the Axis partnership before the European war."
+  },
+  {
+    "id": "molotov-ribbentrop-pact-1939-4",
+    "name": "Molotov-Ribbentrop Pact",
+    "date": "August 23 1939",
+    "location": "Moscow",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "WWII: Nazi Germany and the Soviet Union sign a non-aggression pact with secret protocols dividing Eastern Europe into spheres of influence."
+  },
+  {
+    "id": "invasion-of-poland-1939-5",
+    "name": "Germany Invades Poland",
+    "date": "September 1 1939",
+    "location": "Westerplatte",
+    "coordinates": {
+      "lat": 54.406,
+      "lng": 18.671
+    },
+    "summary": "WWII: Germany invades Poland, using airpower, armor, and rapid encirclement to begin the war in Europe."
+  },
+  {
+    "id": "britain-france-declare-war-1939-6",
+    "name": "Britain and France Declare War",
+    "date": "September 3 1939",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "WWII: Britain and France declare war on Germany after the invasion of Poland."
+  },
+  {
+    "id": "soviet-invasion-poland-1939-7",
+    "name": "Soviet Invasion of Poland",
+    "date": "September 17 1939",
+    "location": "Eastern Poland",
+    "coordinates": {
+      "lat": 52.1,
+      "lng": 23.7
+    },
+    "summary": "WWII: The Soviet Union invades eastern Poland under the secret terms of the Molotov-Ribbentrop Pact."
+  },
+  {
+    "id": "warsaw-surrenders-1939-8",
+    "name": "Warsaw Surrenders",
+    "date": "September 27 1939",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "WWII: Warsaw surrenders after siege and bombing, marking the collapse of organized Polish resistance in the capital."
+  },
+  {
+    "id": "winter-war-begins-1939-9",
+    "name": "Winter War Begins",
+    "date": "November 30 1939",
+    "location": "Karelian Isthmus",
+    "coordinates": {
+      "lat": 60.5,
+      "lng": 30
+    },
+    "summary": "WWII: The Soviet Union invades Finland after failed territorial negotiations, opening the Winter War."
+  },
+  {
+    "id": "ussr-expelled-league-1939-10",
+    "name": "USSR Expelled from League of Nations",
+    "date": "December 14 1939",
+    "location": "Geneva",
+    "coordinates": {
+      "lat": 46.2044,
+      "lng": 6.1432
+    },
+    "summary": "WWII / Winter War: The League of Nations expels the Soviet Union for attacking Finland."
+  }
+]

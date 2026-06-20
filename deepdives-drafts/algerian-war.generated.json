@@ -1,0 +1,453 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1954,
+    "date": "1954-11-01",
+    "title": "From World War II to Algerian War",
+    "sub": "Connection and background to Algerian War",
+    "view": {
+      "center": [
+        36.1269,
+        4.6294
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Sétif",
+        "latlng": [
+          36.1911,
+          5.4137
+        ],
+        "type": "major",
+        "description": "The 1945 demonstrations and massacres convinced many nationalists that reform under French rule had failed."
+      },
+      {
+        "label": "Algiers",
+        "latlng": [
+          36.7538,
+          3.0588
+        ],
+        "type": "target",
+        "description": "The colonial capital concentrated political authority, settler power, and later urban insurgency."
+      },
+      {
+        "label": "Aurès Mountains",
+        "latlng": [
+          35.5,
+          6.2
+        ],
+        "type": "major",
+        "description": "The mountainous Aurès became an early FLN stronghold."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From World War II to Algerian War",
+        "img": "https://media.jacobin.com/images/2021/4/863884122787.jpg",
+        "cap": "Visual reference for From World War II to Algerian War.",
+        "body": "France had conquered Algeria in the nineteenth century and treated it legally as part of France, but political rights, landholding, education, and economic power remained deeply unequal. Algerian service in two world wars raised expectations that sacrifice would bring reform. Instead, the suppression of nationalist demonstrations around Sétif and Guelma in May 1945 killed thousands and convinced a new generation that peaceful integration had failed. By 1954, the FLN was preparing armed revolt against a colonial system defended by the French state and roughly one million European settlers.",
+        "stats": [
+          {
+            "val": "World War II",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "1954-1962",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "The FLN fought to end French colonial rule; France initially fought to retain Algeria, which it legally treated as part of France and where about one million European settlers lived.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toussaint-rouge",
+    "year": 1954,
+    "date": "1954-11-01",
+    "title": "Toussaint Rouge",
+    "sub": "Part of Algerian War",
+    "view": {
+      "center": [
+        36.025,
+        5.35
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Aurès Mountains",
+        "latlng": [
+          35.5,
+          6.2
+        ],
+        "type": "target",
+        "description": "The largest concentration of coordinated FLN attacks occurred in the Aurès region."
+      },
+      {
+        "label": "Batna",
+        "latlng": [
+          35.5559,
+          6.1741
+        ],
+        "type": "major",
+        "description": "Attacks around Batna announced the opening of nationwide armed revolt."
+      },
+      {
+        "label": "Kabylie",
+        "latlng": [
+          36.55,
+          4.5
+        ],
+        "type": "major",
+        "description": "Kabylie became another major zone of insurgent organization and French counterinsurgency."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Toussaint Rouge",
+        "img": "https://barteredhistory.wordpress.com/wp-content/uploads/2016/03/judaicalgeria-bloody-all-saints-day.jpg",
+        "cap": "Visual reference for Toussaint Rouge.",
+        "body": "Toussaint Rouge means 'Red All Saints' or 'Bloody All Saints,' referring to the attacks launched on 1 November 1954, the Catholic feast of All Saints' Day. The newly formed FLN struck police posts, military sites, communications, and settler targets across Algeria while issuing a declaration for national independence. The operation was militarily limited, but it announced a unified revolutionary organization and the beginning of an eight-year war.",
+        "stats": [
+          {
+            "val": "1 Nov 1954",
+            "lbl": "War begins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "philippeville",
+    "year": 1955,
+    "date": "1955-08-20",
+    "title": "Philippeville Offensive and Reprisals",
+    "sub": "Part of Algerian War",
+    "view": {
+      "center": [
+        36.8831,
+        6.9796
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Philippeville / Skikda",
+        "latlng": [
+          36.8762,
+          6.9092
+        ],
+        "type": "target",
+        "description": "FLN attacks in and around Philippeville killed settlers and Muslim civilians."
+      },
+      {
+        "label": "El Halia",
+        "latlng": [
+          36.89,
+          7.05
+        ],
+        "type": "major",
+        "description": "The massacre at the mining settlement was followed by massive French reprisals across the region."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Philippeville Offensive and Reprisals",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/National_Liberation_Army_Soldiers_%287%29.jpg/1920px-National_Liberation_Army_Soldiers_%287%29.jpg",
+        "cap": "Visual reference for Philippeville Offensive and Reprisals.",
+        "body": "The FLN offensive around Philippeville attacked military targets, settler communities, and Muslims accused of cooperation. French forces, police, settlers, and local auxiliaries answered with reprisals that killed far more people than the initial attacks. The cycle destroyed remaining space for political moderation, expanded Muslim support for the rebellion, and pushed France toward a much larger counterinsurgency war.",
+        "stats": [
+          {
+            "val": "20 Aug 1955",
+            "lbl": "Escalation into broader war"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-algiers",
+    "year": 1956,
+    "date": "1956-09-30",
+    "title": "Battle of Algiers",
+    "sub": "Part of Algerian War",
+    "view": {
+      "center": [
+        36.764,
+        3.055
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Casbah",
+        "latlng": [
+          36.786,
+          3.06
+        ],
+        "type": "target",
+        "description": "The FLN's urban network operated from the dense Casbah while French forces imposed systematic searches and arrests."
+      },
+      {
+        "label": "European quarter",
+        "latlng": [
+          36.765,
+          3.055
+        ],
+        "type": "major",
+        "description": "Bombings targeted cafés and public places in the European city."
+      },
+      {
+        "label": "Villa Susini",
+        "latlng": [
+          36.742,
+          3.05
+        ],
+        "type": "major",
+        "description": "French forces used detention and torture sites to dismantle the FLN network."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Algiers",
+        "img": "https://bamlive.s3.amazonaws.com/styles/program_slide/s3/1200_Pontecorvo_Battle-of-Algiers_017.jpg?itok=58Phx4LG",
+        "cap": "Visual reference for Battle of Algiers.",
+        "body": "The FLN brought the war into Algiers through assassinations, strikes, and bombs placed in civilian venues. French paratroopers dismantled much of the urban network through checkpoints, intelligence penetration, mass detention, disappearances, and systematic torture. France won the immediate security contest, but evidence of torture and extrajudicial violence damaged its legitimacy at home and abroad.",
+        "stats": [
+          {
+            "val": "1956-1957",
+            "lbl": "Urban counterinsurgency campaign"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1958-crisis",
+    "year": 1958,
+    "date": "1958-05-13",
+    "title": "May 1958 Crisis",
+    "sub": "Part of Algerian War",
+    "view": {
+      "center": [
+        42.8148,
+        2.7056
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Government-General, Algiers",
+        "latlng": [
+          36.773,
+          3.059
+        ],
+        "type": "target",
+        "description": "Settlers and officers seized the political initiative and demanded de Gaulle's return."
+      },
+      {
+        "label": "Paris",
+        "latlng": [
+          48.8566,
+          2.3522
+        ],
+        "type": "major",
+        "description": "The Algerian crisis collapsed the Fourth Republic and created the Fifth Republic."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "May 1958 Crisis",
+        "img": "https://historydraft.com/files/9419655d-f16a-40fd-a7f6-c1a9db3da1eb",
+        "cap": "Visual reference for May 1958 Crisis.",
+        "body": "French settlers, sympathetic officers, and army units in Algiers created a Committee of Public Safety and demanded a government committed to keeping Algeria French. The threat of military intervention in metropolitan France helped collapse the Fourth Republic and return Charles de Gaulle to power. A colonial war had become a constitutional crisis inside France itself.",
+        "stats": [
+          {
+            "val": "13 May 1958",
+            "lbl": "French political crisis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "self-determination",
+    "year": 1959,
+    "date": "1959-09-16",
+    "title": "De Gaulle Accepts Self-Determination",
+    "sub": "Part of Algerian War",
+    "view": {
+      "center": [
+        42.8052,
+        2.7055
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Paris",
+        "latlng": [
+          48.8566,
+          2.3522
+        ],
+        "type": "target",
+        "description": "De Gaulle publicly accepted Algerian self-determination from the French presidency."
+      },
+      {
+        "label": "Algiers",
+        "latlng": [
+          36.7538,
+          3.0588
+        ],
+        "type": "major",
+        "description": "The policy shift intensified resistance among hardline settlers and parts of the army."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "De Gaulle Accepts Self-Determination",
+        "img": "https://cdn.theatlantic.com/thumbor/Z3C9ngpjxYOZU_uanEIl5v-Mq-4=/144x27:1778x1252/1200x900/media/img/2015/11/charles_de_gaulle/original.jpg",
+        "cap": "Visual reference for De Gaulle Accepts Self-Determination.",
+        "body": "De Gaulle's September 1959 acceptance of Algerian self-determination marked a strategic break with the settler demand for permanent French Algeria. He concluded that military superiority could not produce a sustainable political settlement. The shift opened a path to negotiations but also provoked mutiny, coup attempts, and OAS terrorism from hardliners who believed France was abandoning them.",
+        "stats": [
+          {
+            "val": "16 Sep 1959",
+            "lbl": "Strategic policy reversal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "evian-accords",
+    "year": 1962,
+    "date": "1962-03-18",
+    "title": "Evian Accords",
+    "sub": "Part of Algerian War",
+    "view": {
+      "center": [
+        46.401,
+        6.59
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Évian-les-Bains",
+        "latlng": [
+          46.401,
+          6.59
+        ],
+        "type": "target",
+        "description": "French and Algerian representatives negotiated the ceasefire and transition to independence."
+      },
+      {
+        "label": "Algiers",
+        "latlng": [
+          36.7538,
+          3.0588
+        ],
+        "type": "major",
+        "description": "The ceasefire was followed by OAS violence, population flight, and independence."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Evian Accords",
+        "img": "https://www.actuailes.fr/kcfinder/upload/images/france%20evian.jpeg",
+        "cap": "Visual reference for Evian Accords.",
+        "body": "French and Algerian representatives signed the Évian Accords on 18 March 1962 after difficult negotiations over sovereignty, oil, military bases, minority guarantees, and the ceasefire. Formal fighting ended the next day, but OAS terrorism, FLN reprisals, the killing and abandonment of Harkis, and the mass departure of European settlers continued. Independence arrived through agreement, but not through an orderly or bloodless transition.",
+        "stats": [
+          {
+            "val": "18 Mar 1962",
+            "lbl": "Accords signed"
+          },
+          {
+            "val": "5 Jul 1962",
+            "lbl": "Algerian independence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1962,
+    "date": "1962-07-05",
+    "title": "Conflict Summary: Algerian War",
+    "sub": "Final summary of Algerian War",
+    "view": {
+      "center": [
+        40.9505,
+        4.8244
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Algiers",
+        "latlng": [
+          36.7538,
+          3.0588
+        ],
+        "type": "target",
+        "description": "Algiers represents colonial rule, urban insurgency, torture, settler politics, and the final transfer of power."
+      },
+      {
+        "label": "Aurès Mountains",
+        "latlng": [
+          35.5,
+          6.2
+        ],
+        "type": "major",
+        "description": "The war began and persisted through rural guerrilla zones such as the Aurès."
+      },
+      {
+        "label": "Évian-les-Bains",
+        "latlng": [
+          46.401,
+          6.59
+        ],
+        "type": "minor",
+        "description": "The accords ended formal hostilities and opened the path to Algerian independence."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Algerian War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Politieke_moeilijkheden_in_Parijs%2C_Bestanddeelnr_909-5929.jpg/1280px-Politieke_moeilijkheden_in_Parijs%2C_Bestanddeelnr_909-5929.jpg",
+        "cap": "Visual reference for Conflict Summary: Algerian War.",
+        "body": "Algeria achieved independence after a war defined by guerrilla fighting, terrorism, torture, reprisals, detention, and internal violence. The conflict ended French colonial rule, brought down the Fourth Republic, and caused the flight of most European settlers and many Harkis. Casualty estimates remain politically contested: many historians place Algerian deaths around 300,000-500,000, while official Algerian memory claims a substantially higher total; about 25,000 French military personnel were killed, alongside thousands of European civilians and pro-French Algerians.",
+        "stats": [
+          {
+            "val": "Algerian independence and FLN victory",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "Estimated 300,000-500,000 Algerian deaths and about 25,000 French military deaths; totals remain disputed",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Algeria achieved independence after a war defined by guerrilla fighting, terrorism, torture, reprisals, detention, and internal violence. The conflict ended French colonial rule, brought down the Fourth Republic, and caused the flight of most European settlers and many Harkis. Casualty estimates remain politically contested: many historians place Algerian deaths around 300,000-500,000, while official Algerian memory claims a substantially higher total; about 25,000 French military personnel were killed, alongside thousands of European civilians and pro-French Algerians.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

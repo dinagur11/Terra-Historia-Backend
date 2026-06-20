@@ -7,40 +7,50 @@
     "sub": "Part of Iran–Iraq War",
     "view": {
       "center": [
-        30.433333333,
-        48.166666666
+        30.44,
+        48.17
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Battle of Khorramshahr",
+        "label": "Khorramshahr",
         "latlng": [
-          30.433333333,
-          48.166666666
+          30.44,
+          48.17
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The city became the war's first major urban battlefield and slowed Iraq's opening offensive."
+      },
+      {
+        "label": "Shatt al-Arab",
+        "latlng": [
+          30.5,
+          48.1
+        ],
+        "type": "major",
+        "description": "Control of this waterway was a central cause and prize of the war."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "From Yom Kippur War to Iran-Iraq War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Egyptianbridge.jpg",
-        "cap": "Historical connection: Changing Middle Eastern power balance",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Battle_of_khorramshahr_2.jpg",
+        "cap": "Street fighting during the Battle of Khorramshahr",
         "body": "The Yom Kippur War and its aftermath reshaped the Middle Eastern balance of power. Egypt moved toward peace with Israel, oil became a strategic weapon, and regional competition intensified. After Iran's 1979 revolution, Iraq tried to exploit its neighbor's instability and assert leadership by invading Iran.",
         "stats": [
           {
-            "val": "Yom Kippur War",
-            "lbl": "Previous conflict in this path"
+            "val": "Previous conflict in this path",
+            "lbl": "Yom Kippur War"
           },
           {
-            "val": "Regional conflict chain",
-            "lbl": "Changing Middle Eastern power balance"
+            "val": "Changing Middle Eastern power balance",
+            "lbl": "Regional conflict chain"
           },
           {
-            "val": "Iran-Iraq War",
-            "lbl": "The next conflict to explore"
+            "val": "The next conflict to explore",
+            "lbl": "Iran-Iraq War"
           },
           {
             "val": "Why they connect",
@@ -52,8 +62,8 @@
       {
         "title": "Battle of Khorramshahr",
         "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Battle_of_khorramshahr_2.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Khorramshahr_(1980)",
-        "body": "Khorramshahr became the war's first great urban nightmare. Iraqi forces expected a quick seizure after invading Iran, but Revolutionary Guards, regular troops, police, and local volunteers fought street by street. The city's nickname, Khuninshahr or City of Blood, captured the scale of the fighting. The battle slowed Iraq's offensive and gave Iran a symbol of resistance even before it could organize a full counteroffensive.\n\nWhy It Matters: It shattered Iraq's hope for a quick victory and gave Iran a martyr-city narrative that helped mobilize the country for a long war. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
+        "cap": "Street fighting during the Battle of Khorramshahr",
+        "body": "Khorramshahr became the war's first great urban nightmare. Iraqi forces expected a quick seizure after invading Iran, but Revolutionary Guards, regular troops, police, and local volunteers fought street by street. The city's nickname, Khuninshahr or City of Blood, captured the scale of the fighting. The battle slowed Iraq's offensive and gave Iran a symbol of resistance even before it could organize a full counteroffensive.\n\nIt shattered Iraq's hope for a quick victory and gave Iran a martyr-city narrative that helped mobilize the country for a long war. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
         "stats": [
           {
             "val": "34 days",
@@ -68,13 +78,14 @@
             "lbl": "Key Shatt al-Arab objective"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It shattered Iraq's hope for a quick victory and gave Iran a martyr-city narrative that helped mobilize the country for a long war.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "siege-of-abadan",
@@ -84,28 +95,38 @@
     "sub": "Part of Iran–Iraq War",
     "view": {
       "center": [
-        30.333333333,
-        48.283333333
+        30.35,
+        48.3
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Siege of Abadan",
+        "label": "Abadan",
         "latlng": [
-          30.333333333,
-          48.283333333
+          30.35,
+          48.3
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Iraqi forces besieged the oil city but failed to capture it."
+      },
+      {
+        "label": "Abadan refinery",
+        "latlng": [
+          30.36,
+          48.28
+        ],
+        "type": "major",
+        "description": "The refinery made the city strategically vital."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Siege of Abadan",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Images_of_Operation_Samen-ol-A%27emeh_%2801%29.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Images_of_Operation_Samen-ol-A'emeh_(01).jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Siege_of_Abadan",
-        "body": "Abadan mattered because of oil, geography, and morale. Iraqi forces tried to isolate the refinery city on the island near the Shatt al-Arab, but Iranian defenders kept supply lines alive under bombardment. The siege tied down Iraqi troops and turned the refinery complex into a defensive symbol. Breaking the siege later proved Iran could move from desperate defense to coordinated offensive action.\n\nWhy It Matters: The siege protected a vital oil center and set up one of Iran's first major operational successes of the war. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
+        "body": "Abadan mattered because of oil, geography, and morale. Iraqi forces tried to isolate the refinery city on the island near the Shatt al-Arab, but Iranian defenders kept supply lines alive under bombardment. The siege tied down Iraqi troops and turned the refinery complex into a defensive symbol. Breaking the siege later proved Iran could move from desperate defense to coordinated offensive action.\n\nThe siege protected a vital oil center and set up one of Iran's first major operational successes of the war. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
         "stats": [
           {
             "val": "~1 year",
@@ -120,13 +141,14 @@
             "lbl": "Critical waterway"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "The siege protected a vital oil center and set up one of Iran's first major operational successes of the war.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "attack-on-h3",
@@ -136,28 +158,65 @@
     "sub": "Part of Iran–Iraq War",
     "view": {
       "center": [
-        32.930461,
-        39.744417
+        32.93,
+        39.68
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Attack on H3",
+        "label": "H3 airbase complex",
         "latlng": [
-          32.930461,
-          39.744417
+          32.93,
+          39.68
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Iranian aircraft struck Iraq's remote western airbase complex in a long-range raid."
+      },
+      {
+        "label": "Western Iraq route",
+        "latlng": [
+          33.1,
+          40.3
+        ],
+        "type": "major",
+        "description": "The distance and route made the raid one of the war's most daring air operations."
       }
     ],
-    "regions": [],
+    "regions": [
+      {
+        "coordinates": [
+          [
+            39.35,
+            33.12
+          ],
+          [
+            39.98,
+            33.12
+          ],
+          [
+            39.98,
+            32.72
+          ],
+          [
+            39.35,
+            32.72
+          ],
+          [
+            39.35,
+            33.12
+          ]
+        ],
+        "color": "#c94f4f",
+        "opacity": 0.28
+      }
+    ],
     "slides": [
       {
         "title": "Attack on H3",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Operation_H3_map.png",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation_H3_map.png",
         "cap": "Source: https://en.wikipedia.org/wiki/H-3_airstrike",
-        "body": "The H-3 airstrike was one of the most daring air raids of the war. Iranian aircraft flew a long, risky route to hit Iraqi air bases in western Iraq, near the Jordanian border, where Baghdad believed aircraft were relatively safe. The raid destroyed dozens of Iraqi aircraft on the ground and showed that Iran's air force, despite revolution and sanctions, could still plan complex long-range operations.\n\nWhy It Matters: It embarrassed Iraq, boosted Iranian morale, and became one of the most admired long-range strike operations in modern air-war history. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
+        "body": "The H-3 airstrike was one of the most daring air raids of the war. Iranian aircraft flew a long, risky route to hit Iraqi air bases in western Iraq, near the Jordanian border, where Baghdad believed aircraft were relatively safe. The raid destroyed dozens of Iraqi aircraft on the ground and showed that Iran's air force, despite revolution and sanctions, could still plan complex long-range operations.\n\nIt embarrassed Iraq, boosted Iranian morale, and became one of the most admired long-range strike operations in modern air-war history. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
         "stats": [
           {
             "val": "4 Apr 1981",
@@ -172,13 +231,14 @@
             "lbl": "Iranian aircraft returned"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It embarrassed Iraq, boosted Iranian morale, and became one of the most admired long-range strike operations in modern air-war history.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "liberation-of-khorramshahr",
@@ -188,28 +248,38 @@
     "sub": "Part of Iran–Iraq War",
     "view": {
       "center": [
-        30.434,
-        48.178
+        30.44,
+        48.17
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Liberation of Khorramshahr",
+        "label": "Khorramshahr recaptured",
         "latlng": [
-          30.434,
-          48.178
+          30.44,
+          48.17
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Iran retook the city in May 1982, creating a major national turning point."
+      },
+      {
+        "label": "Iraqi retreat line",
+        "latlng": [
+          30.6,
+          47.9
+        ],
+        "type": "major",
+        "description": "The defeat forced Iraq back and raised the question of whether Iran would cross the border."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Liberation of Khorramshahr",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Khorramshahr_POWs_crop.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Khorramshahr_POWs_crop.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Khorramshahr_(1982)",
-        "body": "Iran recaptured Khorramshahr in Operation Beit ol-Moqaddas, reversing one of Iraq's most important early gains. The victory produced huge numbers of Iraqi prisoners and triggered national celebrations in Iran. Strategically, it created the central question of the war: whether Iran should stop after expelling Iraq or push across the border to punish Saddam Hussein and force regime-level concessions.\n\nWhy It Matters: The liberation was the war's emotional turning point for Iran, but it also opened the road to escalation inside Iraq. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
+        "body": "Iran recaptured Khorramshahr in Operation Beit ol-Moqaddas, reversing one of Iraq's most important early gains. The victory produced huge numbers of Iraqi prisoners and triggered national celebrations in Iran. Strategically, it created the central question of the war: whether Iran should stop after expelling Iraq or push across the border to punish Saddam Hussein and force regime-level concessions.\n\nThe liberation was the war's emotional turning point for Iran, but it also opened the road to escalation inside Iraq. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
         "stats": [
           {
             "val": "24 May 1982",
@@ -224,13 +294,14 @@
             "lbl": "Iranian offensive"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "The liberation was the war's emotional turning point for Iran, but it also opened the road to escalation inside Iraq.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "operation-ramadan",
@@ -240,19 +311,38 @@
     "sub": "Part of Iran–Iraq War",
     "view": {
       "center": [
-        50,
-        15
+        30.55,
+        47.78
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Basra front",
+        "latlng": [
+          30.55,
+          47.78
+        ],
+        "type": "target",
+        "description": "Iran's first major offensive into Iraq aimed toward Basra and met prepared defenses."
+      },
+      {
+        "label": "Iran-Iraq border",
+        "latlng": [
+          30.5,
+          48
+        ],
+        "type": "major",
+        "description": "The crossing marked the war's shift from liberation to attrition."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Ramadan",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Operation_Ramadan%2C_Map.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Ramadan",
-        "body": "Operation Ramadan was Iran's first major invasion toward Basra after retaking Khorramshahr. Iranian commanders hoped mass infantry assaults could crack Iraqi defenses, but Iraq had prepared minefields, artillery zones, armor reserves, and defensive belts. The offensive became a bloody lesson in the cost of attacking fortified positions and marked the transition from liberation war to attritional war.\n\nWhy It Matters: It showed that crossing into Iraq would be far harder than expelling Iraqi forces from Iran and helped lock both sides into years of attrition. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Trench_warfare_during_Operation_Ramadan%2C_1982.jpg",
+        "cap": "Trench warfare during Operation Ramadan, 1982",
+        "body": "Operation Ramadan was Iran's first major invasion toward Basra after retaking Khorramshahr. Iranian commanders hoped mass infantry assaults could crack Iraqi defenses, but Iraq had prepared minefields, artillery zones, armor reserves, and defensive belts. The offensive became a bloody lesson in the cost of attacking fortified positions and marked the transition from liberation war to attritional war.\n\nIt showed that crossing into Iraq would be far harder than expelling Iraqi forces from Iran and helped lock both sides into years of attrition. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
         "stats": [
           {
             "val": "July 1982",
@@ -267,13 +357,14 @@
             "lbl": "Major fighting span"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It showed that crossing into Iraq would be far harder than expelling Iraqi forces from Iran and helped lock both sides into years of attrition.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "tankers-war",
@@ -283,19 +374,38 @@
     "sub": "Part of Iran–Iraq War",
     "view": {
       "center": [
-        50,
-        15
+        26.6,
+        56.25
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Strait of Hormuz",
+        "latlng": [
+          26.6,
+          56.25
+        ],
+        "type": "target",
+        "description": "Attacks on shipping threatened the global oil chokepoint."
+      },
+      {
+        "label": "Persian Gulf shipping lanes",
+        "latlng": [
+          27.2,
+          52.5
+        ],
+        "type": "major",
+        "description": "Tankers became targets as the war spread from land fronts to energy routes."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Tankers War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Small_Boats_of_Iran_in_Taker_war_3.JPG",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Small_Boats_of_Iran_in_Taker_war_3.JPG",
         "cap": "Source: https://en.wikipedia.org/wiki/Tanker_war",
-        "body": "The Tanker War moved the Iran-Iraq War onto the world's oil routes. Iraq and Iran attacked merchant shipping, tankers, terminals, and Gulf infrastructure to pressure each other economically. The campaign drew Kuwait, the United States, France, and other powers into convoy protection and naval patrols. What began as a land war became a maritime security crisis watched by every government dependent on Gulf oil.\n\nWhy It Matters: It internationalized the war by threatening oil traffic and forced outside navies, especially the U.S. Navy, into daily operational contact with the conflict. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
+        "body": "The Tanker War moved the Iran-Iraq War onto the world's oil routes. Iraq and Iran attacked merchant shipping, tankers, terminals, and Gulf infrastructure to pressure each other economically. The campaign drew Kuwait, the United States, France, and other powers into convoy protection and naval patrols. What began as a land war became a maritime security crisis watched by every government dependent on Gulf oil.\n\nIt internationalized the war by threatening oil traffic and forced outside navies, especially the U.S. Navy, into daily operational contact with the conflict. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
         "stats": [
           {
             "val": "1984-1988",
@@ -310,13 +420,14 @@
             "lbl": "Global oil chokepoint"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It internationalized the war by threatening oil traffic and forced outside navies, especially the U.S. Navy, into daily operational contact with the conflict.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "operation-earnest-will",
@@ -326,19 +437,38 @@
     "sub": "Part of Iran–Iraq War",
     "view": {
       "center": [
-        50,
-        15
+        27.5,
+        51.5
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Reflagged tanker route",
+        "latlng": [
+          27.5,
+          51.5
+        ],
+        "type": "target",
+        "description": "The U.S. Navy escorted Kuwaiti tankers through the Gulf under Operation Earnest Will."
+      },
+      {
+        "label": "Kuwait",
+        "latlng": [
+          29.38,
+          47.98
+        ],
+        "type": "major",
+        "description": "Kuwait's request for protection drew the United States deeper into the Gulf conflict."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Earnest Will",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/EarnestWillNicholas.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/EarnestWillNicholas.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Operation_Earnest_Will",
-        "body": "Operation Earnest Will was the U.S. decision to reflag and escort Kuwaiti tankers through the Gulf. American warships now operated inside the war zone, facing mines, missiles, small boats, and the risk of miscalculation. The operation protected shipping, but it also brought the United States into direct clashes with Iranian forces and made Gulf naval warfare a central part of the late war.\n\nWhy It Matters: It marked the largest U.S. naval convoy effort since World War II and made American power a visible factor in ending the Gulf shipping crisis. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
+        "body": "Operation Earnest Will was the U.S. decision to reflag and escort Kuwaiti tankers through the Gulf. American warships now operated inside the war zone, facing mines, missiles, small boats, and the risk of miscalculation. The operation protected shipping, but it also brought the United States into direct clashes with Iranian forces and made Gulf naval warfare a central part of the late war.\n\nIt marked the largest U.S. naval convoy effort since World War II and made American power a visible factor in ending the Gulf shipping crisis. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
         "stats": [
           {
             "val": "1987-1988",
@@ -353,13 +483,14 @@
             "lbl": "U.S. naval convoy scale"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It marked the largest U.S. naval convoy effort since World War II and made American power a visible factor in ending the Gulf shipping crisis.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "operation-praying-mantis",
@@ -369,19 +500,38 @@
     "sub": "Part of Iran–Iraq War",
     "view": {
       "center": [
-        50,
-        15
+        25.9,
+        53.1
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Central Persian Gulf",
+        "latlng": [
+          25.9,
+          53.1
+        ],
+        "type": "target",
+        "description": "U.S. forces struck Iranian naval targets after the USS Samuel B. Roberts hit a mine."
+      },
+      {
+        "label": "Iranian oil platforms",
+        "latlng": [
+          26.1,
+          52.8
+        ],
+        "type": "major",
+        "description": "Oil platforms and naval assets became targets in the U.S.-Iran escalation."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Praying Mantis",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/OperationPrayingMantis-IS_Alvand.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/OperationPrayingMantis-IS_Alvand.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Operation_Praying_Mantis",
-        "body": "Operation Praying Mantis was the U.S. Navy's major retaliation after the USS Samuel B. Roberts struck an Iranian mine. American forces attacked Iranian oil platforms and naval units, sinking or damaging several ships. It was one of the largest U.S. surface naval actions since World War II and demonstrated that mining and harassment in the Gulf could bring devastating consequences.\n\nWhy It Matters: The operation weakened Iran's naval position and showed how close the late Iran-Iraq War came to a direct U.S.-Iran naval war. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
+        "body": "Operation Praying Mantis was the U.S. Navy's major retaliation after the USS Samuel B. Roberts struck an Iranian mine. American forces attacked Iranian oil platforms and naval units, sinking or damaging several ships. It was one of the largest U.S. surface naval actions since World War II and demonstrated that mining and harassment in the Gulf could bring devastating consequences.\n\nThe operation weakened Iran's naval position and showed how close the late Iran-Iraq War came to a direct U.S.-Iran naval war. The United States and France were not main belligerents, but both were pulled into the war through arms, diplomacy, Gulf shipping, and fear that the conflict would destabilize oil routes and the wider Middle East.",
         "stats": [
           {
             "val": "18 Apr 1988",
@@ -396,7 +546,7 @@
             "lbl": "Major U.S. surface action"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "The operation weakened Iran's naval position and showed how close the late Iran-Iraq War came to a direct U.S.-Iran naval war.",
             "full": true
           }
@@ -404,8 +554,8 @@
       },
       {
         "title": "War Summary: Iran-Iraq War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/OperationPrayingMantis-IS_Alvand.jpg",
-        "cap": "The end and legacy of the Iran-Iraq War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/OperationPrayingMantis-IS_Alvand.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Praying_Mantis",
         "body": "Eight years of invasion, attrition, chemical warfare, and attacks on cities ended without major territorial change. Both states were exhausted, indebted, and deeply scarred.",
         "stats": [
           {
@@ -427,6 +577,7 @@
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   }
 ]

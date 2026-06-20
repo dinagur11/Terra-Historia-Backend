@@ -2,60 +2,216 @@
   {
     "id": "origins-and-road-to-war",
     "year": 1990,
-    "date": "1990-01-01",
+    "date": "1990-09-02",
     "title": "Origins and Road to War",
-    "sub": "How the Transnistria War began",
+    "sub": "Soviet collapse turns identity and language politics into a state crisis",
     "view": {
       "center": [
         47.2,
         29.4
       ],
-      "zoom": 3
+      "zoom": 7
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Chișinău",
+        "latlng": [
+          47.0105,
+          28.8638
+        ],
+        "type": "major",
+        "description": "Moldova's capital pushed language and sovereignty reforms that many east-bank industrial elites rejected."
+      },
+      {
+        "label": "Tiraspol",
+        "latlng": [
+          46.8482,
+          29.5968
+        ],
+        "type": "target",
+        "description": "Tiraspol became the political center of the separatist Transnistrian project."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "From Russian Civil War to Transnistria War",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
-        "cap": "Historical connection: Soviet collapse reopens territorial divisions",
-        "body": "The Soviet collapse reopened questions of borders, language, and identity across former republics. In Moldova, separatists east of the Dniester resisted the new central government and gained Russian military support.",
-        "stats": [
-          {
-            "val": "Russian Civil War",
-            "lbl": "Previous conflict in this path"
-          },
-          {
-            "val": "Direct aftermath",
-            "lbl": "Soviet collapse reopens territorial divisions"
-          },
-          {
-            "val": "Transnistria War",
-            "lbl": "The next conflict to explore"
-          },
-          {
-            "val": "Why they connect",
-            "lbl": "The Soviet collapse reopened questions of borders, language, and identity across former republics. In Moldova, separatists east of the Dniester resisted the new central government and gained Russian military support.",
-            "full": true
-          }
-        ]
-      },
-      {
-        "title": "Before the Transnistria War",
-        "body": "As the Soviet Union collapsed, Russian-speaking authorities east of the Dniester rejected Moldovan nationalism and declared a separate republic.\n\nThe Conflict Takes Shape: The conflict concerned Moldova's territorial integrity, Transnistrian autonomy, and Russia's influence in the former Soviet space. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "title": "A State Splits Along the Dniester",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bender_1992.jpg",
+        "cap": "Visual reference for Origins and Road to War.",
+        "body": "The Transnistria War grew out of the Soviet collapse, Moldovan sovereignty politics, language laws, and the fears of Russian-speaking industrial communities east of the Dniester. Separatist leaders in Tiraspol claimed they were defending Soviet-era rights and local industry; Chișinău saw a challenge to the territorial integrity of the new Moldovan state.",
         "stats": [
           {
             "val": "1990-1992",
-            "lbl": "Conflict period"
+            "lbl": "Conflict builds from sovereignty and language disputes."
           },
           {
-            "val": "The conflict concerned Moldova's territorial integrity, Transnistrian autonomy, and Russia's influence in the former Soviet space.",
-            "lbl": "What was at stake",
+            "val": "Why this moment matters",
+            "lbl": "The political break came before the main shooting war, so the map needs to show both capitals: Chișinău as the recognized state center and Tiraspol as the separatist center.",
             "full": true
           }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dubasari-clashes",
+    "year": 1990,
+    "date": "1990-11-02",
+    "title": "Dubăsari Clashes",
+    "sub": "Early violence on the Dniester",
+    "view": {
+      "center": [
+        47.2631,
+        29.1608
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Dubăsari",
+        "latlng": [
+          47.2631,
+          29.1608
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
-        "cap": "Opening context for the Transnistria War"
+        "type": "target",
+        "description": "Dubăsari saw early bloodshed and became one of the conflict's symbolic crossing points."
+      },
+      {
+        "label": "Dniester crossings",
+        "latlng": [
+          47.25,
+          29.12
+        ],
+        "type": "major",
+        "description": "Bridges and crossings mattered because Transnistria's geography is a narrow strip along the river."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The First Bloodshed",
+        "img": "https://storage.moldova1.md/images/d5f01bbe-f37c-42ac-8e53-ec450398312c.jpg",
+        "cap": "Visual reference for Dubăsari Clashes.",
+        "body": "Violence around Dubăsari showed that the political conflict could become armed confrontation. Control of bridges, police posts, and local institutions mattered because the Dniester was not only a river boundary; it was the line along which authority, identity, and security began to separate.",
+        "stats": [
+          {
+            "val": "2 Nov 1990",
+            "lbl": "Early clash"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Dubăsari turned constitutional argument into a security crisis and previewed the bridge-and-town geography of the 1992 war.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pmr-state-building-and-14th-army",
+    "year": 1991,
+    "date": "1991-12-01",
+    "title": "PMR State-Building and the 14th Army",
+    "sub": "Separatist institutions grow beside Soviet military stockpiles",
+    "view": {
+      "center": [
+        46.84,
+        29.62
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Tiraspol",
+        "latlng": [
+          46.8482,
+          29.5968
+        ],
+        "type": "target",
+        "description": "The Pridnestrovian Moldavian Republic built ministries, guards, and political institutions around Tiraspol."
+      },
+      {
+        "label": "Cobasna depot",
+        "latlng": [
+          47.7667,
+          29.2
+        ],
+        "type": "major",
+        "description": "Former Soviet ammunition and Russian military presence became a strategic shadow over the conflict."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Institutions Before Recognition",
+        "img": "https://www.historic-uk.com/wp-content/uploads/2025/08/14th-soldiers.jpg",
+        "cap": "Visual reference for PMR State-Building and the 14th Army.",
+        "body": "By 1991, Transnistrian separatists were not only protesting Moldovan policy; they were building parallel institutions. The Russian 14th Army and Soviet stockpiles did not automatically decide every clash, but their presence shaped everyone's calculations. Moldova faced a separatist region with weapons, factories, local guards, and a powerful external military factor.",
+        "stats": [
+          {
+            "val": "1991",
+            "lbl": "Parallel institutions"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "A separatist movement is much harder to reverse once it has armed guards, administrative offices, and access to former Soviet military infrastructure.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cocieri-and-dubasari-fighting",
+    "year": 1992,
+    "date": "1992-03-02",
+    "title": "Cocieri and Dubăsari Fighting",
+    "sub": "The war's main phase begins",
+    "view": {
+      "center": [
+        47.301,
+        29.117
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Cocieri",
+        "latlng": [
+          47.301,
+          29.117
+        ],
+        "type": "target",
+        "description": "Moldovan police and local forces fought around Cocieri as the main armed phase opened."
+      },
+      {
+        "label": "Dubăsari",
+        "latlng": [
+          47.2631,
+          29.1608
+        ],
+        "type": "major",
+        "description": "The Dubăsari area linked local clashes to the wider fight for control of the Dniester line."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Main War Opens",
+        "img": "https://www.veridica.ro/storage/3430/conversions/media-libraryQ2nTBZ-image.webp",
+        "cap": "Visual reference for Cocieri and Dubăsari Fighting.",
+        "body": "The main armed phase began around Cocieri and Dubăsari in March 1992. Fighting involved Moldovan police, volunteers, Transnistrian guards, Cossacks, and former Soviet military networks. The battlefield was fragmented: villages, police stations, roadblocks, and bridges all carried political meaning.",
+        "stats": [
+          {
+            "val": "2 Mar 1992",
+            "lbl": "Main phase begins"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "The conflict became a real war when local armed incidents linked into a sustained campaign along the Dniester.",
+            "full": true
+          }
+        ]
       }
     ]
   },
@@ -64,68 +220,104 @@
     "year": 1992,
     "date": "1992-06-19",
     "title": "Battle of Bender",
-    "sub": "Part of Transnistria War",
+    "sub": "The bloodiest battle of the war",
     "view": {
       "center": [
-        50,
-        15
+        46.8316,
+        29.4777
       ],
-      "zoom": 3
+      "zoom": 9
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Bender / Tighina",
+        "latlng": [
+          46.8316,
+          29.4777
+        ],
+        "type": "target",
+        "description": "Bender sits west of the Dniester but remained central to Transnistrian control, making it the war's most dangerous flashpoint."
+      },
+      {
+        "label": "Dniester bridge",
+        "latlng": [
+          46.84,
+          29.49
+        ],
+        "type": "major",
+        "description": "The bridge linked Bender to Tiraspol and made urban fighting strategically decisive."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Battle of Bender",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Bender_(1992)",
-        "body": "The battle of Bender, also known as the battle of Tighina or the battle of Bendery, was fought between 19 and 21 June 1992 between Moldova, backed by volunteers, military advisors and purchased weapons sourced from Romania; and the Pridnestrovian Moldavian Republic, an unrecognized breakaway state that declared independence from Moldova and relied on direct military support from Russia. The battle occurred in Bender, also known as Tighina, a city with a strong ethnic Russian presence at the western bank of the Dniester River. This is different from the rest of currently Transnistrian-controlled lands, which are located at the eastern bank of it. Bendery is the Russian name of the city and Tighina is the Romanian one, with Bender being an old Ottoman name."
-      },
-      {
-        "title": "Why This Moment Matters",
-        "body": "Battle of Bender was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict concerned Moldova's territorial integrity, Transnistrian autonomy, and Russia's influence in the former Soviet space.\n\nConsequences: The effects of Battle of Bender extended beyond its immediate result. Short but intense fighting displaced civilians and divided communities along a militarized de facto border. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "Urban War at Bender",
+        "img": "https://balkaninsight.com/wp-content/uploads/2022/07/Russian-peacekeepers-entering-Bender.jpg",
+        "cap": "Visual reference for Battle of Bender.",
+        "body": "The Battle of Bender was the largest and bloodiest confrontation of the Transnistria War. Moldovan forces entered the city, Transnistrian forces counterattacked with support from Russian-linked elements, and civilians were trapped in urban fighting. The battle decided the war's military direction and made a negotiated ceasefire urgent.",
         "stats": [
           {
-            "val": "1992",
-            "lbl": "Year"
+            "val": "19-21 Jun 1992",
+            "lbl": "Battle period"
           },
           {
-            "val": "1 of 2",
-            "lbl": "Existing timeline event"
+            "val": "Why this moment matters",
+            "lbl": "Bender made the conflict impossible to treat as a low-level separatist dispute; it was now an urban war with heavy civilian risk and outside military involvement.",
+            "full": true
           }
         ]
       }
     ]
   },
   {
-    "id": "moldovan-mig-29-incident-1992",
+    "id": "lebeds-intervention-and-ceasefire",
     "year": 1992,
-    "date": "1992-06-26",
-    "title": "Moldovan MiG-29 incident (1992)",
-    "sub": "Part of Transnistria War",
+    "date": "1992-07-21",
+    "title": "Lebed's Intervention and Ceasefire",
+    "sub": "Russian leverage freezes the front",
     "view": {
       "center": [
-        50,
-        15
+        46.8482,
+        29.5968
       ],
-      "zoom": 3
+      "zoom": 7
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Tiraspol",
+        "latlng": [
+          46.8482,
+          29.5968
+        ],
+        "type": "target",
+        "description": "The 14th Army's role and Alexander Lebed's arrival changed the balance after Bender."
+      },
+      {
+        "label": "Moscow",
+        "latlng": [
+          55.7558,
+          37.6173
+        ],
+        "type": "minor",
+        "description": "The ceasefire was shaped through Russian-Moldovan diplomacy."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Moldovan MiG-29 incident (1992)",
-        "img": "",
-        "cap": "",
-        "body": "Moldovan MiG-29 incident (1992) marked an important episode in the Transnistria War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Moldovan MiG-29 incident (1992) was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict concerned Moldova's territorial integrity, Transnistrian autonomy, and Russia's influence in the former Soviet space.\n\nConsequences: The effects of Moldovan MiG-29 incident (1992) extended beyond its immediate result. Short but intense fighting displaced civilians and divided communities along a militarized de facto border. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "A Ceasefire With Russian Weight Behind It",
+        "img": "https://balkaninsight.com/wp-content/uploads/2022/07/Igor-Smirnov-addresses-the-Transnistrian-people-with-Alexander-Lebed-behind-him.jpg",
+        "cap": "Visual reference for Lebed's Intervention and Ceasefire.",
+        "body": "After Bender, the Russian 14th Army's role became decisive in stopping Moldova from restoring control by force. The July 1992 ceasefire froze the separation line and created a peacekeeping arrangement. It ended the main war but preserved the unresolved political conflict.",
         "stats": [
           {
-            "val": "1992",
-            "lbl": "Year"
+            "val": "21 Jul 1992",
+            "lbl": "Ceasefire"
           },
           {
-            "val": "2 of 2",
-            "lbl": "Existing timeline event"
+            "val": "Why this moment matters",
+            "lbl": "The ceasefire stopped the shooting but locked in a de facto statelet whose status remains unresolved.",
+            "full": true
           }
         ]
       }
@@ -133,27 +325,52 @@
   },
   {
     "id": "international-and-human-dimensions",
-    "year": 1991,
-    "date": "1991-01-01",
+    "year": 1992,
+    "date": "1992-07-22",
     "title": "International and Human Dimensions",
-    "sub": "The wider impact of the Transnistria War",
+    "sub": "Civilians, prisoners, and outside powers",
     "view": {
       "center": [
-        47.2,
-        29.4
+        47,
+        29.3
       ],
-      "zoom": 3
+      "zoom": 7
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Bender",
+        "latlng": [
+          46.8316,
+          29.4777
+        ],
+        "type": "major",
+        "description": "Bender concentrated the civilian trauma of shelling, street fighting, and contested casualty narratives."
+      },
+      {
+        "label": "Security Zone",
+        "latlng": [
+          47.1,
+          29.25
+        ],
+        "type": "target",
+        "description": "The postwar security zone became the physical expression of a frozen conflict."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "International Dimension",
-        "body": "Elements of Russia's 14th Army supported Transnistrian forces and ultimately imposed a ceasefire.\n\nThe Human Cost: Short but intense fighting displaced civilians and divided communities along a militarized de facto border.",
+        "title": "The Human Cost of a Frozen War",
+        "img": "https://ichef.bbci.co.uk/images/ic/480x270/p0c6lctw.jpg.webp",
+        "cap": "Visual reference for International and Human Dimensions.",
+        "body": "The war is usually described as killing roughly 1,000 people, with thousands more wounded or displaced. Bender concentrated much of that civilian trauma, while the postwar security zone turned the human cost into a long-term frozen-conflict reality.",
         "stats": [
           {
-            "val": "Roughly 1,000 killed",
-            "lbl": "Estimated human cost",
+            "val": "Thousands displaced",
+            "lbl": "Human impact"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "The war is usually described as killing roughly 1,000 people, with thousands more wounded or displaced. Bender concentrated much of that civilian trauma, while the postwar security zone turned the human cost into a long-term frozen-conflict reality.",
             "full": true
           }
         ]
@@ -163,43 +380,54 @@
   {
     "id": "outcome-and-legacy",
     "year": 1992,
-    "date": "1992-01-01",
+    "date": "1992-07-21",
     "title": "Outcome and Legacy",
-    "sub": "How the Transnistria War ended and what followed",
+    "sub": "A short war creates a long frozen conflict",
     "view": {
       "center": [
         47.2,
         29.4
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Tiraspol",
+        "latlng": [
+          46.8482,
+          29.5968
+        ],
+        "type": "target",
+        "description": "Transnistria remained de facto separate after the ceasefire."
+      },
+      {
+        "label": "Chișinău",
+        "latlng": [
+          47.0105,
+          28.8638
+        ],
+        "type": "major",
+        "description": "Moldova retained international recognition over the territory but not effective control."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "The End of the Transnistria War",
-        "body": "A ceasefire froze the conflict. Transnistria remains internationally recognized as part of Moldova but outside its control."
-      },
-      {
-        "title": "War Summary: Transnistria War",
-        "body": "A ceasefire froze the conflict. Transnistria remains internationally recognized as part of Moldova but outside its control. Short but intense fighting displaced civilians and divided communities along a militarized de facto border.",
+        "title": "No Final Settlement",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
+        "cap": "Bender remains one of the core memory sites of the war.",
+        "body": "The Transnistria War ended with a ceasefire, not reintegration. Transnistria became a de facto state backed by Russian military presence, while Moldova remained internationally recognized within its Soviet-era borders. The conflict became one of the defining frozen conflicts of the post-Soviet space.",
         "stats": [
           {
-            "val": "Transnistrian de facto victory",
-            "lbl": "Outcome / winner"
+            "val": "Frozen conflict",
+            "lbl": "Outcome"
           },
           {
-            "val": "Roughly 1,000 killed",
-            "lbl": "Casualties / human cost"
-          },
-          {
-            "val": "A ceasefire froze the conflict. Transnistria remains internationally recognized as part of Moldova but outside its control.",
-            "lbl": "Lasting legacy",
+            "val": "Why this moment matters",
+            "lbl": "The front line hardened into a political reality that outlasted the war by decades.",
             "full": true
           }
-        ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg",
-        "cap": "The outcome and legacy of the Transnistria War"
+        ]
       }
     ]
   }

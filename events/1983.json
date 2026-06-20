@@ -1,0 +1,68 @@
+[
+  {
+    "id": "internet-tcpip-1983",
+    "name": "Internet Adopts TCP/IP",
+    "date": "January 1 1983",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "ARPANET switched to TCP/IP, forming the basis of the modern internet."
+  },
+  {
+    "id": "korean-air-1983",
+    "name": "Korean Air Flight 007 Shot Down",
+    "date": "September 1 1983",
+    "location": "USSR",
+    "coordinates": {
+      "lat": 46,
+      "lng": 141
+    },
+    "summary": "A passenger plane was shot down by Soviet forces."
+  },
+  {
+    "id": "grenada-1983",
+    "name": "US Invades Grenada",
+    "date": "October 25 1983",
+    "location": "Grenada",
+    "coordinates": {
+      "lat": 12.1165,
+      "lng": -61.679
+    },
+    "summary": "The U.S. launched a military intervention in Grenada."
+  },
+  {
+    "id": "star-wars-1983",
+    "name": "Strategic Defense Initiative Announced",
+    "date": "March 23 1983",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Reagan proposed a missile defense system known as 'Star Wars'."
+  },
+  {
+    "id": "orwell-1983",
+    "name": "Motorola Releases First Mobile Phone",
+    "date": "September 21 1983",
+    "location": "USA",
+    "coordinates": {
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "summary": "The first commercially available mobile phone was released."
+  },
+  {
+    "id": "beirut-1983",
+    "name": "Beirut Barracks Bombing",
+    "date": "October 23 1983",
+    "location": "Lebanon",
+    "coordinates": {
+      "lat": 33.8547,
+      "lng": 35.8623
+    },
+    "summary": "A bombing killed U.S. and French military personnel."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "treaty-of-versailles-1920-1",
+    "name": "Treaty of Versailles",
+    "date": "January 7 1920",
+    "location": "Versailles",
+    "coordinates": {
+      "lat": 48.8049,
+      "lng": 2.1204
+    },
+    "summary": "The Treaty of Versailles takes effect, officially ending World War I. The Treaty of Versailles was a peace treaty signed on 28 June 1919. As the most important treaty of World War I, it ended the state of war between Germany and most of the Allied Powers."
+  },
+  {
+    "id": "league-of-nations-covenant-1920-2",
+    "name": "League of Nations Covenant",
+    "date": "January 7 1920",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "The League of Nations Covenant enters into force. On January 16, the organization holds its first council meeting, in Paris. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "the-new-york-times-1920-3",
+    "name": "The New York Times",
+    "date": "January 13 1920",
+    "location": "New York",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The New York Times ridicules American rocket scientist Robert H. Goddard, which it will rescind following the launch of Apollo 11 in 1969. The New York Times (NYT) is a newspaper based in Manhattan, New York City. The New York Times covers domestic, national, and international news, and publishes opinion pieces and reviews."
+  },
+  {
+    "id": "estonian-war-of-independence-1920-4",
+    "name": "Estonian War of Independence",
+    "date": "February 1 1920",
+    "location": "Estonia",
+    "coordinates": {
+      "lat": 59.437,
+      "lng": 24.7536
+    },
+    "summary": "Estonian War of Independence: The Tartu Peace Treaty is signed, ending the war and recognizing the independence of both the Republic of Estonia and the Russian Socialist Federative Soviet Republic. The Estonian War of Independence, also known as the Estonian Liberation War, and War of Freedom in Estonia, was a defensive campaign of the Estonian Army and its allies, most notably the United Kingdom and Finland, against the Soviet Russian westward offensive of 1918–1919 and the 1919 aggression of the pro–German Baltische Landeswehr."
+  },
+  {
+    "id": "svalbard-treaty-1920-5",
+    "name": "Svalbard Treaty",
+    "date": "February 9 1920",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "The Svalbard Treaty, signed by members of the League of Nations in Paris, recognises the sovereignty of Norway over the Arctic archipelago of Svalbard (at this time called Spitzbergen), while giving the other signatories economic rights in the islands. The exercise of sovereignty is, however, subject to certain stipulations, and not all Norwegian law applies."
+  },
+  {
+    "id": "league-of-nations-mandate-1920-6",
+    "name": "League of Nations mandate",
+    "date": "April 19 1920",
+    "location": "Italy",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "26 - San Remo conference: Representatives of Italy, France, the United Kingdom, and Japan meet to determine the League of Nations mandates for administration of territories, following the partitioning of the Ottoman Empire. A League of Nations mandate represented a legal status under international law for specific territories following World War I, involving the transfer of control from one nation to another."
+  },
+  {
+    "id": "october-revolution-1920-7",
+    "name": "October Revolution",
+    "date": "May 15 1920",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Russian Revolution: Russian White soldier Maria Bochkareva is executed in Soviet Russia. The October Revolution, also known as the Great October Socialist Revolution (in Soviet historiography), October coup, Bolshevik coup, Bolshevik Revolution, and occasionally the November Revolution, was the second of two revolutions in Russia in 1917. It was led by Vladimir Lenin's Bolsheviks as part of the broader Russian Revolution of 1917–1923."
+  },
+  {
+    "id": "league-of-nations-1920-8",
+    "name": "League of Nations",
+    "date": "November 17 1920",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "The council of the League of Nations accepts the constitution for the Free City of Danzig. The League of Nations (LN or LoN; French: Société des Nations [sɔsjete de nɑsjɔ̃], SdN) was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. It was founded on 10 January 1920 by the Paris Peace Conference that ended the First World War."
+  },
+  {
+    "id": "mandate-for-palestine-1920-9",
+    "name": "Mandate for Palestine",
+    "date": "December 7 1920",
+    "location": "Palestine",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "The first draft of the Mandate for Palestine is submitted to the League of Nations. The Mandate for Palestine was a League of Nations mandate for British administration of the territories of Palestine and Transjordan – which had been part of the Ottoman Empire for four centuries – following the defeat of the Ottoman Empire in World War I, which determined the establishment of a national home for the Jewish people in Palestine, per the decision of the British government in November 1917."
+  },
+  {
+    "id": "irish-war-of-independence-1920-10",
+    "name": "Irish War of Independence",
+    "date": "December 10 1920",
+    "location": "Ireland",
+    "coordinates": {
+      "lat": 53.3498,
+      "lng": -6.2603
+    },
+    "summary": "Irish War of Independence: Martial law is declared in Counties Cork, Kerry, Limerick and Tipperary by the British authorities. The Irish War of Independence (Irish: Cogadh na Saoirse), also known as the Anglo-Irish War, was a guerrilla war fought in Ireland from 1919 to 1921 between the Irish Republican Army (IRA, the army of the Irish Republic) and British forces: the British Army, along with the quasi-military Royal Irish Constabulary (RIC) and its paramilitary forces the Auxiliaries and Ulster Special Constabulary (USC)."
+  }
+]

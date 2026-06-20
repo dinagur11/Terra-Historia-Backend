@@ -1,0 +1,112 @@
+[
+  {
+    "id": "romania-1947-1",
+    "name": "Romania",
+    "date": "February 10 1947",
+    "location": "Romania",
+    "coordinates": {
+      "lat": 46,
+      "lng": 25
+    },
+    "summary": "In Paris, France, peace treaties are signed between the World War II Allies and Italy, Hungary, Romania, Bulgaria and Finland. Italy cedes most of Istria to the Socialist Federal Republic of Yugoslavia (later Croatia). The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "cold-war-1947-2",
+    "name": "Cold War",
+    "date": "March 12 1947",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The Cold War begins: The Truman Doctrine is proclaimed, to help stem the spread of Communism. The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc. It began in the aftermath of the Second World War and ended with the dissolution of the Soviet Union in 1991."
+  },
+  {
+    "id": "world-war-ii-japanese-booby-trap-explodes-on-corregidor-island-killing-1947-3",
+    "name": "World War II Japanese booby trap explodes on Corregidor Island, killing 2...",
+    "date": "March 28 1947",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "summary": "A World War II Japanese booby trap explodes on Corregidor Island, killing 28 people. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "portella-della-ginestra-massacre-1947-4",
+    "name": "Portella della Ginestra massacre",
+    "date": "May 1 1947",
+    "location": "Portella della Ginestra massacre",
+    "coordinates": {
+      "lat": 37.97611111,
+      "lng": 13.25611111
+    },
+    "summary": "Portella della Ginestra massacre: The Salvatore Giuliano gang of Sicilian separatists opens fire on a Labour Day parade at Portella della Ginestra, Sicily, killing 11 people and wounding 27. The Portella della Ginestra massacre refers to the killing of 11 people and wounding of 27 others during May Day celebrations in Sicily on 1 May 1947, in the municipality of Piana degli Albanesi."
+  },
+  {
+    "id": "partition-of-india-1947-5",
+    "name": "Partition of India",
+    "date": "August 5 1947",
+    "location": "Global",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "summary": "The greater Indian subcontinent, with a mixed population of Hindu, Sikhs, Buddhists, Jains, Zoroasters, Jews, Christians, Muslims and others formed by the Partition of India, gains independence from the British Empire, as the Dominion of India. 190 years British rule (1757–1947) in India comes to an end."
+  },
+  {
+    "id": "united-nations-1947-6",
+    "name": "United Nations",
+    "date": "September 30 1947",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Pakistan and Yemen join the United Nations. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "havana-charter-1947-7",
+    "name": "Havana Charter",
+    "date": "November 21 1947",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations Conference on Trade and Employment begins in Havana, Cuba. This conference ends in 1948, when its members complete the Havana Charter. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "united-nations-partition-plan-for-palestine-1947-8",
+    "name": "United Nations Partition Plan for Palestine",
+    "date": "November 29 1947",
+    "location": "Israel",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "The United Nations General Assembly votes for the United Nations Partition Plan for Palestine which will partition Mandatory Palestine between Arab and Jewish regions, resulting in the creation of the State of Israel. The United Nations Partition Plan for Palestine was a proposal by the United Nations to partition Mandatory Palestine at the end of the British Mandate."
+  },
+  {
+    "id": "mikoyan-gurevich-mig-15-1947-9",
+    "name": "Mikoyan-Gurevich MiG-15",
+    "date": "December 22 1947",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "The Mikoyan-Gurevich MiG-15 jet fighter aircraft (NATO reporting name Fagot) makes its first flight in the Soviet Union. The Mikoyan-Gurevich MiG-15 (Russian: Микоян-Гуревич МиГ-15; USAF/DoD designation: Type 14; NATO reporting name: Fagot) is a single-seat transonic jet fighter aircraft developed by Mikoyan-Gurevich for the Soviet Union. The MiG-15 was one of the first successful jet fighters to incorporate swept wings to perform near Mach 1."
+  },
+  {
+    "id": "john-bardeen-and-walter-brattain-working-under-william-shockley-at-att-1947-10",
+    "name": "John Bardeen and Walter Brattain working under William Shockley at AT&T's...",
+    "date": "November 17-December 23 1947",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "John Bardeen and Walter Brattain working under William Shockley at AT&T's Bell Labs in the United States demonstrate the transistor effect, a key element for the electronics revolution of the 20th century. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "windows-95-1995",
+    "name": "Windows 95 Released",
+    "date": "August 24 1995",
+    "location": "USA",
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    "summary": "Microsoft released Windows 95, transforming personal computing."
+  },
+  {
+    "id": "oklahoma-bombing-1995",
+    "name": "Oklahoma City Bombing",
+    "date": "April 19 1995",
+    "location": "USA",
+    "coordinates": {
+      "lat": 35.4676,
+      "lng": -97.5164
+    },
+    "summary": "A domestic terrorist attack killed 168 people."
+  },
+  {
+    "id": "dayton-accords-1995",
+    "name": "Dayton Peace Accords",
+    "date": "December 14 1995",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Agreement ended the Bosnian War."
+  },
+  {
+    "id": "amazon-founded-1995",
+    "name": "Amazon Founded",
+    "date": "July 5 1995",
+    "location": "USA",
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    "summary": "Amazon was founded, becoming a major global company."
+  },
+  {
+    "id": "barings-collapse-1995",
+    "name": "Barings Bank Collapse",
+    "date": "February 26 1995",
+    "location": "UK",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "A historic British bank collapsed due to trading losses."
+  },
+  {
+    "id": "toy-story-1995",
+    "name": "Toy Story Released",
+    "date": "November 22 1995",
+    "location": "USA",
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "summary": "The first fully computer-animated feature film was released."
+  }
+]

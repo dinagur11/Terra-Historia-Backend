@@ -1,24 +1,52 @@
 [
   {
     "id": "origins-and-road-to-war",
-    "year": 1946,
-    "date": "1946-01-01",
+    "year": 1945,
+    "date": "1945-08-15",
     "title": "Origins and Road to War",
     "sub": "How the Indochina Wars began",
     "view": {
       "center": [
-        16,
-        105
+        15.92545,
+        105.77895
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Hanoi",
+        "latlng": [
+          21.0278,
+          105.8342
+        ],
+        "type": "target",
+        "description": "The Viet Minh proclaimed the Democratic Republic of Vietnam in Hanoi after Japan's surrender."
+      },
+      {
+        "label": "Saigon",
+        "latlng": [
+          10.8231,
+          106.6297
+        ],
+        "type": "major",
+        "description": "British arrival and French reoccupation made Saigon the opening battlefield of the postwar conflict."
+      },
+      {
+        "label": "Phnom Penh",
+        "latlng": [
+          11.5564,
+          104.9282
+        ],
+        "type": "major",
+        "description": "Cambodia's political future became part of the connected struggle over French Indochina."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "From World War II to Indochina Wars",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
-        "cap": "Historical connection: Collapse of French colonial authority",
+        "img": "https://static.dw.com/image/70018878_902.webp",
+        "cap": "Visual reference for Origins and Road to War.",
         "body": "World War II weakened France and destroyed the old colonial order in Indochina. Vietnamese independence movements then fought France, opening decades of connected regional and Cold War conflicts.",
         "stats": [
           {
@@ -42,58 +70,241 @@
       },
       {
         "title": "Before the Indochina Wars",
-        "body": "The collapse of French colonial authority and competing nationalist, communist, and anti-communist movements produced decades of interconnected warfare.\n\nThe Conflict Takes Shape: Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "body": "The collapse of French colonial authority and competing nationalist, communist, and anti-communist movements produced decades of interconnected warfare.",
         "stats": [
           {
             "val": "1946-1991",
             "lbl": "Conflict period"
           },
           {
-            "val": "Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.",
-            "lbl": "What was at stake",
+            "val": "What was at stake",
+            "lbl": "Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg",
-        "cap": "Opening context for the Indochina Wars"
+        "img": "https://static.dw.com/image/70018878_902.webp",
+        "cap": "Visual reference for Origins and Road to War."
       }
     ]
   },
   {
-    "id": "war-in-southern-vietnam",
+    "id": "british-indian-arrival",
     "year": 1945,
     "date": "1945-09-13",
-    "title": "War in southern Vietnam",
-    "sub": "Part of Indochina Wars",
+    "title": "British-Indian Forces Arrive in Saigon",
+    "sub": "Opening phase of the Indochina Wars",
     "view": {
       "center": [
-        50,
-        15
+        10.82095,
+        106.6408
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Saigon",
+        "latlng": [
+          10.8231,
+          106.6297
+        ],
+        "type": "target",
+        "description": "Major-General Douglas Gracey's 20th Indian Division entered a city where Vietnamese authorities had already declared independence."
+      },
+      {
+        "label": "Tân Sơn Nhất airfield",
+        "latlng": [
+          10.8188,
+          106.6519
+        ],
+        "type": "major",
+        "description": "The airfield was a principal Allied entry and logistics point."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "War in southern Vietnam",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/War_in_southern_Vietnam_(1945%E2%80%931946)",
-        "body": "The 1945–1946 War in Southern Vietnam, codenamed Operation Masterdom by the British, and also known as the Southern Resistance War by the Vietnamese, was an armed conflict in southern Vietnam during which British-Indian and French forces fought to suppress Vietnamese independence movements, which included non-communist nationalists, Trotskyists, and the Stalinist-front Viet Minh, to take control of the southern half of the country. It began shortly after the end of World War II, specifically the unconditional surrender of Japan.\n\nWhy This Moment Matters: War in southern Vietnam was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.",
+        "title": "British-Indian Forces Arrive in Saigon",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg",
+        "cap": "Historical overview: British-Indian Forces Arrive in Saigon",
+        "body": "Major-General Douglas Gracey's British-Indian force arrived to accept the Japanese surrender, maintain order, and assist Allied prisoners. It entered a politically fractured city where Vietnamese groups had already proclaimed independence and French authority had collapsed.",
         "stats": [
           {
-            "val": "1945",
-            "lbl": "Year"
+            "val": "13 Sep 1945",
+            "lbl": "Allied troops arrive"
           },
           {
-            "val": "1 of 4",
-            "lbl": "Existing timeline event"
+            "val": "20th Indian Division",
+            "lbl": "Principal British formation"
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": "french-coup-in-saigon",
+    "year": 1945,
+    "date": "1945-09-23",
+    "title": "French Reoccupation of Saigon",
+    "sub": "Opening phase of the Indochina Wars",
+    "view": {
+      "center": [
+        10.76595,
+        106.68045
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Central Saigon",
+        "latlng": [
+          10.7769,
+          106.7009
+        ],
+        "type": "target",
+        "description": "French troops displaced Vietnamese authorities from key buildings on 23 September 1945."
       },
       {
-        "title": "Consequences",
-        "body": "The effects of War in southern Vietnam extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia. Its place in the wider campaign also influenced later military choices and political calculations."
+        "label": "Saigon-Cholon",
+        "latlng": [
+          10.755,
+          106.66
+        ],
+        "type": "major",
+        "description": "Resistance and communal violence spread through the wider urban area."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "French Reoccupation of Saigon",
+        "img": "https://cdn2.picryl.com/photo/1945/12/31/the-allied-reoccupation-of-french-indo-china-1945-se5175-01868b-640.jpg",
+        "cap": "Visual reference for French Reoccupation of Saigon.",
+        "body": "French troops, including recently released prisoners of war, displaced Vietnamese authorities from key positions in Saigon. The action on 23 September triggered the Southern Resistance War and fighting around the city.",
+        "stats": [
+          {
+            "val": "23 Sep 1945",
+            "lbl": "War begins"
+          },
+          {
+            "val": "Saigon",
+            "lbl": "Opening battlefield"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "siege-and-gateforce",
+    "year": 1945,
+    "date": "1945-10-29",
+    "title": "Siege Fighting and Gateforce",
+    "sub": "Opening phase of the Indochina Wars",
+    "view": {
+      "center": [
+        10.90175,
+        106.727
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Saigon",
+        "latlng": [
+          10.8231,
+          106.6297
+        ],
+        "type": "major",
+        "description": "Vietnamese forces tried to isolate the Allied-held city through attacks on roads and infrastructure."
+      },
+      {
+        "label": "Biên Hòa",
+        "latlng": [
+          10.9447,
+          106.8243
+        ],
+        "type": "target",
+        "description": "Gateforce pushed northeast from Saigon toward Biên Hòa and surrounding resistance positions."
+      },
+      {
+        "label": "Thủ Dầu Một",
+        "latlng": [
+          10.9804,
+          106.6519
+        ],
+        "type": "major",
+        "description": "Road-clearing operations expanded the British-French perimeter north of Saigon."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Siege Fighting and Gateforce",
+        "img": "https://battlefieldtravels.com/wp-content/uploads/2025/12/img217-1.webp",
+        "cap": "Visual reference for Siege Fighting and Gateforce.",
+        "body": "Vietnamese forces attacked roads and infrastructure around Saigon while British-Indian, French, and rearmed Japanese troops conducted patrols and clearing operations. Gateforce pushed resistance units farther from the city but could not end the wider independence struggle.",
+        "stats": [
+          {
+            "val": "British, French, and Japanese troops",
+            "lbl": "Forces fighting the Viet Minh"
+          },
+          {
+            "val": "29 Oct 1945",
+            "lbl": "Gateforce operation begins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "british-withdrawal",
+    "year": 1946,
+    "date": "1946-03-30",
+    "title": "British Withdrawal",
+    "sub": "Opening phase of the Indochina Wars",
+    "view": {
+      "center": [
+        10.71155,
+        106.51485
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Saigon",
+        "latlng": [
+          10.8231,
+          106.6297
+        ],
+        "type": "target",
+        "description": "The final main British-Indian units departed after transferring responsibility to France."
+      },
+      {
+        "label": "Southern countryside",
+        "latlng": [
+          10.6,
+          106.4
+        ],
+        "type": "major",
+        "description": "Vietnamese resistance moved away from the city and continued against restored French colonial power."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "British Withdrawal",
+        "img": "https://c8.alamy.com/zooms/9/fc0493e86c4d448cae46972d2751bedc/2b00mww.jpg",
+        "cap": "Visual reference for British Withdrawal.",
+        "body": "The last main British-Indian battalions departed on 30 March 1946 after handing responsibility to France. French forces had reoccupied southern Vietnam, while the Viet Minh withdrew toward the countryside and continued resistance.",
+        "stats": [
+          {
+            "val": "30 Mar 1946",
+            "lbl": "Campaign ends"
+          },
+          {
+            "val": "Franco-British victory",
+            "lbl": "Immediate military result"
+          }
+        ]
       }
     ]
   },
@@ -105,27 +316,65 @@
     "sub": "Part of Indochina Wars",
     "view": {
       "center": [
-        50,
-        15
+        33.6161,
+        55.9966
       ],
       "zoom": 3
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Hanoi",
+        "latlng": [
+          21.0278,
+          105.8342
+        ],
+        "type": "major",
+        "description": "Fighting in Hanoi in December 1946 opened the full war between France and the Viet Minh."
+      },
+      {
+        "label": "Việt Bắc",
+        "latlng": [
+          22.15,
+          105.85
+        ],
+        "type": "major",
+        "description": "The northern base area allowed the Viet Minh to survive French offensives and build a regular army."
+      },
+      {
+        "label": "Điện Biên Phủ",
+        "latlng": [
+          21.386,
+          103.016
+        ],
+        "type": "target",
+        "description": "The 1954 French defeat forced negotiations and ended the colonial war."
+      },
+      {
+        "label": "Geneva",
+        "latlng": [
+          46.2044,
+          6.1432
+        ],
+        "type": "minor",
+        "description": "The Geneva Conference ended French Indochina and temporarily divided Vietnam."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "First Indochina War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/First_Indochina_War_COLLAGE.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Indochina_War_COLLAGE.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/First_Indochina_War",
-        "body": "The First Indochina War, known alternatively internationally as the French Indochina War, was fought in French Indochina between France and the Viet Minh and their respective allies, from 19 December 1946 until 11 August 1954. Most of the engagements of this conflict occurred in Vietnam.\n\nWhy This Moment Matters: First Indochina War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.\n\nConsequences: The effects of First Indochina War extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The First Indochina War, known alternatively internationally as the French Indochina War, was fought in French Indochina between France and the Viet Minh and their respective allies, from 19 December 1946 until 11 August 1954. Most of the engagements of this conflict occurred in Vietnam.",
         "stats": [
           {
             "val": "1946",
             "lbl": "Year"
           },
           {
-            "val": "2 of 4",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The First Indochina War, known alternatively internationally as the French Indochina War, was fought in French Indochina between France and the Viet Minh and their respective allies, from 19 December 1946 until 11 August 1954.",
+            "full": true
           }
         ]
       }
@@ -139,27 +388,56 @@
     "sub": "Part of Indochina Wars",
     "view": {
       "center": [
-        50,
-        15
+        11.7782,
+        105.7141
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Phnom Penh",
+        "latlng": [
+          11.5564,
+          104.9282
+        ],
+        "type": "target",
+        "description": "The Khmer Republic defended an increasingly isolated capital until its fall in 1975."
+      },
+      {
+        "label": "Kampong Cham",
+        "latlng": [
+          11.9934,
+          105.4635
+        ],
+        "type": "major",
+        "description": "Fighting along the Mekong corridor threatened the capital's supply routes."
+      },
+      {
+        "label": "Eastern Cambodia",
+        "latlng": [
+          12,
+          106.5
+        ],
+        "type": "major",
+        "description": "North Vietnamese bases, US bombing, and Khmer Rouge expansion overlapped in the east."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Cambodian Civil War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/11ACRCambodia1970_%28Colorized%29.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/11ACRCambodia1970_(Colorized).jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Cambodian_Civil_War",
-        "body": "The Cambodian Civil War was a civil war in Cambodia fought between the Khmer Rouge, supported by North Vietnam and China, against the government of the Kingdom of Cambodia and, after October 1970, the Khmer Republic, which had succeeded the kingdom after a coup, both supported by the United States and South Vietnam. The conflict was part of the Vietnam War.\n\nWhy This Moment Matters: Cambodian Civil War was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.\n\nConsequences: The effects of Cambodian Civil War extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The Cambodian Civil War was a civil war in Cambodia fought between the Khmer Rouge, supported by North Vietnam and China, against the government of the Kingdom of Cambodia and, after October 1970, the Khmer Republic, which had succeeded the kingdom after a coup, both supported by the United States and South Vietnam. The conflict was part of the Vietnam War.",
         "stats": [
           {
             "val": "1967",
             "lbl": "Year"
           },
           {
-            "val": "3 of 4",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The Cambodian Civil War was a civil war in Cambodia fought between the Khmer Rouge, supported by North Vietnam and China, against the government of the Kingdom of Cambodia and, after October 1970, the Khmer Republic, which had succeeded the kingdom after a coup, both supported by the United States and South Vietnam.",
+            "full": true
           }
         ]
       }
@@ -173,33 +451,74 @@
     "sub": "Part of Indochina Wars",
     "view": {
       "center": [
-        50,
-        15
+        16.70505,
+        104.6805
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Phnom Penh",
+        "latlng": [
+          11.5564,
+          104.9282
+        ],
+        "type": "target",
+        "description": "Vietnam captured Phnom Penh in 1979 and removed the Khmer Rouge government."
+      },
+      {
+        "label": "Vietnam-Cambodia border",
+        "latlng": [
+          11.6,
+          106.1
+        ],
+        "type": "major",
+        "description": "Khmer Rouge raids and Vietnamese retaliation escalated into full invasion."
+      },
+      {
+        "label": "Lạng Sơn",
+        "latlng": [
+          21.8537,
+          106.761
+        ],
+        "type": "major",
+        "description": "China attacked northern Vietnam in 1979, making the regional war openly interstate."
+      },
+      {
+        "label": "Thai-Cambodian border",
+        "latlng": [
+          13.6,
+          102.6
+        ],
+        "type": "major",
+        "description": "Khmer Rouge and coalition forces operated from border sanctuaries during the prolonged occupation war."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Third Indochina War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Indochina_1979_map_de.svg/1280px-Indochina_1979_map_de.svg.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Third_Indochina_War",
-        "body": "The Third Indochina War was a series of interconnected military conflicts among the various communist factions over strategic influence in mainland Southeast Asia after communist victory in South Vietnam, Laos, and Cambodia in 1975. The conflict primarily started due to continued raids and incursions by the Khmer Rouge into Vietnamese territory that they sought to retake. These incursions would result in the Cambodian–Vietnamese War in which the newly unified Vietnam overthrew the Pol Pot regime and the Khmer Rouge, in turn ending the Cambodian genocide. Vietnam had installed a government led by many opponents of Pol Pot, most notably Hun Sen, a former Khmer Rouge commander. This led to Vietnam's occupation of Cambodia for over a decade. The Vietnamese push to completely destroy the Khmer Rouge led to them conducting border raids in Thailand against those who had provided sanctuary."
+        "img": "https://i.redd.it/pictures-of-the-third-indochina-war-v0-9cwgn4wajkyb1.jpg?width=1000&format=pjpg&auto=webp&s=a2b8369a5403dea0bd5d8906decc56f803f612e8",
+        "cap": "Visual reference for Third Indochina War.",
+        "body": "The Third Indochina War was a series of interconnected military conflicts among the various communist factions over strategic influence in mainland Southeast Asia after communist victory in South Vietnam, Laos, and Cambodia in 1975. The conflict primarily started due to continued raids and incursions by the Khmer Rouge into Vietnamese territory that they sought to retake. These incursions would result in the Cambodian–Vietnamese War in which the newly unified Vietnam overthrew the Pol Pot regime and the Khmer Rouge, in turn ending the Cambodian genocide. Vietnam had installed a government led by many opponents of Pol Pot, most notably Hun Sen, a former Khmer Rouge commander. This led to Vietnam's occupation of Cambodia for over a decade. The Vietnamese push to completely destroy the Khmer Rouge led to them conducting border raids in Thailand against those who had provided sanctuary.",
+        "stats": []
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Third Indochina War was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.\n\nConsequences: The effects of Third Indochina War extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "Vietnamese independence, the political future of Laos and Cambodia, and the regional balance of the Cold War were all contested.\n\nConsequences: The effects of Third Indochina War extended beyond its immediate result. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia.",
         "stats": [
           {
             "val": "1975",
             "lbl": "Year"
           },
           {
-            "val": "4 of 4",
-            "lbl": "Existing timeline event"
+            "val": "Outcome",
+            "lbl": "The Third Indochina War was a series of interconnected military conflicts among the various communist factions over strategic influence in mainland Southeast Asia after communist victory in South Vietnam, Laos, and Cambodia in 1975.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://i.redd.it/pictures-of-the-third-indochina-war-v0-9cwgn4wajkyb1.jpg?width=1000&format=pjpg&auto=webp&s=a2b8369a5403dea0bd5d8906decc56f803f612e8",
+        "cap": "Visual reference for Third Indochina War."
       }
     ]
   },
@@ -211,12 +530,49 @@
     "sub": "The wider impact of the Indochina Wars",
     "view": {
       "center": [
-        16,
-        105
+        16.10455,
+        104.82285
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Điện Biên Phủ",
+        "latlng": [
+          21.386,
+          103.016
+        ],
+        "type": "major",
+        "description": "French colonial defeat opened the era of direct Cold War competition in Indochina."
+      },
+      {
+        "label": "Plain of Jars",
+        "latlng": [
+          19.45,
+          103.15
+        ],
+        "type": "major",
+        "description": "Laos became one of the world's most heavily bombed landscapes."
+      },
+      {
+        "label": "Phnom Penh",
+        "latlng": [
+          11.5564,
+          104.9282
+        ],
+        "type": "target",
+        "description": "Civil war, Khmer Rouge rule, genocide, Vietnamese invasion, and occupation devastated Cambodia."
+      },
+      {
+        "label": "Ho Chi Minh City",
+        "latlng": [
+          10.8231,
+          106.6297
+        ],
+        "type": "major",
+        "description": "The fall of Saigon ended one war but did not end conflict across Indochina."
+      }
+    ],
     "regions": [],
     "slides": [
       {
@@ -228,7 +584,9 @@
             "lbl": "Estimated human cost",
             "full": true
           }
-        ]
+        ],
+        "img": "https://content.magnumphotos.com/wp-content/uploads/2016/12/cortex/par295396-teaser-story-big.jpg",
+        "cap": "Visual reference for International and Human Dimensions."
       }
     ]
   },
@@ -240,38 +598,79 @@
     "sub": "How the Indochina Wars ended and what followed",
     "view": {
       "center": [
-        16,
-        105
+        15.92545,
+        104.6314
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Hanoi",
+        "latlng": [
+          21.0278,
+          105.8342
+        ],
+        "type": "target",
+        "description": "Vietnam emerged unified under communist rule after defeating France and South Vietnam."
+      },
+      {
+        "label": "Ho Chi Minh City",
+        "latlng": [
+          10.8231,
+          106.6297
+        ],
+        "type": "major",
+        "description": "Former Saigon symbolizes the end of South Vietnam and national reunification."
+      },
+      {
+        "label": "Phnom Penh",
+        "latlng": [
+          11.5564,
+          104.9282
+        ],
+        "type": "major",
+        "description": "Cambodia's wars left genocide, occupation, and a long international settlement process."
+      },
+      {
+        "label": "Vientiane",
+        "latlng": [
+          17.9757,
+          102.6331
+        ],
+        "type": "major",
+        "description": "Communist victory in Laos was followed by displacement and the enduring danger of unexploded ordnance."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "The End of the Indochina Wars",
-        "body": "Colonial rule ended and communist governments prevailed in much of Indochina, but regional wars continued after the fall of Saigon."
+        "body": "Colonial rule ended and communist governments prevailed in Vietnam and Laos, but Indochina passed through several connected wars before a regional settlement emerged. France's defeat at Điện Biên Phủ ended the colonial war; the Vietnam War internationalized the struggle; Cambodia suffered civil war, Khmer Rouge genocide, Vietnamese invasion, and occupation; and Laos endured bombing, revolution, and displacement. Across the connected wars and genocide, well over four million people were killed, with exact aggregate estimates varying because conflicts overlap. Tens of millions were displaced or exposed to bombing, famine, detention, and unexploded ordnance.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dien_Bien_Phu_1954_French_prisoners.jpg/1280px-Dien_Bien_Phu_1954_French_prisoners.jpg",
+        "cap": "Visual reference for Outcome and Legacy.",
+        "stats": []
       },
       {
         "title": "War Summary: Indochina Wars",
-        "body": "Colonial rule ended and communist governments prevailed in much of Indochina, but regional wars continued after the fall of Saigon. Repeated bombing, displacement, political violence, and unexploded ordnance affected generations across Vietnam, Laos, and Cambodia.",
+        "body": "Colonial rule ended and communist governments prevailed in Vietnam and Laos, but Indochina passed through several connected wars before a regional settlement emerged. France's defeat at Điện Biên Phủ ended the colonial war; the Vietnam War internationalized the struggle; Cambodia suffered civil war, Khmer Rouge genocide, Vietnamese invasion, and occupation; and Laos endured bombing, revolution, and displacement. Across the connected wars and genocide, well over four million people were killed, with exact aggregate estimates varying because conflicts overlap. Tens of millions were displaced or exposed to bombing, famine, detention, and unexploded ordnance.",
         "stats": [
           {
-            "val": "Communist and anti-colonial victories, followed by regional conflict",
-            "lbl": "Outcome / winner"
+            "val": "Colonial rule ended; communist victories followed by prolonged regional war",
+            "lbl": "Outcome / present status"
           },
           {
-            "val": "Millions killed across several connected wars",
-            "lbl": "Casualties / human cost"
+            "val": "Human cost",
+            "lbl": "Well over four million killed across connected wars and genocide; tens of millions displaced or otherwise affected",
+            "full": true
           },
           {
-            "val": "Colonial rule ended and communist governments prevailed in much of Indochina, but regional wars continued after the fall of Saigon.",
-            "lbl": "Lasting legacy",
+            "val": "Final assessment",
+            "lbl": "Colonial rule ended and communist governments prevailed in Vietnam and Laos, but Indochina passed through several connected wars before a regional settlement emerged. France's defeat at Điện Biên Phủ ended the colonial war; the Vietnam War internationalized the struggle; Cambodia suffered civil war, Khmer Rouge genocide, Vietnamese invasion, and occupation; and Laos endured bombing, revolution, and displacement. Across the connected wars and genocide, well over four million people were killed, with exact aggregate estimates varying because conflicts overlap. Tens of millions were displaced or exposed to bombing, famine, detention, and unexploded ordnance.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Indochina_1979_map_de.svg/1280px-Indochina_1979_map_de.svg.png",
-        "cap": "The outcome and legacy of the Indochina Wars"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dien_Bien_Phu_1954_French_prisoners.jpg/1280px-Dien_Bien_Phu_1954_French_prisoners.jpg",
+        "cap": "Visual reference for Outcome and Legacy."
       }
     ]
   }

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "us-nk-summit-2018",
+    "name": "US–North Korea Summit",
+    "date": "June 12 2018",
+    "location": "Singapore",
+    "coordinates": {
+      "lat": 1.3521,
+      "lng": 103.8198
+    },
+    "summary": "The first meeting between a U.S. president and North Korea's leader took place."
+  },
+  {
+    "id": "cambridge-analytica-2018",
+    "name": "Facebook–Cambridge Analytica Scandal",
+    "date": "March 17 2018",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "A data privacy scandal involving millions of users sparked global concern."
+  },
+  {
+    "id": "world-cup-2018",
+    "name": "FIFA World Cup",
+    "date": "June 14 2018",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Russia hosted the FIFA World Cup."
+  },
+  {
+    "id": "thai-cave-2018",
+    "name": "Thai Cave Rescue",
+    "date": "July 10 2018",
+    "location": "Thailand",
+    "coordinates": {
+      "lat": 19.9167,
+      "lng": 99.8333
+    },
+    "summary": "A trapped youth soccer team was rescued after a massive international effort."
+  },
+  {
+    "id": "parkland-shooting-2018",
+    "name": "Parkland School Shooting",
+    "date": "February 14 2018",
+    "location": "Florida, USA",
+    "coordinates": {
+      "lat": 26.3045,
+      "lng": -80.2706
+    },
+    "summary": "A school shooting led to nationwide gun control debates."
+  },
+  {
+    "id": "elon-falcon-heavy-2018",
+    "name": "Falcon Heavy First Launch",
+    "date": "February 6 2018",
+    "location": "USA",
+    "coordinates": {
+      "lat": 28.5729,
+      "lng": -80.649
+    },
+    "summary": "SpaceX successfully launched Falcon Heavy, the most powerful operational rocket at the time."
+  }
+]

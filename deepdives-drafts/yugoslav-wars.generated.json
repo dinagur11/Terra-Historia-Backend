@@ -1,0 +1,530 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1991,
+    "date": "1991-06-27",
+    "title": "From Postwar Yugoslavia to Yugoslav Wars",
+    "sub": "Connection and background to Yugoslav Wars",
+    "view": {
+      "center": [
+        45.4347,
+        17.4835
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Belgrade",
+        "latlng": [
+          44.8125,
+          20.4612
+        ],
+        "type": "target",
+        "description": "The federal capital and Milošević's centralizing politics stood at the center of Yugoslavia's crisis."
+      },
+      {
+        "label": "Ljubljana",
+        "latlng": [
+          46.0569,
+          14.5058
+        ],
+        "type": "major",
+        "description": "Slovenia's independence opened the first armed phase of dissolution."
+      },
+      {
+        "label": "Zagreb",
+        "latlng": [
+          45.815,
+          15.9819
+        ],
+        "type": "major",
+        "description": "Croatia's independence and Serb rebellion turned dissolution into a much larger war."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Postwar Yugoslavia to Yugoslav Wars",
+        "img": "https://www.nationalww2museum.org/sites/default/files/styles/wide_large/public/2021-09/Partisans%20liberate%20Sarajevo%2C%206%20April%201945%20-%20Wikimedia%20Commons.jpg?h=dec22bcf",
+        "cap": "Visual reference for From Postwar Yugoslavia to Yugoslav Wars.",
+        "body": "After Tito's death, economic crisis, weakening federal institutions, and competing nationalisms destabilized socialist Yugoslavia. Serbian leader Slobodan Milosevic's centralizing project intensified fears in other republics.\n\nThe wars determined whether republics could leave Yugoslavia and whether borders would be changed by force, while civilians faced ethnic cleansing, siege warfare, and mass atrocities.\n\nDebt, inflation, constitutional paralysis, and competing republican leaderships weakened the federation after Tito. Milošević's centralizing use of Serbian institutions and the Yugoslav army intensified fears elsewhere, while nationalist leaders increasingly treated mixed populations and republican borders as security threats.",
+        "stats": [
+          {
+            "val": "1991-2001",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "The wars determined whether republics could leave Yugoslavia and whether borders would be changed by force, while civilians faced ethnic cleansing, siege warfare, and mass atrocities.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ten-day-war",
+    "year": 1991,
+    "date": "1991-06-27",
+    "title": "Ten-Day War in Slovenia",
+    "sub": "Part of Yugoslav Wars",
+    "view": {
+      "center": [
+        46.27845,
+        14.6538
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Ljubljana",
+        "latlng": [
+          46.0569,
+          14.5058
+        ],
+        "type": "target",
+        "description": "Slovenia's government coordinated resistance to the Yugoslav People's Army."
+      },
+      {
+        "label": "Brnik Airport",
+        "latlng": [
+          46.2237,
+          14.4576
+        ],
+        "type": "major",
+        "description": "The airport and border crossings became key objectives during the brief war."
+      },
+      {
+        "label": "Holmec",
+        "latlng": [
+          46.5,
+          14.85
+        ],
+        "type": "major",
+        "description": "The border post saw one of the conflict's best-known engagements."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ten-Day War in Slovenia",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Teritorialci_so_z_armbrustom_zadeli_tank_v_kri%C5%BEi%C5%A1%C4%8Du_pred_MMP_Ro%C5%BEna_Dolina..jpg",
+        "cap": "Visual reference for Ten-Day War in Slovenia.",
+        "body": "The Yugoslav People's Army attempted to reverse Slovenia's declaration of independence but withdrew after brief fighting and European mediation.\n\nSlovenia's cohesive institutions, limited Serb minority, and control of border posts made the conflict difficult for the federal army to escalate politically. The Brioni Agreement enabled a JNA withdrawal and demonstrated that Yugoslavia could no longer compel every republic to remain.",
+        "stats": [
+          {
+            "val": "27 June-7 July 1991",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "croatian-war",
+    "year": 1991,
+    "date": "1991-08-25",
+    "title": "War in Croatia",
+    "sub": "Part of Yugoslav Wars",
+    "view": {
+      "center": [
+        43.997,
+        17.5983
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Vukovar",
+        "latlng": [
+          45.3433,
+          18.9997
+        ],
+        "type": "target",
+        "description": "The siege and destruction of Vukovar became a symbol of the Croatian war."
+      },
+      {
+        "label": "Knin",
+        "latlng": [
+          44.0408,
+          16.1969
+        ],
+        "type": "major",
+        "description": "Knin became the political center of the Serb-held Krajina."
+      },
+      {
+        "label": "Dubrovnik",
+        "latlng": [
+          42.6507,
+          18.0944
+        ],
+        "type": "major",
+        "description": "The siege of Dubrovnik drew international attention to attacks on civilians and heritage."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "War in Croatia",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik_Wartime_Stradun_(cropped).jpg",
+        "cap": "Historical overview: War in Croatia",
+        "body": "Serb forces backed by the Yugoslav army seized territory as Croatia fought for independence. The siege and destruction of Vukovar became a symbol of the war's brutality.\n\nCroatia's war was longer because substantial Serb communities, JNA support, and contested territory made separation inseparable from borders. Vukovar, Dubrovnik, Krajina, and mass displacement internationalized the crisis and introduced patterns later repeated in Bosnia.",
+        "stats": [
+          {
+            "val": "Vukovar fell in November 1991",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bosnian-war",
+    "year": 1992,
+    "date": "1992-04-06",
+    "title": "Bosnian War Begins",
+    "sub": "Part of Yugoslav Wars",
+    "view": {
+      "center": [
+        44.41855,
+        18.00485
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Sarajevo",
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "type": "target",
+        "description": "The siege of Sarajevo became the Bosnian War's most sustained urban ordeal."
+      },
+      {
+        "label": "Prijedor",
+        "latlng": [
+          44.9808,
+          16.713
+        ],
+        "type": "major",
+        "description": "Detention camps and expulsions around Prijedor exemplified ethnic cleansing."
+      },
+      {
+        "label": "Srebrenica",
+        "latlng": [
+          44.1075,
+          19.2967
+        ],
+        "type": "major",
+        "description": "The 1995 genocide became the war's gravest single atrocity."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Bosnian War Begins",
+        "img": "https://www.irmct.org/specials/war-bosnia/img/01_bijeljina.jpg",
+        "cap": "Visual reference for Bosnian War Begins.",
+        "body": "Bosnia's independence brought war among Bosniak, Serb, and Croat forces. Bosnian Serb campaigns created detention camps, expelled populations, and subjected Sarajevo to a prolonged siege.\n\nBosnia's mixed geography made clean territorial separation impossible without siege, detention, expulsion, and massacre. The war produced the largest death toll of Yugoslavia's breakup, the Srebrenica genocide, and a sustained international effort to keep Bosnia as one state.",
+        "stats": [
+          {
+            "val": "1992-1995",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nato-bosnia",
+    "year": 1995,
+    "date": "1995-08-30",
+    "title": "NATO Intervenes in Bosnia",
+    "sub": "Part of Yugoslav Wars",
+    "view": {
+      "center": [
+        43.8365,
+        18.4899
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Pale",
+        "latlng": [
+          43.8167,
+          18.5667
+        ],
+        "type": "target",
+        "description": "NATO struck Bosnian Serb military targets around the wartime leadership center."
+      },
+      {
+        "label": "Sarajevo",
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "type": "major",
+        "description": "Attacks on Sarajevo and UN safe areas drove the shift toward sustained intervention."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "NATO Intervenes in Bosnia",
+        "img": "https://warontherocks.com/wp-content/uploads/2022/08/EUFOR-troops.jpg?v=1660240433",
+        "cap": "Visual reference for NATO Intervenes in Bosnia.",
+        "body": "After years of failed diplomacy and atrocities including the Srebrenica genocide, NATO's Operation Deliberate Force struck Bosnian Serb positions and helped create conditions for the Dayton peace agreement.\n\nOperation Deliberate Force combined with Bosnian and Croatian ground advances to reduce Bosnian Serb leverage. The resulting pressure did not settle every grievance, but it created the military conditions under which all parties accepted negotiations at Dayton.",
+        "stats": [
+          {
+            "val": "Operation Deliberate Force",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kosovo-war",
+    "year": 1998,
+    "date": "1998-02-28",
+    "title": "Kosovo War",
+    "sub": "Part of Yugoslav Wars",
+    "view": {
+      "center": [
+        43.63925,
+        20.81335
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Pristina",
+        "latlng": [
+          42.6629,
+          21.1655
+        ],
+        "type": "target",
+        "description": "Kosovo's capital became the political center of the conflict and postwar UN administration."
+      },
+      {
+        "label": "Račak",
+        "latlng": [
+          42.466,
+          21.007
+        ],
+        "type": "major",
+        "description": "The Račak massacre transformed international diplomacy before NATO intervention."
+      },
+      {
+        "label": "Belgrade",
+        "latlng": [
+          44.8125,
+          20.4612
+        ],
+        "type": "major",
+        "description": "NATO strikes targeted Yugoslav military and state infrastructure, including in the capital."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Kosovo War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Bllace_refugee_camp.jpg",
+        "cap": "Historical overview: Kosovo War",
+        "body": "Conflict between Serbian forces and the Kosovo Liberation Army escalated into widespread displacement and abuses. After diplomacy failed, NATO launched an air campaign in March 1999.\n\nNATO intervention forced Yugoslav forces to withdraw from Kosovo and placed the territory under international administration. It also established a disputed precedent for intervention without explicit new Security Council authorization and was followed by further displacement and reprisals against Serbs and Roma.",
+        "stats": [
+          {
+            "val": "1998-1999",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "milosevic-falls",
+    "year": 2000,
+    "date": "2000-10-05",
+    "title": "Milosevic Falls",
+    "sub": "Part of Yugoslav Wars",
+    "view": {
+      "center": [
+        44.8137,
+        20.45885
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Federal Assembly, Belgrade",
+        "latlng": [
+          44.8106,
+          20.4572
+        ],
+        "type": "target",
+        "description": "Mass protesters stormed the federal parliament after Milošević refused to concede electoral defeat."
+      },
+      {
+        "label": "Republic Square",
+        "latlng": [
+          44.8168,
+          20.4605
+        ],
+        "type": "major",
+        "description": "Central Belgrade filled with demonstrators during the October 2000 uprising."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Milosevic Falls",
+        "img": "https://ichef.bbci.co.uk/images/ic/1200x675/p0d6r6wb.jpg",
+        "cap": "Visual reference for Milosevic Falls.",
+        "body": "Mass protests forced Milosevic to concede electoral defeat. His removal opened Serbia toward democratic transition and cooperation with international war-crimes proceedings.\n\nThe October uprising defended an electoral result rather than winning a battlefield. Milošević's removal enabled extradition and closer ties with Europe, but it did not erase nationalist institutions, economic damage, or unresolved questions over Kosovo and Montenegro.",
+        "stats": [
+          {
+            "val": "5 October 2000",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ohrid-agreement",
+    "year": 2001,
+    "date": "2001-08-13",
+    "title": "Ohrid Framework Agreement",
+    "sub": "Part of Yugoslav Wars",
+    "view": {
+      "center": [
+        41.565,
+        21.1135
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Ohrid",
+        "latlng": [
+          41.1231,
+          20.8016
+        ],
+        "type": "target",
+        "description": "Negotiations produced a framework for minority rights and an end to the Macedonian conflict."
+      },
+      {
+        "label": "Tetovo",
+        "latlng": [
+          42.0069,
+          20.9715
+        ],
+        "type": "major",
+        "description": "Tetovo and nearby mountains were central to fighting between Macedonian forces and Albanian insurgents."
+      },
+      {
+        "label": "Skopje",
+        "latlng": [
+          41.9981,
+          21.4254
+        ],
+        "type": "major",
+        "description": "The agreement reshaped state institutions and language rights from the capital."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ohrid Framework Agreement",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Aneks_kon_ramkoven_dogovor.jpg",
+        "cap": "Historical overview: Ohrid Framework Agreement",
+        "body": "Western mediation helped end fighting between Macedonian forces and ethnic Albanian insurgents, closing the last major armed phase of Yugoslavia's dissolution.\n\nThe agreement ended the Macedonian insurgency through decentralization, language rights, and greater Albanian participation in state institutions. Its power-sharing model prevented the final major conflict of Yugoslav dissolution from expanding into another prolonged war.",
+        "stats": [
+          {
+            "val": "13 August 2001",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2001,
+    "date": "2001-08-13",
+    "title": "Conflict Summary: Yugoslav Wars",
+    "sub": "Final summary of Yugoslav Wars",
+    "view": {
+      "center": [
+        44.3599,
+        17.83565
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Ljubljana",
+        "latlng": [
+          46.0569,
+          14.5058
+        ],
+        "type": "major",
+        "description": "Slovenia's short war opened the armed breakup of Yugoslavia."
+      },
+      {
+        "label": "Vukovar",
+        "latlng": [
+          45.3433,
+          18.9997
+        ],
+        "type": "major",
+        "description": "Vukovar represents the destruction and displacement of the Croatian war."
+      },
+      {
+        "label": "Sarajevo",
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "type": "target",
+        "description": "Sarajevo represents siege warfare and the international struggle to preserve Bosnia."
+      },
+      {
+        "label": "Pristina",
+        "latlng": [
+          42.6629,
+          21.1655
+        ],
+        "type": "major",
+        "description": "Kosovo represents the final major war, NATO intervention, and unresolved status questions."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Yugoslav Wars",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Collage%20Yugoslav%20wars.jpg",
+        "cap": "Historical overview: Conflict Summary: Yugoslav Wars",
+        "body": "Yugoslavia dissolved into successor states after interconnected wars in Slovenia, Croatia, Bosnia and Herzegovina, Kosovo, southern Serbia, and North Macedonia. The conflicts killed about 130,000 people overall and displaced millions. The Bosnian War accounted for roughly 100,000 deaths, the Croatian war around 20,000, and the Kosovo conflict more than 13,000 killed or missing, with smaller totals in the other theaters. Ethnic cleansing, siege warfare, genocide, detention camps, and mass displacement transformed the region. International courts established extensive records of crimes, while NATO intervention and Western-backed settlements helped end the largest wars without fully resolving every constitutional and status dispute.",
+        "stats": [
+          {
+            "val": "Yugoslavia dissolved and successor states established",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "About 130,000 killed across the wars and millions displaced",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Yugoslavia dissolved into successor states after interconnected wars in Slovenia, Croatia, Bosnia and Herzegovina, Kosovo, southern Serbia, and North Macedonia. The conflicts killed about 130,000 people overall and displaced millions. The Bosnian War accounted for roughly 100,000 deaths, the Croatian war around 20,000, and the Kosovo conflict more than 13,000 killed or missing, with smaller totals in the other theaters. Ethnic cleansing, siege warfare, genocide, detention camps, and mass displacement transformed the region. International courts established extensive records of crimes, while NATO intervention and Western-backed settlements helped end the largest wars without fully resolving every constitutional and status dispute.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

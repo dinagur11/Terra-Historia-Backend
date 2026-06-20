@@ -1,0 +1,112 @@
+[
+  {
+    "id": "zimmermann-telegram-1917-1",
+    "name": "Zimmermann Telegram",
+    "date": "January 1917",
+    "location": "Washington, D.C.",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "WWI: Britain reveals Germany's proposal for Mexico to join a war against the United States. The telegram helps shift American opinion toward intervention."
+  },
+  {
+    "id": "unrestricted-submarine-warfare-1917-2",
+    "name": "Germany Resumes Unrestricted Submarine Warfare",
+    "date": "February 1 1917",
+    "location": "North Atlantic",
+    "coordinates": {
+      "lat": 45,
+      "lng": -30
+    },
+    "summary": "WWI: Germany resumes unrestricted submarine warfare, gambling it can starve Britain before the United States can mobilize."
+  },
+  {
+    "id": "february-revolution-1917-3",
+    "name": "February Revolution",
+    "date": "March 1917",
+    "location": "Petrograd",
+    "coordinates": {
+      "lat": 59.9343,
+      "lng": 30.3351
+    },
+    "summary": "WWI / Russia: Food shortages, war exhaustion, and mutiny in Petrograd force Tsar Nicholas II to abdicate, creating a revolutionary power vacuum."
+  },
+  {
+    "id": "us-enters-wwi-1917-4",
+    "name": "United States Enters World War I",
+    "date": "April 6 1917",
+    "location": "Washington, D.C.",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "WWI: The United States declares war on Germany, bringing vast future manpower and industrial power to the Entente."
+  },
+  {
+    "id": "arras-1917-5",
+    "name": "Battle of Arras",
+    "date": "April 9 1917",
+    "location": "Arras",
+    "coordinates": {
+      "lat": 50.291,
+      "lng": 2.777
+    },
+    "summary": "WWI: British and Canadian forces attack near Arras; Canadian troops capture Vimy Ridge, while the wider offensive stalls."
+  },
+  {
+    "id": "nivelle-offensive-1917-6",
+    "name": "Nivelle Offensive",
+    "date": "April 16 1917",
+    "location": "Chemin des Dames",
+    "coordinates": {
+      "lat": 49.44,
+      "lng": 3.72
+    },
+    "summary": "WWI: France's Nivelle Offensive fails at enormous cost, triggering mutinies in the French Army and forcing a change in command."
+  },
+  {
+    "id": "passchendaele-1917-7",
+    "name": "Battle of Passchendaele",
+    "date": "July 31 1917",
+    "location": "Passchendaele",
+    "coordinates": {
+      "lat": 50.9008,
+      "lng": 3.021
+    },
+    "summary": "WWI: British and Commonwealth troops fight through mud and shellfire in the Third Battle of Ypres, gaining little ground for heavy losses."
+  },
+  {
+    "id": "caporetto-1917-8",
+    "name": "Battle of Caporetto",
+    "date": "October 24 1917",
+    "location": "Kobarid",
+    "coordinates": {
+      "lat": 46.248,
+      "lng": 13.579
+    },
+    "summary": "WWI: German and Austro-Hungarian forces break through Italian lines at Caporetto, forcing a massive Italian retreat to the Piave."
+  },
+  {
+    "id": "october-revolution-1917-9",
+    "name": "October Revolution",
+    "date": "November 7 1917",
+    "location": "Petrograd",
+    "coordinates": {
+      "lat": 59.9343,
+      "lng": 30.3351
+    },
+    "summary": "WWI / Russia: Bolsheviks overthrow the Provisional Government, promising peace, land, and bread. Russia moves toward civil war and withdrawal from WWI."
+  },
+  {
+    "id": "balfour-declaration-1917-10",
+    "name": "Balfour Declaration",
+    "date": "November 2 1917",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "WWI diplomacy: Britain declares support for a national home for the Jewish people in Palestine, while saying civil and religious rights of existing non-Jewish communities should not be prejudiced."
+  }
+]

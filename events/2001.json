@@ -1,0 +1,68 @@
+[
+  {
+    "id": "wikipedia-launch-2001",
+    "name": "Wikipedia Launched",
+    "date": "January 15 2001",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Wikipedia was launched as a free, collaborative encyclopedia."
+  },
+  {
+    "id": "nepal-royal-massacre-2001",
+    "name": "Nepal Royal Massacre",
+    "date": "June 1 2001",
+    "location": "Kathmandu, Nepal",
+    "coordinates": {
+      "lat": 27.7172,
+      "lng": 85.324
+    },
+    "summary": "Members of Nepal’s royal family were killed in a palace massacre."
+  },
+  {
+    "id": "9-11-attacks-2001",
+    "name": "September 11 Attacks",
+    "date": "September 11 2001",
+    "location": "New York City, USA",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Terrorist attacks destroyed the World Trade Center and damaged the Pentagon, killing thousands."
+  },
+  {
+    "id": "war-in-afghanistan-2001",
+    "name": "War in Afghanistan Begins",
+    "date": "October 7 2001",
+    "location": "Afghanistan",
+    "coordinates": {
+      "lat": 33.9391,
+      "lng": 67.71
+    },
+    "summary": "The United States launched military operations in Afghanistan following the 9/11 attacks."
+  },
+  {
+    "id": "apple-ipod-2001",
+    "name": "Apple Introduces iPod",
+    "date": "October 23 2001",
+    "location": "California, USA",
+    "coordinates": {
+      "lat": 37.3349,
+      "lng": -122.009
+    },
+    "summary": "Apple introduced the iPod, revolutionizing portable music."
+  },
+  {
+    "id": "china-wto-2001",
+    "name": "China Joins WTO",
+    "date": "December 11 2001",
+    "location": "China",
+    "coordinates": {
+      "lat": 35.8617,
+      "lng": 104.1954
+    },
+    "summary": "China joined the World Trade Organization, accelerating its global economic integration."
+  }
+]

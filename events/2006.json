@@ -1,0 +1,57 @@
+[
+  {
+    "id": "twitter-launch-2006",
+    "name": "Twitter Launched",
+    "date": "March 21 2006",
+    "location": "USA",
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "summary": "Twitter was launched, introducing a new form of short-message social media communication."
+  },
+  {
+    "id": "pluto-dwarf-planet-2006",
+    "name": "Pluto Reclassified as Dwarf Planet",
+    "date": "August 24 2006",
+    "location": "Prague, Czech Republic",
+    "coordinates": {
+      "lat": 50.0755,
+      "lng": 14.4378
+    },
+    "summary": "The International Astronomical Union reclassified Pluto as a dwarf planet."
+  },
+  {
+    "id": "lebanon-war-2006",
+    "name": "Israel–Hezbollah War",
+    "date": "July 12 2006",
+    "location": "Lebanon / Israel",
+    "coordinates": {
+      "lat": 33.8547,
+      "lng": 35.8623
+    },
+    "summary": "A conflict between Israel and Hezbollah erupted, causing significant destruction in Lebanon and northern Israel."
+  },
+  {
+    "id": "saddam-executed-2006",
+    "name": "Execution of Saddam Hussein",
+    "date": "December 30 2006",
+    "location": "Baghdad, Iraq",
+    "coordinates": {
+      "lat": 33.3152,
+      "lng": 44.3661
+    },
+    "summary": "Former Iraqi leader Saddam Hussein was executed after being convicted of crimes against humanity."
+  },
+  {
+    "id": "north-korea-nuclear-test-2006",
+    "name": "North Korea Conducts First Nuclear Test",
+    "date": "October 9 2006",
+    "location": "North Korea",
+    "coordinates": {
+      "lat": 40.3399,
+      "lng": 127.5101
+    },
+    "summary": "North Korea carried out its first nuclear weapons test, escalating global tensions."
+  }
+]

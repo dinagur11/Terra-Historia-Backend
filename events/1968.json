@@ -1,0 +1,112 @@
+[
+  {
+    "id": "prague-spring-1968-1",
+    "name": "Prague Spring",
+    "date": "January 5 1968",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "Prague Spring: Alexander Dubček is chosen as leader of the Communist Party of Czechoslovakia. The Prague Spring (Czech: Pražské jaro; Slovak: Pražská jar) was a period of political liberalization and mass protest in the Czechoslovak Socialist Republic. It began on 5 January 1968, when reformist Alexander Dubček was elected First Secretary of the Communist Party of Czechoslovakia (KSČ), and continued until 21 August 1968, when the Soviet Union and four other Warsaw Pact members (Bulgaria, East Germany, Hungary and Poland) invaded the country to suppress the reforms."
+  },
+  {
+    "id": "vietnam-war-1968-2",
+    "name": "Vietnam War",
+    "date": "January 15 1968",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War: Battle of Khe Sanh – One of the most publicized and controversial battles of the war begins, ending on April 8. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies."
+  },
+  {
+    "id": "phong-nhi-and-phong-nhat-massacre-1968-3",
+    "name": "Phong Nhị and Phong Nhất massacre",
+    "date": "February 12 1968",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War: Phong Nhị and Phong Nhất massacre. The Phong Nhị and Phong Nhất massacre (Korean: 퐁니·퐁넛 양민학살 사건, Vietnamese: Thảm sát Phong Nhất và Phong Nhị) was a massacre of unarmed civilians in the villages of Phong Nhị and Phong Nhất, Điện Bàn District of Quảng Nam Province in South Vietnam reported to have been conducted by the 2nd Marine Brigade of the Republic of Korea Marines (ROKMC) during the Vietnam War on 12 February 1968."
+  },
+  {
+    "id": "ha-my-massacre-1968-4",
+    "name": "Hà My massacre",
+    "date": "February 25 1968",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War: Hà My massacre. The Hà My Massacre was a massacre purportedly conducted by the South Korean Marines on 25 February 1968 of unarmed civilians in Hà My village, Điện Dương commune, Điện Bàn District, Quảng Nam Province in South Vietnam."
+  },
+  {
+    "id": "my-lai-massacre-1968-5",
+    "name": "My Lai massacre",
+    "date": "March 13 1968",
+    "location": "My Lai massacre",
+    "coordinates": {
+      "lat": 15.17833333,
+      "lng": 108.86944444
+    },
+    "summary": "Vietnam War – My Lai massacre: American troops kill between 347 and 504 unarmed civilians and rape women and children. The story, initially covered up as a military victory, will first become public in November 1969 and will help undermine public support for the U.S. efforts in Vietnam."
+  },
+  {
+    "id": "assassination-of-martin-luther-king-jr-1968-6",
+    "name": "Assassination of Martin Luther King Jr.",
+    "date": "April 4 1968",
+    "location": "Assassination of Martin Luther King Jr.",
+    "coordinates": {
+      "lat": 35.1345,
+      "lng": -90.0576
+    },
+    "summary": "Civil rights leader Martin Luther King Jr. is assassinated in Memphis, triggering mourning and unrest across the United States. CST, Martin Luther King Jr., an American civil rights activist, was fatally shot at the Lorraine Motel in Memphis, Tennessee. Joseph's Hospital, where he was pronounced dead at 7:05 p.m. at age 39."
+  },
+  {
+    "id": "surgeons-at-the-hopital-de-la-pitie-paris-perform-europes-first-heart-1968-7",
+    "name": "Surgeons at the Hôpital de la Pitié, Paris, perform Europe's first heart...",
+    "date": "April 18 1968",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Surgeons at the Hôpital de la Pitié, Paris, perform Europe's first heart transplant, on Clovis Roblain. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "warsaw-pact-invasion-of-czechoslovakia-1968-8",
+    "name": "Warsaw Pact invasion of Czechoslovakia",
+    "date": "August 20 1968",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "21 – Warsaw Pact invasion of Czechoslovakia: The 'Prague Spring' of political liberalization ends, as 750,000 Warsaw Pact troops and 6,500 tanks with 800 aircraft invade Czechoslovakia, the largest military operation in Europe since the end of World War II. On 20–21 August 1968, the Czechoslovak Socialist Republic was jointly invaded by four fellow Warsaw Pact countries: the Soviet Union, the Polish People's Republic, the People's Republic of Bulgaria, and the Hungarian People's Republic."
+  },
+  {
+    "id": "30-1968-democratic-national-convention-protests-1968-9",
+    "name": "30 – 1968 Democratic National Convention protests",
+    "date": "August 22 1968",
+    "location": "Vietnam",
+    "coordinates": {
+      "lat": 21.0285,
+      "lng": 105.8542
+    },
+    "summary": "30 – 1968 Democratic National Convention protests: Police clash with anti-Vietnam War protesters in Chicago outside the 1968 Democratic National Convention, which nominates Hubert Humphrey for U.S. president and Edmund Muskie for vice president. The riots and subsequent trials are an essential part of the activism of the Youth International Party."
+  },
+  {
+    "id": "apollo-program-1968-10",
+    "name": "Apollo program",
+    "date": "October 10 1968",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Apollo program: NASA launches Apollo 7, the first crewed Apollo mission (Wally Schirra, Donn Eisele, Walter Cunningham). Mission goals include the first live television broadcast from orbit and simulating lunar module rendezvous and docking, using the S-IVB rocket stage as a test target. The Apollo program, also known as Project Apollo, was the United States human spaceflight program led by NASA, which landed the first humans on the Moon in 1969."
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1987,
+    "date": "1987-12-09",
+    "title": "From Six-Day War to First Intifada",
+    "sub": "Connection and background to First Intifada",
+    "view": {
+      "center": [
+        31.75,
+        35
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Gaza Strip",
+        "latlng": [
+          31.45,
+          34.39
+        ],
+        "type": "major",
+        "description": "Gaza became one of the uprising's first and most intense centers."
+      },
+      {
+        "label": "Judea and Samaria",
+        "latlng": [
+          31.9,
+          35.2
+        ],
+        "type": "target",
+        "description": "Road attacks, unrest, and militant organization spread across the West Bank."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Six-Day War to First Intifada",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Intifada_in_Gaza_Strip%2C_1987_V_Dan_Hadani_Archive.jpg/1920px-Intifada_in_Gaza_Strip%2C_1987_V_Dan_Hadani_Archive.jpg",
+        "cap": "Historical overview: From Six-Day War to First Intifada",
+        "body": "The First Intifada grew out of years of Israeli rule in Gaza, Judea, and Samaria, but it also followed a sharp rise in attacks and militant organization during 1987. Israeli accounts emphasized that the months before the outbreak included murders, stabbing attacks, and a general deterioration in security.\n\nThe uprising began with civil unrest, strikes, stone throwing, firebombs, and road attacks, then shifted toward more organized violence and terrorism. For Israel, the challenge was not simply protest; it was the emergence of a sustained campaign that threatened soldiers, civilians, roads, and the possibility of negotiated order.",
+        "stats": [
+          {
+            "val": "Six-Day War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "1987-1993",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "Israel sought to restore security and suppress attacks while facing growing political pressure; Palestinians sought to end occupation and establish an independent political future.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jabalia-outbreak",
+    "year": 1987,
+    "date": "1987-12-09",
+    "title": "Uprising Begins in Jabalia",
+    "sub": "Part of First Intifada",
+    "view": {
+      "center": [
+        31.53,
+        34.48
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Jabalia",
+        "latlng": [
+          31.53,
+          34.48
+        ],
+        "type": "major",
+        "description": "The initial riots in Jabalia spread after rumor and anger transformed a traffic accident into a wider confrontation."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Uprising Begins in Jabalia",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Intifada_in_Gaza_Strip%2C_1987_V_Dan_Hadani_Archive.jpg/1920px-Intifada_in_Gaza_Strip%2C_1987_V_Dan_Hadani_Archive.jpg",
+        "cap": "Historical overview: Uprising Begins in Jabalia",
+        "body": "The Jabalia outbreak followed a traffic accident that rumors quickly turned into a claim of deliberate Israeli revenge. Local anger spread fast, but the escalation also rested on a prior security breakdown: armed factions, released prisoners, and radical organizers had already helped create a combustible environment.\n\nFrom Israel's perspective, the first days showed how quickly rumor, incitement, and organized confrontation could turn into a wider campaign. The issue was not a population peacefully asking for coexistence; it was a movement in which mass protest, intimidation, and violent attacks soon mixed together and made normal civilian security impossible.",
+        "stats": [
+          {
+            "val": "9 Dec 1987",
+            "lbl": "Uprising begins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "civil-disobedience",
+    "year": 1988,
+    "date": "1988-01-01",
+    "title": "Strikes and Civil Disobedience",
+    "sub": "Part of First Intifada",
+    "view": {
+      "center": [
+        31.86,
+        34.86
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Gaza City",
+        "latlng": [
+          31.5,
+          34.47
+        ],
+        "type": "target",
+        "description": "Strikes and committees gave the uprising a civilian structure while violence and intimidation grew around it."
+      },
+      {
+        "label": "Nablus",
+        "latlng": [
+          32.22,
+          35.26
+        ],
+        "type": "minor",
+        "description": "West Bank cities became centers of unrest, roadblocks, and clashes with Israeli forces."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Strikes and Civil Disobedience",
+        "img": "https://www.aljazeera.com/wp-content/uploads/2010/08/2010831155918742734_20.jpeg?resize=1200%2C675",
+        "cap": "Historical overview: Strikes and Civil Disobedience",
+        "body": "Strikes, boycotts, and neighborhood committees gave the uprising a broad civilian surface, but they also operated alongside coercion, stone attacks, firebombs, and punishment of Palestinians suspected of cooperating with Israel. That combination made the conflict hard to treat as ordinary civil protest.\n\nIsraeli forces faced daily friction in crowded streets and refugee camps while trying to keep roads, settlements, army positions, and Israeli civilians secure. The episode matters because it shows the dual character of the uprising: political mobilization on one side, and a growing security campaign on the other.",
+        "stats": [
+          {
+            "val": "Grassroots committees",
+            "lbl": "Core organizing network"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hamas-formed",
+    "year": 1988,
+    "date": "1988-08-18",
+    "title": "Rise of Hamas",
+    "sub": "Part of First Intifada",
+    "view": {
+      "center": [
+        31.5,
+        34.47
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Gaza",
+        "latlng": [
+          31.5,
+          34.47
+        ],
+        "type": "major",
+        "description": "Hamas emerged from Gaza's Islamist networks and rejected Israel's legitimacy from the start."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Rise of Hamas",
+        "img": "https://www.idf.il/media/qgpdywjx/hamas-3.jpg?width=908&height=586",
+        "cap": "Historical overview: Rise of Hamas",
+        "body": "Hamas emerged from the Muslim Brotherhood's Gaza networks and quickly became the most important Islamist alternative to the PLO. Its charter and early activity rejected Israel's legitimacy and pushed the conflict away from compromise toward religiously framed armed struggle.\n\nFor Israel, Hamas changed the meaning of the uprising. What began as unrest and local organization increasingly included a movement that openly sanctified violence, challenged any negotiated settlement, and built the infrastructure that would later drive suicide bombings and rocket wars.",
+        "stats": [
+          {
+            "val": "1988",
+            "lbl": "Hamas charter published"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "palestinian-declaration",
+    "year": 1988,
+    "date": "1988-11-15",
+    "title": "Palestinian Declaration of Independence",
+    "sub": "Part of First Intifada",
+    "view": {
+      "center": [
+        36.75,
+        3.06
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Algiers",
+        "latlng": [
+          36.75,
+          3.06
+        ],
+        "type": "major",
+        "description": "The PLO declaration in exile gave the uprising a diplomatic frame but did not stop violence on the ground."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Palestinian Declaration of Independence",
+        "img": "https://mppm-palestina.org/sites/default/files/field/image/yasser_arfat_declara_independencia_da_palestina_0.jpg",
+        "cap": "Historical overview: Palestinian Declaration of Independence",
+        "body": "The 1988 declaration gave the PLO a diplomatic platform and helped move parts of the conflict into international forums. Yet for Israelis, declarations were judged against conduct on the ground: violence continued, rejectionist factions gained strength, and many Israelis doubted whether Palestinian leadership would truly end the armed struggle.\n\nThe importance of the declaration is that it opened a diplomatic path without resolving the basic security question. Israel still had to ask whether political language would be matched by control over attacks and recognition of Israel as a permanent state.",
+        "stats": [
+          {
+            "val": "15 Nov 1988",
+            "lbl": "Declaration adopted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madrid-conference",
+    "year": 1991,
+    "date": "1991-10-30",
+    "title": "Madrid Peace Conference",
+    "sub": "Part of First Intifada",
+    "view": {
+      "center": [
+        40.4168,
+        -3.7038
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Madrid",
+        "latlng": [
+          40.4168,
+          -3.7038
+        ],
+        "type": "major",
+        "description": "Madrid moved the conflict into formal diplomacy after years of unrest and regional war."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Madrid Peace Conference",
+        "img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/485963",
+        "cap": "Historical overview: Madrid Peace Conference",
+        "body": "The Madrid Conference brought Israel and Arab representatives into a public diplomatic process after the Gulf War. For Israel, it was a test of whether regional pressure and Palestinian representation could be translated into negotiations rather than continued confrontation.\n\nMadrid did not end violence, but it showed that Israeli security concerns and Palestinian political demands could be placed at the same table. The conference set the stage for later talks while leaving Israelis skeptical that diplomacy alone could restrain armed factions.",
+        "stats": [
+          {
+            "val": "30 Oct 1991",
+            "lbl": "Direct negotiations begin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oslo-accords",
+    "year": 1993,
+    "date": "1993-09-13",
+    "title": "Oslo Accords",
+    "sub": "Part of First Intifada",
+    "view": {
+      "center": [
+        45.1,
+        23
+      ],
+      "zoom": 3
+    },
+    "markers": [
+      {
+        "label": "Oslo",
+        "latlng": [
+          59.9139,
+          10.7522
+        ],
+        "type": "major",
+        "description": "Secret talks created the framework that ended the uprising's main political phase."
+      },
+      {
+        "label": "Jerusalem",
+        "latlng": [
+          31.778,
+          35.235
+        ],
+        "type": "target",
+        "description": "Israeli leaders judged Oslo by whether it could produce real security and recognition."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Oslo Accords",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg",
+        "cap": "Historical overview: Oslo Accords",
+        "body": "The Oslo Accords formally ended the First Intifada's main political phase and created a new framework of Israeli-Palestinian self-government and mutual commitments. Israeli supporters hoped it would convert confrontation into security cooperation and negotiations.\n\nThe weakness was visible from the beginning: rejectionist groups kept attacking, and many Israelis feared that concessions would be interpreted as proof that violence worked. Oslo therefore became both a diplomatic breakthrough and a security gamble.",
+        "stats": [
+          {
+            "val": "13 Sep 1993",
+            "lbl": "Oslo I signed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1993,
+    "date": "1993-09-13",
+    "title": "Conflict Summary: First Intifada",
+    "sub": "Final summary of First Intifada",
+    "view": {
+      "center": [
+        31.75,
+        35
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Gaza and West Bank",
+        "latlng": [
+          31.75,
+          35
+        ],
+        "type": "major",
+        "description": "The uprising reshaped Israeli thinking about security, negotiations, and Palestinian leadership."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: First Intifada",
+        "img": "https://www.arabnews.jp/en/wp-content/uploads/sites/2/2020/07/intifada.jpg",
+        "cap": "Historical overview: Conflict Summary: First Intifada",
+        "body": "The First Intifada forced Israel to confront a prolonged mixture of civil unrest, militant organization, and terrorism in Gaza, Judea, and Samaria. It produced a diplomatic track, but it also strengthened Islamist rejectionism and normalized the idea that violence could extract political gains.\n\nIts legacy is double-edged. The uprising helped lead to Madrid and Oslo, yet the continued attacks after Oslo showed why many Israelis concluded that peace required more than declarations: it required enforceable security, real recognition, and leadership willing to stop armed groups rather than excuse them.",
+        "stats": [
+          {
+            "val": "Uprising suppressed; Oslo process begins",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "About 200 Israelis and roughly 2,000 Palestinians killed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel suppressed the uprising militarily but could not restore the previous political status quo. The Intifada strengthened Palestinian national mobilization and contributed to negotiations, while violence and mistrust persisted into the Oslo period.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ussr-collapse-1991",
+    "name": "Collapse of the Soviet Union",
+    "date": "December 26 1991",
+    "location": "USSR",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "The Soviet Union dissolved into independent republics."
+  },
+  {
+    "id": "gulf-war-1991",
+    "name": "Gulf War",
+    "date": "January 17 1991",
+    "location": "Iraq / Kuwait",
+    "coordinates": {
+      "lat": 29,
+      "lng": 47
+    },
+    "summary": "Coalition forces launched Operation Desert Storm against Iraq."
+  },
+  {
+    "id": "yugoslavia-war-1991",
+    "name": "Yugoslav Wars Begin",
+    "date": "June 25 1991",
+    "location": "Yugoslavia",
+    "coordinates": {
+      "lat": 45.1,
+      "lng": 15.2
+    },
+    "summary": "Wars began following the breakup of Yugoslavia."
+  },
+  {
+    "id": "world-wide-web-1991",
+    "name": "World Wide Web Made Public",
+    "date": "August 6 1991",
+    "location": "CERN",
+    "coordinates": {
+      "lat": 46.233,
+      "lng": 6.055
+    },
+    "summary": "The World Wide Web became publicly accessible."
+  },
+  {
+    "id": "india-economic-1991",
+    "name": "India Economic Reforms",
+    "date": "July 24 1991",
+    "location": "India",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "summary": "India launched major economic liberalization reforms."
+  },
+  {
+    "id": "ukraine-independence-1991",
+    "name": "Ukraine Independence",
+    "date": "August 24 1991",
+    "location": "Ukraine",
+    "coordinates": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "summary": "Ukraine declared independence from the Soviet Union."
+  }
+]

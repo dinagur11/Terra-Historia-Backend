@@ -1,0 +1,68 @@
+[
+  {
+    "id": "us-election-2024",
+    "name": "US Presidential Election",
+    "date": "November 5 2024",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The United States held its presidential election."
+  },
+  {
+    "id": "paris-olympics-2024",
+    "name": "Paris Olympics",
+    "date": "July 26 2024",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Paris hosted the Summer Olympics."
+  },
+  {
+    "id": "ai-regulation-2024",
+    "name": "Global AI Regulation Efforts",
+    "date": "2024",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Governments advanced regulations on artificial intelligence."
+  },
+  {
+    "id": "ukraine-war-2024",
+    "name": "Ukraine War Continues",
+    "date": "2024",
+    "location": "Ukraine",
+    "coordinates": {
+      "lat": 48.3794,
+      "lng": 31.1656
+    },
+    "summary": "The war between Russia and Ukraine continued."
+  },
+  {
+    "id": "middle-east-tensions-2024",
+    "name": "Middle East Conflict Escalations",
+    "date": "2024",
+    "location": "Middle East",
+    "coordinates": {
+      "lat": 31.5,
+      "lng": 34.8
+    },
+    "summary": "Regional tensions escalated amid ongoing conflicts."
+  },
+  {
+    "id": "global-elections-2024",
+    "name": "Global Election Supercycle",
+    "date": "2024",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Multiple major elections took place worldwide."
+  }
+]

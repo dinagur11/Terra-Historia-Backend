@@ -1,0 +1,68 @@
+[
+  {
+    "id": "reagan-inauguration-1981",
+    "name": "Reagan Inaugurated",
+    "date": "January 20 1981",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Ronald Reagan was sworn in as U.S. president."
+  },
+  {
+    "id": "pope-shot-1981",
+    "name": "Pope John Paul II Shot",
+    "date": "May 13 1981",
+    "location": "Vatican City",
+    "coordinates": {
+      "lat": 41.9029,
+      "lng": 12.4534
+    },
+    "summary": "An assassination attempt injured Pope John Paul II."
+  },
+  {
+    "id": "aids-identified-1981",
+    "name": "AIDS Crisis Recognized",
+    "date": "June 5 1981",
+    "location": "USA",
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "summary": "First cases of AIDS were officially reported."
+  },
+  {
+    "id": "ibm-pc-1981",
+    "name": "IBM Personal Computer Released",
+    "date": "August 12 1981",
+    "location": "USA",
+    "coordinates": {
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "summary": "IBM introduced its first personal computer."
+  },
+  {
+    "id": "egypt-assassination-1981",
+    "name": "Anwar Sadat Assassinated",
+    "date": "October 6 1981",
+    "location": "Egypt",
+    "coordinates": {
+      "lat": 30.0444,
+      "lng": 31.2357
+    },
+    "summary": "Egyptian President Sadat was assassinated."
+  },
+  {
+    "id": "space-shuttle-1981",
+    "name": "First Space Shuttle Launch",
+    "date": "April 12 1981",
+    "location": "USA",
+    "coordinates": {
+      "lat": 28.5729,
+      "lng": -80.649
+    },
+    "summary": "NASA launched the first Space Shuttle mission."
+  }
+]

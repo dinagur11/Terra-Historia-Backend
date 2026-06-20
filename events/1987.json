@@ -1,0 +1,68 @@
+[
+  {
+    "id": "inf-treaty-1987",
+    "name": "INF Treaty Signed",
+    "date": "December 8 1987",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The U.S. and USSR agreed to eliminate intermediate-range nuclear missiles."
+  },
+  {
+    "id": "black-monday-1987",
+    "name": "Black Monday Stock Market Crash",
+    "date": "October 19 1987",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Global stock markets crashed dramatically."
+  },
+  {
+    "id": "first-intifada-1987",
+    "name": "First Intifada Begins",
+    "date": "December 9 1987",
+    "location": "Palestinian Territories",
+    "coordinates": {
+      "lat": 31.9,
+      "lng": 35.2
+    },
+    "summary": "A Palestinian uprising against Israeli control began."
+  },
+  {
+    "id": "goodyear-blimp-1987",
+    "name": "Great Storm in UK",
+    "date": "October 15 1987",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "A powerful storm caused major damage in the UK."
+  },
+  {
+    "id": "klaus-barbie-1987",
+    "name": "Klaus Barbie Trial",
+    "date": "July 4 1987",
+    "location": "France",
+    "coordinates": {
+      "lat": 45.764,
+      "lng": 4.8357
+    },
+    "summary": "A Nazi war criminal was convicted of crimes against humanity."
+  },
+  {
+    "id": "simpsons-1987",
+    "name": "The Simpsons Debut",
+    "date": "April 19 1987",
+    "location": "USA",
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "summary": "The Simpsons first appeared on television."
+  }
+]

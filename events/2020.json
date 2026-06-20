@@ -1,0 +1,68 @@
+[
+  {
+    "id": "covid-pandemic-2020",
+    "name": "COVID-19 Declared Pandemic",
+    "date": "March 11 2020",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "WHO declared COVID-19 a global pandemic."
+  },
+  {
+    "id": "george-floyd-2020",
+    "name": "George Floyd Protests",
+    "date": "May 26 2020",
+    "location": "USA",
+    "coordinates": {
+      "lat": 44.9778,
+      "lng": -93.265
+    },
+    "summary": "Protests against police brutality spread worldwide."
+  },
+  {
+    "id": "beirut-2020",
+    "name": "Beirut Explosion",
+    "date": "August 4 2020",
+    "location": "Lebanon",
+    "coordinates": {
+      "lat": 33.8938,
+      "lng": 35.5018
+    },
+    "summary": "A massive explosion devastated Beirut."
+  },
+  {
+    "id": "us-election-2020",
+    "name": "Joe Biden Elected",
+    "date": "November 7 2020",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Joe Biden won the U.S. presidential election."
+  },
+  {
+    "id": "wildfires-2020",
+    "name": "Australian Bushfires",
+    "date": "January 1 2020",
+    "location": "Australia",
+    "coordinates": {
+      "lat": -25.2744,
+      "lng": 133.7751
+    },
+    "summary": "Massive bushfires burned millions of hectares."
+  },
+  {
+    "id": "spaceX-crew-2020",
+    "name": "SpaceX Crew Dragon First Crewed Flight",
+    "date": "May 30 2020",
+    "location": "USA",
+    "coordinates": {
+      "lat": 28.5729,
+      "lng": -80.649
+    },
+    "summary": "First commercial crewed mission to the ISS."
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "iphone-release-2007",
+    "name": "First iPhone Released",
+    "date": "June 29 2007",
+    "location": "USA",
+    "coordinates": {
+      "lat": 37.3349,
+      "lng": -122.009
+    },
+    "summary": "Apple released the first iPhone, revolutionizing smartphones and mobile computing."
+  },
+  {
+    "id": "eu-expansion-2007",
+    "name": "Romania and Bulgaria Join EU",
+    "date": "January 1 2007",
+    "location": "Europe",
+    "coordinates": {
+      "lat": 50.8503,
+      "lng": 4.3517
+    },
+    "summary": "Romania and Bulgaria officially joined the European Union."
+  },
+  {
+    "id": "financial-crisis-begins-2007",
+    "name": "Global Financial Crisis Begins",
+    "date": "August 9 2007",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Credit markets froze as the global financial crisis began, triggered by the U.S. housing market collapse."
+  },
+  {
+    "id": "virginia-tech-shooting-2007",
+    "name": "Virginia Tech Shooting",
+    "date": "April 16 2007",
+    "location": "Virginia, USA",
+    "coordinates": {
+      "lat": 37.2296,
+      "lng": -80.4139
+    },
+    "summary": "A mass shooting at Virginia Tech resulted in 32 deaths, becoming one of the deadliest school shootings in U.S. history."
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2023,
+    "date": "2023-10-08",
+    "title": "From 2006 Lebanon War to Israel-Hezbollah War, 2023-2024",
+    "sub": "Connection and background to Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.11,
+        35.55
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Israel-Lebanon border",
+        "latlng": [
+          33.11,
+          35.55
+        ],
+        "type": "major",
+        "description": "Hezbollah rebuilt along the border after 2006."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From 2006 Lebanon War to Israel-Hezbollah War, 2023-2024",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/2006_Lebanon_War._CLII.jpg",
+        "cap": "Historical overview: From 2006 Lebanon War to Israel-Hezbollah War, 2023-2024",
+        "body": "After 2006, Hezbollah rebuilt far beyond the limits envisioned by Resolution 1701, embedding rockets, anti-tank teams, drones, and command networks in southern Lebanon. Israel prepared for a future war while hoping deterrence would keep the border quiet.\n\nOn October 8, 2023, Hezbollah opened a northern front in support of Hamas. That decision displaced northern Israeli communities and made the return of civilians to their homes a war aim.",
+        "stats": [
+          {
+            "val": "2023-2024",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "Israel sought to return tens of thousands of displaced northern residents and reduce Hezbollah's capacity. Hezbollah sought to pressure Israel while preserving its armed power in Lebanon.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hezbollah-opens-front",
+    "year": 2023,
+    "date": "2023-10-08",
+    "title": "Hezbollah Opens the Northern Front",
+    "sub": "Part of Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.31,
+        35.73
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Mount Dov / Shebaa Farms",
+        "latlng": [
+          33.31,
+          35.73
+        ],
+        "type": "major",
+        "description": "Hezbollah opened fire one day after October 7."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Hezbollah Opens the Northern Front",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/2023_Hezbollah_drill_in_Aaramta_03.jpg",
+        "cap": "Historical overview: Hezbollah Opens the Northern Front",
+        "body": "Hezbollah began firing at Israeli positions and communities one day after Hamas's October 7 attack. The strikes were framed as support for Gaza but functioned as a second front against Israel's north.\n\nFor Israel, the problem was immediate: Hezbollah could not be allowed to make the border unlivable. The opening phase forced Israel to fight defensively while preparing for a larger campaign if diplomacy failed.",
+        "stats": [
+          {
+            "val": "8 October 2023",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "northern-evacuation",
+    "year": 2023,
+    "date": "2023-10-16",
+    "title": "Northern Israel Evacuated",
+    "sub": "Part of Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.207,
+        35.57
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Kiryat Shmona",
+        "latlng": [
+          33.207,
+          35.57
+        ],
+        "type": "major",
+        "description": "Northern communities were evacuated under Hezbollah fire."
+      }
+    ],
+    "slides": [
+      {
+        "title": "Northern Israel Evacuated",
+        "img": "https://img.haarets.co.il/bs/0000018d-97da-d9cc-a5cd-f7fabdcf0000/e5/37/a445fe454218a25afc45caa0b3ec/22031.jpg",
+        "cap": "Historical overview: Northern Israel Evacuated",
+        "body": "Tens of thousands of Israelis left northern communities because Hezbollah fire made normal life impossible. Evacuation turned the war from a border exchange into a national obligation to restore sovereignty and civilian security.\n\nThe empty towns near Lebanon became evidence that deterrence had failed. Israel's later escalation was driven by the need to return citizens home, not by a desire to hold Lebanese territory.",
+        "stats": [
+          {
+            "val": "Tens of thousands displaced",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "majdal-shams",
+    "year": 2024,
+    "date": "2024-07-27",
+    "title": "Majdal Shams Rocket Strike",
+    "sub": "Part of Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.2708,
+        35.772
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Majdal Shams",
+        "latlng": [
+          33.2708,
+          35.772
+        ],
+        "type": "major",
+        "description": "A rocket killed 12 children and teenagers on a soccer field."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Majdal Shams Rocket Strike",
+        "img": "https://static01.nyt.com/images/2024/07/28/multimedia/28israel-scene-01a-czbv/28israel-scene-01a-czbv-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "cap": "Historical overview: Majdal Shams Rocket Strike",
+        "body": "A rocket hit a soccer field in Majdal Shams, killing 12 children and teenagers. Israel and the United States blamed Hezbollah, while Hezbollah denied responsibility.\n\nThe strike shattered the idea that the northern front could be managed indefinitely at low intensity. For Israel, it strengthened the case for direct action against Hezbollah's commanders and launch networks.",
+        "stats": [
+          {
+            "val": "12 young people killed",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pager-attacks",
+    "year": 2024,
+    "date": "2024-09-17",
+    "title": "Pager and Radio Explosions",
+    "sub": "Part of Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.25,
+        35.38
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Southern Lebanon",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "major",
+        "description": "The device explosions disrupted Hezbollah communications across its operating area."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Pager and Radio Explosions",
+        "img": "https://dims.apnews.com/dims4/default/7bcc82b/2147483647/strip/true/crop/2067x1442+0+0/resize/599x418!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F6b%2F409dad5f4915966f7ad092ade54c%2Fap24262643146608.jpg",
+        "cap": "Historical overview: Pager and Radio Explosions",
+        "body": "The pager and radio explosions were an extraordinary intelligence operation against Hezbollah's communications ecosystem. By striking devices used across the organization, Israel demonstrated deep penetration of Hezbollah logistics, procurement, and operational security.\n\nMilitarily, the operation was devastating because it injured operatives, disrupted command routines, and created paranoia inside Hezbollah without requiring a conventional invasion. It was a rare example of intelligence producing battlefield effects at national scale.",
+        "stats": [
+          {
+            "val": "17-18 September 2024",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nasrallah-killed",
+    "year": 2024,
+    "date": "2024-09-27",
+    "title": "Nasrallah Killed",
+    "sub": "Part of Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.85,
+        35.5
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Dahieh, Beirut",
+        "latlng": [
+          33.85,
+          35.5
+        ],
+        "type": "major",
+        "description": "Israel killed Hassan Nasrallah in Hezbollah's underground headquarters area."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Nasrallah Killed",
+        "img": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-19t140342z-435689375-rc2q3aah8i19-rtrmadp-3-israel-palestinians-hezbollah-nasrallah.JPG?c=original",
+        "cap": "Historical overview: Nasrallah Killed",
+        "body": "Israel killed Hassan Nasrallah in a strike on Hezbollah's underground headquarters in Beirut's Dahieh area. The attack removed the figure most associated with Hezbollah's long war against Israel and with Iran's forward strategy in Lebanon.\n\nFor Israel, Nasrallah's death was strategic, not symbolic alone. It attacked Hezbollah's command continuity at the moment Israel was trying to break the northern threat and force a new security reality.",
+        "stats": [
+          {
+            "val": "27 September 2024",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ground-operation",
+    "year": 2024,
+    "date": "2024-10-01",
+    "title": "Israeli Ground Operation",
+    "sub": "Part of Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.17,
+        35.48
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Southern Lebanon border villages",
+        "latlng": [
+          33.17,
+          35.48
+        ],
+        "type": "major",
+        "description": "Israeli forces targeted Hezbollah infrastructure close to the border."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Israeli Ground Operation",
+        "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5774x3248+0+301/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2Fef%2F652fc4b34c5a85e998b426969c0d%2Fnpr-north-edit-1.jpg",
+        "cap": "Historical overview: Israeli Ground Operation",
+        "body": "Israeli ground forces crossed into southern Lebanon to destroy Hezbollah infrastructure near the border, including launch sites, tunnels, observation posts, and Radwan force positions. The goal was to remove the immediate invasion and anti-tank threat from northern communities.\n\nThe operation was limited compared with 1982 but aimed at a clearer objective: push Hezbollah away from the border and make civilian return possible under enforceable security conditions.",
+        "stats": [
+          {
+            "val": "1 October 2024",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ceasefire",
+    "year": 2024,
+    "date": "2024-11-27",
+    "title": "US-Backed Ceasefire",
+    "sub": "Part of Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.12,
+        35.52
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Blue Line",
+        "latlng": [
+          33.12,
+          35.52
+        ],
+        "type": "major",
+        "description": "The ceasefire's test was whether Hezbollah would be kept away from the border."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "US-Backed Ceasefire",
+        "img": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/24095813/will-trump-endorse-an-israeli-ceasefire-in-lebanon-by-april-30-g8N1GvD6s0Qk-62-686x457.jpg",
+        "cap": "Historical overview: US-Backed Ceasefire",
+        "body": "The US-backed ceasefire sought to halt the fighting and move Hezbollah away from the border under the framework of Resolution 1701. For Israel, the test was whether enforcement would be real or whether Hezbollah would again use quiet to rearm.\n\nThe ceasefire reduced open combat, but the northern question remained unresolved until residents could return safely and Hezbollah's border infrastructure was kept dismantled.",
+        "stats": [
+          {
+            "val": "27 November 2024",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2024,
+    "date": "2024-11-27",
+    "title": "Conflict Summary: Israel-Hezbollah War, 2023-2024",
+    "sub": "Final summary of Israel-Hezbollah War, 2023-2024",
+    "view": {
+      "center": [
+        33.1,
+        35.45
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Northern Israel",
+        "latlng": [
+          33.1,
+          35.45
+        ],
+        "type": "major",
+        "description": "The war was fought to make civilian return possible after Hezbollah opened the front."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Israel-Hezbollah War, 2023-2024",
+        "img": "https://www.aljazeera.com/wp-content/uploads/2023/10/33ZL8CR-highres-1698753169.jpg?resize=770%2C513&quality=80",
+        "cap": "Historical overview: Conflict Summary: Israel-Hezbollah War, 2023-2024",
+        "body": "The 2023-2024 Israel-Hezbollah War began because Hezbollah chose to attack Israel after October 7, turning the north into a second front and displacing Israeli civilians. Israel's escalation targeted Hezbollah's commanders, communications, rockets, and border infrastructure.\n\nThe war restored some deterrence and damaged Hezbollah severely, but it also left a familiar question: whether Lebanon, UNIFIL, and international guarantees could actually keep Hezbollah away from the border.",
+        "stats": [
+          {
+            "val": "Hezbollah weakened; fragile ceasefire",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "Thousands killed in Lebanon and dozens of Israeli soldiers and civilians killed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel severely damaged Hezbollah's leadership and border infrastructure and created conditions for residents to return, but civilian harm and destruction in Lebanon were extensive. The ceasefire did not permanently disarm Hezbollah, leaving the conflict vulnerable to renewal.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

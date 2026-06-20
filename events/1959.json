@@ -1,0 +1,112 @@
+[
+  {
+    "id": "soviet-lunar-probe-luna-1-is-the-first-human-made-object-to-attain-esc-1959-1",
+    "name": "Soviet lunar probe Luna 1 is the first human-made object to attain escape...",
+    "date": "January 2 1959",
+    "location": "Moon",
+    "coordinates": {
+      "lat": 0.7,
+      "lng": 23.4
+    },
+    "summary": "Soviet lunar probe Luna 1 is the first human-made object to attain escape velocity from Earth. It reaches the vicinity of Earth's Moon, where it was intended to crash-land, but instead becomes the first spacecraft to go into heliocentric orbit."
+  },
+  {
+    "id": "soviet-census-1959-2",
+    "name": "Soviet Census",
+    "date": "January 15 1959",
+    "location": "Global",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "The Soviet Union conducts its first census after World War II. The following is a summary of censuses carried out in the Soviet Union: The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "national-peoples-congress-1959-3",
+    "name": "National People's Congress",
+    "date": "April 27 1959",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "National People's Congress elects Liu Shaoqi as Chairman of the People's Republic of China, as a successor of Mao Zedong. The National People's Congress (NPC) is the supreme organ of state power of the People's Republic of China that heads the country's system of people's congress. It is vested with unified state power and carries out its duties under the control of the Chinese Communist Party (CCP), as the party is constitutionally enshrined as having the \"leading role\" in China's communist state system."
+  },
+  {
+    "id": "dominican-republic-1959-4",
+    "name": "Dominican Republic",
+    "date": "June 14 1959",
+    "location": "Dominican Republic",
+    "coordinates": {
+      "lat": 19,
+      "lng": -70.66666667
+    },
+    "summary": "A 3-front invasion of the Dominican Republic by exile forces backed by Fidel Castro and Venezuela attempts to overthrow Rafael Trujillo. The Dominican Republic is an island country on the eastern part of the Caribbean island of Hispaniola in the Greater Antilles of the Caribbean Sea in the North Atlantic Ocean. It shares a maritime border with Puerto Rico to the east and a land border with Haiti to the west, occupying the eastern five-eighths of Hispaniola which, along with Saint Martin, is one of only two islands in the Caribbean shared by two sovereign states."
+  },
+  {
+    "id": "vietnam-war-1959-5",
+    "name": "Vietnam War",
+    "date": "September 23 1959",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "First large unit action of the Vietnam War takes place, when two companies of the ARVN's 23rd Division are ambushed by a well-organized Viet Cong force of several hundred, identified as the \"2nd Liberation Battalion\". The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies."
+  },
+  {
+    "id": "10th-anniversary-of-the-peoples-republic-of-china-1959-6",
+    "name": "10th anniversary of the People's Republic of China",
+    "date": "October 1 1959",
+    "location": "10th anniversary of the People's Republic of China",
+    "coordinates": {
+      "lat": 39.90733333,
+      "lng": 116.39108333
+    },
+    "summary": "The 10th anniversary of the People's Republic of China is celebrated with pomp across the country. The 10th anniversary celebrations of founding of the People's Republic of China were held on 1 October 1959. The main event was held in Tiananmen Square in Beijing."
+  },
+  {
+    "id": "soviet-probe-luna-3-sends-back-the-first-ever-images-of-the-far-side-o-1959-7",
+    "name": "Soviet probe Luna 3 sends back the first ever images of the far side of t...",
+    "date": "October 7 1959",
+    "location": "Moon",
+    "coordinates": {
+      "lat": 0.7,
+      "lng": 23.4
+    },
+    "summary": "The Soviet probe Luna 3 sends back the first ever images of the far side of the Moon. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "mosfet-metaloxidesemiconductor-field-effect-transistor-also-known-as-1959-8",
+    "name": "MOSFET (metal–oxide–semiconductor field-effect transistor), also known as...",
+    "date": "November 1959",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The MOSFET (metal–oxide–semiconductor field-effect transistor), also known as the MOS transistor, is invented by Mohamed Atalla and Dawon Kahng at Bell Labs in the United States. It revolutionizes the electronics industry, becomes the fundamental building block of the Information Age and goes on to become the most widely manufactured device in history."
+  },
+  {
+    "id": "united-nations-1959-9",
+    "name": "United Nations",
+    "date": "November 20 1959",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The Declaration of the Rights of the Child is adopted by the United Nations. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "cold-war-1959-10",
+    "name": "Cold War",
+    "date": "December 1 1959",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Cold War: Antarctic Treaty – 12 countries, including the United States and the Soviet Union, sign a landmark treaty that sets aside Antarctica as a scientific preserve and bans military activity on the continent (the first arms control agreement established during the Cold War). The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc."
+  }
+]

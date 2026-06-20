@@ -1,0 +1,112 @@
+[
+  {
+    "id": "gerboise-bleue-1960-1",
+    "name": "Gerboise Bleue",
+    "date": "February 13 1960",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Gerboise Bleue: France tests its first atomic bomb, in the Sahara Desert of Algeria. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "vietnam-war-1960-2",
+    "name": "Vietnam War",
+    "date": "March 5 1960",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Vietnam War: The United States announces that 3,500 American soldiers will be sent to Vietnam. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations."
+  },
+  {
+    "id": "april-revolution-1960-3",
+    "name": "April Revolution",
+    "date": "April 19 1960",
+    "location": "Korea",
+    "coordinates": {
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    "summary": "April Revolution: South Korean students hold a nationwide pro-democracy protest against President Syngman Rhee, eventually leading him to resign from office. The April Revolution (Korean: 4.19 혁명), also called the April 19 Revolution or April 19 Movement, were mass protests in South Korea against President Syngman Rhee and the First Republic from April 11 to 26, 1960, which led to Rhee's resignation."
+  },
+  {
+    "id": "united-nations-trust-territory-1960-4",
+    "name": "United Nations Trust Territory",
+    "date": "April 27 1960",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Togo gains independence from France, with the French-administered United Nations Trust Territory being terminated. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  },
+  {
+    "id": "civil-rights-act-of-1960-1960-5",
+    "name": "Civil Rights Act of 1960",
+    "date": "May 6 1960",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "United States President Dwight D. Eisenhower signs the Civil Rights Act of 1960 into law. 89, enacted May 6, 1960) is a United States federal law that established federal inspection of local voter registration polls and introduced penalties for anyone who obstructed someone's attempt to register to vote. It dealt primarily with discriminatory laws and practices in the segregated South, by which African Americans and Tejanos had been effectively disenfranchised since the late 19th and start of the 20th century."
+  },
+  {
+    "id": "satellite-sputnik-4-is-launched-into-orbit-by-the-soviet-union-1960-6",
+    "name": "satellite Sputnik 4 is launched into orbit by the Soviet Union",
+    "date": "May 15 1960",
+    "location": "Global",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "The satellite Sputnik 4 is launched into orbit by the Soviet Union. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "quiet-revolution-1960-7",
+    "name": "Quiet Revolution",
+    "date": "June 22 1960",
+    "location": "Canada",
+    "coordinates": {
+      "lat": 45.4215,
+      "lng": -75.6972
+    },
+    "summary": "1960 Quebec general election: the ruling Union nationale, led by Antonio Barrette, is defeated by the Quebec Liberal Party, led by Jean Lesage, beginning the 'Quiet Revolution' in the historically conservative Canadian province. The Quiet Revolution (French: Révolution tranquille [ʁevɔlysjõʊ̃ tʁãkɪl]) was a period of socio-political and socio-cultural transformation in French Canada, particularly in Quebec, following the 1960 Quebec general election."
+  },
+  {
+    "id": "united-nations-security-council-1960-8",
+    "name": "United Nations Security Council",
+    "date": "July 14 1960",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations Security Council decides to send troops to Katanga to oversee the withdrawal of Belgian troops. The United Nations Security Council (UNSC or UN Security Council) is one of the six principal organs of the United Nations, and is the United Nation’s Executive Branch having primary responsibility for the maintenance of international peace and security."
+  },
+  {
+    "id": "sputnik-program-1960-9",
+    "name": "Sputnik program",
+    "date": "August 19 1960",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "In the Soviet Union: Sputnik program: The satellite Sputnik 5 is launched, with the dogs Belka and Strelka (the Russian for \"Squirrel\" and \"Little Arrow\"), 40 mice, two rats and a variety of plants. This satellite returns to Earth the next day and all animals are recovered safely."
+  },
+  {
+    "id": "us-secretary-of-state-1960-10",
+    "name": "U.S. Secretary of State",
+    "date": "December 14 1960",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Secretary of State Christian Herter announces that the United States will commit five nuclear submarines and eighty Polaris missiles to the defense of the NATO countries by the end of 1963. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  }
+]

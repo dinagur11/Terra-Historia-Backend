@@ -1,0 +1,68 @@
+[
+  {
+    "id": "berlin-wall-1989",
+    "name": "Fall of the Berlin Wall",
+    "date": "November 9 1989",
+    "location": "Berlin, Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "The Berlin Wall fell, symbolizing the end of the Cold War divide."
+  },
+  {
+    "id": "tiananmen-1989",
+    "name": "Tiananmen Square Protests",
+    "date": "June 4 1989",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "Pro-democracy protests were suppressed in Beijing."
+  },
+  {
+    "id": "solidarity-1989",
+    "name": "Poland Democratic Transition",
+    "date": "June 4 1989",
+    "location": "Poland",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "Poland held semi-free elections, ending communist rule."
+  },
+  {
+    "id": "romanian-revolution-1989",
+    "name": "Romanian Revolution",
+    "date": "December 22 1989",
+    "location": "Romania",
+    "coordinates": {
+      "lat": 44.4268,
+      "lng": 26.1025
+    },
+    "summary": "The communist regime in Romania was overthrown."
+  },
+  {
+    "id": "exxon-valdez-1989",
+    "name": "Exxon Valdez Oil Spill",
+    "date": "March 24 1989",
+    "location": "Alaska, USA",
+    "coordinates": {
+      "lat": 60.8483,
+      "lng": -146.867
+    },
+    "summary": "A major oil spill caused environmental damage."
+  },
+  {
+    "id": "world-wide-web-1989",
+    "name": "World Wide Web Proposed",
+    "date": "March 12 1989",
+    "location": "CERN",
+    "coordinates": {
+      "lat": 46.233,
+      "lng": 6.055
+    },
+    "summary": "Tim Berners-Lee proposed the World Wide Web."
+  }
+]

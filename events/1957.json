@@ -1,0 +1,112 @@
+[
+  {
+    "id": "treaty-of-rome-1957-1",
+    "name": "Treaty of Rome",
+    "date": "March 25 1957",
+    "location": "Rome",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "The Treaty of Rome (Patto di Roma) establishes the European Economic Community (EEC; predecessor of the European Union) between Italy, France, West Germany, Belgium, the Netherlands and Luxembourg. The Treaty of Rome, or EEC Treaty (officially the Treaty establishing the European Economic Community), brought about the creation of the European Economic Community (EEC), the best known of the European Communities (EC)."
+  },
+  {
+    "id": "operation-grapple-1957-2",
+    "name": "Operation Grapple",
+    "date": "May 8 1957",
+    "location": "Britain",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Operation Grapple: At Malden Island in the Pacific, Britain tests its first hydrogen bomb, which fails to detonate properly. Operation Grapple was a set of four series of British nuclear weapons tests of early atomic bombs and hydrogen bombs carried out in 1957 and 1958 at Malden Island and Kiritimati (Christmas Island) in the Gilbert and Ellice Islands in the Pacific Ocean (modern Kiribati) as part of the British hydrogen bomb programme."
+  },
+  {
+    "id": "paul-henri-spaak-1957-3",
+    "name": "Paul-Henri Spaak",
+    "date": "May 16 1957",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Paul-Henri Spaak becomes the new Secretary General of NATO. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "constitution-of-malaysia-1957-4",
+    "name": "Constitution of Malaysia",
+    "date": "August 31 1957",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "The Federation of Malaya gains independence from the United Kingdom, subsequently celebrated as Malaysia's National Day. Abdul Rahman of Negeri Sembilan, Yang di-Pertuan Besar of Negeri Sembilan, becomes the first Yang di-Pertuan Agong of Malaya. The country's new Constitution had come into force on August 27. The Alliance Party and its successor are the ruling coalition until 2018."
+  },
+  {
+    "id": "cuban-revolution-1957-5",
+    "name": "Cuban Revolution",
+    "date": "September 5 1957",
+    "location": "Cuba",
+    "coordinates": {
+      "lat": 23.1136,
+      "lng": -82.3666
+    },
+    "summary": "Cuban Revolution: Fulgencio Batista’s forces bomb anti-government riots in Cienfuegos. The Cuban Revolution (Spanish: Revolución cubana) was the military and political movement that overthrew the dictatorship of Fulgencio Batista, who had ruled Cuba from 1952 to 1959. The revolution began after the 1952 Cuban coup d'état, in which Batista overthrew the emerging Cuban democracy and consolidated power."
+  },
+  {
+    "id": "civil-rights-act-of-1957-1957-6",
+    "name": "Civil Rights Act of 1957",
+    "date": "September 9 1957",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The Civil Rights Act of 1957 is enacted, establishing the United States Commission on Civil Rights. The Civil Rights Act of 1957 was the first federal civil rights law passed by the United States Congress since the Civil Rights Act of 1875. The bill was passed by the 85th United States Congress and signed into law by President Dwight D."
+  },
+  {
+    "id": "sputnik-program-1957-7",
+    "name": "Sputnik program",
+    "date": "October 1 1957",
+    "location": "Global",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Space Age – Sputnik program: The Soviet Union launches Sputnik 1, the first artificial satellite to orbit the Earth. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "sputnik-i-1957-8",
+    "name": "Sputnik I",
+    "date": "October 11 1957",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The orbit of the last stage of the R-7 Semyorka rocket (carrying Sputnik I) is first successfully calculated on an IBM 704 computer at the MIT Computation Center as part of Operation Moonwatch, Cambridge, Massachusetts. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "first-u-1957-9",
+    "name": "first U",
+    "date": "December 6 1957",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The first U.S. attempt to launch a satellite fails, when the Vanguard rocket blows up on the launch pad. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "lester-b-pearson-1957-10",
+    "name": "Lester B. Pearson",
+    "date": "December 10 1957",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Canadian diplomat Lester B. Pearson receives the Nobel Peace Prize, for his peacekeeping efforts in the United Nations. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  }
+]

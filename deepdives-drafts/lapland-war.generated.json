@@ -2,60 +2,58 @@
   {
     "id": "origins-and-road-to-war",
     "year": 1944,
-    "date": "1944-01-01",
+    "date": "1944-09-19",
     "title": "Origins and Road to War",
-    "sub": "How the Lapland War began",
+    "sub": "Finland turns against its former German partner",
     "view": {
       "center": [
-        67,
-        26
+        67.5,
+        26.5
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Helsinki",
+        "latlng": [
+          60.1699,
+          24.9384
+        ],
+        "type": "major",
+        "description": "Finland accepted the Moscow Armistice, including the requirement to remove German troops from Finnish territory."
+      },
+      {
+        "label": "Rovaniemi",
+        "latlng": [
+          66.5039,
+          25.7294
+        ],
+        "type": "target",
+        "description": "Rovaniemi became the symbolic center of the northern destruction that followed the German retreat."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "From Continuation War to Lapland War",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Continuation_War_1941.jpg",
-        "cap": "Historical connection: Armistice requires Finland to expel Germany",
-        "body": "The Continuation War ended with Finland accepting Soviet armistice terms. Those terms required Finland to remove its former German partner from the country, producing a new war in Lapland.",
+        "title": "Armistice Terms Become a New War",
+        "img": "https://www.warhistoryonline.com/wp-content/uploads/sites/64/2017/03/finns-1.jpg",
+        "cap": "Finnish troops in the northern theater.",
+        "body": "The Lapland War grew from Finland's September 1944 armistice with the Soviet Union. Finland had to demobilize, cede territory, pay reparations, and expel German forces that had been stationed in the north as former partners against the USSR. What began with cautious disengagement became open fighting as Soviet pressure increased and German forces withdrew through Lapland using delaying and scorched-earth tactics.",
         "stats": [
           {
-            "val": "Continuation War",
-            "lbl": "Previous conflict in this path"
+            "val": "19 Sep 1944",
+            "lbl": "Moscow Armistice"
           },
           {
-            "val": "Direct aftermath",
-            "lbl": "Armistice requires Finland to expel Germany"
+            "val": "Expel German forces",
+            "lbl": "Finnish obligation"
           },
           {
-            "val": "Lapland War",
-            "lbl": "The next conflict to explore"
-          },
-          {
-            "val": "Why they connect",
-            "lbl": "The Continuation War ended with Finland accepting Soviet armistice terms. Those terms required Finland to remove its former German partner from the country, producing a new war in Lapland.",
+            "val": "Former allies become enemies under Soviet pressure",
+            "lbl": "Core dynamic",
             "full": true
           }
         ]
-      },
-      {
-        "title": "Before the Lapland War",
-        "body": "Finland's armistice with the Soviet Union required it to remove German forces that had been stationed in northern Finland during the Continuation War.\n\nThe Conflict Takes Shape: Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
-        "stats": [
-          {
-            "val": "1944-1945",
-            "lbl": "Conflict period"
-          },
-          {
-            "val": "Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.",
-            "lbl": "What was at stake",
-            "full": true
-          }
-        ],
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Evakoita%20Sodankyl%C3%A4ss%C3%A4.jpg",
-        "cap": "Opening context for the Lapland War"
       }
     ]
   },
@@ -63,31 +61,55 @@
     "id": "lapland-evacuation",
     "year": 1944,
     "date": "1944-09-01",
-    "title": "Lapland evacuation",
-    "sub": "Part of Lapland War",
+    "title": "Lapland Evacuation",
+    "sub": "Civilians leave the northern war zone",
     "view": {
       "center": [
-        50,
-        15
+        66.5,
+        25.7
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Rovaniemi",
+        "latlng": [
+          66.5039,
+          25.7294
+        ],
+        "type": "major",
+        "description": "The regional capital became a major evacuation and destruction symbol."
+      },
+      {
+        "label": "Sodankyla",
+        "latlng": [
+          67.4167,
+          26.6
+        ],
+        "type": "minor",
+        "description": "Civilian movement from communities across Lapland reduced casualties but uprooted nearly the entire region."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Lapland evacuation",
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Evakoita%20Sodankyl%C3%A4ss%C3%A4.jpg",
-        "cap": "",
-        "body": "Lapland evacuation marked an important episode in the Lapland War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Lapland evacuation was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.\n\nConsequences: The effects of Lapland evacuation extended beyond its immediate result. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "Moving a Region Out of the Fire",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LapinSota.jpeg",
+        "cap": "Evacuees and wartime movement in Lapland.",
+        "body": "Finland evacuated most civilians from Lapland before the fighting and German retreat destroyed roads, bridges, homes, and public buildings. The evacuation saved lives, but it also turned the war into a social catastrophe: families left farms and towns with little certainty about what would remain. That civilian experience is central to understanding why the Lapland War is remembered as liberation and devastation at the same time.",
         "stats": [
           {
-            "val": "1944",
-            "lbl": "Year"
+            "val": "About 168,000",
+            "lbl": "Civilians evacuated"
           },
           {
-            "val": "1 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Autumn 1944",
+            "lbl": "Main evacuation period"
+          },
+          {
+            "val": "Displacement became one of the war's defining human costs",
+            "lbl": "Human dimension",
+            "full": true
           }
         ]
       }
@@ -98,30 +120,54 @@
     "year": 1944,
     "date": "1944-09-15",
     "title": "Operation Tanne Ost",
-    "sub": "Part of Lapland War",
+    "sub": "Germany tries to seize Suursaari",
     "view": {
       "center": [
-        50,
-        15
+        60.05,
+        26.95
       ],
-      "zoom": 3
+      "zoom": 7
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Suursaari / Hogland",
+        "latlng": [
+          60.05,
+          26.95
+        ],
+        "type": "target",
+        "description": "German forces tried to seize the island to control the Gulf of Finland mine barrier and deny it to the Soviets."
+      },
+      {
+        "label": "Gulf of Finland",
+        "latlng": [
+          60.1,
+          27.8
+        ],
+        "type": "major",
+        "description": "The operation shows how the Lapland War connected to the Baltic naval situation as well as the Arctic retreat."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Operation Tanne Ost",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Operation-tanne-1944.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Tanne_Ost",
-        "body": "Operation Tanne Ost was a German operation during World War II to capture the island Suursaari in the Gulf of Finland before it could fall into Soviet hands. Suursaari was especially important because it worked as a lock in the Finnish Gulf guarding the minefields keeping the Soviet Baltic Fleet in Kronstadt.\n\nWhy This Moment Matters: Operation Tanne Ost was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.\n\nConsequences: The effects of Operation Tanne Ost extended beyond its immediate result. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "A Baltic Opening Clash",
+        "img": "https://i.ytimg.com/vi/Z6SekED4CWE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_8779x8TvfHoLdedxjMup6jM7qQ",
+        "cap": "Visual reference for Operation Tanne Ost.",
+        "body": "Operation Tanne Ost was Germany's failed attempt to capture Suursaari in the Gulf of Finland after Finland changed sides. The island mattered because it helped control the mine barriers and sea routes near the Soviet Baltic Fleet. Finnish resistance showed that the break with Germany was real, while the failed operation pushed both sides closer to open conflict in the north.",
         "stats": [
           {
-            "val": "1944",
-            "lbl": "Year"
+            "val": "15 Sep 1944",
+            "lbl": "Operation date"
           },
           {
-            "val": "2 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Suursaari",
+            "lbl": "Objective"
+          },
+          {
+            "val": "German landing fails against Finnish defense",
+            "lbl": "Outcome",
+            "full": true
           }
         ]
       }
@@ -132,39 +178,45 @@
     "year": 1944,
     "date": "1944-09-28",
     "title": "Battle of Olhava",
-    "sub": "Part of Lapland War",
+    "sub": "The first serious Finnish-German firefight",
     "view": {
       "center": [
         65.27,
         25.42
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Battle of Olhava",
+        "label": "Olhava River",
         "latlng": [
           65.27,
           25.42
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Finnish and German troops exchanged full-scale fire around bridge demolitions and withdrawal routes."
       }
     ],
     "regions": [],
     "slides": [
       {
-        "title": "Battle of Olhava",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Memorial_Stone_Olhava_Ii_20170624.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Olhava",
-        "body": "The Battle of Olhava occurred during the Lapland War on 28 September 1944. A brief armed struggle occurred in Northern Finland between retreating German troops and north of the advancement of the Finnish troops. The previous day the first skirmish between German and Finnish troops in Pudasjärvi. In Olhava, troops for the first time opened full-scale fire against each other and the casualties were the first of the Lapland War.\n\nWhy This Moment Matters: Battle of Olhava was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.\n\nConsequences: The effects of Battle of Olhava extended beyond its immediate result. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "From Tension to Shooting War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Memorial_Stone_Olhava_Ii_20170624.jpg",
+        "cap": "Memorial stone at Olhava.",
+        "body": "At Olhava, Finnish and German troops moved from staged withdrawal and friction into real combat. German forces demolished bridges to slow Finnish pursuit; Finnish units tried to keep pressure on the retreat while proving compliance with the armistice. The battle was small, but it marked the moment when the former alliance became an unmistakable shooting war.",
         "stats": [
           {
-            "val": "1944",
-            "lbl": "Year"
+            "val": "28-29 Sep 1944",
+            "lbl": "Battle period"
           },
           {
-            "val": "3 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Bridge demolitions",
+            "lbl": "Tactical issue"
+          },
+          {
+            "val": "First substantial Finnish-German combat in Lapland",
+            "lbl": "Significance",
+            "full": true
           }
         ]
       }
@@ -175,30 +227,54 @@
     "year": 1944,
     "date": "1944-09-30",
     "title": "Röyttä Landing",
-    "sub": "Part of Lapland War",
+    "sub": "Finnish troops land near Tornio",
     "view": {
       "center": [
-        50,
-        15
+        65.848,
+        24.146
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Roytta harbor",
+        "latlng": [
+          65.848,
+          24.146
+        ],
+        "type": "target",
+        "description": "Finnish transport ships landed troops near Tornio without strong air or naval protection."
+      },
+      {
+        "label": "Tornio",
+        "latlng": [
+          65.8481,
+          24.1466
+        ],
+        "type": "major",
+        "description": "The landing opened the fight for Tornio and threatened the German withdrawal route toward Norway."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Röyttä Landing",
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/FinnishTroops%20Tornio1944%20007.jpg",
-        "cap": "",
-        "body": "Röyttä Landing marked an important episode in the Lapland War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Röyttä Landing was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.\n\nConsequences: The effects of Röyttä Landing extended beyond its immediate result. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "A Risky Landing at the German Rear",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/FinnishTroops%20Tornio1944%20007.jpg",
+        "cap": "Finnish troops during the Tornio operation.",
+        "body": "The Röyttä landing put Finnish troops near Tornio in an attempt to accelerate the German withdrawal and satisfy Soviet demands for action. The landing was bold because Finnish forces lacked the naval and air cover normally expected for an amphibious move. Its success created the conditions for the Battle of Tornio and forced German commanders to treat the Finnish pursuit as a serious operational threat.",
         "stats": [
           {
-            "val": "1944",
-            "lbl": "Year"
+            "val": "30 Sep 1944",
+            "lbl": "Landing begins"
           },
           {
-            "val": "4 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Roytta-Tornio",
+            "lbl": "Landing area"
+          },
+          {
+            "val": "Finnish troops threaten German retreat routes",
+            "lbl": "Operational effect",
+            "full": true
           }
         ]
       }
@@ -209,30 +285,54 @@
     "year": 1944,
     "date": "1944-10-01",
     "title": "Battle of Tornio",
-    "sub": "Part of Lapland War",
+    "sub": "The main early battle of the Lapland War",
     "view": {
       "center": [
-        50,
-        15
+        65.8481,
+        24.1466
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Tornio",
+        "latlng": [
+          65.8481,
+          24.1466
+        ],
+        "type": "target",
+        "description": "Finnish troops fought to hold the town and disrupt German movement toward the northwest."
+      },
+      {
+        "label": "Kemi-Tornio road",
+        "latlng": [
+          65.74,
+          24.55
+        ],
+        "type": "minor",
+        "description": "Road and rail links mattered because the northern campaign revolved around withdrawal routes and demolitions."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Battle of Tornio",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/FinnishTroops_Tornio1944_002.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Tornio",
-        "body": "The Battle of Tornio was the first major engagement between Nazi Germany and Finland in the Lapland War; although hostilities had already begun elsewhere.\n\nWhy This Moment Matters: Battle of Tornio was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.\n\nConsequences: The effects of Battle of Tornio extended beyond its immediate result. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "Holding the Northern Gateway",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/FinnishTroops_Tornio1944_002.jpg",
+        "cap": "Finnish troops during the Battle of Tornio.",
+        "body": "The Battle of Tornio became the Lapland War's first major engagement. Finnish troops landed, expanded their foothold, and fought German counterattacks while local infrastructure and captured supplies shaped the tempo. The battle convinced German commanders that Finland would not simply perform a symbolic pursuit, and it widened the destruction as the retreat accelerated.",
         "stats": [
           {
-            "val": "1944",
-            "lbl": "Year"
+            "val": "1-8 Oct 1944",
+            "lbl": "Battle period"
           },
           {
-            "val": "5 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Tornio",
+            "lbl": "Key town"
+          },
+          {
+            "val": "Finnish victory forces faster German withdrawal",
+            "lbl": "Result",
+            "full": true
           }
         ]
       }
@@ -241,32 +341,47 @@
   {
     "id": "battle-of-rovaniemi",
     "year": 1944,
-    "date": "1944-10-12",
+    "date": "1944-10-14",
     "title": "Battle of Rovaniemi",
-    "sub": "Part of Lapland War",
+    "sub": "The destruction of Lapland's capital",
     "view": {
       "center": [
-        50,
-        15
+        66.5039,
+        25.7294
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Rovaniemi",
+        "latlng": [
+          66.5039,
+          25.7294
+        ],
+        "type": "target",
+        "description": "German withdrawal and fires left much of the town destroyed, making Rovaniemi the war's central symbol of devastation."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Battle of Rovaniemi",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/FinnishTroops_Rovaniemi1944_LaplandWar_004.jpg/3840px-FinnishTroops_Rovaniemi1944_LaplandWar_004.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Rovaniemi",
-        "body": "The Battle of Rovaniemi was an event during the 1944 Lapland War. The actual fighting between the components of the Finnish Armoured Division and Finnish 3rd Division against the troops of the German Twentieth Mountain Army took place at the vicinity of the town of Rovaniemi. The notoriety of the encounter derives from the near-total destruction of the town.\n\nWhy This Moment Matters: Battle of Rovaniemi was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.\n\nConsequences: The effects of Battle of Rovaniemi extended beyond its immediate result. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "A Capital Burned in Retreat",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Sodankyl%C3%A4_1944.jpg",
+        "cap": "Destruction in Finnish Lapland during the German retreat.",
+        "body": "Rovaniemi's destruction captured the civilian cost of the Lapland War. German rear guards, demolitions, ammunition explosions, and fires devastated the town as Finnish forces advanced. The event matters because it turned a military obligation into a national memory of burned homes, broken roads, and a northern region that had to be rebuilt almost from scratch.",
         "stats": [
           {
-            "val": "1944",
-            "lbl": "Year"
+            "val": "Oct 1944",
+            "lbl": "Rovaniemi destroyed"
           },
           {
-            "val": "6 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Scorched-earth retreat",
+            "lbl": "Cause"
+          },
+          {
+            "val": "Devastation becomes the war's central memory",
+            "lbl": "Legacy",
+            "full": true
           }
         ]
       }
@@ -277,30 +392,54 @@
     "year": 1944,
     "date": "1944-10-26",
     "title": "Battle of Muonio",
-    "sub": "Part of Lapland War",
+    "sub": "Finnish pursuit reaches the northwest",
     "view": {
       "center": [
-        50,
-        15
+        67.955,
+        23.68
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Muonio",
+        "latlng": [
+          67.955,
+          23.68
+        ],
+        "type": "target",
+        "description": "Fighting around Muonio reflected the slow, road-bound pursuit through damaged Arctic terrain."
+      },
+      {
+        "label": "Tornio-Muonio route",
+        "latlng": [
+          67.25,
+          24.1
+        ],
+        "type": "minor",
+        "description": "German demolitions made every bridge and road section operationally important."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Battle of Muonio",
-        "img": "",
-        "cap": "",
-        "body": "Battle of Muonio marked an important episode in the Lapland War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Battle of Muonio was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.\n\nConsequences: The effects of Battle of Muonio extended beyond its immediate result. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "Fighting Along Broken Roads",
+        "img": "https://www.researchgate.net/profile/Oula-Sakarin-Pentin-Ilarin-Oula/publication/323389425/figure/fig1/AS:597925159768064@1519567875565/Original-caption-Traces-of-the-battle-at-West-Lemetti-notice-the-improvised-snow_Q320.jpg",
+        "cap": "Battlefield traces used as a visual reference for northern winter combat.",
+        "body": "The Battle of Muonio showed the pattern of the later Lapland War: Finnish forces pushed along limited roads while German rear guards delayed, demolished bridges, and withdrew toward Norway. The battle was less dramatic than Tornio, but it reveals the geography of the campaign. In Arctic terrain, mobility depended on roads, bridges, fuel, and weather as much as manpower.",
         "stats": [
           {
-            "val": "1944",
-            "lbl": "Year"
+            "val": "Late Oct 1944",
+            "lbl": "Battle period"
           },
           {
-            "val": "7 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Muonio",
+            "lbl": "Northwestern focus"
+          },
+          {
+            "val": "Road-bound pursuit through demolished terrain",
+            "lbl": "Operational challenge",
+            "full": true
           }
         ]
       }
@@ -311,30 +450,54 @@
     "year": 1944,
     "date": "1944-10-26",
     "title": "Battle of Tankavaara",
-    "sub": "Part of Lapland War",
+    "sub": "German defenses slow the Arctic advance",
     "view": {
       "center": [
-        50,
-        15
+        68.179,
+        27.122
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Tankavaara",
+        "latlng": [
+          68.179,
+          27.122
+        ],
+        "type": "target",
+        "description": "German mountain troops used prepared positions to delay Finnish movement northward."
+      },
+      {
+        "label": "Sodankyla-Ivalo road",
+        "latlng": [
+          68,
+          27
+        ],
+        "type": "minor",
+        "description": "The road corridor was crucial for both Finnish pursuit and German withdrawal."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Battle of Tankavaara",
-        "img": "",
-        "cap": "",
-        "body": "Battle of Tankavaara marked an important episode in the Lapland War. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Battle of Tankavaara was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Finland needed to satisfy Soviet armistice terms while avoiding the destruction of its northern territory.\n\nConsequences: The effects of Battle of Tankavaara extended beyond its immediate result. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "A Delaying Battle in the Arctic",
+        "img": "https://www.salisburypost.com/wp-content/uploads/sites/9/2014/10/SP_20140519_SP01_1405196942.jpg?w=590",
+        "cap": "Arctic warfare visual reference for the Tankavaara fighting.",
+        "body": "At Tankavaara, German forces used terrain and prepared positions to delay the Finnish advance toward the far north. The battle illustrates why the war lasted into 1945 despite Finland's political urgency: the Germans could trade space for time, destroy infrastructure, and use narrow road corridors to slow pursuit. For Finnish troops, each advance brought both military progress and more evidence of destruction behind the German line.",
         "stats": [
           {
-            "val": "1944",
-            "lbl": "Year"
+            "val": "Oct-Nov 1944",
+            "lbl": "Battle period"
           },
           {
-            "val": "8 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Tankavaara",
+            "lbl": "Defensive position"
+          },
+          {
+            "val": "German rear guards slow Finland's advance",
+            "lbl": "Result",
+            "full": true
           }
         ]
       }
@@ -342,27 +505,56 @@
   },
   {
     "id": "international-and-human-dimensions",
-    "year": 1944,
-    "date": "1944-01-01",
+    "year": 1945,
+    "date": "1945-01-01",
     "title": "International and Human Dimensions",
-    "sub": "The wider impact of the Lapland War",
+    "sub": "Armistice pressure, Arctic retreat, and civilian survival",
     "view": {
       "center": [
-        67,
-        26
+        67.5,
+        26.5
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Soviet armistice pressure",
+        "latlng": [
+          60.1699,
+          24.9384
+        ],
+        "type": "major",
+        "description": "Finland's actions were judged against Soviet armistice demands, limiting Helsinki's freedom of maneuver."
+      },
+      {
+        "label": "Norwegian border",
+        "latlng": [
+          69.47,
+          25.8
+        ],
+        "type": "target",
+        "description": "German forces withdrew toward occupied Norway, linking the campaign to the broader Arctic front."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "International Dimension",
-        "body": "The war was shaped by Finland's armistice obligations and Germany's wider retreat from the Arctic.\n\nThe Human Cost: German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population.",
+        "title": "A Small War Shaped by Larger Powers",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gebirgsj%C3%A4ger_advancing_in_Arctic_Front.jpg/1920px-Gebirgsj%C3%A4ger_advancing_in_Arctic_Front.jpg",
+        "cap": "German mountain troops on the Arctic front.",
+        "body": "The Lapland War was fought by Finland and Germany, but Soviet pressure framed Finland's choices. Helsinki had to show real action while demobilizing and recovering from the Continuation War. Civilians carried the heaviest noncombat burden: evacuation, destroyed towns, mined roads, burned bridges, and the slow return to a damaged Arctic home.",
         "stats": [
           {
-            "val": "Roughly 2,000 military casualties and extensive civilian displacement",
-            "lbl": "Estimated human cost",
+            "val": "Soviet Union",
+            "lbl": "Armistice enforcer"
+          },
+          {
+            "val": "German Arctic retreat",
+            "lbl": "Wider context"
+          },
+          {
+            "val": "Evacuation and scorched earth define the civilian experience",
+            "lbl": "Human dimension",
             "full": true
           }
         ]
@@ -372,43 +564,58 @@
   {
     "id": "outcome-and-legacy",
     "year": 1945,
-    "date": "1945-01-01",
+    "date": "1945-04-27",
     "title": "Outcome and Legacy",
-    "sub": "How the Lapland War ended and what followed",
+    "sub": "Finland clears German forces but inherits a devastated north",
     "view": {
       "center": [
-        67,
-        26
+        67.5,
+        26.5
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kilpisjarvi",
+        "latlng": [
+          69.045,
+          20.79
+        ],
+        "type": "target",
+        "description": "The last German troops left Finnish territory near the northwestern border in April 1945."
+      },
+      {
+        "label": "Sodankyla",
+        "latlng": [
+          67.4167,
+          26.6
+        ],
+        "type": "major",
+        "description": "Destroyed northern communities symbolized the reconstruction burden after victory."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "The End of the Lapland War",
-        "body": "Finnish forces pushed the Germans into Norway. Finland fulfilled the armistice requirement but inherited a devastated north."
-      },
-      {
-        "title": "War Summary: Lapland War",
-        "body": "Finnish forces pushed the Germans into Norway. Finland fulfilled the armistice requirement but inherited a devastated north. German scorched-earth tactics destroyed towns, roads, and bridges and displaced much of Lapland's civilian population.",
+        "title": "Victory With a Burned Inheritance",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Sodankyl%C3%A4_1944.jpg",
+        "cap": "Destroyed Sodankyla in 1944.",
+        "body": "Finland fulfilled the armistice requirement by pushing German troops into Norway, but the victory left Lapland devastated. Roads, bridges, public buildings, homes, and communications had to be rebuilt, and evacuees returned to communities transformed by fire and demolition. The war's legacy was therefore double: Finland preserved its postwar position, while northern Finland paid the price of the break with Germany.",
         "stats": [
           {
+            "val": "27 Apr 1945",
+            "lbl": "Last Germans leave Finland"
+          },
+          {
             "val": "Finnish victory",
-            "lbl": "Outcome / winner"
+            "lbl": "Outcome"
           },
           {
-            "val": "Roughly 2,000 military casualties and extensive civilian displacement",
-            "lbl": "Casualties / human cost"
-          },
-          {
-            "val": "Finnish forces pushed the Germans into Norway. Finland fulfilled the armistice requirement but inherited a devastated north.",
-            "lbl": "Lasting legacy",
+            "val": "Northern reconstruction becomes the lasting legacy",
+            "lbl": "Legacy",
             "full": true
           }
-        ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/FinnishTroops_Rovaniemi1944_LaplandWar_004.jpg/3840px-FinnishTroops_Rovaniemi1944_LaplandWar_004.jpg",
-        "cap": "The outcome and legacy of the Lapland War"
+        ]
       }
     ]
   }

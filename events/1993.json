@@ -1,0 +1,68 @@
+[
+  {
+    "id": "eu-single-market-1993",
+    "name": "EU Single Market Established",
+    "date": "January 1 1993",
+    "location": "European Union",
+    "coordinates": {
+      "lat": 50.8503,
+      "lng": 4.3517
+    },
+    "summary": "The European Single Market came into effect, allowing free movement of goods, services, capital, and people."
+  },
+  {
+    "id": "clinton-inauguration-1993",
+    "name": "Bill Clinton Inaugurated",
+    "date": "January 20 1993",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Bill Clinton was sworn in as the 42nd President of the United States."
+  },
+  {
+    "id": "waco-siege-1993",
+    "name": "Waco Siege Ends",
+    "date": "April 19 1993",
+    "location": "Texas, USA",
+    "coordinates": {
+      "lat": 31.5493,
+      "lng": -97.1467
+    },
+    "summary": "A 51-day standoff between federal agents and a religious group ended in a deadly fire."
+  },
+  {
+    "id": "oslo-accords-1993",
+    "name": "Oslo Accords Signed",
+    "date": "September 13 1993",
+    "location": "Washington D.C., USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Israel and the PLO signed agreements aimed at achieving peace."
+  },
+  {
+    "id": "world-trade-center-1993",
+    "name": "World Trade Center Bombing",
+    "date": "February 26 1993",
+    "location": "New York, USA",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "A truck bomb exploded beneath the World Trade Center, killing six people."
+  },
+  {
+    "id": "czech-slovakia-split-1993",
+    "name": "Czechoslovakia Dissolution",
+    "date": "January 1 1993",
+    "location": "Czech Republic / Slovakia",
+    "coordinates": {
+      "lat": 50.0755,
+      "lng": 14.4378
+    },
+    "summary": "Czechoslovakia peacefully split into two independent countries."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "us-congress-1956-1",
+    "name": "U.S. Congress",
+    "date": "March 12 1956",
+    "location": "United States Congress",
+    "coordinates": {
+      "lat": 38.88972222,
+      "lng": -77.00888889
+    },
+    "summary": "96 U.S. Congressmen sign the Southern Manifesto, a protest against the 1954 Supreme Court ruling (Brown v. Board of Education) that desegregated public education. The development became part of a wider struggle over political rights, social equality, and the ability of citizens to influence public life."
+  },
+  {
+    "id": "tunisia-1956-2",
+    "name": "Tunisia",
+    "date": "March 20 1956",
+    "location": "Tunisia",
+    "coordinates": {
+      "lat": 34,
+      "lng": 9
+    },
+    "summary": "Tunisia gained independence from France on March 20, 1956, ending the French protectorate established in 1881. Habib Bourguiba became prime minister and led the transition toward a republic, while independence added momentum to the wider postwar dismantling of European colonial rule across North Africa."
+  },
+  {
+    "id": "habib-bourguiba-1956-3",
+    "name": "Habib Bourguiba",
+    "date": "April 9 1956",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Habib Bourguiba is elected President of the National Constituent Assembly of the Kingdom of Tunisia; on April 15 he becomes prime minister. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "1956-grand-canyon-mid-air-collision-1956-4",
+    "name": "1956 Grand Canyon mid-air collision",
+    "date": "June 30 1956",
+    "location": "1956 Grand Canyon mid-air collision",
+    "coordinates": {
+      "lat": 36.175,
+      "lng": -111.83333333
+    },
+    "summary": "1956 Grand Canyon mid-air collision: A TWA Lockheed Constellation and United Airlines Douglas DC-7 collide in mid-air over the Grand Canyon in Arizona, killing all 128 people aboard both aircraft, in the deadliest civil aviation disaster to date; the accident leads to sweeping changes in the regulation of cross-country flight and air traffic control over the United States."
+  },
+  {
+    "id": "hungarian-revolution-of-1956-1956-5",
+    "name": "Hungarian Revolution of 1956",
+    "date": "October 23 1956",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "The Hungarian Revolution breaks out against the pro-Soviet government, originating as a student demonstration in Budapest. Hungary attempts to leave the Warsaw Pact. The Hungarian Revolution of 1956 (23 October – 4 November 1956; Hungarian: 1956-os forradalom), also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR)."
+  },
+  {
+    "id": "protocol-of-sevres-1956-6",
+    "name": "Protocol of Sèvres",
+    "date": "October 24 1956",
+    "location": "Israel",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "The Protocol of Sèvres, a secret agreement between Israel, France and the United Kingdom, is signed, allowing the former to invade the Sinai Peninsula of Egypt and occupy the Suez Canal with the support of the other two governments, giving rise to the Suez Crisis."
+  },
+  {
+    "id": "khan-yunis-massacre-1956-7",
+    "name": "Khan Yunis massacre",
+    "date": "October 26 1956",
+    "location": "Khan Yunis massacre",
+    "coordinates": {
+      "lat": 31.344,
+      "lng": 34.303
+    },
+    "summary": "Khan Yunis massacre (Suez Crisis): Israeli soldiers shoot dead hundreds of Palestinian refugees and local inhabitants in Khan Yunis Camp. The Khan Yunis massacre took place on 3 November 1956, perpetrated by the Israel Defense Forces (IDF) in the Palestinian town of Khan Yunis and the nearby refugee camp of the same name in the Gaza Strip during the Suez Crisis."
+  },
+  {
+    "id": "suez-crisis-1956-8",
+    "name": "Suez Crisis",
+    "date": "October 26 1956",
+    "location": "Israel",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "Suez Crisis: Israel invades the Sinai Peninsula and pushes Egyptian forces back toward the Suez Canal. The Suez Crisis, also known as the second Arab–Israeli war, the Tripartite Aggression in the Arab world and the Sinai War in Israel, was a British–French–Israeli invasion of Egypt in 1956. Israel invaded on 29 October, with the primary objective of re-opening the Straits of Tiran and the Gulf of Aqaba as the recent tightening of the eight-year-long Egyptian blockade further prevented Israeli passage."
+  },
+  {
+    "id": "united-nations-1956-9",
+    "name": "United Nations",
+    "date": "November 7 1956",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Suez Crisis: The United Nations General Assembly adopts a resolution calling for the United Kingdom, France and Israel to withdraw their troops from Arab lands immediately. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "morocco-1956-10",
+    "name": "Morocco",
+    "date": "November 12 1956",
+    "location": "Morocco",
+    "coordinates": {
+      "lat": 32,
+      "lng": -6
+    },
+    "summary": "Morocco, Sudan and Tunisia join the United Nations. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "vietnam-war-1973-1",
+    "name": "Vietnam War",
+    "date": "January 27 1973",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "U.S. involvement in the Vietnam War ends with the signing of the Paris Peace Accords. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations."
+  },
+  {
+    "id": "munich-massacre-1973-2",
+    "name": "Munich massacre",
+    "date": "April 17 1973",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "The West German counter-terrorist force GSG 9 is officially formed in response to the Munich massacre. The Munich massacre was a terrorist attack during the 1972 Summer Olympics in Munich, West Germany, carried out by eight members of the Palestinian militant organisation Black September. The militants infiltrated the Olympic Village, killed two members of the Israeli Olympic team, and took nine other Israeli team members hostage."
+  },
+  {
+    "id": "polisario-front-1973-3",
+    "name": "Polisario Front",
+    "date": "May 10 1973",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The Polisario Front, a Sahrawi movement dedicated to the independence of Spanish Sahara, is formed. The Popular Front for the Liberation of Saguia el-Hamra and Río de Oro, better known by its acronym Polisario Front, is a Sahrawi nationalist liberation movement seeking to end the occupation of Western Sahara through armed resistance and political advocacy."
+  },
+  {
+    "id": "pete-conrad-1973-4",
+    "name": "Pete Conrad",
+    "date": "May 18 1973",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Skylab 2 (Pete Conrad, Paul Weitz, Joseph Kerwin) is launched on a mission to repair damage to the recently launched Skylab space station. Charles \"Pete\" Conrad Jr. (June 2, 1930 – July 8, 1999) was an American NASA astronaut, aeronautical engineer, naval officer, aviator, and test pilot who commanded the Apollo 12 mission, on which he became the third person to walk on the Moon."
+  },
+  {
+    "id": "bahamas-1973-5",
+    "name": "Bahamas",
+    "date": "July 10 1973",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The Bahamas gains full independence within the Commonwealth of Nations. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  },
+  {
+    "id": "watergate-scandal-1973-6",
+    "name": "Watergate scandal",
+    "date": "July 16 1973",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Watergate scandal: Former White House aide Alexander Butterfield informs the United States Senate Watergate Committee that President Richard Nixon had secretly recorded potentially incriminating conversations. The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex."
+  },
+  {
+    "id": "luis-cabral-1973-7",
+    "name": "Luís Cabral",
+    "date": "September 18 1973",
+    "location": "Portugal",
+    "coordinates": {
+      "lat": 38.7223,
+      "lng": -9.1393
+    },
+    "summary": "Luís Cabral declares the independence of the Republic of Guinea-Bissau from the Estado Novo regime in Portugal. It is later granted in September 1974. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  },
+  {
+    "id": "yom-kippur-war-1973-8",
+    "name": "Yom Kippur War",
+    "date": "October 6 1973",
+    "location": "Israel",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "Yom Kippur War begins: The fourth and largest Arab–Israeli conflict begins, as Egyptian and Syrian forces attack Israeli forces in the Sinai Peninsula and Golan Heights on Yom Kippur. The Yom Kippur War, also known as the 1973 Arab–Israeli War, the fourth Arab–Israeli War, the October War, or the Ramadan War (6–25 October 1973), was fought between Israel and a coalition of Arab states led by Egypt and Syria."
+  },
+  {
+    "id": "saturday-night-massacre-1973-9",
+    "name": "Saturday Night Massacre",
+    "date": "October 17 1973",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The Saturday Night Massacre: U.S. President Richard Nixon orders Attorney General Elliot Richardson to dismiss Watergate Special Prosecutor Archibald Cox. Richardson refuses and resigns, along with Deputy Attorney General William Ruckelshaus. Solicitor General Robert Bork, third in line at the Department of Justice, then fires Cox. The event prompts calls for Nixon's impeachment."
+  },
+  {
+    "id": "united-nations-1973-10",
+    "name": "United Nations",
+    "date": "October 26 1973",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations recognizes the independence of Guinea-Bissau. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  }
+]

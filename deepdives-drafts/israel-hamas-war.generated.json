@@ -1,0 +1,441 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2023,
+    "date": "2023-10-07",
+    "title": "From 2021 Israel-Palestine Crisis to Israel-Hamas War",
+    "sub": "Connection and background to Israel-Hamas War",
+    "view": {
+      "center": [
+        31.4,
+        34.55
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Gaza border communities",
+        "latlng": [
+          31.4,
+          34.55
+        ],
+        "type": "major",
+        "description": "The communities near Gaza became the target of Hamas's prepared invasion."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From 2021 Israel-Palestine Crisis to Israel-Hamas War",
+        "img": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/images/print-edition/20210522_FBP001_0.jpg",
+        "cap": "Historical overview: From 2021 Israel-Palestine Crisis to Israel-Hamas War",
+        "body": "After 2021, Hamas continued to study Israeli deterrence, border defenses, and internal politics while preserving the appearance of intermittent calm. Israel allowed work permits and economic relief in the hope that stability could reduce Hamas's incentive for war.\n\nOctober 7 exposed that assumption as catastrophic. Hamas had used the years after Guardian of the Walls not to moderate, but to prepare a cross-border assault against Israeli communities.",
+        "stats": [
+          {
+            "val": "2021 Israel-Palestine Crisis",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "7 October 2023-present",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "Israel's declared goals became returning the hostages, dismantling Hamas's military and governing capabilities, and ensuring Gaza could no longer launch an October 7-style attack.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "october-7-attacks",
+    "year": 2023,
+    "date": "2023-10-07",
+    "title": "October 7 Attacks",
+    "sub": "Part of Israel-Hamas War",
+    "view": {
+      "center": [
+        31.41,
+        34.5
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Nova festival area",
+        "latlng": [
+          31.397,
+          34.47
+        ],
+        "type": "major",
+        "description": "Festival-goers were massacred and kidnapped."
+      },
+      {
+        "label": "Kibbutz Be'eri",
+        "latlng": [
+          31.424,
+          34.492
+        ],
+        "type": "target",
+        "description": "Israeli civilians were murdered and abducted from their homes."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "October 7 Attacks",
+        "img": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20231209_FNP003.jpg",
+        "cap": "Historical overview: October 7 Attacks",
+        "body": "On October 7, Hamas-led forces invaded southern Israel, murdered civilians, attacked soldiers, burned homes, massacred festival-goers, and kidnapped hostages into Gaza. Reports and investigations also documented sexual violence and rape during the attacks, making the assault not only a military shock but an atrocity against civilian life.\n\nFor Israel, October 7 ended the policy of containing Hamas. The central war aims became destroying Hamas's governing and military capacity, returning the hostages, and ensuring that Gaza could never again serve as a launchpad for such an attack.",
+        "stats": [
+          {
+            "val": "About 1,200 killed",
+            "lbl": "Mostly civilians"
+          },
+          {
+            "val": "251 hostages",
+            "lbl": "Taken into Gaza"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "air-campaign-and-mobilization",
+    "year": 2023,
+    "date": "2023-10-08",
+    "title": "Air Campaign and Mobilization",
+    "sub": "Part of Israel-Hamas War",
+    "view": {
+      "center": [
+        31.5,
+        34.47
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Gaza City",
+        "latlng": [
+          31.5,
+          34.47
+        ],
+        "type": "major",
+        "description": "Israel targeted Hamas command, rockets, and tunnel infrastructure."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Air Campaign and Mobilization",
+        "img": "https://www.irregularwarfare.org/content/images/size/w840/2026/06/Israeli-airstrike-on-Gaza-Strip-during-Gaza-War.png",
+        "cap": "Historical overview: Air Campaign and Mobilization",
+        "body": "Israel mobilized reserves and launched an air campaign against Hamas command sites, rocket launchers, tunnel shafts, and weapons infrastructure. The scale reflected the understanding that Hamas had built an underground military system embedded inside civilian Gaza.\n\nThe campaign prepared the ground for a wider operation. Israeli leaders argued that after October 7, temporary deterrence was no longer enough; Hamas's ability to rule and rebuild had to be broken.",
+        "stats": [
+          {
+            "val": "Mass reserve call-up",
+            "lbl": "Israeli mobilization"
+          },
+          {
+            "val": "Humanitarian crisis",
+            "lbl": "Gaza consequence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ground-invasion",
+    "year": 2023,
+    "date": "2023-10-27",
+    "title": "Ground Invasion of Gaza",
+    "sub": "Part of Israel-Hamas War",
+    "view": {
+      "center": [
+        31.55,
+        34.48
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Northern Gaza",
+        "latlng": [
+          31.55,
+          34.48
+        ],
+        "type": "major",
+        "description": "Ground forces moved into dense terrain prepared by Hamas."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ground Invasion of Gaza",
+        "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5088x2862+0+265/resize/5088x2862!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2Fca%2F2c142f8548beacd2c5613bdf6089%2F01799ee7-1abc-485b-8921-3fd3b6a10793.jpg",
+        "cap": "Historical overview: Ground Invasion of Gaza",
+        "body": "Israeli ground forces entered Gaza to dismantle Hamas battalions, seize tunnel areas, and reach command infrastructure that airstrikes alone could not destroy. The operation moved through dense urban terrain prepared with booby traps, ambush positions, and tunnel routes.\n\nThe ground campaign carried high costs for Israeli soldiers and Gaza civilians, but Israel judged that leaving Hamas's underground army intact would invite another massacre. The strategic test became whether military pressure could also help recover hostages.",
+        "stats": [
+          {
+            "val": "27 Oct 2023",
+            "lbl": "Ground operation expands"
+          },
+          {
+            "val": "Tunnel warfare",
+            "lbl": "Central challenge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "first-hostage-deal",
+    "year": 2023,
+    "date": "2023-11-24",
+    "title": "First Hostage Deal",
+    "sub": "Part of Israel-Hamas War",
+    "view": {
+      "center": [
+        31.45,
+        34.39
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Gaza",
+        "latlng": [
+          31.45,
+          34.39
+        ],
+        "type": "major",
+        "description": "Hostages were released in exchange for Palestinian prisoners and a pause in fighting."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "First Hostage Deal",
+        "img": "https://cdn.abcotvs.com/dip/images/14100675_112423-n1-Hostage-Deal-Latest-Fri-PKG5-vid.jpg?w=1600",
+        "cap": "Historical overview: First Hostage Deal",
+        "body": "The first hostage deal paused fighting and brought home Israeli women and children as well as foreign captives. In exchange, Israel released Palestinian prisoners, including women and minors, among them people convicted or accused in security and terrorism-related cases.\n\nFor Israelis, the deal was emotionally necessary but strategically painful. Hamas had turned kidnapped civilians into bargaining chips, proving why hostage recovery and the destruction of Hamas's coercive power could not be separated.",
+        "stats": [
+          {
+            "val": "More than 100 hostages released",
+            "lbl": "Truce result"
+          },
+          {
+            "val": "One-week pause",
+            "lbl": "Temporary agreement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rafah-and-philadelphi",
+    "year": 2024,
+    "date": "2024-05-06",
+    "title": "Rafah and the Philadelphi Corridor",
+    "sub": "Part of Israel-Hamas War",
+    "view": {
+      "center": [
+        31.27425,
+        34.2515
+      ],
+      "zoom": 11
+    },
+    "markers": [
+      {
+        "label": "Rafah Crossing",
+        "latlng": [
+          31.2475,
+          34.2661
+        ],
+        "type": "target",
+        "description": "The Gaza-Egypt passenger crossing sits at the southeastern edge of Rafah and became a focal point of the May 2024 operation."
+      },
+      {
+        "label": "Western Philadelphi Corridor",
+        "latlng": [
+          31.321,
+          34.219
+        ],
+        "type": "major",
+        "description": "The corridor begins near the Mediterranean coast and follows the Gaza-Egypt boundary south of Rafah."
+      },
+      {
+        "label": "Kerem Shalom junction",
+        "latlng": [
+          31.2275,
+          34.284
+        ],
+        "type": "major",
+        "description": "The eastern end of the border corridor meets the Kerem Shalom area near the Gaza-Israel-Egypt tri-border zone."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Rafah and the Philadelphi Corridor",
+        "img": "https://th-i.thgim.com/public/news/national/1c28q/article68231215.ece/alternates/LANDSCAPE_1200/rafah.jpg",
+        "cap": "Historical overview: Rafah and the Philadelphi Corridor",
+        "body": "Rafah and the Philadelphi Corridor became central because the Gaza-Egypt border had long been associated with smuggling, tunnels, and Hamas rearmament. Israeli control or monitoring of the corridor was presented as essential to preventing Hamas from rebuilding after the war.\n\nThe fighting around Rafah was therefore about more than one city. It was about whether Hamas could retain an escape route, supply route, and symbol of surviving sovereignty at Gaza's southern edge.",
+        "stats": [
+          {
+            "val": "Rafah",
+            "lbl": "Final major Gaza stronghold"
+          },
+          {
+            "val": "Philadelphi Corridor",
+            "lbl": "Border-security objective"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hostage-rescue",
+    "year": 2024,
+    "date": "2024-06-08",
+    "title": "Operation Arnon",
+    "sub": "Part of Israel-Hamas War",
+    "view": {
+      "center": [
+        31.45,
+        34.39
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Nuseirat",
+        "latlng": [
+          31.45,
+          34.39
+        ],
+        "type": "major",
+        "description": "Operation Arnon rescued four hostages from Hamas captivity."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Arnon",
+        "img": "https://www.idf.il/media/120nkcqh/helicopter-hostage-1.jpeg",
+        "cap": "Historical overview: Operation Arnon",
+        "body": "Operation Arnon rescued Noa Argamani, Almog Meir Jan, Andrey Kozlov, and Shlomi Ziv from Hamas captivity in Nuseirat. The mission combined intelligence, special forces, air support, and rapid evacuation under fire, and was named after Yamam commander Arnon Zamora, who was killed in the operation.\n\nFor Israel, the rescue proved that hostages could still be reached by force when intelligence and timing aligned. It also showed the cruelty of Hamas's hostage system: civilians were held inside Gaza's urban fabric, turning neighborhoods into shields for captivity.",
+        "stats": [
+          {
+            "val": "4 hostages rescued",
+            "lbl": "Israeli operational success"
+          },
+          {
+            "val": "Daylight raid",
+            "lbl": "High-risk operation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fragile-ceasefire",
+    "year": 2026,
+    "date": "2026-06-14",
+    "title": "Fragile Ceasefire and Unresolved Endgame",
+    "sub": "Part of Israel-Hamas War",
+    "view": {
+      "center": [
+        31.45,
+        34.39
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Gaza Strip",
+        "latlng": [
+          31.45,
+          34.39
+        ],
+        "type": "major",
+        "description": "Ceasefire diplomacy centered on hostages, Hamas survival, and postwar security."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Fragile Ceasefire and Unresolved Endgame",
+        "img": "https://www.globalr2p.org/wp-content/uploads/2025/01/AA-424-FI-IOPT.png",
+        "cap": "Historical overview: Fragile Ceasefire and Unresolved Endgame",
+        "body": "Ceasefire diplomacy repeatedly ran into the same problem: Hamas wanted survival and leverage, while Israel wanted hostages back and a security reality that would prevent another October 7. The gap between those goals made every pause fragile.\n\nThe unresolved endgame centered on who would control Gaza, how Hamas would be prevented from rearming, and whether international pressure would preserve or undermine Israel's military gains.",
+        "stats": [
+          {
+            "val": "Ongoing as of 15 Jun 2026",
+            "lbl": "Present status"
+          },
+          {
+            "val": "Core issues unresolved",
+            "lbl": "Political endgame"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2026,
+    "date": "2026-06-15",
+    "title": "Conflict Summary: Israel-Hamas War",
+    "sub": "Final summary of Israel-Hamas War",
+    "view": {
+      "center": [
+        31.45,
+        34.55
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Southern Israel and Gaza",
+        "latlng": [
+          31.45,
+          34.55
+        ],
+        "type": "major",
+        "description": "The war began with October 7 and continued through the campaign to dismantle Hamas."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Israel-Hamas War",
+        "img": "https://ctc.westpoint.edu/wp-content/uploads/2026/01/25360586314287.jpg",
+        "cap": "Historical overview: Conflict Summary: Israel-Hamas War",
+        "body": "The Israel-Hamas War began with the October 7 massacre, in which roughly 1,200 people in Israel were killed and hostages were taken into Gaza. Since then, hundreds of additional Israeli soldiers have been killed in the campaign to dismantle Hamas and recover hostages.\n\nCasualty figures from Gaza have been central to the information war. Israel disputes Hamas-run reporting because it does not reliably separate civilians from fighters, depends on institutions controlled by Hamas, and has been used to shape international pressure. The war's core Israeli lesson is that Hamas rule in Gaza created an unacceptable permanent threat.",
+        "stats": [
+          {
+            "val": "Fragile ceasefire; final settlement unresolved",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Israeli dead include about 1,200 people murdered on October 7 plus hundreds of soldiers killed during the Gaza campaign",
+            "lbl": "Israeli human cost",
+            "full": true
+          },
+          {
+            "val": "Gaza casualty figures are disputed by Israel because Hamas-run reporting does not reliably separate civilians from fighters",
+            "lbl": "Information war",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel's core lesson was that Hamas rule in Gaza had become an unacceptable permanent threat: the war severely damaged Hamas, recovered many hostages, and exposed the difficulty of ending the conflict while Hamas retained leverage over hostages, casualty narratives, and Gaza's future.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

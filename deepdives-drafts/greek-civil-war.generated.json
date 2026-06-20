@@ -1,0 +1,413 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1946,
+    "date": "1946-03-30",
+    "title": "From World War II to Greek Civil War",
+    "sub": "Connection and background to Greek Civil War",
+    "view": {
+      "center": [
+        39.1419,
+        22.6138
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Athens",
+        "latlng": [
+          37.9838,
+          23.7275
+        ],
+        "type": "target",
+        "description": "The December 1944 fighting revealed the unresolved struggle between the communist-led resistance and the British-backed government."
+      },
+      {
+        "label": "Northern Greece",
+        "latlng": [
+          40.3,
+          21.5
+        ],
+        "type": "major",
+        "description": "Mountain terrain and borders with communist states sustained the later insurgency."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From World War II to Greek Civil War",
+        "img": "https://www.nationalww2museum.org/sites/default/files/2020-05/GW5%20-%20Edward%20Lengel.jpg",
+        "cap": "Visual reference for From World War II to Greek Civil War.",
+        "body": "Axis occupation devastated Greece and produced rival resistance movements with incompatible visions for the postwar state. The communist-led EAM-ELAS became the largest resistance force, while the monarchy and conservative government retained British support. Armed conflict in Athens during the Dekemvriana of December 1944 ended with the Varkiza Agreement, but disarmament, right-wing violence, political exclusion, and mutual fear prevented reconciliation. When war resumed in 1946, Greece became both a domestic struggle over power and an early test of the emerging Cold War.",
+        "stats": [
+          {
+            "val": "World War II",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "1946-1949",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "The conflict determined whether Greece would join the Western postwar order or undergo a communist revolution, making it an early test of containment.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "litochoro-attack",
+    "year": 1946,
+    "date": "1946-03-30",
+    "title": "Attack on Litochoro",
+    "sub": "Part of Greek Civil War",
+    "view": {
+      "center": [
+        40.1006,
+        22.497
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Litochoro",
+        "latlng": [
+          40.1006,
+          22.497
+        ],
+        "type": "target",
+        "description": "The guerrilla attack on the police station is commonly treated as the opening of the final civil-war phase."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Attack on Litochoro",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vladina_edinica%2C_Gradjanska_vojna_vo_Grcija.jpg",
+        "cap": "Historical overview: Attack on Litochoro",
+        "body": "Communist guerrillas attacked the gendarmerie station at Litochoro on the eve of the March 1946 election. The operation killed members of the security forces and is commonly treated as the opening of the civil war's final phase. It showed that the failed post-occupation settlement had moved from political exclusion and scattered violence toward organized insurgency.",
+        "stats": [
+          {
+            "val": "30 Mar 1946",
+            "lbl": "Final phase begins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "democratic-army",
+    "year": 1946,
+    "date": "1946-10-28",
+    "title": "Formation of the Democratic Army",
+    "sub": "Part of Greek Civil War",
+    "view": {
+      "center": [
+        40.5,
+        21
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Grammos Mountains",
+        "latlng": [
+          40.35,
+          20.75
+        ],
+        "type": "target",
+        "description": "The Democratic Army built bases in the rugged mountains near Albania."
+      },
+      {
+        "label": "Vitsi Mountains",
+        "latlng": [
+          40.65,
+          21.25
+        ],
+        "type": "major",
+        "description": "Vitsi became the other principal northern stronghold of the communist army."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Formation of the Democratic Army",
+        "img": "https://alchetron.com/cdn/democratic-army-of-greece-db21a7fd-63ec-4404-85e2-44cd01ebe6c-resize-750.jpg",
+        "cap": "Visual reference for Formation of the Democratic Army.",
+        "body": "The Communist Party of Greece organized the Democratic Army of Greece as a structured guerrilla force with regional commands, mountain bases, and eventually conventional formations. It drew on veterans of the wartime resistance and relied on access through Albania, Yugoslavia, and Bulgaria. Creating the DSE turned local armed bands into a rival army capable of challenging state control across northern Greece.",
+        "stats": [
+          {
+            "val": "DSE",
+            "lbl": "Communist-led guerrilla army"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "truman-doctrine",
+    "year": 1947,
+    "date": "1947-03-12",
+    "title": "Truman Doctrine",
+    "sub": "Part of Greek Civil War",
+    "view": {
+      "center": [
+        38.4455,
+        -26.6547
+      ],
+      "zoom": 3
+    },
+    "markers": [
+      {
+        "label": "Washington, DC",
+        "latlng": [
+          38.9072,
+          -77.0369
+        ],
+        "type": "target",
+        "description": "President Truman asked Congress to support Greece and Turkey as an early containment commitment."
+      },
+      {
+        "label": "Athens",
+        "latlng": [
+          37.9838,
+          23.7275
+        ],
+        "type": "major",
+        "description": "US money, advisers, weapons, and training replaced declining British support for the government."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Truman Doctrine",
+        "img": "https://providencemag.com/wp-content/uploads/Partizani_na_DAG.jpg",
+        "cap": "Visual reference for Truman Doctrine.",
+        "body": "Britain informed the United States that its financial crisis made continued support for Greece and Turkey unsustainable. On 12 March 1947, President Harry Truman asked Congress for $400 million in aid and framed the Greek conflict as a test of resistance to armed pressure and communist expansion. American equipment, money, advisers, and the US military mission reorganized and sustained the Greek government army. The doctrine made Greece an early proving ground for containment and transferred leadership of the Western response from Britain to the United States.",
+        "stats": [
+          {
+            "val": "12 Mar 1947",
+            "lbl": "US containment policy announced"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "konitsa",
+    "year": 1947,
+    "date": "1947-12-25",
+    "title": "Battle of Konitsa",
+    "sub": "Part of Greek Civil War",
+    "view": {
+      "center": [
+        40.0993,
+        20.7032
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Konitsa",
+        "latlng": [
+          40.0486,
+          20.7564
+        ],
+        "type": "target",
+        "description": "The Democratic Army tried to seize the town and establish a provisional capital near Albania."
+      },
+      {
+        "label": "Albanian border",
+        "latlng": [
+          40.15,
+          20.65
+        ],
+        "type": "major",
+        "description": "Cross-border access mattered for guerrilla refuge and supply."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Konitsa",
+        "img": "https://c8.alamy.com/comp/DB7E8R/greek-civil-war-1946-1949-government-troops-on-the-way-to-the-front-DB7E8R.jpg",
+        "cap": "Visual reference for Battle of Konitsa.",
+        "body": "The Democratic Army attacked Konitsa in an effort to capture a substantial town near Albania and establish it as the seat of a provisional government. Government defenders held until reinforcements arrived, and the guerrillas withdrew after costly fighting. The failure revealed the DSE's difficulty in converting mountain mobility into permanent control of defended urban centers.",
+        "stats": [
+          {
+            "val": "Dec 1947-Jan 1948",
+            "lbl": "Major guerrilla defeat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammos-vitsi",
+    "year": 1949,
+    "date": "1949-08-10",
+    "title": "Operations Grammos and Vitsi",
+    "sub": "Part of Greek Civil War",
+    "view": {
+      "center": [
+        40.5,
+        21
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Grammos",
+        "latlng": [
+          40.35,
+          20.75
+        ],
+        "type": "target",
+        "description": "Government forces used artillery, aircraft, and maneuver to break the main mountain defenses."
+      },
+      {
+        "label": "Vitsi",
+        "latlng": [
+          40.65,
+          21.25
+        ],
+        "type": "target",
+        "description": "The fall of Vitsi helped force the surviving Democratic Army into Albania."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operations Grammos and Vitsi",
+        "img": "https://stratistoria.wordpress.com/wp-content/uploads/2017/10/1946-1949.jpg",
+        "cap": "Visual reference for Operations Grammos and Vitsi.",
+        "body": "Government forces launched their final offensives against the DSE strongholds in the Grammos and Vitsi mountains. US-supplied aircraft, artillery, improved command, and numerical superiority compressed the guerrilla positions, while Yugoslavia's closure of its border after the Tito-Stalin split removed a crucial sanctuary. The collapse of both mountain fronts destroyed the DSE's capacity to continue organized war inside Greece.",
+        "stats": [
+          {
+            "val": "Aug 1949",
+            "lbl": "Decisive government offensive"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "war-ends",
+    "year": 1949,
+    "date": "1949-10-16",
+    "title": "Communist Ceasefire",
+    "sub": "Part of Greek Civil War",
+    "view": {
+      "center": [
+        39.1919,
+        22.21375
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Greek-Albanian border",
+        "latlng": [
+          40.4,
+          20.7
+        ],
+        "type": "target",
+        "description": "The defeated Democratic Army withdrew across the border before announcing a ceasefire."
+      },
+      {
+        "label": "Athens",
+        "latlng": [
+          37.9838,
+          23.7275
+        ],
+        "type": "major",
+        "description": "The government victory secured Greece's place in the Western bloc."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Communist Ceasefire",
+        "img": "https://www.nationalww2museum.org/sites/default/files/2020-05/GW2%20-%20Edward%20Lengel_1.jpg",
+        "cap": "Visual reference for Communist Ceasefire.",
+        "body": "After defeat at Grammos and Vitsi, surviving Democratic Army formations crossed into Albania and other communist states. The Communist Party announced a temporary cessation of hostilities on 16 October 1949, language that avoided formally abandoning its political claims. In practice, the organized civil war had ended, leaving prisoners, exiles, child refugees, and a deeply restricted postwar political order.",
+        "stats": [
+          {
+            "val": "16 Oct 1949",
+            "lbl": "War ends"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1949,
+    "date": "1949-10-16",
+    "title": "Conflict Summary: Greek Civil War",
+    "sub": "Final summary of Greek Civil War",
+    "view": {
+      "center": [
+        39.025,
+        22.435
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Athens",
+        "latlng": [
+          37.9838,
+          23.7275
+        ],
+        "type": "target",
+        "description": "Government survival in Athens anchored Greece within the emerging Western alliance."
+      },
+      {
+        "label": "Grammos",
+        "latlng": [
+          40.35,
+          20.75
+        ],
+        "type": "major",
+        "description": "The northern mountain war represents the final conventional phase of the conflict."
+      },
+      {
+        "label": "Makronisos",
+        "latlng": [
+          37.7,
+          24.12
+        ],
+        "type": "major",
+        "description": "The prison and re-education camps symbolize repression and the war's long political trauma."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Greek Civil War",
+        "img": "https://origins.osu.edu/sites/default/files/styles/twitter_card_format/public/2022-11/Greek-Civil-War-lg.jpg?itok=5hwtPm0z",
+        "cap": "Visual reference for Conflict Summary: Greek Civil War.",
+        "body": "The US-backed Greek government defeated the communist insurgency and secured Greece within the Western bloc. British intervention, the Truman Doctrine, Yugoslavia's split with Stalin, and the closing of northern sanctuaries all shaped the outcome. Estimates vary, but approximately 100,000-160,000 people were killed across occupation-era political violence and the civil war, while hundreds of thousands were displaced, imprisoned, exiled, or forced from their homes. The conflict left political divisions that shaped Greece for decades.",
+        "stats": [
+          {
+            "val": "Greek government victory and alignment with the Western bloc",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "Approximately 100,000-160,000 killed; hundreds of thousands displaced, imprisoned, or exiled",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The US-backed Greek government defeated the communist insurgency and secured Greece within the Western bloc. British intervention, the Truman Doctrine, Yugoslavia's split with Stalin, and the closing of northern sanctuaries all shaped the outcome. Estimates vary, but approximately 100,000-160,000 people were killed across occupation-era political violence and the civil war, while hundreds of thousands were displaced, imprisoned, exiled, or forced from their homes. The conflict left political divisions that shaped Greece for decades.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1992,
+    "date": "1992-04-06",
+    "title": "From Croatian War of Independence to Bosnian War",
+    "sub": "Connection and background to Bosnian War",
+    "view": {
+      "center": [
+        44.058,
+        17.80205
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Sarajevo",
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "type": "target",
+        "description": "Bosnia's capital became the political center of independence and the war's longest siege."
+      },
+      {
+        "label": "Banja Luka",
+        "latlng": [
+          44.7722,
+          17.191
+        ],
+        "type": "major",
+        "description": "Banja Luka became the political center of the Bosnian Serb entity."
+      },
+      {
+        "label": "Mostar",
+        "latlng": [
+          43.3438,
+          17.8078
+        ],
+        "type": "major",
+        "description": "Mostar reflected both the anti-Serb alliance and its later Croat-Bosniak rupture."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Croatian War of Independence to Bosnian War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Vukovar-watertower-after-war.jpg",
+        "cap": "Historical overview: From Croatian War of Independence to Bosnian War",
+        "body": "Yugoslavia's breakup spread from Slovenia and Croatia into ethnically mixed Bosnia and Herzegovina. A referendum for independence was followed by war among Bosniak, Bosnian Serb, and Bosnian Croat forces.\n\nThe war determined Bosnia's survival and borders while competing nationalist projects sought territory through siege warfare, expulsions, detention camps, and ethnic cleansing.\n\nBosnia's referendum and international recognition did not produce an agreed state because the principal nationalist movements held incompatible territorial projects. Bosnian Serb forces, supported by the Yugoslav military inheritance and Serbia, moved quickly to seize corridors and surround cities; Bosniak and Croat forces initially defended the republic together before their alliance fractured.",
+        "stats": [
+          {
+            "val": "Croatian War of Independence",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "1992-1995",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "The war determined Bosnia's survival and borders while competing nationalist projects sought territory through siege warfare, expulsions, detention camps, and ethnic cleansing.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "siege-of-sarajevo",
+    "year": 1992,
+    "date": "1992-04-06",
+    "title": "Siege of Sarajevo",
+    "sub": "Part of Bosnian War",
+    "view": {
+      "center": [
+        43.838,
+        18.3888
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Central Sarajevo",
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "type": "target",
+        "description": "Residents endured shelling and sniper fire throughout the nearly four-year siege."
+      },
+      {
+        "label": "Trebević positions",
+        "latlng": [
+          43.83,
+          18.44
+        ],
+        "type": "major",
+        "description": "Bosnian Serb artillery and sniper positions on surrounding heights dominated the city."
+      },
+      {
+        "label": "Sarajevo Tunnel",
+        "latlng": [
+          43.8197,
+          18.3376
+        ],
+        "type": "major",
+        "description": "The tunnel beneath the airport became a vital supply and evacuation route."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Siege of Sarajevo",
+        "img": "https://i.guim.co.uk/img/media/c8f45cbca8c943b12bfcb140f31e4d718af4bff8/1_35_2488_1492/master/2488.jpg?width=700&quality=85&auto=format&fit=max&s=0721fe0286aafd80eebfdc0bdc5cf012",
+        "cap": "Visual reference for Siege of Sarajevo.",
+        "body": "Bosnian Serb forces encircled Sarajevo and subjected the city to shelling and sniper fire for nearly four years, creating the longest siege of a capital in modern warfare.\n\nThe siege made civilian endurance the central image of the war. The airport airlift and tunnel kept the city alive, while repeated massacres exposed the limits of UN protection and gradually increased pressure for stronger international action.",
+        "stats": [
+          {
+            "val": "1992-1996",
+            "lbl": "Siege duration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ethnic-cleansing",
+    "year": 1992,
+    "date": "1992-05-01",
+    "title": "Ethnic Cleansing and Detention Camps",
+    "sub": "Part of Bosnian War",
+    "view": {
+      "center": [
+        44.24365,
+        17.74575
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Prijedor",
+        "latlng": [
+          44.9808,
+          16.713
+        ],
+        "type": "target",
+        "description": "The Prijedor campaign included mass expulsions, killings, and detention camps."
+      },
+      {
+        "label": "Omarska camp",
+        "latlng": [
+          44.891,
+          16.9
+        ],
+        "type": "major",
+        "description": "Omarska became one of the most notorious Bosnian Serb detention camps."
+      },
+      {
+        "label": "Foča",
+        "latlng": [
+          43.5065,
+          18.7785
+        ],
+        "type": "major",
+        "description": "Foča became associated with expulsion, detention, killings, and systematic sexual violence."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ethnic Cleansing and Detention Camps",
+        "img": "https://www.hmd.org.uk/wp-content/uploads/2018/07/Trnopolje-300x203.jpeg",
+        "cap": "Visual reference for Ethnic Cleansing and Detention Camps.",
+        "body": "Forces across the war expelled civilians, but Bosnian Serb campaigns were the largest and most systematic. Killings, sexual violence, detention, and forced displacement transformed the country's population.\n\nExpulsion was used as a method of territorial control rather than as a side effect of combat. Camps around Prijedor, sexual-violence campaigns, killings, and forced transfers permanently changed settlement patterns and later supplied a vast body of evidence for international prosecutions.",
+        "stats": [
+          {
+            "val": "Millions displaced",
+            "lbl": "War-wide consequence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "croat-bosniak-war",
+    "year": 1993,
+    "date": "1993-01-01",
+    "title": "Croat-Bosniak War",
+    "sub": "Part of Bosnian War",
+    "view": {
+      "center": [
+        43.7399,
+        17.8339
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Mostar",
+        "latlng": [
+          43.3438,
+          17.8078
+        ],
+        "type": "target",
+        "description": "The divided city became the largest battlefield of the conflict between former allies."
+      },
+      {
+        "label": "Ahmići",
+        "latlng": [
+          44.136,
+          17.86
+        ],
+        "type": "major",
+        "description": "The massacre at Ahmići became a defining atrocity of the Croat-Bosniak War."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Croat-Bosniak War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Croat%E2%80%93Bosniak_War_collage.jpg",
+        "cap": "Historical overview: Croat-Bosniak War",
+        "body": "The alliance against Bosnian Serb forces fractured into fighting between Croat and Bosniak forces. The Washington Agreement ended that conflict in March 1994 and created a renewed federation.\n\nThe rupture opened a second front inside government-held Bosnia, divided Mostar, and devastated mixed communities in central Bosnia. The Washington Agreement reunited Croat and Bosniak forces in a federation, enabling the military cooperation that shifted the balance in 1995.",
+        "stats": [
+          {
+            "val": "Mar 1994",
+            "lbl": "Washington Agreement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "srebrenica",
+    "year": 1995,
+    "date": "1995-07-11",
+    "title": "Srebrenica Genocide",
+    "sub": "Part of Bosnian War",
+    "view": {
+      "center": [
+        44.12925,
+        19.29735
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Srebrenica",
+        "latlng": [
+          44.1075,
+          19.2967
+        ],
+        "type": "target",
+        "description": "Bosnian Serb forces captured the UN-declared safe area in July 1995."
+      },
+      {
+        "label": "Potočari",
+        "latlng": [
+          44.151,
+          19.298
+        ],
+        "type": "major",
+        "description": "Thousands sought refuge near the Dutch UN base before men and boys were separated from their families."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Srebrenica Genocide",
+        "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/35VKBHPLJJPZLIE5R7DRMA4D54.jpg",
+        "cap": "Visual reference for Srebrenica Genocide.",
+        "body": "Bosnian Serb forces captured the UN-declared safe area of Srebrenica and murdered more than 8,000 Bosniak men and boys. International courts ruled the killings constituted genocide.\n\nThe genocide demonstrated the catastrophic failure of the UN safe-area system. Its scale accelerated demands for NATO action and became central to later convictions, missing-person identification, and the legal record defining genocide in Bosnia.",
+        "stats": [
+          {
+            "val": "More than 8,000 murdered",
+            "lbl": "Genocide victims"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-deliberate-force",
+    "year": 1995,
+    "date": "1995-08-30",
+    "title": "Operation Deliberate Force",
+    "sub": "Part of Bosnian War",
+    "view": {
+      "center": [
+        43.8365,
+        18.4899
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Pale",
+        "latlng": [
+          43.8167,
+          18.5667
+        ],
+        "type": "target",
+        "description": "NATO struck Bosnian Serb command and military targets around the wartime political center."
+      },
+      {
+        "label": "Sarajevo",
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "type": "major",
+        "description": "The second Markale massacre and continuing siege helped trigger sustained NATO action."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Deliberate Force",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/F-16_deliberate_force.JPG",
+        "cap": "Visual reference for Operation Deliberate Force.",
+        "body": "NATO launched sustained airstrikes against Bosnian Serb military targets after continued attacks on safe areas and the second Markale massacre.\n\nNATO airstrikes degraded Bosnian Serb communications, ammunition sites, and heavy weapons while Bosnian and Croatian ground offensives applied simultaneous pressure. The altered military balance made continued refusal to negotiate more costly and helped bring the parties to Dayton.",
+        "stats": [
+          {
+            "val": "30 Aug-20 Sep 1995",
+            "lbl": "NATO air campaign"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dayton-accords",
+    "year": 1995,
+    "date": "1995-12-14",
+    "title": "Dayton Peace Accords",
+    "sub": "Part of Bosnian War",
+    "view": {
+      "center": [
+        44.30775,
+        -32.88925
+      ],
+      "zoom": 3
+    },
+    "markers": [
+      {
+        "label": "Dayton, Ohio",
+        "latlng": [
+          39.7589,
+          -84.1916
+        ],
+        "type": "target",
+        "description": "The parties negotiated the General Framework Agreement at Wright-Patterson Air Force Base."
+      },
+      {
+        "label": "Paris",
+        "latlng": [
+          48.8566,
+          2.3522
+        ],
+        "type": "major",
+        "description": "The agreement was formally signed in Paris on 14 December 1995."
+      },
+      {
+        "label": "Sarajevo",
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "type": "major",
+        "description": "The settlement preserved Bosnia and Herzegovina as one internationally recognized state."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Dayton Peace Accords",
+        "img": "https://i.guim.co.uk/img/media/48f6be352efe796e4a4cfc5ce2c961a8f5a1c11b/0_97_2200_1320/master/2200.jpg?width=1200&quality=85&auto=format&fit=max&s=7709fe4e3bee867cabcdf01c82a9e638",
+        "cap": "Visual reference for Dayton Peace Accords.",
+        "body": "The agreement preserved Bosnia and Herzegovina as one state divided into two principal entities and deployed a NATO-led implementation force.\n\nDayton stopped organized warfare and enabled refugee return, reconstruction, and international peacekeeping. It also embedded wartime entities and ethnic vetoes in Bosnia's constitution, trading immediate peace for a political system that remains difficult to reform.",
+        "stats": [
+          {
+            "val": "14 Dec 1995",
+            "lbl": "Peace signed in Paris"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1995,
+    "date": "1995-12-14",
+    "title": "Conflict Summary: Bosnian War",
+    "sub": "Final summary of Bosnian War",
+    "view": {
+      "center": [
+        41.9332,
+        -32.44745
+      ],
+      "zoom": 3
+    },
+    "markers": [
+      {
+        "label": "Sarajevo",
+        "latlng": [
+          43.8563,
+          18.4131
+        ],
+        "type": "target",
+        "description": "Sarajevo represents the survival of the Bosnian state and the civilian experience of siege."
+      },
+      {
+        "label": "Srebrenica",
+        "latlng": [
+          44.1075,
+          19.2967
+        ],
+        "type": "major",
+        "description": "Srebrenica represents the genocide and the failure of international protection."
+      },
+      {
+        "label": "Dayton",
+        "latlng": [
+          39.7589,
+          -84.1916
+        ],
+        "type": "minor",
+        "description": "Dayton ended the war while institutionalizing a complex power-sharing system."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Bosnian War",
+        "img": "https://cdn.britannica.com/44/142344-050-03FB6863/Bodies-people-Vitez-conflict-Bosnia-and-Herzegovina-April-1993.jpg",
+        "cap": "Visual reference for Conflict Summary: Bosnian War.",
+        "body": "The Dayton Accords ended the fighting and preserved Bosnia and Herzegovina as one state divided between two principal entities, backed by an international military and civilian implementation system. Research has documented roughly 100,000 deaths, including about 40,000 civilians, while more than two million people were displaced. The war included the Srebrenica genocide, the siege of Sarajevo, systematic detention and sexual violence, and ethnic-cleansing campaigns whose demographic effects remain visible. Dayton stopped the war but institutionalized a complex ethnic power-sharing structure that still limits political reform.",
+        "stats": [
+          {
+            "val": "Negotiated settlement under the Dayton Accords",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "Approximately 100,000 killed, including about 40,000 civilians; more than two million displaced",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The Dayton Accords ended the fighting and preserved Bosnia and Herzegovina as one state divided between two principal entities, backed by an international military and civilian implementation system. Research has documented roughly 100,000 deaths, including about 40,000 civilians, while more than two million people were displaced. The war included the Srebrenica genocide, the siege of Sarajevo, systematic detention and sexual violence, and ethnic-cleansing campaigns whose demographic effects remain visible. Dayton stopped the war but institutionalized a complex ethnic power-sharing structure that still limits political reform.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

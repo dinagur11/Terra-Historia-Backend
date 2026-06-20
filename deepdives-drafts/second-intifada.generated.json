@@ -1,0 +1,373 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2000,
+    "date": "2000-09-28",
+    "title": "From South Lebanon Conflict to Second Intifada",
+    "sub": "Connection and background to Second Intifada",
+    "view": {
+      "center": [
+        32.74,
+        35.08
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Yagur Junction",
+        "latlng": [
+          32.74,
+          35.08
+        ],
+        "type": "major",
+        "description": "Attacks on ordinary travel routes made the security crisis tangible for Israeli civilians."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From South Lebanon Conflict to Second Intifada",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%D7%94%D7%A4%D7%99%D7%92%D7%95%D7%A2_%D7%91%D7%A6%D7%95%D7%9E%D7%AA_%D7%99%D7%92%D7%95%D7%A8_1.jpg/1920px-%D7%94%D7%A4%D7%99%D7%92%D7%95%D7%A2_%D7%91%D7%A6%D7%95%D7%9E%D7%AA_%D7%99%D7%92%D7%95%D7%A8_1.jpg",
+        "cap": "Historical overview: From South Lebanon Conflict to Second Intifada",
+        "body": "Israel's May 2000 withdrawal from southern Lebanon was presented by Hezbollah as proof that sustained attacks could force Israeli retreats. Months later, failed peace negotiations, disputes over Jerusalem, and Palestinian anger erupted into a far more violent uprising.\n\nFor Israel, the central challenge became protecting buses, restaurants, hotels, and city streets from suicide bombings while trying to dismantle armed networks without abandoning the possibility of a political settlement.\n\nThis background is essential to understanding Second Intifada: the conflict emerged from accumulated security failures, political choices, and unresolved disputes rather than from a single isolated incident. The recorded indicators, including South Lebanon Conflict (previous conflict in this path) and 2000-2005 (conflict period), help convey the episode's scale and the pressures facing decision-makers.",
+        "stats": [
+          {
+            "val": "South Lebanon Conflict",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "2000-2005",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "For Israel, the central challenge became protecting buses, restaurants, hotels, and city streets from suicide bombings while trying to dismantle armed networks without abandoning the possibility of a political settlement.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outbreak",
+    "year": 2000,
+    "date": "2000-09-28",
+    "title": "Outbreak of the Uprising",
+    "sub": "Part of Second Intifada",
+    "view": {
+      "center": [
+        31.778,
+        35.235
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Temple Mount",
+        "latlng": [
+          31.778,
+          35.235
+        ],
+        "type": "major",
+        "description": "The site became the symbolic flashpoint, but Israeli assessments saw organized violence already forming behind the scenes."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Outbreak of the Uprising",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D7%97%D7%95%D7%9E%D7%AA_%D7%9E%D7%92%D7%9F_11.jpg/1920px-%D7%97%D7%95%D7%9E%D7%AA_%D7%9E%D7%92%D7%9F_11.jpg",
+        "cap": "Historical overview: Outbreak of the Uprising",
+        "body": "The uprising is often linked to Ariel Sharon's visit to the Temple Mount, but Israeli leaders and later accounts from within Palestinian politics argued that the violence was not spontaneous. After the collapse of Camp David, Yasser Arafat's circle had prepared for confrontation while publicly preserving the language of diplomacy.\n\nFor Israelis, the rapid shift from negotiations to shootings, riots, and organized attacks confirmed a devastating lesson: concessions and peace talks could be answered by violence rather than compromise. The first weeks turned a diplomatic crisis into a security emergency that soon reached buses, cafes, hotels, and family celebrations.",
+        "stats": [
+          {
+            "val": "September 2000",
+            "lbl": "Violence begins"
+          },
+          {
+            "val": "Peace process collapses",
+            "lbl": "Strategic turning point"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dolphinarium-bombing",
+    "year": 2001,
+    "date": "2001-06-01",
+    "title": "Dolphinarium Bombing",
+    "sub": "Part of Second Intifada",
+    "view": {
+      "center": [
+        32.068,
+        34.764
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Dolphinarium, Tel Aviv",
+        "latlng": [
+          32.068,
+          34.764
+        ],
+        "type": "major",
+        "description": "A suicide bomber targeted teenagers outside a seaside nightclub."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Dolphinarium Bombing",
+        "img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/477323",
+        "cap": "Historical overview: Dolphinarium Bombing",
+        "body": "A Hamas suicide bomber killed 21 Israelis, mostly teenagers, outside a Tel Aviv nightclub. The attack became one of the clearest symbols of the campaign against Israeli civilians and intensified demands for stronger defensive action.\n\nIsraeli decision-makers faced a campaign aimed directly at civilians in daily life: buses, restaurants, hotels, roads, and city centers. The response combined intelligence, arrests, military operations, and physical barriers to break the networks that made mass-casualty attacks possible.",
+        "stats": [
+          {
+            "val": "21 killed",
+            "lbl": "Mostly teenagers"
+          },
+          {
+            "val": "Tel Aviv",
+            "lbl": "Attack location"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "passover-massacre",
+    "year": 2002,
+    "date": "2002-03-27",
+    "title": "Passover Massacre",
+    "sub": "Part of Second Intifada",
+    "view": {
+      "center": [
+        32.328,
+        34.852
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Park Hotel, Netanya",
+        "latlng": [
+          32.328,
+          34.852
+        ],
+        "type": "major",
+        "description": "A suicide bomber struck a Passover seder, pushing Israel toward Operation Defensive Shield."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Passover Massacre",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Passover_massacre_II.jpg",
+        "cap": "Historical overview: Passover Massacre",
+        "body": "A Hamas suicide bombing at a Passover seder in Netanya killed 30 people. Coming during a wave of attacks, it triggered broad Israeli public support for a major operation against militant infrastructure in the West Bank.\n\nIsraeli decision-makers faced a campaign aimed directly at civilians in daily life: buses, restaurants, hotels, roads, and city centers. The response combined intelligence, arrests, military operations, and physical barriers to break the networks that made mass-casualty attacks possible.",
+        "stats": [
+          {
+            "val": "30 killed",
+            "lbl": "Israeli civilians"
+          },
+          {
+            "val": "Passover seder",
+            "lbl": "Targeted gathering"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-defensive-shield",
+    "year": 2002,
+    "date": "2002-03-29",
+    "title": "Operation Defensive Shield",
+    "sub": "Part of Second Intifada",
+    "view": {
+      "center": [
+        32.18,
+        35.25
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Jenin",
+        "latlng": [
+          32.459,
+          35.295
+        ],
+        "type": "target",
+        "description": "Israeli forces entered militant strongholds to disrupt bomb-making and dispatch networks."
+      },
+      {
+        "label": "Ramallah",
+        "latlng": [
+          31.903,
+          35.203
+        ],
+        "type": "minor",
+        "description": "Arafat's compound became a focal point of Israeli pressure on the Palestinian Authority."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Defensive Shield",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%97%D7%95%D7%9E%D7%AA_%D7%9E%D7%92%D7%9F_18.jpg",
+        "cap": "Historical overview: Operation Defensive Shield",
+        "body": "Israel launched its largest West Bank operation since 1967, entering major Palestinian cities, arresting militants, seizing weapons, and disrupting bomb-making networks. Fighting in Jenin and the siege of Yasser Arafat's compound drew intense international scrutiny.\n\nIsraeli decision-makers faced a campaign aimed directly at civilians in daily life: buses, restaurants, hotels, roads, and city centers. The response combined intelligence, arrests, military operations, and physical barriers to break the networks that made mass-casualty attacks possible.",
+        "stats": [
+          {
+            "val": "March-May 2002",
+            "lbl": "Major IDF operation"
+          },
+          {
+            "val": "West Bank cities",
+            "lbl": "Primary theater"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "security-barrier",
+    "year": 2002,
+    "date": "2002-06-01",
+    "title": "Security Barrier and Intelligence Campaign",
+    "sub": "Part of Second Intifada",
+    "view": {
+      "center": [
+        32.22,
+        35.01
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Security barrier",
+        "latlng": [
+          32.22,
+          35.01
+        ],
+        "type": "major",
+        "description": "The barrier and intelligence campaign sharply reduced the ability of attackers to reach Israeli cities."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Security Barrier and Intelligence Campaign",
+        "img": "https://ichef.bbci.co.uk/news/480/cpsprodpb/05cf/live/7a5870f0-f049-11ef-a319-fb4e7360c4ec.jpg.webp",
+        "cap": "Historical overview: Security Barrier and Intelligence Campaign",
+        "body": "Israel combined intelligence-led arrests, targeted killings, checkpoints, and construction of a security barrier. Supporters credited these measures with sharply reducing suicide bombings; critics challenged the barrier's route and its effects on Palestinians.\n\nIsraeli decision-makers faced a campaign aimed directly at civilians in daily life: buses, restaurants, hotels, roads, and city centers. The response combined intelligence, arrests, military operations, and physical barriers to break the networks that made mass-casualty attacks possible.",
+        "stats": [
+          {
+            "val": "Sharp attack decline",
+            "lbl": "Israeli security result"
+          },
+          {
+            "val": "Contested route",
+            "lbl": "Political and legal dispute"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sharm-el-sheikh",
+    "year": 2005,
+    "date": "2005-02-08",
+    "title": "Sharm el-Sheikh Ceasefire",
+    "sub": "Part of Second Intifada",
+    "view": {
+      "center": [
+        27.9158,
+        34.3299
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Sharm el-Sheikh",
+        "latlng": [
+          27.9158,
+          34.3299
+        ],
+        "type": "major",
+        "description": "The summit marked a decline in organized violence but did not resolve the conflict's core security questions."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Sharm el-Sheikh Ceasefire",
+        "img": "https://israeled.org/wp-content/uploads/2023/02/FEB8-sharm-el-sheikh-1024x664.jpg",
+        "cap": "Historical overview: Sharm el-Sheikh Ceasefire",
+        "body": "Ariel Sharon and Mahmoud Abbas declared an end to hostilities at Sharm el-Sheikh. Organized violence declined, although no final peace agreement followed and the conflict's political causes remained unresolved.\n\nIsraeli decision-makers faced a campaign aimed directly at civilians in daily life: buses, restaurants, hotels, roads, and city centers. The response combined intelligence, arrests, military operations, and physical barriers to break the networks that made mass-casualty attacks possible.",
+        "stats": [
+          {
+            "val": "8 Feb 2005",
+            "lbl": "Ceasefire summit"
+          },
+          {
+            "val": "No final settlement",
+            "lbl": "Conflict remained unresolved"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2005,
+    "date": "2005-02-08",
+    "title": "Conflict Summary: Second Intifada",
+    "sub": "Final summary of Second Intifada",
+    "view": {
+      "center": [
+        31.9,
+        34.9
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Israel's urban front",
+        "latlng": [
+          31.9,
+          34.9
+        ],
+        "type": "major",
+        "description": "The conflict was experienced by Israelis as a campaign against civilian life across cities and roads."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Second Intifada",
+        "img": "https://www.aljazeera.com/wp-content/uploads/2010/10/2010103125618668784_8.jpeg?fit=770%2C510&quality=80",
+        "cap": "Historical overview: Conflict Summary: Second Intifada",
+        "body": "Israel suppressed the mass-casualty bombing campaign and restored greater day-to-day security, but paid a heavy human cost and emerged with reduced confidence in negotiations. Palestinian casualties and restrictions were extensive, and the unresolved conflict soon shifted toward Gaza.\n\nTaken as a whole, Second Intifada shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Violence greatly reduced; no political settlement",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "More than 1,000 Israelis and roughly 3,000 Palestinians killed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel suppressed the mass-casualty bombing campaign and restored greater day-to-day security, but paid a heavy human cost and emerged with reduced confidence in negotiations. Palestinian casualties and restrictions were extensive, and the unresolved conflict soon shifted toward Gaza.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

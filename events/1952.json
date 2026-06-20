@@ -1,0 +1,112 @@
+[
+  {
+    "id": "wernher-von-braun-1952-1",
+    "name": "Wernher von Braun",
+    "date": "March 22 1952",
+    "location": "Moon",
+    "coordinates": {
+      "lat": 0.7,
+      "lng": 23.4
+    },
+    "summary": "Wernher von Braun publishes the first in his series of articles titled Man Will Conquer Space Soon!, including ideas for crewed flights to Mars and the Moon. Wernher Magnus Maximilian Freiherr von Braun (US: VUR-nər von BROWN; German: [ˈvɛʁnheːɐ̯ fɔn ˈbʁaʊn]; 23 March 1912 – 16 June 1977) was a German American aerospace engineer and space architect."
+  },
+  {
+    "id": "battle-of-nanri-island-1952-2",
+    "name": "Battle of Nanri Island",
+    "date": "April 8 1952",
+    "location": "Battle of Nanri Island",
+    "coordinates": {
+      "lat": 25.24,
+      "lng": 119.5
+    },
+    "summary": "Battle of Nanri Island: The Republic of China seizes the island from the People's Republic of China. The Battle of Nanri Island (Chinese: 南日島戰役; pinyin: Nánrì Dǎo Zhànyì) was a conflict between the Republic of China Army (ROCA) and the People's Liberation Army (PLA), over Nanri Island in today's Nanri Town, Xiuyu District, Putian, Fujian, People's Republic of China off the coast of Mainland China."
+  },
+  {
+    "id": "hugo-ballivians-government-is-overthrown-by-the-bolivian-national-revo-1952-3",
+    "name": "Hugo Ballivián's government is overthrown by the Bolivian National Revolu...",
+    "date": "April 8 1952",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Hugo Ballivián's government is overthrown by the Bolivian National Revolution, which starts a period of agrarian reform, universal suffrage and the nationalization of tin mines. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "bolivian-national-revolution-1952-4",
+    "name": "Bolivian National Revolution",
+    "date": "April 8 1952",
+    "location": "Bolivia",
+    "coordinates": {
+      "lat": -16.4897,
+      "lng": -68.1193
+    },
+    "summary": "Bolivian National Revolution: Rebels take over Palacio Quemado. The Bolivian Revolution of 1952 (Spanish: Revolución boliviana), also known as the Revolution of '52, was a series of political demonstrations led by the Revolutionary Nationalist Movement (MNR), which, in alliance with the liberals and the communists, sought to overthrow the ruling Bolivian oligarchy and implement a new socioeconomic model in Bolivia."
+  },
+  {
+    "id": "bolivia-1952-5",
+    "name": "Bolivia",
+    "date": "April 8 1952",
+    "location": "Bolivia",
+    "coordinates": {
+      "lat": -16.712,
+      "lng": -64.666
+    },
+    "summary": "Bolivia National Revolution: A universal vote enables indigenous peoples and women to vote, nationalizes mines and enacts agrarian reform. Bolivia, officially the Plurinational State of Bolivia, is a landlocked country located in central South America. Its geography primarily consists of an Andean region to the west and tropical lowlands to the east and north."
+  },
+  {
+    "id": "ann-davison-1952-6",
+    "name": "Ann Davison",
+    "date": "May 18 1952",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Ann Davison becomes the first woman to single-handedly sail the Atlantic Ocean. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "japan-and-the-united-nations-1952-7",
+    "name": "Japan and the United Nations",
+    "date": "September 18 1952",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "summary": "The Soviet Union vetoes Japan's application for membership in the United Nations. Japan became the 80th member of the United Nations on 18 December 1956. Since then, Japan has participated in many internationally cooperative initiatives with other members of the United Nations as a basic principle of its foreign policy."
+  },
+  {
+    "id": "united-nations-1952-8",
+    "name": "United Nations",
+    "date": "October 14 1952",
+    "location": "New York",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations begins work in the new United Nations building in New York City, designed by Le Corbusier and Oscar Niemeyer. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "nuclear-testing-and-operation-ivy-1952-9",
+    "name": "Nuclear testing and Operation Ivy",
+    "date": "November 1 1952",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Nuclear testing and Operation Ivy: The United States successfully detonates the first hydrogen bomb, codenamed \"Mike\", at Eniwetok Atoll in the Marshall Islands in the central Pacific Ocean, with a yield of 10.4 megatons. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "korean-war-1952-10",
+    "name": "Korean War",
+    "date": "November 29 1952",
+    "location": "Global",
+    "coordinates": {
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    "summary": "Korean War: U.S. President-elect Dwight D. Eisenhower fulfills a political campaign promise, by traveling to Korea to find out what can be done to end the conflict. The Korean War (25 June 1950 – 27 July 1953) was an armed conflict fought on the Korean Peninsula between North Korea (Democratic People's Republic of Korea; DPRK) and South Korea (Republic of Korea; ROK) and their allies."
+  }
+]

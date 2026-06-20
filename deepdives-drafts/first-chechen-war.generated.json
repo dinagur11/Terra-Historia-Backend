@@ -7,12 +7,22 @@
     "sub": "How the First Chechen War began",
     "view": {
       "center": [
-        43.3,
-        45.7
+        43.3178,
+        45.6986
       ],
-      "zoom": 3
+      "zoom": 7
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          43.3178,
+          45.6986
+        ],
+        "label": "Grozny",
+        "type": "target",
+        "description": "Grozny marks the Chechen capital and the political center of the separatist crisis before the war."
+      }
+    ],
     "regions": [],
     "slides": [
       {
@@ -42,7 +52,7 @@
       },
       {
         "title": "Before the First Chechen War",
-        "body": "Chechnya declared independence during the collapse of the Soviet Union. Russia attempted to restore federal authority after political pressure and covert intervention failed.\n\nThe Conflict Takes Shape: Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "body": "Chechnya declared independence during the collapse of the Soviet Union. Russia attempted to restore federal authority after political pressure and covert intervention failed.",
         "stats": [
           {
             "val": "1994-1996",
@@ -54,57 +64,68 @@
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Evstafiev-Chechnya-BURNED.jpg",
-        "cap": "Opening context for the First Chechen War"
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
+        "cap": "Historical connection: Separatism after Soviet collapse"
       }
     ]
   },
   {
-    "id": "battle-of-grozny",
+    "id": "november-1994-battle-of-grozny",
     "year": 1994,
-    "date": "1994-01-01",
-    "title": "Battle of Grozny",
+    "date": "1994-11-26",
+    "title": "November 1994 Battle of Grozny",
     "sub": "Part of First Chechen War",
     "view": {
       "center": [
-        50,
-        15
+        43.3178,
+        45.6986
       ],
-      "zoom": 3
+      "zoom": 9
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          43.3178,
+          45.6986
+        ],
+        "label": "Grozny",
+        "type": "target",
+        "description": "Grozny marks the failed November 1994 armored attempt to remove Dzhokhar Dudayev."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Grozny",
-        "img": "",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Evstafiev-Chechnya-BURNED.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Grozny_(November_1994)",
-        "body": "The November 1994 Battle of Grozny was a covert attempt by Russian Intelligence services to oust the Chechen government of Dzhokhar Dudayev, by seizing the Chechen capital of Grozny. The attack was conducted by armed formations of the opposition Provisional Council, led by Umar Avturkhanov, with a clandestine support of Russian Federation armor and aircraft on 26 November 1994. The fighting subsided after the first 10 hours, with the Chechen Republic of Ichkeria decisively repelling the assault.\n\nWhy This Moment Matters: Battle of Grozny was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Battle of Grozny extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The November 1994 Battle of Grozny was a covert attempt by Russian Intelligence services to oust the Chechen government of Dzhokhar Dudayev, by seizing the Chechen capital of Grozny. The attack was conducted by armed formations of the opposition Provisional Council, led by Umar Avturkhanov, with a clandestine support of Russian Federation armor and aircraft on 26 November 1994. The fighting subsided after the first 10 hours, with the Chechen Republic of Ichkeria decisively repelling the assault.",
         "stats": [
           {
             "val": "1994",
             "lbl": "Year"
           },
           {
-            "val": "1 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The November 1994 Battle of Grozny was a covert attempt by Russian Intelligence services to oust the Chechen government of Dzhokhar Dudayev, by seizing the Chechen capital of Grozny.",
+            "full": true
           }
         ]
       }
     ]
   },
   {
-    "id": "battle-of-grozny",
+    "id": "first-battle-of-grozny",
     "year": 1994,
     "date": "1994-12-31",
-    "title": "Battle of Grozny",
+    "title": "First Battle of Grozny",
     "sub": "Part of First Chechen War",
     "view": {
       "center": [
         43.316666666,
         45.716666666
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
@@ -113,24 +134,26 @@
           43.316666666,
           45.716666666
         ],
-        "type": "major"
+        "type": "major",
+        "description": "Grozny marks the Chechen capital and the center of the first major urban battle."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Grozny",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Evstafiev-Chechnya-BURNED.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Evstafiev-Chechnya-BURNED.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Grozny_(1994%E2%80%931995)",
-        "body": "The First Battle of Grozny was the Russian Army's invasion and subsequent conquest of the Chechen capital, Grozny, during the early months of the First Chechen War. The attack would last from December 1994 to March 1995, which resulted in the military occupation of the city by the Russian Army and rallied most of the Chechen nation around the government of Dzhokhar Dudayev.\n\nWhy This Moment Matters: Battle of Grozny was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Battle of Grozny extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The First Battle of Grozny was the Russian Army's invasion and subsequent conquest of the Chechen capital, Grozny, during the early months of the First Chechen War. The attack would last from December 1994 to March 1995, which resulted in the military occupation of the city by the Russian Army and rallied most of the Chechen nation around the government of Dzhokhar Dudayev.",
         "stats": [
           {
             "val": "1994",
             "lbl": "Year"
           },
           {
-            "val": "2 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The First Battle of Grozny was the Russian Army's invasion and subsequent conquest of the Chechen capital, Grozny, during the early months of the First Chechen War.",
+            "full": true
           }
         ]
       }
@@ -147,7 +170,7 @@
         43.29,
         45.3
       ],
-      "zoom": 5
+      "zoom": 10
     },
     "markers": [
       {
@@ -156,30 +179,32 @@
           43.29,
           45.3
         ],
-        "type": "major"
+        "type": "major",
+        "description": "Samashki marks the village where Russian forces carried out a notorious massacre of civilians."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Samashki massacre",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Samashki_massacre",
-        "body": "The Samashki massacre was the mass murder of Chechen civilians by Russian Forces in April 1995 during the First Chechen War. Hundreds of Chechen civilians died as result of a Russian \"cleansing operation\" and the bombardment of the village. Most of the victims were shot at close range or killed by grenades thrown into basements where they were hiding. Others were burned alive or were shot while trying to escape their burning houses. Much of the village was destroyed and the local school blown up by Russian forces as they withdrew. The incident attracted wide attention in Russia and abroad.\n\nWhy This Moment Matters: Samashki massacre was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.",
+        "img": "https://nsarchive.gwu.edu/sites/default/files/styles/wide/public/thumbnails/image/voyna_grozniy_21.jpg?itok=vg596u48",
+        "body": "The Samashki massacre was the mass murder of Chechen civilians by Russian Forces in April 1995 during the First Chechen War. Hundreds of Chechen civilians died as result of a Russian \"cleansing operation\" and the bombardment of the village. Most of the victims were shot at close range or killed by grenades thrown into basements where they were hiding. Others were burned alive or were shot while trying to escape their burning houses. Much of the village was destroyed and the local school blown up by Russian forces as they withdrew. The incident attracted wide attention in Russia and abroad.",
         "stats": [
           {
             "val": "1995",
             "lbl": "Year"
           },
           {
-            "val": "3 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "The Samashki massacre was the mass murder of Chechen civilians by Russian Forces in April 1995 during the First Chechen War.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Samashki massacre extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of Samashki massacre extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering.",
+        "img": "https://nsarchive.gwu.edu/sites/default/files/styles/wide/public/thumbnails/image/voyna_grozniy_21.jpg?itok=vg596u48"
       }
     ]
   },
@@ -194,7 +219,7 @@
         44.7839,
         44.1658
       ],
-      "zoom": 5
+      "zoom": 10
     },
     "markers": [
       {
@@ -203,107 +228,34 @@
           44.7839,
           44.1658
         ],
-        "type": "major"
+        "type": "major",
+        "description": "Budyonnovsk marks the hospital hostage crisis that forced Moscow into negotiations."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Budyonnovsk hospital hostage crisis",
-        "img": "https://upload.wikimedia.org/wikipedia/en/5/56/Budyonnovsk.jpg",
+        "img": "https://c8.alamy.com/comp/B93JK7/hostages-who-were-held-by-a-group-of-chechen-militants-in-the-budyonnovsk-B93JK7.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Budyonnovsk_hospital_hostage_crisis",
         "body": "The Budyonnovsk hospital hostage crisis took place from 14 to 19 June 1995. A group of Chechen separatists led by Shamil Basayev attacked the southern Russian city of Budyonnovsk near the breakaway Chechen Republic of Ichkeria, during the First Chechen War. After brief fighting in the city, Basayev and his men seized a local hospital complex where they gathered over 2,000 hostages, demanding a ceasefire in Chechnya and the resumption of Russian negotiations with Chechen leadership. Following several failed attempts by the Russian government to respond to the situation by force, Russian prime minister Viktor Chernomyrdin personally agreed to Basayev's demands, securing the release of the hostages. The terrorist act in Budyonnovsk was the first hostage crisis in modern Russia."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Budyonnovsk hospital hostage crisis was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Budyonnovsk hospital hostage crisis extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Budyonnovsk hospital hostage crisis extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering.",
         "stats": [
           {
             "val": "1995",
             "lbl": "Year"
           },
           {
-            "val": "4 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "From 14 to 19 June 1995, Chechen fighters held more than 1,500 hostages in Budyonnovsk; at least 129 people were killed.",
+            "full": true
           }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "khasavyurt-accord",
-    "year": 1996,
-    "date": "1996-01-01",
-    "title": "Khasavyurt Accord",
-    "sub": "Part of First Chechen War",
-    "view": {
-      "center": [
-        50,
-        15
-      ],
-      "zoom": 3
-    },
-    "markers": [],
-    "regions": [],
-    "slides": [
-      {
-        "title": "Khasavyurt Accord",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Khasavyurt_Accord",
-        "body": "The Khasavyurt Accord, formally the Khasavyourt Joint Declaration and Principles for Mutual Relations, was an agreement that marked the end of the First Chechen War, signed in Khasavyurt in Dagestan on 30 August 1996 between Alexander Lebed and Aslan Maskhadov.\n\nWhy This Moment Matters: Khasavyurt Accord was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Khasavyurt Accord extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering. Its place in the wider campaign also influenced later military choices and political calculations.",
-        "stats": [
-          {
-            "val": "1996",
-            "lbl": "Year"
-          },
-          {
-            "val": "5 of 8",
-            "lbl": "Existing timeline event"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "battle-of-grozny",
-    "year": 1996,
-    "date": "1996-01-01",
-    "title": "Battle of Grozny",
-    "sub": "Part of First Chechen War",
-    "view": {
-      "center": [
-        43.316666666,
-        45.7
-      ],
-      "zoom": 5
-    },
-    "markers": [
-      {
-        "label": "Battle of Grozny",
-        "latlng": [
-          43.316666666,
-          45.7
         ],
-        "type": "major"
-      }
-    ],
-    "regions": [],
-    "slides": [
-      {
-        "title": "Battle of Grozny",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/First_Chechen_War_1994-1996.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Grozny_(August_1996)",
-        "body": "The Battle of Grozny of August 1996, also known as Operation Jihad or Operation Zero Option, when Chechen fighters regained and then kept control of Chechnya's capital Grozny in a surprise raid. Russian federal forces had captured the city in a previous battle that ended in February 1995, and subsequently posted a large garrison of federal and republican Ministry of the Interior (MVD) troops in the city.\n\nWhy This Moment Matters: Battle of Grozny was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Battle of Grozny extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering. Its place in the wider campaign also influenced later military choices and political calculations.",
-        "stats": [
-          {
-            "val": "1996",
-            "lbl": "Year"
-          },
-          {
-            "val": "6 of 8",
-            "lbl": "Existing timeline event"
-          }
-        ]
+        "img": "https://c8.alamy.com/comp/B93JK7/hostages-who-were-held-by-a-group-of-chechen-militants-in-the-budyonnovsk-B93JK7.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Budyonnovsk_hospital_hostage_crisis"
       }
     ]
   },
@@ -318,7 +270,7 @@
         43.84,
         46.727694
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
@@ -327,30 +279,32 @@
           43.84,
           46.727694
         ],
-        "type": "major"
+        "type": "major",
+        "description": "Kizlyar and Pervomayskoye mark the hostage crisis and pursuit that widened the war's civilian impact."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Kizlyar-Pervomayskoye hostage crisis",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Kizlyar%E2%80%93Pervomayskoye_hostage_crisis",
+        "img": "https://i.redd.it/38x7h4i1e7i81.jpg",
         "body": "The Kizlyar–Pervomayskoye hostage crisis, also known in Russia as the terrorist act in Kizlyar, occurred in January 1996 during the First Chechen War. What began as a raid by Chechen separatist forces led by Salman Raduyev against a federal military airbase near Kizlyar, Dagestan, became a hostage crisis involving thousands of civilians, most of whom were quickly released. It culminated in a battle between the Chechens and Russian special forces in the village of Pervomayskoye, which was destroyed by Russian artillery fire. Although the Chechens escaped from the siege with some of their hostages, at least 26 hostages and more than 200 combatants on both sides died. One third of the homes in Pervomayskoye were destroyed."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Kizlyar-Pervomayskoye hostage crisis was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Kizlyar-Pervomayskoye hostage crisis extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Kizlyar-Pervomayskoye hostage crisis extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering.",
         "stats": [
           {
             "val": "1996",
             "lbl": "Year"
           },
           {
-            "val": "7 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Historical detail",
+            "lbl": "The Kizlyar–Pervomayskoye hostage crisis, also known in Russia as the terrorist act in Kizlyar, occurred in January 1996 during the First Chechen War.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://i.redd.it/38x7h4i1e7i81.jpg"
       }
     ]
   },
@@ -362,55 +316,37 @@
     "sub": "Part of First Chechen War",
     "view": {
       "center": [
-        50,
-        15
+        42.869,
+        45.688
       ],
-      "zoom": 3
+      "zoom": 10
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.869,
+          45.688
+        ],
+        "label": "Shatoy",
+        "type": "target",
+        "description": "Shatoy marks the mountain ambush that inflicted heavy losses on a Russian column in April 1996."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Shatoy ambush",
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%80%D0%B3%D1%83%D0%BD%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BC%20%D1%81%20%D0%AF%D1%80%D1%8B%D1%88-%D0%9C%D0%B0%D1%80%D0%B4%D1%8B.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%80%D0%B3%D1%83%D0%BD%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BC%20%D1%81%20%D0%AF%D1%80%D1%8B%D1%88-%D0%9C%D0%B0%D1%80%D0%B4%D1%8B.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Shatoy_ambush",
-        "body": "The Shatoy ambush was a significant event during the First Chechen War. It occurred near the town of Shatoy, located in the southern mountains of Chechnya. Chechen insurgents under the leadership of their Arab-born commander, Ibn al-Khattab, would launch an attack on a large Russian Armed Forces army convoy resulting in a three hour long battle.\n\nWhy This Moment Matters: Shatoy ambush was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Moscow fought to preserve Russia's territorial integrity, while Chechen separatists fought for independence.\n\nConsequences: The effects of Shatoy ambush extended beyond its immediate result. Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The Shatoy ambush was a significant event during the First Chechen War. It occurred near the town of Shatoy, located in the southern mountains of Chechnya. Chechen insurgents under the leadership of their Arab-born commander, Ibn al-Khattab, would launch an attack on a large Russian Armed Forces army convoy resulting in a three hour long battle.",
         "stats": [
           {
             "val": "1996",
             "lbl": "Year"
           },
           {
-            "val": "8 of 8",
-            "lbl": "Existing timeline event"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "international-and-human-dimensions",
-    "year": 1995,
-    "date": "1995-01-01",
-    "title": "International and Human Dimensions",
-    "sub": "The wider impact of the First Chechen War",
-    "view": {
-      "center": [
-        43.3,
-        45.7
-      ],
-      "zoom": 3
-    },
-    "markers": [],
-    "regions": [],
-    "slides": [
-      {
-        "title": "International Dimension",
-        "body": "Foreign volunteers and journalists drew attention to the war, but outside governments avoided direct intervention.\n\nThe Human Cost: Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering.",
-        "stats": [
-          {
-            "val": "Tens of thousands killed, including many civilians",
-            "lbl": "Estimated human cost",
+            "val": "Operational detail",
+            "lbl": "Chechen fighters led by Ibn al-Khattab ambushed a Russian military convoy near Shatoy in a battle lasting roughly three hours.",
             "full": true
           }
         ]
@@ -418,24 +354,166 @@
     ]
   },
   {
+    "id": "august-1996-battle-of-grozny",
+    "year": 1996,
+    "date": "1996-08-06",
+    "title": "August 1996 Battle of Grozny",
+    "sub": "Part of First Chechen War",
+    "view": {
+      "center": [
+        43.316666666,
+        45.7
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Battle of Grozny",
+        "latlng": [
+          43.316666666,
+          45.7
+        ],
+        "type": "major",
+        "description": "Grozny marks the August 1996 battle that broke Russian control and led toward the Khasavyurt Accord."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Grozny",
+        "img": "https://www.canada.ca/content/dam/dnd-mdn/army/lineofsight/articleimages/2022/02/russias-1994-96-campaign-730x370-en.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Grozny_(August_1996)",
+        "body": "The Battle of Grozny of August 1996, also known as Operation Jihad or Operation Zero Option, when Chechen fighters regained and then kept control of Chechnya's capital Grozny in a surprise raid. Russian federal forces had captured the city in a previous battle that ended in February 1995, and subsequently posted a large garrison of federal and republican Ministry of the Interior (MVD) troops in the city.",
+        "stats": [
+          {
+            "val": "1996",
+            "lbl": "Year"
+          },
+          {
+            "val": "Operational detail",
+            "lbl": "The Battle of Grozny of August 1996, also known as Operation Jihad or Operation Zero Option, when Chechen fighters regained and then kept control of Chechnya's capital Grozny in a surprise raid.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "khasavyurt-accord",
+    "year": 1996,
+    "date": "1996-08-31",
+    "title": "Khasavyurt Accord",
+    "sub": "Part of First Chechen War",
+    "view": {
+      "center": [
+        43.25,
+        46.59
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "latlng": [
+          43.25,
+          46.59
+        ],
+        "label": "Khasavyurt",
+        "type": "target",
+        "description": "Khasavyurt marks the accord that ended major fighting in the First Chechen War."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Khasavyurt Accord",
+        "img": "https://gdb.rferl.org/5B118770-0C67-45AF-8F88-71A10DAE5DD9_mw800_mh600.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Khasavyurt_Accord",
+        "body": "The Khasavyurt Accord, formally the Khasavyourt Joint Declaration and Principles for Mutual Relations, was an agreement that marked the end of the First Chechen War, signed in Khasavyurt in Dagestan on 30 August 1996 between Alexander Lebed and Aslan Maskhadov.",
+        "stats": [
+          {
+            "val": "1996",
+            "lbl": "Year"
+          },
+          {
+            "val": "Political result",
+            "lbl": "The Khasavyurt Accord, formally the Khasavyourt Joint Declaration and Principles for Mutual Relations, was an agreement that marked the end of the First Chechen War, signed in Khasavyurt in Dagestan on 30 August 1996 between Alexander Lebed and Aslan Maskhadov.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-and-human-dimensions",
+    "year": 1996,
+    "date": "1996-08-31",
+    "title": "International and Human Dimensions",
+    "sub": "The wider impact of the First Chechen War",
+    "view": {
+      "center": [
+        43.3178,
+        45.6986
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "latlng": [
+          43.3178,
+          45.6986
+        ],
+        "label": "Grozny",
+        "type": "target",
+        "description": "Grozny marks the war's heaviest destruction and the civilian impact that drew international attention."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "International Dimension",
+        "body": "Foreign volunteers and journalists drew attention to the war, but outside governments avoided direct intervention.\n\nThe Human Cost: Indiscriminate bombardment, urban warfare, hostage crises, and abuses by both sides caused severe civilian suffering.",
+        "stats": [
+          {
+            "val": "Estimated human cost",
+            "lbl": "Tens of thousands killed, including many civilians",
+            "full": true
+          }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Evstafiev-helicopter-shot-down.jpg"
+      }
+    ]
+  },
+  {
     "id": "outcome-and-legacy",
     "year": 1996,
-    "date": "1996-01-01",
+    "date": "1996-08-31",
     "title": "Outcome and Legacy",
     "sub": "How the First Chechen War ended and what followed",
     "view": {
       "center": [
-        43.3,
-        45.7
+        43.3178,
+        45.6986
       ],
-      "zoom": 3
+      "zoom": 7
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          43.3178,
+          45.6986
+        ],
+        "label": "Grozny",
+        "type": "target",
+        "description": "Grozny marks Chechnya's unresolved postwar status and the instability that followed the 1996 settlement."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "The End of the First Chechen War",
-        "body": "Chechen forces retook Grozny and forced the Khasavyurt Accord. Russian troops withdrew, but Chechnya's final status remained unresolved."
+        "body": "Chechen forces retook Grozny and forced the Khasavyurt Accord. Russian troops withdrew, but Chechnya's final status remained unresolved.",
+        "img": "https://gdb.rferl.org/d9f86938-d2fc-4d8a-8848-b3dd07d62d85_w1071_s_d3.jpg",
+        "cap": "The outcome and legacy of the First Chechen War"
       },
       {
         "title": "War Summary: First Chechen War",
@@ -446,8 +524,8 @@
             "lbl": "Outcome / winner"
           },
           {
-            "val": "Tens of thousands killed, including many civilians",
-            "lbl": "Casualties / human cost"
+            "val": "Estimated human cost",
+            "lbl": "Tens of thousands killed, including many civilians"
           },
           {
             "val": "Chechen forces retook Grozny and forced the Khasavyurt Accord. Russian troops withdrew, but Chechnya's final status remained unresolved.",
@@ -455,7 +533,7 @@
             "full": true
           }
         ],
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%80%D0%B3%D1%83%D0%BD%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BC%20%D1%81%20%D0%AF%D1%80%D1%8B%D1%88-%D0%9C%D0%B0%D1%80%D0%B4%D1%8B.jpg",
+        "img": "https://gdb.rferl.org/d9f86938-d2fc-4d8a-8848-b3dd07d62d85_w1071_s_d3.jpg",
         "cap": "The outcome and legacy of the First Chechen War"
       }
     ]

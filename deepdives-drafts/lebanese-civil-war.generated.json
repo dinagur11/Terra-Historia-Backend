@@ -1,0 +1,394 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1975,
+    "date": "1975-04-13",
+    "title": "From Yom Kippur War to Lebanese Civil War",
+    "sub": "Connection and background to Lebanese Civil War",
+    "view": {
+      "center": [
+        33.63,
+        35.55
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Beirut",
+        "latlng": [
+          33.8938,
+          35.5018
+        ],
+        "type": "major",
+        "description": "Lebanon's capital became the political and military center of a fractured state."
+      },
+      {
+        "label": "Southern Lebanon",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "target",
+        "description": "Armed groups in the south turned Lebanon's civil war into an Israeli border-security crisis."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Yom Kippur War to Lebanese Civil War",
+        "img": "https://www.thoughtco.com/thmb/eVIWeKvV59T2aylW_Hb1H2eFNF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-607440036-5922ffb03df78cf5faf99555.jpg",
+        "cap": "Historical overview: From Yom Kippur War to Lebanese Civil War",
+        "body": "Regional conflict shifted toward Lebanon as the PLO established an armed state-within-a-state after expulsion from Jordan. Lebanon's fragile sectarian system, inequality, and competing foreign patrons made confrontation increasingly likely.\n\nLebanese factions fought over political power and survival. Israel sought to stop cross-border attacks, while Syria, the PLO, Iran, and later Hezbollah pursued competing regional goals.\n\nThis background is essential to understanding Lebanese Civil War: the conflict emerged from accumulated security failures, political choices, and unresolved disputes rather than from a single isolated incident. The recorded indicators, including 1975-1990 (key detail), help convey the episode's scale and the pressures facing decision-makers.",
+        "stats": [
+          {
+            "val": "1975-1990",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "Lebanese factions fought over political power and survival. Israel sought to stop cross-border attacks, while Syria, the PLO, Iran, and later Hezbollah pursued competing regional goals.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bus-massacre",
+    "year": 1975,
+    "date": "1975-04-13",
+    "title": "Bus Massacre and Civil War",
+    "sub": "Part of Lebanese Civil War",
+    "view": {
+      "center": [
+        33.872,
+        35.536
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Ain el-Remmaneh",
+        "latlng": [
+          33.872,
+          35.536
+        ],
+        "type": "major",
+        "description": "The bus attack helped ignite the civil war's first major cycle of reprisals."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Bus Massacre and Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ain_el_Remmeneh_Bus_Massacre_1975.jpg",
+        "cap": "Historical overview: Bus Massacre and Civil War",
+        "body": "A shooting and retaliatory attack on a bus carrying Palestinians helped ignite sustained fighting between Christian militias and a coalition of Palestinian and Lebanese leftist forces.\n\nFor Israel, Lebanon's collapse mattered because armed organizations used the vacuum to build bases, fire across the border, and pull outside powers into the conflict. Israeli policy was shaped by the need to protect the Galilee while avoiding a permanent slide into Lebanon's internal war.",
+        "stats": [
+          {
+            "val": "13 April 1975",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "syrian-intervention",
+    "year": 1976,
+    "date": "1976-06-01",
+    "title": "Syrian Intervention",
+    "sub": "Part of Lebanese Civil War",
+    "view": {
+      "center": [
+        34,
+        36
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Syrian entry routes",
+        "latlng": [
+          34,
+          36
+        ],
+        "type": "target",
+        "description": "Syrian forces entered Lebanon to control the war's direction and preserve Damascus's influence."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Syrian Intervention",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg",
+        "cap": "Historical overview: Syrian Intervention",
+        "body": "Syria sent forces into Lebanon, initially restraining Palestinian-leftist gains while seeking lasting control over Lebanese politics.\n\nFor Israel, Lebanon's collapse mattered because armed organizations used the vacuum to build bases, fire across the border, and pull outside powers into the conflict. Israeli policy was shaped by the need to protect the Galilee while avoiding a permanent slide into Lebanon's internal war.",
+        "stats": [
+          {
+            "val": "1976",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-litani",
+    "year": 1978,
+    "date": "1978-03-14",
+    "title": "Operation Litani",
+    "sub": "Part of Lebanese Civil War",
+    "view": {
+      "center": [
+        33.25,
+        35.38
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Southern Lebanon",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "target",
+        "description": "The PLO's southern presence brought Lebanon's war directly to Israel's northern border."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Litani",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation_Litani_V.jpg",
+        "cap": "Historical overview: Operation Litani",
+        "body": "After the Coastal Road massacre, Israel invaded southern Lebanon to push PLO forces away from its border. UNIFIL was created, but the security problem remained unresolved.\n\nFor Israel, Lebanon's collapse mattered because armed organizations used the vacuum to build bases, fire across the border, and pull outside powers into the conflict. Israeli policy was shaped by the need to protect the Galilee while avoiding a permanent slide into Lebanon's internal war.",
+        "stats": [
+          {
+            "val": "March 1978",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "israel-invasion",
+    "year": 1982,
+    "date": "1982-06-06",
+    "title": "1982 Lebanon War",
+    "sub": "Part of Lebanese Civil War",
+    "view": {
+      "center": [
+        33.8938,
+        35.5018
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Beirut",
+        "latlng": [
+          33.8938,
+          35.5018
+        ],
+        "type": "major",
+        "description": "The 1982 campaign drove the PLO leadership from Beirut but deepened Israel's involvement in Lebanon."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "1982 Lebanon War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/1982_Lebanon_War_L.jpg",
+        "cap": "Historical overview: 1982 Lebanon War",
+        "body": "Israel invaded after repeated conflict with the PLO and drove its leadership from Beirut. The campaign weakened the PLO in Lebanon but expanded Israel's entanglement in the civil war.\n\nFor Israel, Lebanon's collapse mattered because armed organizations used the vacuum to build bases, fire across the border, and pull outside powers into the conflict. Israeli policy was shaped by the need to protect the Galilee while avoiding a permanent slide into Lebanon's internal war.",
+        "stats": [
+          {
+            "val": "June 1982",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "barracks-bombing",
+    "year": 1983,
+    "date": "1983-10-23",
+    "title": "Beirut Barracks Bombings",
+    "sub": "Part of Lebanese Civil War",
+    "view": {
+      "center": [
+        33.82,
+        35.49
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Beirut airport area",
+        "latlng": [
+          33.82,
+          35.49
+        ],
+        "type": "major",
+        "description": "The barracks bombings showed the rise of suicide attacks against Western forces in Lebanon."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Beirut Barracks Bombings",
+        "img": "https://2017-2021.state.gov/wp-content/uploads/2019/06/AP8310230589.jpg",
+        "cap": "Historical overview: Beirut Barracks Bombings",
+        "body": "Suicide bombers killed 241 US and 58 French service members serving in the multinational force. The attacks accelerated the Western withdrawal.\n\nFor Israel, Lebanon's collapse mattered because armed organizations used the vacuum to build bases, fire across the border, and pull outside powers into the conflict. Israeli policy was shaped by the need to protect the Galilee while avoiding a permanent slide into Lebanon's internal war.",
+        "stats": [
+          {
+            "val": "299 service members killed",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hezbollah-emerges",
+    "year": 1985,
+    "date": "1985-02-16",
+    "title": "Hezbollah Emerges",
+    "sub": "Part of Lebanese Civil War",
+    "view": {
+      "center": [
+        33.85,
+        35.98
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Bekaa Valley",
+        "latlng": [
+          33.85,
+          35.98
+        ],
+        "type": "target",
+        "description": "Iranian-backed networks used the Bekaa and southern Lebanon to build Hezbollah's military infrastructure."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Hezbollah Emerges",
+        "img": "https://www.idf.il/media/a1ipb1jm/whatsapp-image-2017-10-15-at-45140-pm-3.jpeg?mode=crop&width=500",
+        "cap": "Historical overview: Hezbollah Emerges",
+        "body": "Backed by Iran, Hezbollah consolidated as a powerful Shiite militia committed to armed resistance against Israel and to an Islamist political project in Lebanon.\n\nFor Israel, Lebanon's collapse mattered because armed organizations used the vacuum to build bases, fire across the border, and pull outside powers into the conflict. Israeli policy was shaped by the need to protect the Galilee while avoiding a permanent slide into Lebanon's internal war.",
+        "stats": [
+          {
+            "val": "1985 manifesto",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "taif-and-end",
+    "year": 1990,
+    "date": "1990-10-13",
+    "title": "Taif Settlement and War's End",
+    "sub": "Part of Lebanese Civil War",
+    "view": {
+      "center": [
+        33.25,
+        35.38
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Taif",
+        "latlng": [
+          21.4373,
+          40.5127
+        ],
+        "type": "minor",
+        "description": "The political settlement ended much of the civil war but did not disarm Hezbollah."
+      },
+      {
+        "label": "Southern Lebanon",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "target",
+        "description": "The unresolved armed presence in the south became the next phase of Israel's Lebanon challenge."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Taif Settlement and War's End",
+        "img": "https://www.middleeastmonitor.com/wp-content/uploads/2020/05/GettyImages-95769389.jpg",
+        "cap": "Historical overview: Taif Settlement and War's End",
+        "body": "The Taif Agreement ended the main phase of Lebanon's civil war by rebalancing state power and bringing most militias under formal disarmament. Its central security flaw was the exception that allowed Hezbollah to keep its weapons while Syrian influence remained entrenched.\n\nFor Israel, that meant the war's end did not restore a stable northern frontier. The PLO's old position in Lebanon had been weakened, but an Iranian-backed organization with a long-term military project was left armed, politically protected, and able to turn southern Lebanon into the next pressure point.",
+        "stats": [
+          {
+            "val": "13 October 1990",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1990,
+    "date": "1990-10-13",
+    "title": "Conflict Summary: Lebanese Civil War",
+    "sub": "Final summary of Lebanese Civil War",
+    "view": {
+      "center": [
+        33.85,
+        35.86
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Lebanon",
+        "latlng": [
+          33.85,
+          35.86
+        ],
+        "type": "major",
+        "description": "The civil war ended formally, but foreign influence and Hezbollah's retained weapons left the border conflict unresolved."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Lebanese Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Green_Line%2C_Beirut_1982.jpg",
+        "cap": "Historical overview: Conflict Summary: Lebanese Civil War",
+        "body": "The civil war devastated Lebanon and entrenched Syrian and Iranian influence. Israeli operations disrupted PLO attacks but did not create a durable political settlement, while Hezbollah emerged as a stronger long-term threat. Taif ended general warfare without fully restoring state control over armed force.\n\nTaken as a whole, Lebanese Civil War shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Taif settlement; Syrian dominance and Hezbollah retained arms",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "About 150,000 killed and roughly one million displaced",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The civil war devastated Lebanon and entrenched Syrian and Iranian influence. Israeli operations disrupted PLO attacks but did not create a durable political settlement, while Hezbollah emerged as a stronger long-term threat. Taif ended general warfare without fully restoring state control over armed force.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -7,55 +7,53 @@
     "sub": "How the Kosovo War began",
     "view": {
       "center": [
-        42.6,
-        21
+        42.6629,
+        21.1655
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Pristina",
+        "latlng": [
+          42.6629,
+          21.1655
+        ],
+        "type": "major",
+        "description": "Kosovo's lost autonomy, parallel institutions, and police control centered political pressure in Pristina."
+      },
+      {
+        "label": "Drenica",
+        "latlng": [
+          42.7,
+          20.85
+        ],
+        "type": "target",
+        "description": "Drenica became a KLA stronghold and one of the first major zones of Serbian security operations."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "From Croat-Bosniak War to Kosovo War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ahmici_massacre.jpg",
-        "cap": "Historical connection: Unresolved Yugoslav breakup",
-        "body": "The earlier Yugoslav wars did not resolve Kosovo's status or Serbia's treatment of its Albanian majority. Repression, insurgency, and failed negotiations led to another war and NATO intervention.",
+        "title": "Origins and Road to War",
+        "img": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2009%2F02%2F17%2F2009-02-17T201017Z_02_RP1DRIHUUFAB_RTRRPP_0_YUGOSLAVIA-KOSOVO.JPG?auth=92eb574ca4ace4f63c5ee44fd4f9782710e11dd620116f8be7ffa18c1607f97c&width=1920&quality=80",
+        "cap": "Visual reference for Origins and Road to War.",
+        "body": "The Kosovo War grew from the loss of Kosovo's autonomy, Serbian police control, Albanian parallel institutions, failed nonviolent resistance, and the rise of the KLA. By 1998, repression and insurgency had made compromise increasingly unlikely.",
         "stats": [
           {
-            "val": "Croat-Bosniak War",
-            "lbl": "Previous conflict in this path"
+            "val": "1998",
+            "lbl": "Timeline year"
           },
           {
-            "val": "Regional conflict chain",
-            "lbl": "Unresolved Yugoslav breakup"
+            "val": "Origins and Road to War",
+            "lbl": "Event focus"
           },
           {
-            "val": "Kosovo War",
-            "lbl": "The next conflict to explore"
-          },
-          {
-            "val": "Why they connect",
-            "lbl": "The earlier Yugoslav wars did not resolve Kosovo's status or Serbia's treatment of its Albanian majority. Repression, insurgency, and failed negotiations led to another war and NATO intervention.",
+            "val": "The Kosovo War grew from the loss of Kosovo's autonomy, Serbian police control, Albanian parallel institutions, failed nonviolent resistance, and the rise of the KLA. By 1998, repression and insurgency had made compromise increasingly unlikely.",
+            "lbl": "Why this moment matters",
             "full": true
           }
         ]
-      },
-      {
-        "title": "Before the Kosovo War",
-        "body": "Years of repression and failed peaceful resistance gave way to an armed insurgency by the Kosovo Liberation Army and a Serbian counterinsurgency.\n\nThe Conflict Takes Shape: The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
-        "stats": [
-          {
-            "val": "1998-1999",
-            "lbl": "Conflict period"
-          },
-          {
-            "val": "The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.",
-            "lbl": "What was at stake",
-            "full": true
-          }
-        ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Drenica_region.png",
-        "cap": "Opening context for the Kosovo War"
       }
     ]
   },
@@ -67,27 +65,42 @@
     "sub": "Part of Kosovo War",
     "view": {
       "center": [
-        50,
-        15
+        42.7,
+        20.85
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Drenica region",
+        "latlng": [
+          42.7,
+          20.85
+        ],
+        "type": "target",
+        "description": "Serbian operations in Drenica radicalized the conflict and expanded support for armed resistance."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Drenica massacres",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Drenica_region.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Drenica_massacres",
-        "body": "The Drenica massacres were a series of killings of Kosovo Albanian civilians committed by Serbian special police forces[a] in the Drenica region of central Kosovo.\n\nWhy This Moment Matters: Drenica massacres was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.\n\nConsequences: The effects of Drenica massacres extended beyond its immediate result. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Masakra_n%C3%AB_Poklek.jpg/250px-Masakra_n%C3%AB_Poklek.jpg",
+        "cap": "Visual reference for Drenica massacres.",
+        "body": "The Drenica massacres radicalized the conflict. Serbian operations against KLA-linked areas killed civilians and helped transform the KLA from a marginal armed group into a wider symbol of resistance.",
         "stats": [
           {
             "val": "1998",
-            "lbl": "Year"
+            "lbl": "Timeline year"
           },
           {
-            "val": "1 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Drenica massacres",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "The Drenica massacres radicalized the conflict. Serbian operations against KLA-linked areas killed civilians and helped transform the KLA from a marginal armed group into a wider symbol of resistance.",
+            "lbl": "Why this moment matters",
+            "full": true
           }
         ]
       }
@@ -101,36 +114,42 @@
     "sub": "Part of Kosovo War",
     "view": {
       "center": [
-        42.766666666,
-        20.816666666
+        42.746,
+        20.788
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Attack on Prekaz",
+        "label": "Prekaz",
         "latlng": [
-          42.766666666,
-          20.816666666
+          42.746,
+          20.788
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The attack on the Jashari compound became a founding martyrdom story for the KLA."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Attack on Prekaz",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adem_Jashari_Memorial_in_Prekaz_January_2013_01.JPG/3840px-Adem_Jashari_Memorial_in_Prekaz_January_2013_01.JPG",
-        "cap": "Source: https://en.wikipedia.org/wiki/Attack_on_Prekaz",
-        "body": "The Attack on Prekaz, also known as the Prekaz massacre, was an operation led by the Special Anti-Terrorism Unit of Serbia which lasted from 5 to 7 March 1998, whose goal was to eliminate Kosovo Liberation Army (KLA) suspects and their families. During the operation, KLA leader Adem Jashari and his brother Hamëz were killed, along with nearly 60 other family members. The assault came two months after a smaller unsuccessful attack on January that year with the same objectives.\n\nWhy This Moment Matters: Attack on Prekaz was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.\n\nConsequences: The effects of Attack on Prekaz extended beyond its immediate result. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Adem_Jashari_Memorial_in_Prekaz_January_2013_01.JPG",
+        "cap": "Visual reference for Attack on Prekaz.",
+        "body": "The attack on Prekaz killed Adem Jashari and many members of his family. For Kosovo Albanians, it became a martyrdom story that increased recruitment and hardened the war's emotional stakes.",
         "stats": [
           {
             "val": "1998",
-            "lbl": "Year"
+            "lbl": "Timeline year"
           },
           {
-            "val": "2 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Attack on Prekaz",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "The attack on Prekaz killed Adem Jashari and many members of his family. For Kosovo Albanians, it became a martyrdom story that increased recruitment and hardened the war's emotional stakes.",
+            "lbl": "Why this moment matters",
+            "full": true
           }
         ]
       }
@@ -144,42 +163,44 @@
     "sub": "Part of Kosovo War",
     "view": {
       "center": [
-        42.4294,
-        21.0164
+        42.466,
+        21.007
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Račak massacre",
+        "label": "Račak",
         "latlng": [
-          42.4294,
-          21.0164
+          42.466,
+          21.007
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Račak shifted international diplomacy by making civilian killing impossible to treat as a local security incident."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Račak massacre",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Ra%C4%8Dak_massacre",
-        "body": "The Račak massacre or Račak operation was the massacre of 45 Kosovo Albanian civilians that took place in the village of Račak in central Kosovo in January 1999. The massacre was perpetrated by Serbian security forces in response to Albanian separatist activity in the region. The Serbian government refused to let a war crimes prosecutor visit the site, and maintained that the casualties were all members of the rebel Kosovo Liberation Army (KLA) killed in combat with state security forces. This was untrue, although there were nine KLA militants killed in the village along with the 45 civilians.\n\nWhy This Moment Matters: Račak massacre was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.",
+        "img": "https://live-production.wcms.abc-cdn.net.au/32a0e563765997e6f34e6d2c6148fd85?impolicy=wcms_crop_resize&cropH=1364&cropW=2048&xPos=0&yPos=5&width=862&height=575",
+        "cap": "Visual reference for Račak massacre.",
+        "body": "The Račak massacre became a diplomatic turning point. International observers treated the killings as evidence that the conflict could not be contained by negotiations alone.",
         "stats": [
           {
             "val": "1999",
-            "lbl": "Year"
+            "lbl": "Timeline year"
           },
           {
-            "val": "3 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Račak massacre",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "The Račak massacre became a diplomatic turning point. International observers treated the killings as evidence that the conflict could not be contained by negotiations alone.",
+            "lbl": "Why this moment matters",
+            "full": true
           }
         ]
-      },
-      {
-        "title": "Consequences",
-        "body": "The effects of Račak massacre extended beyond its immediate result. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities. Its place in the wider campaign also influenced later military choices and political calculations."
       }
     ]
   },
@@ -191,31 +212,51 @@
     "sub": "Part of Kosovo War",
     "view": {
       "center": [
-        50,
-        15
+        44.8125,
+        20.4612
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Belgrade",
+        "latlng": [
+          44.8125,
+          20.4612
+        ],
+        "type": "major",
+        "description": "NATO struck Yugoslav command, infrastructure, and military targets to force withdrawal from Kosovo."
+      },
+      {
+        "label": "Kosovo front",
+        "latlng": [
+          42.6,
+          21
+        ],
+        "type": "target",
+        "description": "The air campaign coincided with intensified expulsions and violence on the ground."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "NATO bombing of Yugoslavia",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a5/%D0%9D%D0%B0%D1%82%D0%BE_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B5_%D0%B8%D0%B7%D0%B0%D0%B7%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D1%83_%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%83_%D1%83_%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC_%D0%A1%D0%B0%D0%B4%D1%83.jpeg",
-        "cap": "Source: https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia",
-        "body": "The North Atlantic Treaty Organization (NATO) carried out an aerial bombing campaign against the Federal Republic of Yugoslavia during the Kosovo War. The air strikes lasted from 24 March 1999 to 10 June 1999. The bombings continued until an agreement was reached that led to the withdrawal of the Yugoslav Army from Kosovo, and the establishment of the United Nations Interim Administration Mission in Kosovo, a UN peacekeeping mission in Kosovo. The official NATO operation code name was Operation Allied Force whereas the United States called it Operation Noble Anvil ; in Yugoslavia, the operation was incorrectly called Merciful Angel, possibly as a result of a misunderstanding or mistranslation."
-      },
-      {
-        "title": "Why This Moment Matters",
-        "body": "NATO bombing of Yugoslavia was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.\n\nConsequences: The effects of NATO bombing of Yugoslavia extended beyond its immediate result. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%D1%82%D0%BE_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B5_%D0%B8%D0%B7%D0%B0%D0%B7%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D1%83_%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%83_%D1%83_%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC_%D0%A1%D0%B0%D0%B4%D1%83.jpeg",
+        "cap": "Visual reference for NATO bombing of Yugoslavia.",
+        "body": "NATO's bombing campaign aimed to force Yugoslav withdrawal from Kosovo after diplomacy failed. The air war changed the strategic balance but also coincided with mass expulsions and civilian suffering on the ground.",
         "stats": [
           {
             "val": "1999",
-            "lbl": "Year"
+            "lbl": "Timeline year"
           },
           {
-            "val": "4 of 8",
-            "lbl": "Existing timeline event"
+            "val": "NATO bombing of Yugoslavia",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "NATO's bombing campaign aimed to force Yugoslav withdrawal from Kosovo after diplomacy failed. The air war changed the strategic balance but also coincided with mass expulsions and civilian suffering on the ground.",
+            "lbl": "Why this moment matters",
+            "full": true
           }
         ]
       }
@@ -229,36 +270,42 @@
     "sub": "Part of Kosovo War",
     "view": {
       "center": [
-        42.728055555,
-        20.656666666
+        42.72,
+        20.78
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Izbica massacre",
+        "label": "Izbica",
         "latlng": [
-          42.728055555,
-          20.656666666
+          42.72,
+          20.78
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Izbica became one of the massacre sites later documented by human-rights investigators."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Izbica massacre",
-        "img": "https://upload.wikimedia.org/wikipedia/en/1/17/Izbica_massacre.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Izbica_massacre",
-        "body": "The Izbica massacre was one of the largest massacres of the Kosovo War. Following the war, the International Criminal Tribunal for the former Yugoslavia (ICTY) found that the massacre resulted in the deaths of at least 93 Kosovar Albanians, mostly male non-combatant civilians between the ages of 60 and 70.\n\nWhy This Moment Matters: Izbica massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.\n\nConsequences: The effects of Izbica massacre extended beyond its immediate result. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://www.hrw.org/sites/default/files/styles/16x9_large/public/multimedia_images_2019/201906eca_kosovoanniversary_main_0.jpg?itok=0az_PO2z",
+        "cap": "Visual reference for Izbica massacre.",
+        "body": "Izbica became one of the documented massacre sites of spring 1999. It showed how village-level killings formed part of a wider campaign of expulsion and terror.",
         "stats": [
           {
             "val": "1999",
-            "lbl": "Year"
+            "lbl": "Timeline year"
           },
           {
-            "val": "5 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Izbica massacre",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Izbica became one of the documented massacre sites of spring 1999. It showed how village-level killings formed part of a wider campaign of expulsion and terror.",
+            "lbl": "Why this moment matters",
+            "full": true
           }
         ]
       }
@@ -272,42 +319,44 @@
     "sub": "Part of Kosovo War",
     "view": {
       "center": [
-        42.53,
-        20.24
+        42.44,
+        20.37
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Meja massacre",
+        "label": "Meja",
         "latlng": [
-          42.53,
-          20.24
+          42.44,
+          20.37
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Meja was one of the largest single massacres of Kosovo Albanian civilians during the war."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Meja massacre",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Meja_massacre",
-        "body": "The Meja massacre was the mass execution of at least 377 Albanian Catholic and Muslim civilians during the Kosovo War with the purpose of ethnic cleansing, which took place on 27 April 1999. The majority of the victims were from neighbouring areas around Meja and were temporarily in Meja as refugees who wanted to cross into Albania but were stopped there by the Serbian military. It was committed by Serbian police and army forces in Operation Reka which began after the killing of six Serbian policemen by the Kosovo Liberation Army (KLA) in the Meja ambush.\n\nWhy This Moment Matters: Meja massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.",
+        "img": "https://president-ksgov.net/wp-content/uploads/Meja-1.jpg",
+        "cap": "Visual reference for Meja massacre.",
+        "body": "The Meja massacre was one of the largest killings of Kosovo Albanian civilians during the war. It remains central to memory, missing-persons work, and accountability efforts.",
         "stats": [
           {
             "val": "1999",
-            "lbl": "Year"
+            "lbl": "Timeline year"
           },
           {
-            "val": "6 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Meja massacre",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "The Meja massacre was one of the largest killings of Kosovo Albanian civilians during the war. It remains central to memory, missing-persons work, and accountability efforts.",
+            "lbl": "Why this moment matters",
+            "full": true
           }
         ]
-      },
-      {
-        "title": "Consequences",
-        "body": "The effects of Meja massacre extended beyond its immediate result. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities. Its place in the wider campaign also influenced later military choices and political calculations."
       }
     ]
   },
@@ -319,36 +368,42 @@
     "sub": "Part of Kosovo War",
     "view": {
       "center": [
-        42.6572,
-        20.3389
+        42.65,
+        20.29
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Ćuška massacre",
+        "label": "Ćuška / Qyshk",
         "latlng": [
-          42.6572,
-          20.3389
+          42.65,
+          20.29
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Ćuška marks the Peja-area violence and the broader pattern of expulsions, killings, and cover-up."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Ćuška massacre",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/%C4%86u%C5%A1ka_massacre",
-        "body": "The Ćuška massacre was the killing of 41 Kosovo Albanian civilians, all men aged 19 to 69, by Serbian security forces, the Yugoslav Army and paramilitaries on 14 May 1999 during the Kosovo War. On 13 March 2010, the Serbian war crimes prosecutor announced that nine men had been arrested for their role in the massacre and stated that a total of 26 men were under investigation for murder and theft at Ćuška.\n\nWhy This Moment Matters: Ćuška massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.\n\nConsequences: The effects of Ćuška massacre extended beyond its immediate result. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/RCMP_in_Kosovo.jpg/250px-RCMP_in_Kosovo.jpg",
+        "cap": "Visual reference for Ćuška massacre.",
+        "body": "The Ćuška massacre belongs to the Peja-area pattern of killings, expulsions, and property destruction. It shows how the war's violence moved through villages and family networks, not only formal battlefields.",
         "stats": [
           {
             "val": "1999",
-            "lbl": "Year"
+            "lbl": "Timeline year"
           },
           {
-            "val": "7 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Ćuška massacre",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "The Ćuška massacre belongs to the Peja-area pattern of killings, expulsions, and property destruction. It shows how the war's violence moved through villages and family networks, not only formal battlefields.",
+            "lbl": "Why this moment matters",
+            "full": true
           }
         ]
       }
@@ -362,40 +417,42 @@
     "sub": "Part of Kosovo War",
     "view": {
       "center": [
-        42.57277778,
-        21.03583333
+        42.5736,
+        21.0358
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Incident at Pristina Airport",
+        "label": "Pristina Airport",
         "latlng": [
-          42.57277778,
-          21.03583333
+          42.5736,
+          21.0358
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Russian troops' arrival at the airport exposed the diplomatic tension behind the postwar NATO-led deployment."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Incident at Pristina Airport",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Airport_Departure_2.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Incident_at_Pristina_Airport",
-        "body": "The incident at the Pristina airport was a military confrontation between the forces of Russia and NATO from 11 to 13 June 1999, immediately following the end of the Kosovo War. Russian troops unexpectedly occupied the airport ahead of a planned NATO deployment, creating a tense stand-off. NATO Supreme Allied Commander Europe Wesley Clark ordered British brigades under NATO's Kosovo Force commander Mike Jackson to move vehicles to block the runway, and attack Russian forces. British officers refused and delayed Clark's orders. The conflict was resolved through a peaceful agreement, but also due to the potential threat posed by the Kosovo Liberation Army (KLA), which opposed the Russian presence and could have escalated the situation further."
-      },
-      {
-        "title": "Why This Moment Matters",
-        "body": "Incident at Pristina Airport was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The conflict concerned Serbian sovereignty, Kosovo Albanian self-determination, and the protection of civilians.\n\nConsequences: The effects of Incident at Pristina Airport extended beyond its immediate result. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Airport_Departure_2.jpg",
+        "cap": "Visual reference for Incident at Pristina Airport.",
+        "body": "The Pristina Airport incident exposed postwar great-power tension. Russian troops reached the airport before NATO, creating a brief standoff over who would shape Kosovo's security order.",
         "stats": [
           {
             "val": "1999",
-            "lbl": "Year"
+            "lbl": "Timeline year"
           },
           {
-            "val": "8 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Incident at Pristina Airport",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "The Pristina Airport incident exposed postwar great-power tension. Russian troops reached the airport before NATO, creating a brief standoff over who would shape Kosovo's security order.",
+            "lbl": "Why this moment matters",
+            "full": true
           }
         ]
       }
@@ -403,27 +460,56 @@
   },
   {
     "id": "international-and-human-dimensions",
-    "year": 1998,
-    "date": "1998-01-01",
+    "year": 1999,
+    "date": "1999-06-12",
     "title": "International and Human Dimensions",
     "sub": "The wider impact of the Kosovo War",
     "view": {
       "center": [
-        42.6,
-        21
+        42.0767,
+        20.4217
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kukës refugee route",
+        "latlng": [
+          42.0767,
+          20.4217
+        ],
+        "type": "major",
+        "description": "Hundreds of thousands of refugees crossed into Albania during the expulsions."
+      },
+      {
+        "label": "North Macedonia border",
+        "latlng": [
+          42.16,
+          21.37
+        ],
+        "type": "major",
+        "description": "Another huge flow of refugees crossed south toward Macedonia."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "International Dimension",
-        "body": "Failed diplomacy was followed by a NATO air campaign against Yugoslavia and the deployment of international forces.\n\nThe Human Cost: Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities.",
+        "title": "International and Human Dimensions",
+        "img": "https://www.pbs.org/wgbh/pages/frontline/shows/kosovo/art/ncleansep.jpg",
+        "cap": "Visual reference for International and Human Dimensions.",
+        "body": "The war produced mass displacement, refugee columns into Albania and North Macedonia, NATO intervention, Russian diplomacy, and UN administration. Civilians were the central victims of expulsions, massacres, airstrikes, and reprisal attacks.",
         "stats": [
           {
-            "val": "Approximately 13,000 killed and over one million displaced",
-            "lbl": "Estimated human cost",
+            "val": "1999",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "International and Human Dimensions",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "The war produced mass displacement, refugee columns into Albania and North Macedonia, NATO intervention, Russian diplomacy, and UN administration. Civilians were the central victims of expulsions, massacres, airstrikes, and reprisal attacks.",
+            "lbl": "Why this moment matters",
             "full": true
           }
         ]
@@ -433,43 +519,58 @@
   {
     "id": "outcome-and-legacy",
     "year": 1999,
-    "date": "1999-01-01",
+    "date": "1999-06-12",
     "title": "Outcome and Legacy",
     "sub": "How the Kosovo War ended and what followed",
     "view": {
       "center": [
-        42.6,
-        21
+        42.6629,
+        21.1655
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Pristina",
+        "latlng": [
+          42.6629,
+          21.1655
+        ],
+        "type": "target",
+        "description": "Kosovo came under UN administration after Yugoslav withdrawal."
+      },
+      {
+        "label": "Mitrovica",
+        "latlng": [
+          42.8914,
+          20.866
+        ],
+        "type": "major",
+        "description": "Mitrovica became a symbol of the unresolved Serb-Albanian divide after the war."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "The End of the Kosovo War",
-        "body": "Yugoslav forces withdrew and Kosovo came under international administration. Kosovo later declared independence, which Serbia still rejects."
-      },
-      {
-        "title": "War Summary: Kosovo War",
-        "body": "Yugoslav forces withdrew and Kosovo came under international administration. Kosovo later declared independence, which Serbia still rejects. Mass displacement, massacres, reprisals, and postwar attacks uprooted Albanian, Serb, Roma, and other communities.",
+        "title": "Outcome and Legacy",
+        "img": "https://www.bozar.be/sites/default/files/styles/open_graph_style/public/efficy/images/2291308_photo_kosovo.jpg?h=be46d029&itok=5Dg47shj",
+        "cap": "Visual reference for Outcome and Legacy.",
+        "body": "Yugoslav forces withdrew and Kosovo came under UN administration and NATO-led security. Kosovo later declared independence, but Serbia rejects it, leaving the war's political legacy unresolved.",
         "stats": [
           {
-            "val": "Kosovo Albanian and NATO strategic victory",
-            "lbl": "Outcome / winner"
+            "val": "1999",
+            "lbl": "Timeline year"
           },
           {
-            "val": "Approximately 13,000 killed and over one million displaced",
-            "lbl": "Casualties / human cost"
+            "val": "Outcome and Legacy",
+            "lbl": "Event focus"
           },
           {
-            "val": "Yugoslav forces withdrew and Kosovo came under international administration. Kosovo later declared independence, which Serbia still rejects.",
-            "lbl": "Lasting legacy",
+            "val": "Yugoslav forces withdrew and Kosovo came under UN administration and NATO-led security. Kosovo later declared independence, but Serbia rejects it, leaving the war's political legacy unresolved.",
+            "lbl": "Why this moment matters",
             "full": true
           }
-        ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Airport_Departure_2.jpg",
-        "cap": "The outcome and legacy of the Kosovo War"
+        ]
       }
     ]
   }

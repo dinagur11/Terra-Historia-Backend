@@ -1,0 +1,68 @@
+[
+  {
+    "id": "hong-kong-1997",
+    "name": "Hong Kong Returned to China",
+    "date": "July 1 1997",
+    "location": "Hong Kong",
+    "coordinates": {
+      "lat": 22.3193,
+      "lng": 114.1694
+    },
+    "summary": "The UK transferred sovereignty of Hong Kong to China."
+  },
+  {
+    "id": "diana-death-1997",
+    "name": "Princess Diana Dies",
+    "date": "August 31 1997",
+    "location": "Paris, France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Princess Diana died in a car crash."
+  },
+  {
+    "id": "google-founded-1997",
+    "name": "Google Domain Registered",
+    "date": "September 15 1997",
+    "location": "USA",
+    "coordinates": {
+      "lat": 37.422,
+      "lng": -122.0841
+    },
+    "summary": "Google.com was registered, marking the start of a major tech company."
+  },
+  {
+    "id": "asian-crisis-1997",
+    "name": "Asian Financial Crisis",
+    "date": "July 2 1997",
+    "location": "Asia",
+    "coordinates": {
+      "lat": 13.7563,
+      "lng": 100.5018
+    },
+    "summary": "A financial crisis spread across Asian economies."
+  },
+  {
+    "id": "kyoto-protocol-1997",
+    "name": "Kyoto Protocol Adopted",
+    "date": "December 11 1997",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.0116,
+      "lng": 135.7681
+    },
+    "summary": "Countries agreed to reduce greenhouse gas emissions."
+  },
+  {
+    "id": "pathfinder-1997",
+    "name": "Mars Pathfinder Lands",
+    "date": "July 4 1997",
+    "location": "Mars",
+    "coordinates": {
+      "lat": 19.33,
+      "lng": 33.55
+    },
+    "summary": "NASA successfully landed Pathfinder on Mars."
+  }
+]

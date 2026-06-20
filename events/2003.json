@@ -1,0 +1,46 @@
+[
+  {
+    "id": "columbia-disaster-2003",
+    "name": "Space Shuttle Columbia Disaster",
+    "date": "February 1 2003",
+    "location": "Texas, USA",
+    "coordinates": {
+      "lat": 31.9686,
+      "lng": -99.9018
+    },
+    "summary": "The Columbia shuttle disintegrated upon re-entry, killing all seven astronauts."
+  },
+  {
+    "id": "iraq-war-2003",
+    "name": "Iraq War Begins",
+    "date": "March 20 2003",
+    "location": "Iraq",
+    "coordinates": {
+      "lat": 33.2232,
+      "lng": 43.6793
+    },
+    "summary": "The United States and allies invaded Iraq, leading to the fall of Saddam Hussein."
+  },
+  {
+    "id": "human-genome-2003",
+    "name": "Human Genome Project Completed",
+    "date": "April 14 2003",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Scientists completed mapping the human genome."
+  },
+  {
+    "id": "europe-heatwave-2003",
+    "name": "European Heatwave",
+    "date": "August 1 2003",
+    "location": "Europe",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "A severe heatwave caused tens of thousands of deaths across Europe."
+  }
+]

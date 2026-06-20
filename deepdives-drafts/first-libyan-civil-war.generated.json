@@ -1,0 +1,533 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2011,
+    "date": "2011-02-15",
+    "title": "From Arab Spring to First Libyan Civil War",
+    "sub": "Protests become an armed revolt",
+    "view": {
+      "center": [
+        28,
+        17
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Benghazi",
+        "latlng": [
+          32.1167,
+          20.0667
+        ],
+        "type": "target",
+        "description": "Early protests and repression in Benghazi helped turn unrest into open revolt."
+      },
+      {
+        "label": "Tripoli",
+        "latlng": [
+          32.8872,
+          13.1913
+        ],
+        "type": "major",
+        "description": "Gaddafi's capital remained the regime's political and military center."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Uprising Against the Jamahiriya",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/First%20Libyan%20Civil%20War%20(2011).png",
+        "cap": "Map of the First Libyan Civil War.",
+        "body": "Libya's 2011 revolt grew from Arab Spring protests, local anger at repression, and decades of rule by Muammar Gaddafi's security state. Demonstrations spread quickly, the regime used force, and opposition-held cities began organizing armed resistance. The conflict soon became a civil war over whether Gaddafi's system would survive or collapse.",
+        "stats": [
+          {
+            "val": "Feb 2011",
+            "lbl": "Uprising begins"
+          },
+          {
+            "val": "Benghazi",
+            "lbl": "Early opposition center"
+          },
+          {
+            "val": "Protest movement turns into armed revolt",
+            "lbl": "Turning point",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uprising",
+    "year": 2011,
+    "date": "2011-02-17",
+    "title": "Uprising Begins",
+    "sub": "Opposition cities break from regime control",
+    "view": {
+      "center": [
+        32.1167,
+        20.0667
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Benghazi",
+        "latlng": [
+          32.1167,
+          20.0667
+        ],
+        "type": "target",
+        "description": "Benghazi became the opposition's main eastern stronghold."
+      },
+      {
+        "label": "Misrata",
+        "latlng": [
+          32.3775,
+          15.092
+        ],
+        "type": "major",
+        "description": "Misrata's resistance later became crucial to the anti-Gaddafi war effort."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Cities Become the Revolution's Base",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Libyan_Civil_War_in_October_2011_%2809%29.jpg",
+        "cap": "Opposition fighters during the 2011 Libyan Civil War.",
+        "body": "The uprising began with protests and quickly moved into armed confrontation as security forces fired on demonstrators and local units defected or collapsed. Eastern cities, especially Benghazi, became opposition centers. The speed of the revolt shocked the regime, but the lack of a unified opposition command also foreshadowed the militia fragmentation that would follow victory.",
+        "stats": [
+          {
+            "val": "17 Feb 2011",
+            "lbl": "Day of Rage"
+          },
+          {
+            "val": "Eastern Libya",
+            "lbl": "Early rebel base"
+          },
+          {
+            "val": "Regime violence accelerates armed rebellion",
+            "lbl": "Cause",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gaddafi-counteroffensive",
+    "year": 2011,
+    "date": "2011-03-06",
+    "title": "Gaddafi Counteroffensive",
+    "sub": "Regime forces push toward Benghazi",
+    "view": {
+      "center": [
+        30.75,
+        18.08
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Ras Lanuf",
+        "latlng": [
+          30.5,
+          18.55
+        ],
+        "type": "major",
+        "description": "Oil-coast towns changed hands as regime forces regained momentum."
+      },
+      {
+        "label": "Benghazi",
+        "latlng": [
+          32.1167,
+          20.0667
+        ],
+        "type": "target",
+        "description": "The threatened assault on Benghazi drove the international debate over civilian protection."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Revolt Nearly Breaks",
+        "img": "https://live-production.wcms.abc-cdn.net.au/4020e5060f8ced1ebda073e63d618d1c?impolicy=wcms_crop_resize&cropH=1970&cropW=3500&xPos=0&yPos=0&width=862&height=485",
+        "cap": "Libyan battlefield imagery during the regime counteroffensive.",
+        "body": "Gaddafi's counteroffensive reversed early rebel gains along the coast and threatened Benghazi. Better-armed regime forces used armor, artillery, aircraft, and loyal units to exploit the opposition's weak organization. The advance made the war's central question immediate: would outside powers allow the regime to retake rebel cities by force, or intervene before Benghazi fell?",
+        "stats": [
+          {
+            "val": "Mar 2011",
+            "lbl": "Counteroffensive"
+          },
+          {
+            "val": "Benghazi threatened",
+            "lbl": "Immediate danger"
+          },
+          {
+            "val": "Regime momentum triggers intervention debate",
+            "lbl": "Significance",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "resolution-1973",
+    "year": 2011,
+    "date": "2011-03-17",
+    "title": "UN Security Council Resolution 1973",
+    "sub": "The UN authorizes civilian protection",
+    "view": {
+      "center": [
+        40.7494,
+        -73.968
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "UN Headquarters",
+        "latlng": [
+          40.7494,
+          -73.968
+        ],
+        "type": "major",
+        "description": "The Security Council authorized a no-fly zone and all necessary measures to protect civilians."
+      },
+      {
+        "label": "Benghazi",
+        "latlng": [
+          32.1167,
+          20.0667
+        ],
+        "type": "target",
+        "description": "The threat to Benghazi framed the urgency of the vote."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "A Legal Mandate for Intervention",
+        "img": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/3/18/1300436044208/UN-security-council-membe-007.jpg?width=465&dpr=1&s=none&crop=none",
+        "cap": "UN Security Council members during the Libya vote.",
+        "body": "UN Security Council Resolution 1973 authorized a no-fly zone and the use of all necessary measures to protect civilians, while excluding a foreign occupation force. The resolution gave international legal cover to military action. It also created later controversy because a mission framed around civilian protection helped produce regime change.",
+        "stats": [
+          {
+            "val": "17 Mar 2011",
+            "lbl": "Resolution adopted"
+          },
+          {
+            "val": "No-fly zone",
+            "lbl": "Authorized tool"
+          },
+          {
+            "val": "Civilian protection mandate leads to NATO campaign",
+            "lbl": "Consequence",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nato-intervention",
+    "year": 2011,
+    "date": "2011-03-19",
+    "title": "Western and NATO Intervention",
+    "sub": "Airpower stops the regime advance",
+    "view": {
+      "center": [
+        32.1167,
+        20.0667
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Benghazi approaches",
+        "latlng": [
+          32.05,
+          20.1
+        ],
+        "type": "target",
+        "description": "Coalition airstrikes stopped regime forces near Benghazi."
+      },
+      {
+        "label": "Mediterranean air corridor",
+        "latlng": [
+          35,
+          15
+        ],
+        "type": "major",
+        "description": "NATO aircraft and ships enforced the no-fly zone and struck regime forces."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From No-Fly Zone to Air Campaign",
+        "img": "https://thedailyeconomy.org/wp-content/uploads/2025/01/Shutterstock_2314112451.jpg",
+        "cap": "Aircraft imagery representing the NATO-led intervention.",
+        "body": "Western and NATO intervention began with strikes against Libyan air defenses and regime forces threatening Benghazi. The campaign prevented an immediate rebel defeat, then evolved into sustained air support that weakened Gaddafi's military across the country. Airpower changed the balance, but it could not by itself build a unified postwar state.",
+        "stats": [
+          {
+            "val": "19 Mar 2011",
+            "lbl": "Military action begins"
+          },
+          {
+            "val": "Operation Unified Protector",
+            "lbl": "NATO mission"
+          },
+          {
+            "val": "Air campaign shifts momentum to the opposition",
+            "lbl": "Effect",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fall-of-tripoli",
+    "year": 2011,
+    "date": "2011-08-20",
+    "title": "Fall of Tripoli",
+    "sub": "Rebels enter the capital",
+    "view": {
+      "center": [
+        32.8872,
+        13.1913
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Tripoli",
+        "latlng": [
+          32.8872,
+          13.1913
+        ],
+        "type": "target",
+        "description": "Opposition fighters entered the capital in August 2011, collapsing Gaddafi's central authority."
+      },
+      {
+        "label": "Bab al-Aziziya",
+        "latlng": [
+          32.872,
+          13.173
+        ],
+        "type": "major",
+        "description": "The capture of Gaddafi's compound symbolized the fall of the regime."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Capital Falls",
+        "img": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/24/1314180272976/A-Libyan-rebel-walks-past-007.jpg",
+        "cap": "A Libyan rebel walks near damaged regime symbols in Tripoli.",
+        "body": "The fall of Tripoli broke the regime's political center. Rebel forces entered the city with support from local uprisings and NATO pressure, while Gaddafi's command structure unraveled. The victory was decisive for the dictatorship, but it also exposed the opposition's central weakness: many armed groups could defeat the regime, yet no single authority could easily control them afterward.",
+        "stats": [
+          {
+            "val": "Aug 2011",
+            "lbl": "Tripoli falls"
+          },
+          {
+            "val": "Bab al-Aziziya",
+            "lbl": "Symbolic target"
+          },
+          {
+            "val": "Regime center collapses before state authority is rebuilt",
+            "lbl": "Consequence",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gaddafi-killed",
+    "year": 2011,
+    "date": "2011-10-20",
+    "title": "Gaddafi Killed at Sirte",
+    "sub": "The dictator's death ends organized regime resistance",
+    "view": {
+      "center": [
+        31.2,
+        16.6
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Sirte",
+        "latlng": [
+          31.2,
+          16.6
+        ],
+        "type": "target",
+        "description": "Gaddafi was captured and killed near Sirte after his convoy was struck and surrounded."
+      },
+      {
+        "label": "Coastal escape route",
+        "latlng": [
+          31.25,
+          16.4
+        ],
+        "type": "minor",
+        "description": "The convoy's failed escape showed the regime had lost operational space."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The End of Gaddafi",
+        "img": "https://s.france24.com/media/display/31037c6e-0a82-11e9-8069-005056a964fe/w:1280/p:1x1/Libya-gaddafi-Captured_1.jpg",
+        "cap": "France 24 image associated with Gaddafi's capture.",
+        "body": "Muammar Gaddafi was captured and killed near Sirte after the collapse of his final stronghold. His death ended organized loyalist resistance and gave the revolution a clear symbolic victory. It did not end Libya's crisis. Weapons, militias, local rivalries, and weak institutions remained, turning victory into a difficult and unstable transition.",
+        "stats": [
+          {
+            "val": "20 Oct 2011",
+            "lbl": "Gaddafi killed"
+          },
+          {
+            "val": "Sirte",
+            "lbl": "Final stronghold"
+          },
+          {
+            "val": "Regime defeat does not resolve militia fragmentation",
+            "lbl": "Legacy",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nato-mission-ends",
+    "year": 2011,
+    "date": "2011-10-31",
+    "title": "NATO Mission Ends",
+    "sub": "Operation Unified Protector closes",
+    "view": {
+      "center": [
+        28,
+        17
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Libyan coast",
+        "latlng": [
+          32,
+          18
+        ],
+        "type": "major",
+        "description": "NATO ended its air and maritime mission after Gaddafi's death and the fall of loyalist strongholds."
+      },
+      {
+        "label": "Tripoli",
+        "latlng": [
+          32.8872,
+          13.1913
+        ],
+        "type": "target",
+        "description": "The new authorities inherited the capital without a monopoly on force."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Intervention Ends Before the Aftermath Is Solved",
+        "img": "https://www.aljazeera.com/wp-content/uploads/2011/10/2011103119361553734_20.jpeg?resize=570%2C380&quality=80",
+        "cap": "Al Jazeera image from the end of NATO's Libya mission.",
+        "body": "NATO ended Operation Unified Protector on 31 October 2011. The mission had helped protect opposition-held cities and destroy much of Gaddafi's military capability. Its ending exposed the harder political problem: Libya had no strong security institutions ready to absorb militias, secure weapons, or create a durable national settlement.",
+        "stats": [
+          {
+            "val": "31 Oct 2011",
+            "lbl": "NATO mission ends"
+          },
+          {
+            "val": "Unified Protector",
+            "lbl": "Mission name"
+          },
+          {
+            "val": "Military success leaves unresolved state-building problem",
+            "lbl": "Lesson",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2011,
+    "date": "2011-10-31",
+    "title": "Conflict Summary: First Libyan Civil War",
+    "sub": "Victory, intervention, and the unstable aftermath",
+    "view": {
+      "center": [
+        28,
+        17
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Benghazi",
+        "latlng": [
+          32.1167,
+          20.0667
+        ],
+        "type": "major",
+        "description": "The revolt's eastern base survived because local resistance and foreign intervention stopped the regime counteroffensive."
+      },
+      {
+        "label": "Tripoli",
+        "latlng": [
+          32.8872,
+          13.1913
+        ],
+        "type": "target",
+        "description": "The capital's fall ended Gaddafi's rule but did not create a unified postwar security order."
+      },
+      {
+        "label": "Sirte",
+        "latlng": [
+          31.2,
+          16.6
+        ],
+        "type": "major",
+        "description": "Gaddafi's death at Sirte closed the war's regime-change phase."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "What the War Changed",
+        "img": "https://s.france24.com/media/display/90d9cd58-0a07-11e9-8d21-005056bff430/w:1024/p:16x9/libya-nato.jpg",
+        "cap": "Libya and NATO imagery from the 2011 war's aftermath.",
+        "body": "The First Libyan Civil War overthrew Gaddafi and prevented the immediate destruction of the opposition, but it did not produce a stable postwar order. The deep dive's central lesson is the gap between battlefield success and political settlement. Airpower, rebel courage, and diplomatic action could defeat the regime; building a state after the regime collapsed proved far harder.",
+        "stats": [
+          {
+            "val": "Gaddafi overthrown",
+            "lbl": "Outcome"
+          },
+          {
+            "val": "Thousands killed and displaced",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Unstable transition leads toward renewed conflict",
+            "lbl": "Lasting legacy",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

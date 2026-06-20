@@ -1,0 +1,46 @@
+[
+  {
+    "id": "beijing-olympics-2008",
+    "name": "Beijing Olympics",
+    "date": "August 8 2008",
+    "location": "Beijing, China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "China hosted the Summer Olympics, showcasing its growing global influence."
+  },
+  {
+    "id": "global-financial-crisis-2008",
+    "name": "Global Financial Crisis Peak",
+    "date": "September 15 2008",
+    "location": "USA",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The collapse of Lehman Brothers triggered a global financial crisis affecting economies worldwide."
+  },
+  {
+    "id": "obama-elected-2008",
+    "name": "Barack Obama Elected President",
+    "date": "November 4 2008",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Barack Obama was elected as the first African American president of the United States."
+  },
+  {
+    "id": "russia-georgia-war-2008",
+    "name": "Russia–Georgia War",
+    "date": "August 7 2008",
+    "location": "Georgia",
+    "coordinates": {
+      "lat": 42.3154,
+      "lng": 43.3569
+    },
+    "summary": "A brief war between Russia and Georgia erupted over South Ossetia."
+  }
+]

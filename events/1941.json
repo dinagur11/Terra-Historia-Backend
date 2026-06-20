@@ -1,0 +1,112 @@
+[
+  {
+    "id": "lend-lease-1941-1",
+    "name": "Lend-Lease Act",
+    "date": "March 11 1941",
+    "location": "Washington, D.C.",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "WWII: The United States authorizes massive material aid to countries fighting the Axis."
+  },
+  {
+    "id": "germany-invades-yugoslavia-greece-1941-2",
+    "name": "Germany Invades Yugoslavia and Greece",
+    "date": "April 6 1941",
+    "location": "Belgrade",
+    "coordinates": {
+      "lat": 44.7866,
+      "lng": 20.4489
+    },
+    "summary": "WWII: Germany attacks the Balkans to secure its southern flank before invading the Soviet Union."
+  },
+  {
+    "id": "crete-1941-3",
+    "name": "Battle of Crete",
+    "date": "May 20 1941",
+    "location": "Crete",
+    "coordinates": {
+      "lat": 35.2401,
+      "lng": 24.8093
+    },
+    "summary": "WWII: German airborne forces capture Crete after heavy losses."
+  },
+  {
+    "id": "barbarossa-1941-4",
+    "name": "Operation Barbarossa",
+    "date": "June 22 1941",
+    "location": "Eastern Front",
+    "coordinates": {
+      "lat": 52,
+      "lng": 28
+    },
+    "summary": "WWII: Germany invades the Soviet Union, opening the largest and deadliest land theater of the war."
+  },
+  {
+    "id": "continuation-war-1941-5",
+    "name": "Continuation War Begins",
+    "date": "June 25 1941",
+    "location": "Finland",
+    "coordinates": {
+      "lat": 61,
+      "lng": 26
+    },
+    "summary": "WWII: Finland enters war against the Soviet Union alongside Germany, seeking to recover territory lost in the Winter War."
+  },
+  {
+    "id": "atlantic-charter-1941-6",
+    "name": "Atlantic Charter",
+    "date": "August 14 1941",
+    "location": "Placentia Bay",
+    "coordinates": {
+      "lat": 47.7,
+      "lng": -53.9
+    },
+    "summary": "WWII: Roosevelt and Churchill issue principles for the postwar world and Allied cooperation."
+  },
+  {
+    "id": "siege-leningrad-1941-7",
+    "name": "Siege of Leningrad Begins",
+    "date": "September 8 1941",
+    "location": "Leningrad",
+    "coordinates": {
+      "lat": 59.9343,
+      "lng": 30.3351
+    },
+    "summary": "WWII: German and Finnish forces isolate Leningrad, beginning a devastating siege."
+  },
+  {
+    "id": "battle-of-moscow-1941-8",
+    "name": "Battle of Moscow",
+    "date": "October 1941",
+    "location": "Moscow",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "WWII: German forces advance toward Moscow but are halted by Soviet resistance and winter conditions."
+  },
+  {
+    "id": "pearl-harbor-1941-9",
+    "name": "Attack on Pearl Harbor",
+    "date": "December 7 1941",
+    "location": "Pearl Harbor",
+    "coordinates": {
+      "lat": 21.344,
+      "lng": -157.975
+    },
+    "summary": "WWII: Japan attacks the U.S. Pacific Fleet at Pearl Harbor, bringing the United States fully into the war."
+  },
+  {
+    "id": "germany-declares-war-us-1941-10",
+    "name": "Germany Declares War on the United States",
+    "date": "December 11 1941",
+    "location": "Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "WWII: Nazi Germany declares war on the United States, making the conflict fully global."
+  }
+]

@@ -45,13 +45,13 @@
     "id": "korean-war",
     "title": "Korean War",
     "description": "Explore the rapid invasions, desperate defenses, amphibious landings, and international intervention that divided Korea.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/SNK_MAP_I_1000W.jpg"
+    "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2020-08/Korean%20War%20NKPA%201200.jpg?&fit=crop&w=1200&h=675"
   },
   {
     "id": "vietnam-war",
     "title": "Vietnam War",
     "description": "Trace the long war in Vietnam through its major campaigns, political turning points, and the experience of American intervention.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Laos_1973-02_CIA.png"
+    "image": "https://images.immediate.co.uk/production/volatile/sites/7/2019/04/GettyImages-2717016-93218c6.jpg?quality=90&resize=980,654"
   },
   {
     "id": "suez-crisis",
@@ -63,19 +63,13 @@
     "id": "laotian-civil-war",
     "title": "Laotian Civil War",
     "description": "Explore the hidden Cold War fought across Laos by local factions, regional powers, and covert American forces.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/La-map.png"
-  },
-  {
-    "id": "sand-war",
-    "title": "Sand War",
-    "description": "Examine the 1963 border war between Algeria and Morocco and the fragile post-colonial order in North Africa.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sand_War.jpg"
+    "image": "https://orion-uploads.openroadmedia.com/lg_a071b89a1e4e-anti-aircraft-troops-of-the-laotian-peoples-liberation-army-142341995246.jpg"
   },
   {
     "id": "cambodian-civil-war",
     "title": "Cambodian Civil War",
     "description": "Trace Cambodia’s descent into civil war, foreign intervention, and the rise of the Khmer Rouge.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cambodia_August%2C_1970.png"
+    "image": "https://images.theconversation.com/files/661370/original/file-20250411-56-86yjb6.jpg?ixlib=rb-4.1.0&rect=0%2C7%2C5000%2C3330&q=50&auto=format&w=768&h=512&fit=crop&dpr=2"
   },
   {
     "id": "six-day-war",
@@ -96,16 +90,10 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Egyptianbridge.jpg"
   },
   {
-    "id": "third-indochina-war",
-    "title": "Third Indochina War",
-    "description": "Trace the conflicts that followed the Vietnam War, including fighting in Cambodia and along the China-Vietnam border.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Hmong_refugees_arrested_and_forcibly_deported_to_Laos_by_Thai_army.jpeg"
-  },
-  {
     "id": "chadian-libyan-war",
     "title": "Chadian-Libyan War",
-    "description": "Explore the desert war in which mobile Chadian forces and French intervention defeated Libyan expansion.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tschad_GUNT.jpg"
+    "description": "Explore the Chadian-Libyan War from the Aouzou Strip dispute through French intervention and the mobile Toyota War campaign that forced Libya out of Chad.",
+    "image": "https://apanews.net/wp-content/uploads/2025/11/chad-libya-joint-force.jpg"
   },
   {
     "id": "iran-iraq-war",
@@ -122,8 +110,8 @@
   {
     "id": "falklands-war",
     "title": "Falklands War",
-    "description": "Follow Britain’s distant 1982 expedition through naval warfare, amphibious landings, and the battles for the islands.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Blackbuck.operation.png"
+    "description": "Follow the 1982 Falklands War from Argentina's seizure of the islands through Britain's long-range air, naval, amphibious, and ground campaign.",
+    "image": "https://www.collectair.co.uk/images/black-buck-650.jpg"
   },
   {
     "id": "finnish-civil-war",
@@ -134,20 +122,20 @@
   {
     "id": "estonian-war-of-independence",
     "title": "Estonian War of Independence",
-    "description": "Explore Estonian War of Independence through its origins, major turning points, international dimension, human cost, and lasting consequences. The Russian Civil War created both the opportunity and the danger for Estonian independence.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Joala_lahing_2.jpg"
+    "description": "Explore Estonia's fight for independence against Soviet forces, Baltic German formations, and the wider turmoil left by the Russian Civil War.",
+    "image": "https://alchetron.com/cdn/estonian-war-of-independence-494db584-388d-44b4-9eec-41e26cefaa5-resize-750.jpeg"
   },
   {
     "id": "lithuanian-soviet-war",
     "title": "Lithuanian-Soviet War",
-    "description": "Explore Lithuanian-Soviet War through its origins, major turning points, international dimension, human cost, and lasting consequences. Lithuania emerged from the collapse of the Russian Empire, but Soviet forces advanced west during the Russian Civil War.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg"
+    "description": "Follow Lithuania's 1918-1919 war against Soviet forces through the collapse of empire, battles around Kaunas and Alytus, German support, and the defense of independence.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Soviet_POWs_in_Lithuania.jpg/330px-Soviet_POWs_in_Lithuania.jpg"
   },
   {
     "id": "polish-lithuanian-war",
     "title": "Polish-Lithuanian War",
-    "description": "Explore Polish-Lithuanian War through its origins, major turning points, international dimension, human cost, and lasting consequences. Lithuania survived the Soviet offensive, but independence did not settle its borders.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg"
+    "description": "Trace the Polish-Lithuanian War through the dispute over Vilnius, Sejny and Suwałki, the Polish-Soviet War overlap, Żeligowski's mutiny, and the frozen diplomatic rupture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg/250px-Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg"
   },
   {
     "id": "turkish-war-of-independence",
@@ -156,22 +144,10 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_g%C3%BCney_cephesi_kolaj.jpg"
   },
   {
-    "id": "eastern-front",
-    "title": "Eastern Front",
-    "description": "Explore Eastern Front through its origins, major turning points, international dimension, human cost, and lasting consequences. World War II became a war of annihilation when Nazi Germany invaded the Soviet Union.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Operation_Barbarossa_collage.jpg"
-  },
-  {
-    "id": "soviet-finnish-wars",
-    "title": "Soviet-Finnish Wars",
-    "description": "Explore Soviet-Finnish Wars through its origins, major turning points, international dimension, human cost, and lasting consequences. The Winter War was the first part of a longer struggle over Finland's frontier with the Soviet Union.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_soldiers_marching.jpg"
-  },
-  {
     "id": "lapland-war",
     "title": "Lapland War",
-    "description": "Explore Lapland War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Continuation War ended with Finland accepting Soviet armistice terms.",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Evakoita%20Sodankyl%C3%A4ss%C3%A4.jpg"
+    "description": "Trace Finland's 1944-1945 war to expel German forces from the Arctic north after the Moscow Armistice ended the Continuation War.",
+    "image": "https://www.warhistoryonline.com/wp-content/uploads/sites/64/2017/03/finns-1.jpg"
   },
   {
     "id": "indonesian-national-revolution",
@@ -186,70 +162,46 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg"
   },
   {
-    "id": "war-in-southern-vietnam",
-    "title": "War in Southern Vietnam",
-    "description": "Explore War in Southern Vietnam through its origins, major turning points, international dimension, human cost, and lasting consequences. The Indochina Wars left Vietnam divided after the defeat of France.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg"
-  },
-  {
-    "id": "rwandan-civil-war",
-    "title": "Rwandan Civil War",
-    "description": "Explore Rwandan Civil War through its origins, major turning points, international dimension, human cost, and lasting consequences. The end of European colonial rule left Rwanda with hardened political divisions and large refugee communities.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg"
-  },
-  {
-    "id": "shaba-ii",
-    "title": "Shaba II",
-    "description": "Explore Shaba II through its origins, major turning points, international dimension, human cost, and lasting consequences. Post-colonial central Africa remained vulnerable to rebellion, foreign intervention, and Cold War competition.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mortier2.jpg"
-  },
-  {
-    "id": "toyota-war",
-    "title": "Toyota War",
-    "description": "Explore Toyota War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Chadian-Libyan War reached its decisive phase when Chadian forces united against Libya's northern occupation.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/OuadiDoum.jpg"
-  },
-  {
     "id": "croatian-war-of-independence",
     "title": "Croatian War of Independence",
-    "description": "Explore Croatian War of Independence through its origins, major turning points, international dimension, human cost, and lasting consequences. World War II's aftermath created socialist Yugoslavia, but that federal order collapsed after the Cold War.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg"
+    "description": "Follow Croatia's break from Yugoslavia through early clashes, sieges, UN diplomacy, Croatian offensives, displacement, and the war's contested legacy.",
+    "image": "https://i.namu.wiki/i/pEKy5sIZgO1RO9PJtP_wN2Pylt25JtHj30lrLmyOWgg7PhS93WqRIh-UnFfeDKi1YxebfiS7jnzz-3rG7eX9lg.webp"
   },
   {
     "id": "croat-bosniak-war",
     "title": "Croat-Bosniak War",
-    "description": "Explore Croat-Bosniak War through its origins, major turning points, international dimension, human cost, and lasting consequences. The breakup of Yugoslavia spread from Croatia into Bosnia and Herzegovina.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ahmici_massacre.jpg"
+    "description": "Trace the Croat-Bosniak War from the collapse of alliance politics in Bosnia to massacres, Mostar, international pressure, and the Washington Agreement.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Croat%E2%80%93Bosniak_War_collage.jpg"
   },
   {
     "id": "kosovo-war",
     "title": "Kosovo War",
-    "description": "Explore Kosovo War through its origins, major turning points, international dimension, human cost, and lasting consequences. The earlier Yugoslav wars did not resolve Kosovo's status or Serbia's treatment of its Albanian majority.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Drenica_region.png"
+    "description": "Explore Kosovo's road from lost autonomy and insurgency to massacres, NATO intervention, displacement, UN administration, and disputed independence.",
+    "image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2009%2F02%2F17%2F2009-02-17T201017Z_02_RP1DRIETZVAB_RTRRPP_0_KOSOVO.JPG?auth=c2082b872a8c6e304c6b25320b9cb988ae7366a9d82a5d5511afd9a1ce66fb1e&width=1920&quality=80"
   },
   {
     "id": "transnistria-war",
     "title": "Transnistria War",
-    "description": "Explore Transnistria War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Soviet collapse reopened questions of borders, language, and identity across former republics.",
+    "description": "Trace the Transnistria War from Soviet collapse and language politics through Dubăsari, Bender, Russian 14th Army intervention, ceasefire, and the frozen conflict.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg"
   },
   {
     "id": "war-in-abkhazia",
     "title": "War in Abkhazia",
-    "description": "Explore War in Abkhazia through its origins, major turning points, international dimension, human cost, and lasting consequences. Like Transnistria, Abkhazia became a separatist battlefield after Soviet authority disappeared.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/War_in_Abkhazia_1992.PNG"
+    "description": "Follow the War in Abkhazia through Georgia's 1992 entry, Gagra, Tkvarcheli, Gumista, Sukhumi, ethnic cleansing, Russian involvement, and the unresolved separatist legacy.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parlament_of_Abkhazia.JPG"
   },
   {
     "id": "tajikistani-civil-war",
     "title": "Tajikistani Civil War",
-    "description": "Explore Tajikistani Civil War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Soviet collapse removed the institutions that had contained regional and ideological competition in Tajikistan.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg"
+    "description": "Explore the Tajikistani Civil War through regional factionalism, Dushanbe street politics, southern fighting, Afghan-border spillover, Russian involvement, UN mediation, and the 1997 peace.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Spetsnaz_troopers_during_the_1992_Tajik_war.jpg"
   },
   {
     "id": "first-chechen-war",
     "title": "First Chechen War",
     "description": "Explore First Chechen War through its origins, major turning points, international dimension, human cost, and lasting consequences. The Russian Empire's violent history in the Caucasus and the Soviet collapse encouraged Chechen separatism.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Evstafiev-Chechnya-BURNED.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Evstafiev-helicopter-shot-down.jpg"
   },
   {
     "id": "war-of-dagestan",
@@ -292,5 +244,173 @@
     "title": "Iran-Israel Proxy Conflict",
     "description": "Explore Iran-Israel Proxy Conflict through its origins, major turning points, international dimension, human cost, and lasting consequences. The South Lebanon conflict strengthened Hezbollah and tied it closely to Iran's regional strategy.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/USS_New_Jersey_firing_in_Beirut%2C_1984.jpg"
+  },
+  {
+    "id": "second-intifada",
+    "title": "Second Intifada",
+    "description": "Follow Israel's struggle against the suicide bombings and armed attacks of the Second Intifada, from the collapse of negotiations to the 2005 ceasefire.",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2010/10/2010103125618668784_8.jpeg?fit=770%2C510&quality=80"
+  },
+  {
+    "id": "2006-lebanon-war",
+    "title": "2006 Lebanon War",
+    "description": "Explore Israel's 2006 war against Hezbollah after a cross-border raid, from the rocket campaign to UN Security Council Resolution 1701.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2006_Lebanon_War._LXXXI.jpg/250px-2006_Lebanon_War._LXXXI.jpg"
+  },
+  {
+    "id": "gaza-war-2008-2009",
+    "title": "Gaza War (2008-2009)",
+    "description": "Follow Operation Cast Lead, Israel's campaign to reduce Hamas rocket fire and weapons smuggling from Gaza.",
+    "image": "https://www.middleeastmonitor.com/wp-content/uploads/2018/12/2008_12-gaza-warAB00-13.jpg"
+  },
+  {
+    "id": "2012-gaza-war",
+    "title": "2012 Gaza War",
+    "description": "Trace Operation Pillar of Defense, the eight-day confrontation that tested Iron Dome and ended through Egyptian mediation.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaza_Strip_map2.svg"
+  },
+  {
+    "id": "2014-gaza-war",
+    "title": "2014 Gaza War",
+    "description": "Explore Operation Protective Edge, from rocket fire and tunnel warfare to a ceasefire after fifty days.",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/175FA/production/_94883759_6d8a39ed-39c5-406e-8657-95c7443cbc36.jpg"
+  },
+  {
+    "id": "2021-israel-palestine-crisis",
+    "title": "2021 Israel-Palestine Crisis",
+    "description": "Follow Operation Guardian of the Walls, from Jerusalem unrest and Hamas rocket fire to Israel's campaign against Gaza tunnel networks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Disorders_in_Lod%2C_May_2021._VII.jpg"
+  },
+  {
+    "id": "israel-hamas-war",
+    "title": "Israel-Hamas War",
+    "description": "Trace the war that began with Hamas's October 7 attack, Israel's campaign in Gaza, hostage operations, and the fragile ceasefire through June 2026.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IDF_Iron_Dome_2021.jpg"
+  },
+  {
+    "id": "twelve-day-war",
+    "title": "Twelve-Day War",
+    "description": "Explore Israel's June 2025 campaign against Iran's nuclear and missile programs and Iran's direct missile retaliation.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pictures_of_the_Israeli_attack_on_Tehran_1_Mehr_(2).jpg"
+  },
+  {
+    "id": "2026-lebanon-war",
+    "title": "2026 Lebanon War",
+    "description": "Follow the renewed Israel-Hezbollah war that began in March 2026 and remains ongoing alongside the wider Iran conflict.",
+    "image": "https://img.lemde.fr/2026/02/08/0/0/6000/4000/664/0/75/0/130c91a_ftp-1-sngvxqb3sjmt-5105185-01-06.jpg"
+  },
+  {
+    "id": "2026-iran-war",
+    "title": "2026 Iran War",
+    "description": "Explore the ongoing 2026 war in which Israel and the United States struck Iran and Iran launched a regional missile campaign.",
+    "image": "https://i.abcnewsfe.com/a/546114b8-48d3-4165-abe9-a7bcfd9f3990/Khamenei-1-rt-gmh-250617_1750177937088_hpMain.jpg"
+  },
+  {
+    "id": "polish-soviet-war",
+    "title": "Polish-Soviet War",
+    "description": "Follow the struggle that decided Poland's eastern frontier and halted the Soviet advance toward central Europe.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG"
+  },
+  {
+    "id": "irish-war-of-independence",
+    "title": "Irish War of Independence",
+    "description": "Trace the guerrilla war, British counterinsurgency, and negotiations that created the Irish Free State.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheshire_Regiment_trench_Somme_1916.jpg"
+  },
+  {
+    "id": "greek-civil-war",
+    "title": "Greek Civil War",
+    "description": "Explore the first major Cold War civil conflict, from wartime resistance divisions to the communist defeat in 1949.",
+    "image": "https://www.nationalww2museum.org/sites/default/files/2020-05/GW1%20-%20Edward%20Lengel.jpg"
+  },
+  {
+    "id": "algerian-war",
+    "title": "Algerian War",
+    "description": "Follow Algeria's war of independence and the political crisis that transformed France.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sand_War.jpg"
+  },
+  {
+    "id": "first-intifada",
+    "title": "First Intifada",
+    "description": "Trace the Palestinian uprising that transformed Israeli-Palestinian politics and helped lead to the Oslo Accords.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Intifada_in_Gaza_Strip%2C_1987_V_Dan_Hadani_Archive.jpg/1280px-Intifada_in_Gaza_Strip%2C_1987_V_Dan_Hadani_Archive.jpg"
+  },
+  {
+    "id": "bosnian-war",
+    "title": "Bosnian War",
+    "description": "Explore the siege, ethnic cleansing, international intervention, and diplomacy that defined the Bosnian War.",
+    "image": "https://media.iwm.org.uk/ciim5/38/8/large_000000.jpg"
+  },
+  {
+    "id": "iraq-war",
+    "title": "Iraq War",
+    "description": "Follow the US-led invasion, occupation, insurgency, sectarian war, surge, and withdrawal from Iraq.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg"
+  },
+  {
+    "id": "russo-georgian-war",
+    "title": "Russo-Georgian War",
+    "description": "Trace the 2008 Russo-Georgian War through South Ossetian escalation, Tskhinvali, Russian intervention, attacks on Gori and Poti, ceasefire diplomacy, recognition, and occupation.",
+    "image": "https://civil.ge/wp-content/uploads/2023/08/Georgia-Russia-war-AP-Musa-Sadulayev.jpg"
+  },
+  {
+    "id": "russo-ukrainian-war",
+    "title": "Russo-Ukrainian War",
+    "description": "Follow Russia's war against Ukraine from Crimea and Donbas in 2014 through the ongoing full-scale invasion.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bender_1992.jpg/3840px-Bender_1992.jpg"
+  },
+  {
+    "id": "syrian-civil-war",
+    "title": "Syrian Civil War",
+    "description": "Trace Syria's uprising, civil war, foreign interventions, fight against ISIS, and the fall of Assad.",
+    "image": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/EF63/production/_105738216_mediaitem88772680.jpg"
+  },
+  {
+    "id": "soviet-afghan-war",
+    "title": "Soviet-Afghan War",
+    "description": "Follow the Soviet intervention, Afghan resistance, Western support, and withdrawal that reshaped the late Cold War.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg/3840px-U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg"
+  },
+  {
+    "id": "yugoslav-wars",
+    "title": "Yugoslav Wars",
+    "description": "Trace Yugoslavia's violent breakup, ethnic cleansing, Western intervention, and the creation of successor states.",
+    "image": "https://d1e4pidl3fu268.cloudfront.net/18d0f9f7-4df5-4ec3-8b08-beaec21fc58e/111.crop_659x494_42,0.preview.webp"
+  },
+  {
+    "id": "first-libyan-civil-war",
+    "title": "First Libyan Civil War",
+    "description": "Explore Libya's 2011 uprising, NATO intervention, the fall of Tripoli, Gaddafi's death, and the unresolved security vacuum after victory.",
+    "image": "https://live-production.wcms.abc-cdn.net.au/4020e5060f8ced1ebda073e63d618d1c?impolicy=wcms_crop_resize&cropH=1970&cropW=3500&xPos=0&yPos=0&width=862&height=485"
+  },
+  {
+    "id": "lebanese-civil-war",
+    "title": "Lebanese Civil War",
+    "description": "Follow Lebanon's civil war, foreign interventions, the PLO's armed presence, and Hezbollah's emergence.",
+    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p01txc91.jpg"
+  },
+  {
+    "id": "palestinian-fedayeen-insurgency",
+    "title": "Palestinian Fedayeen Insurgency",
+    "description": "Trace the border raids, Israeli reprisals, and regional escalation that preceded the Suez Crisis.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PikiWiki_Israel_20804_The_Palmach.jpg"
+  },
+  {
+    "id": "operation-litani",
+    "title": "Operation Litani",
+    "description": "Examine Israel's 1978 campaign against PLO bases in southern Lebanon and the creation of UNIFIL.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Operation_Litani_V.jpg"
+  },
+  {
+    "id": "israel-hezbollah-war-2023-2024",
+    "title": "Israel-Hezbollah War, 2023-2024",
+    "description": "Trace Hezbollah's post-October 7 attacks, Israel's campaign, and the fragile 2024 ceasefire.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2006_Lebanon_War._CLII.jpg"
+  },
+  {
+    "id": "israeli-operation-in-syria-2024-present",
+    "title": "Israeli Operation in Syria, 2024-Present",
+    "description": "Examine Israel's security operations in Syria after Assad's fall and the contested struggle over the border.",
+    "image": "https://assets.cfr.org/images/t_gct_w1200/v1755542657/globalconflicttracker/Conflict-in-Syria-Syria20Fall20of20Assad202/Conflict-in-Syria-Syria20Fall20of20Assad202.jpg?_i=AA"
   }
 ]

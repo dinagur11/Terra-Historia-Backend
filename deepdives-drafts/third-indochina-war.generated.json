@@ -7,17 +7,27 @@
     "sub": "Part of Third Indochina War",
     "view": {
       "center": [
-        50,
-        15
+        19.45,
+        103.18
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          19.45,
+          103.18
+        ],
+        "label": "Xieng Khouang / Plain of Jars",
+        "type": "target",
+        "description": "Xieng Khouang and the Plain of Jars mark a core area of post-1975 insurgency and state control struggles in Laos."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "From Laotian Civil War to Third Indochina War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/La-map.png",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/La-map.png",
         "cap": "Historical connection: Postwar Indochina",
         "body": "The Laotian Civil War ended with communist victory, but peace did not settle the rivalries created by decades of conflict across Indochina. Vietnam, Cambodia, China, and their allies soon competed over borders, ideology, and regional influence. Those tensions produced a new series of wars after 1975.",
         "stats": [
@@ -42,9 +52,9 @@
       },
       {
         "title": "Insurgency in Laos",
-        "img": "https://upload.wikimedia.org/wikipedia/en/8/8d/Hmong_refugees_arrested_and_forcibly_deported_to_Laos_by_Thai_army.jpeg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Insurgency_in_Laos",
-        "body": "After the communist Pathet Lao took power in Laos in 1975, anti-communist Hmong fighters and royalist remnants kept resisting in remote mountain zones. The conflict was not a conventional front line so much as a survival war fought through ambushes, airstrips, refugee corridors, and intelligence networks left over from the CIA-backed Secret War. For Western observers, it showed that the end of the Vietnam War did not end the human consequences of the wider Indochina conflict.\n\nWhy It Matters: The insurgency kept Laos militarized after 1975 and turned former wartime allies into refugees, irregular fighters, and diplomatic problems for the United States, Thailand, and humanitarian agencies. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/La-map.png",
+        "cap": "Historical connection: Postwar Indochina",
+        "body": "After the communist Pathet Lao took power in Laos in 1975, anti-communist Hmong fighters and royalist remnants kept resisting in remote mountain zones. The conflict was not a conventional front line so much as a survival war fought through ambushes, airstrips, refugee corridors, and intelligence networks left over from the CIA-backed Secret War. For Western observers, it showed that the end of the Vietnam War did not end the human consequences of the wider Indochina conflict.\n\nThe insurgency kept Laos militarized after 1975 and turned former wartime allies into refugees, irregular fighters, and diplomatic problems for the United States, Thailand, and humanitarian agencies. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
         "stats": [
           {
             "val": "1975",
@@ -59,7 +69,7 @@
             "lbl": "Conflict persisted for decades"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "The insurgency kept Laos militarized after 1975 and turned former wartime allies into refugees, irregular fighters, and diplomatic problems for the United States, Thailand, and humanitarian agencies.",
             "full": true
           }
@@ -75,19 +85,38 @@
     "sub": "Part of Third Indochina War",
     "view": {
       "center": [
-        50,
-        15
+        11.5564,
+        104.9282
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          11.5564,
+          104.9282
+        ],
+        "label": "Phnom Penh",
+        "type": "target",
+        "description": "Phnom Penh marks the Vietnamese capture of Cambodia's capital and the overthrow of the Khmer Rouge regime."
+      },
+      {
+        "latlng": [
+          10.99,
+          106.1
+        ],
+        "label": "Vietnam-Cambodia border",
+        "type": "minor",
+        "description": "The Vietnam-Cambodia border marks the frontier where raids, massacres, and invasion routes escalated the war."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Cambodian–Vietnamese War",
-        "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/H_4_ill_639759_cambodia-phnom_penh-1979-61.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/H_4_ill_639759_cambodia-phnom_penh-1979-61.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Cambodian%E2%80%93Vietnamese_War",
-        "body": "Vietnam invaded Cambodia after years of Khmer Rouge border attacks, massacres, and raids into Vietnamese villages. Hanoi overthrew Pol Pot in January 1979 and installed a friendly Cambodian government, but that victory opened a long occupation and international backlash. The war was grimly ironic: Vietnam, recently celebrated by many anti-war movements, was now fighting another communist regime while China and parts of the West opposed Vietnamese dominance in Cambodia.\n\nWhy It Matters: It removed the Khmer Rouge from power but created a decade-long occupation, a refugee crisis, and a diplomatic puzzle in which anti-Vietnamese politics sometimes kept Khmer Rouge representatives internationally relevant. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
+        "body": "Vietnam invaded Cambodia after years of Khmer Rouge border attacks, massacres, and raids into Vietnamese villages. Hanoi overthrew Pol Pot in January 1979 and installed a friendly Cambodian government, but that victory opened a long occupation and international backlash. The war was grimly ironic: Vietnam, recently celebrated by many anti-war movements, was now fighting another communist regime while China and parts of the West opposed Vietnamese dominance in Cambodia.\n\nIt removed the Khmer Rouge from power but created a decade-long occupation, a refugee crisis, and a diplomatic puzzle in which anti-Vietnamese politics sometimes kept Khmer Rouge representatives internationally relevant. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
         "stats": [
           {
             "val": "25 Dec 1978",
@@ -102,7 +131,7 @@
             "lbl": "Vietnamese occupation period"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It removed the Khmer Rouge from power but created a decade-long occupation, a refugee crisis, and a diplomatic puzzle in which anti-Vietnamese politics sometimes kept Khmer Rouge representatives internationally relevant.",
             "full": true
           }
@@ -118,19 +147,29 @@
     "sub": "Part of Third Indochina War",
     "view": {
       "center": [
-        50,
-        15
+        22.82,
+        104.98
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          22.82,
+          104.98
+        ],
+        "label": "Vi Xuyen front",
+        "type": "target",
+        "description": "Vi Xuyen marks one of the long-running Sino-Vietnamese border fronts after the 1979 invasion."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Sino-Vietnamese conflicts 1979–1991",
-        "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/Sino_Vietnamese_1981.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Sino_Vietnamese_1981.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Sino-Vietnamese_conflicts_(1979%E2%80%931991)",
-        "body": "After China attacked Vietnam in 1979, the fighting did not simply stop. The border became a tense fortified zone marked by shelling, raids, minefields, and positional battles through the 1980s. Vietnam was tied down while also occupying Cambodia, and China used pressure along the frontier to punish Hanoi and signal support for anti-Vietnamese forces. For NATO and U.S. analysts, it was a rare case of open conflict inside the communist bloc.\n\nWhy It Matters: The clashes drained Vietnamese resources, hardened the China-Vietnam rivalry, and revealed that Cold War alignments in Asia were far more complex than communist versus capitalist labels. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
+        "body": "After China attacked Vietnam in 1979, the fighting did not simply stop. The border became a tense fortified zone marked by shelling, raids, minefields, and positional battles through the 1980s. Vietnam was tied down while also occupying Cambodia, and China used pressure along the frontier to punish Hanoi and signal support for anti-Vietnamese forces. For NATO and U.S. analysts, it was a rare case of open conflict inside the communist bloc.\n\nThe clashes drained Vietnamese resources, hardened the China-Vietnam rivalry, and revealed that Cold War alignments in Asia were far more complex than communist versus capitalist labels. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
         "stats": [
           {
             "val": "1979-1991",
@@ -145,7 +184,7 @@
             "lbl": "Border danger lasted years"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "The clashes drained Vietnamese resources, hardened the China-Vietnam rivalry, and revealed that Cold War alignments in Asia were far more complex than communist versus capitalist labels.",
             "full": true
           }
@@ -161,19 +200,38 @@
     "sub": "Part of Third Indochina War",
     "view": {
       "center": [
-        50,
-        15
+        21.8537,
+        106.7615
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          21.8537,
+          106.7615
+        ],
+        "label": "Lang Son",
+        "type": "target",
+        "description": "Lang Son marks one of the major northern Vietnamese cities captured during China's 1979 offensive."
+      },
+      {
+        "latlng": [
+          22.4856,
+          103.9707
+        ],
+        "label": "Lao Cai",
+        "type": "minor",
+        "description": "Lao Cai marks the western attack axis of the Sino-Vietnamese War."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Sino-Vietnamese War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Vietnam_china.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Vietnam_china.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Sino-Vietnamese_War",
-        "body": "China launched a short but brutal invasion of northern Vietnam in February 1979, declaring that it would teach Vietnam a lesson for occupying Cambodia and aligning with the Soviet Union. Chinese forces captured several border towns but met fierce Vietnamese resistance, difficult terrain, and heavy casualties. Beijing withdrew after about a month, claiming success, while Hanoi presented the war as proof that Vietnam could resist another major power.\n\nWhy It Matters: The war exposed the Sino-Soviet split in military form, forced Vietnam to defend its northern border while fighting in Cambodia, and became a benchmark for later Chinese military modernization. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
+        "body": "China launched a short but brutal invasion of northern Vietnam in February 1979, declaring that it would teach Vietnam a lesson for occupying Cambodia and aligning with the Soviet Union. Chinese forces captured several border towns but met fierce Vietnamese resistance, difficult terrain, and heavy casualties. Beijing withdrew after about a month, claiming success, while Hanoi presented the war as proof that Vietnam could resist another major power.\n\nThe war exposed the Sino-Soviet split in military form, forced Vietnam to defend its northern border while fighting in Cambodia, and became a benchmark for later Chinese military modernization. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
         "stats": [
           {
             "val": "17 Feb 1979",
@@ -188,7 +246,7 @@
             "lbl": "Main campaign length"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "The war exposed the Sino-Soviet split in military form, forced Vietnam to defend its northern border while fighting in Cambodia, and became a benchmark for later Chinese military modernization.",
             "full": true
           }
@@ -204,19 +262,29 @@
     "sub": "Part of Third Indochina War",
     "view": {
       "center": [
-        50,
-        15
+        17.72,
+        100.97
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          17.72,
+          100.97
+        ],
+        "label": "Ban Rom Klao border area",
+        "type": "target",
+        "description": "Ban Rom Klao marks the disputed Thai-Lao border area where fighting broke out in 1987-1988."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Thai–Laotian Border War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Naun_1428.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Naun_1428.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Thai%E2%80%93Laotian_Border_War",
-        "body": "The Thai-Laotian Border War was a small but revealing clash over disputed villages and ridgelines. Thailand and Laos fought with artillery, infantry, and air support around the Ban Romklao area, while Vietnam and the Soviet-backed regional order loomed in the background. It was not a global headline like Vietnam or Cambodia, but it showed how unresolved borders and Cold War alliances could still ignite real battles in mainland Southeast Asia.\n\nWhy It Matters: The fighting reminded regional powers that post-colonial maps, local terrain, and Cold War patronage could combine into sudden border wars even after the main Indochina wars had faded. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
+        "body": "The Thai-Laotian Border War was a small but revealing clash over disputed villages and ridgelines. Thailand and Laos fought with artillery, infantry, and air support around the Ban Romklao area, while Vietnam and the Soviet-backed regional order loomed in the background. It was not a global headline like Vietnam or Cambodia, but it showed how unresolved borders and Cold War alliances could still ignite real battles in mainland Southeast Asia.\n\nThe fighting reminded regional powers that post-colonial maps, local terrain, and Cold War patronage could combine into sudden border wars even after the main Indochina wars had faded. American, British, and regional Cold War observers saw this conflict as the next phase after Vietnam: communist allies were now fighting each other, refugee flows grew, and the security order in Southeast Asia stayed unsettled.",
         "stats": [
           {
             "val": "1987-1988",
@@ -231,7 +299,7 @@
             "lbl": "Border war character"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "The fighting reminded regional powers that post-colonial maps, local terrain, and Cold War patronage could combine into sudden border wars even after the main Indochina wars had faded.",
             "full": true
           }
@@ -239,8 +307,8 @@
       },
       {
         "title": "War Summary: Third Indochina War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Naun_1428.jpg",
-        "cap": "The end and legacy of the Third Indochina War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Naun_1428.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Thai%E2%80%93Laotian_Border_War",
         "body": "Vietnam removed the Khmer Rouge but faced a Chinese invasion and a long occupation of Cambodia. The interconnected conflicts faded only after years of diplomacy and withdrawal.",
         "stats": [
           {

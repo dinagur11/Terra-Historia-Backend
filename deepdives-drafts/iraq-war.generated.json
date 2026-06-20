@@ -1,0 +1,461 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2003,
+    "date": "2003-03-20",
+    "title": "From Gulf War to Iraq War",
+    "sub": "Connection and background to Iraq War",
+    "view": {
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "target",
+        "description": "The Iraq War grew out of unresolved post-Gulf War confrontation with Saddam Hussein's regime."
+      },
+      {
+        "label": "Kuwait theater",
+        "latlng": [
+          29.38,
+          47.98
+        ],
+        "type": "major",
+        "description": "The 1991 Gulf War shaped U.S. policy and the later invasion debate."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Gulf War to Iraq War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg",
+        "cap": "Historical overview: From Gulf War to Iraq War",
+        "body": "The Gulf War left Saddam Hussein in power under sanctions, weapons inspections, and repeated confrontation with the United States. After September 11, the US government argued Iraq possessed weapons of mass destruction and posed an unacceptable threat; no active WMD stockpiles were found.\n\nThe US-led coalition sought to remove Saddam Hussein and reshape Iraq, while the occupation struggled to build a stable government amid insurgency, sectarian conflict, and regional interference.\n\nThe invasion case joined unresolved Gulf War confrontation to post-September 11 threat assessments, but its central WMD claim proved false. Planning succeeded at defeating Iraq's armed forces and removing the regime; preparation for occupation, institutional continuity, and political legitimacy was far weaker.",
+        "stats": [
+          {
+            "val": "Previous conflict in this path",
+            "lbl": "Gulf War"
+          },
+          {
+            "val": "2003-2011",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "The US-led coalition sought to remove Saddam Hussein and reshape Iraq, while the occupation struggled to build a stable government amid insurgency, sectarian conflict, and regional interference.",
+            "full": true
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "invasion",
+    "year": 2003,
+    "date": "2003-03-20",
+    "title": "US-Led Invasion",
+    "sub": "Part of Iraq War",
+    "view": {
+      "center": [
+        31.5,
+        46
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Kuwait-Iraq border",
+        "latlng": [
+          30,
+          47.7
+        ],
+        "type": "target",
+        "description": "U.S.-led ground forces crossed from Kuwait into Iraq in March 2003."
+      },
+      {
+        "label": "Baghdad axis",
+        "latlng": [
+          32.5,
+          45.2
+        ],
+        "type": "major",
+        "description": "Coalition forces advanced rapidly toward the capital."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "US-Led Invasion",
+        "img": "https://cdn.britannica.com/01/98301-050-E0E91CAF/soldiers-Iraqi-civilians.jpg",
+        "cap": "Historical overview: US-Led Invasion",
+        "body": "The United States, United Kingdom, and coalition partners invaded Iraq. Coalition forces rapidly defeated organized Iraqi resistance and advanced toward Baghdad.\n\nThe campaign demonstrated overwhelming coalition conventional superiority and collapsed Iraq's organized defense within weeks. Speed concealed the harder problem: military victory removed the state leadership before a credible replacement security order existed.",
+        "stats": [
+          {
+            "val": "20 Mar 2003",
+            "lbl": "Invasion begins"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "fall-of-baghdad",
+    "year": 2003,
+    "date": "2003-04-09",
+    "title": "Fall of Baghdad",
+    "sub": "Part of Iraq War",
+    "view": {
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "target",
+        "description": "The capital fell on 9 April 2003, ending Saddam Hussein's open rule."
+      },
+      {
+        "label": "Tigris bridges",
+        "latlng": [
+          33.32,
+          44.42
+        ],
+        "type": "major",
+        "description": "Control of bridges and routes into the capital mattered in the final advance."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Fall of Baghdad",
+        "img": "https://www.armyupress.army.mil/portals/7/military-review/img/English/SO-20/Baghdad-bridge.jpg",
+        "cap": "Historical overview: Fall of Baghdad",
+        "body": "US forces captured Baghdad and Saddam Hussein's government collapsed. Decisions to dissolve the army and pursue broad de-Baathification contributed to instability.\n\nThe fall of the capital ended Baathist rule but opened a vacuum marked by looting and administrative collapse. Broad de-Baathification and dissolution of the Iraqi army excluded large numbers of armed, experienced men and helped convert defeat into insurgency.",
+        "stats": [
+          {
+            "val": "9 Apr 2003",
+            "lbl": "Regime collapses"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "insurgency",
+    "year": 2003,
+    "date": "2003-08-19",
+    "title": "Insurgency Expands",
+    "sub": "Part of Iraq War",
+    "view": {
+      "center": [
+        33.35,
+        43.78
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Fallujah-Ramadi corridor",
+        "latlng": [
+          33.35,
+          43.78
+        ],
+        "type": "target",
+        "description": "Sunni insurgent networks grew in Anbar Province after the regime collapsed."
+      },
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "major",
+        "description": "Bombings and attacks in the capital showed the insurgency was becoming a national crisis."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Insurgency Expands",
+        "img": "https://cosmonautmag.com/media/images/unnamed_vbWVcK9.format-webp.width-600.webp",
+        "cap": "Historical overview: Insurgency Expands",
+        "body": "Baathist networks, nationalist insurgents, and jihadist groups attacked coalition forces, Iraqi institutions, and civilians. The UN headquarters bombing demonstrated the widening danger.\n\nThe insurgency combined former regime networks, local nationalists, foreign jihadists, and later sectarian organizations with different goals. Attacks on international agencies and Iraqi recruits narrowed reconstruction space, while Abu Musab al-Zarqawi deliberately targeted Shia civilians to provoke communal war.",
+        "stats": [
+          {
+            "val": "2003 onward",
+            "lbl": "Insurgency grows"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "fallujah",
+    "year": 2004,
+    "date": "2004-11-07",
+    "title": "Second Battle of Fallujah",
+    "sub": "Part of Iraq War",
+    "view": {
+      "center": [
+        33.35,
+        43.78
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Fallujah",
+        "latlng": [
+          33.35,
+          43.78
+        ],
+        "type": "target",
+        "description": "U.S. and Iraqi forces fought one of the war's largest urban battles here."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Second Battle of Fallujah",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/4-14_Marines_in_Fallujah.jpg",
+        "cap": "Historical overview: Second Battle of Fallujah",
+        "body": "US and Iraqi forces assaulted Fallujah, a major insurgent stronghold. The battle became one of the war's largest urban engagements.\n\nCoalition forces retook the city block by block and disrupted an important insurgent sanctuary. The battle also caused extensive destruction and displacement, and armed networks adapted by dispersing rather than disappearing.",
+        "stats": [
+          {
+            "val": "Nov-Dec 2004",
+            "lbl": "Major urban battle"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "samarra-sectarian-war",
+    "year": 2006,
+    "date": "2006-02-22",
+    "title": "Samarra Bombing and Sectarian War",
+    "sub": "Part of Iraq War",
+    "view": {
+      "center": [
+        34.1966,
+        43.8739
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Al-Askari shrine",
+        "latlng": [
+          34.1966,
+          43.8739
+        ],
+        "type": "target",
+        "description": "The shrine bombing in Samarra accelerated sectarian killing across Iraq."
+      },
+      {
+        "label": "Baghdad sectarian front",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "major",
+        "description": "Baghdad became the center of Sunni-Shia displacement and militia violence."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Samarra Bombing and Sectarian War",
+        "img": "https://gdb.rferl.org/bf1113d6-856f-42ec-9b47-c45fac9865ef_w1080_h608_s.jpg",
+        "cap": "Historical overview: Samarra Bombing and Sectarian War",
+        "body": "The bombing of the al-Askari shrine accelerated killings between Sunni and Shia armed groups, pushing Iraq toward civil war.\n\nThe shrine bombing accelerated death-squad killings, neighborhood expulsions, and retaliatory bombings. Baghdad became increasingly segregated, state institutions were penetrated by armed factions, and the conflict took on the character of a sectarian civil war.",
+        "stats": [
+          {
+            "val": "22 Feb 2006",
+            "lbl": "Sectarian violence escalates"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "surge",
+    "year": 2007,
+    "date": "2007-01-10",
+    "title": "The Surge and Sunni Awakening",
+    "sub": "Part of Iraq War",
+    "view": {
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Baghdad security plan",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "target",
+        "description": "The U.S. surge concentrated additional troops in and around Baghdad."
+      },
+      {
+        "label": "Anbar Awakening",
+        "latlng": [
+          33.35,
+          43.78
+        ],
+        "type": "major",
+        "description": "Sunni tribal forces turned against al-Qaeda in Iraq, helping reduce violence."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Surge and Sunni Awakening",
+        "img": "https://warontherocks.com/wp-content/uploads/2016/11/Awakening-2007-meeting-Iraq.jpg?v=1479898066",
+        "cap": "Historical overview: The Surge and Sunni Awakening",
+        "body": "The United States deployed additional troops while Sunni tribal movements turned against al-Qaeda in Iraq. Violence fell sharply, though political reconciliation remained incomplete.\n\nAdditional US brigades mattered alongside the Sunni Awakening, ceasefires by Shia militias, and an exhausted population's rejection of indiscriminate violence. Security improved sharply, but disputed power sharing, corruption, detainee policy, and the exclusion of many Sunnis remained unresolved.",
+        "stats": [
+          {
+            "val": "2007-2008",
+            "lbl": "Violence declines"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "us-withdrawal",
+    "year": 2011,
+    "date": "2011-12-18",
+    "title": "US Withdrawal",
+    "sub": "Part of Iraq War",
+    "view": {
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "target",
+        "description": "The U.S. withdrawal left Iraq sovereign but politically fragile."
+      },
+      {
+        "label": "Kuwait exit route",
+        "latlng": [
+          30,
+          47.7
+        ],
+        "type": "major",
+        "description": "The final U.S. convoy left Iraq toward Kuwait in December 2011."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "US Withdrawal",
+        "img": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201112/20111216110626-1_0.jpg?itok=jqAHSUNP",
+        "cap": "Historical overview: US Withdrawal",
+        "body": "The final US troops left Iraq under the existing status-of-forces agreement. Iraq remained politically fragile, and the later rise of ISIS reopened large-scale war.\n\nThe withdrawal restored full formal responsibility to the Iraqi government but did not close the war's political fractures. Authoritarian consolidation in Baghdad, renewed Sunni alienation, and the Syrian war created conditions in which the Islamic State could return as a territorial army.",
+        "stats": [
+          {
+            "val": "18 Dec 2011",
+            "lbl": "Withdrawal completed"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2011,
+    "date": "2011-12-18",
+    "title": "Conflict Summary: Iraq War",
+    "sub": "Final summary of Iraq War",
+    "view": {
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "target",
+        "description": "The war removed Saddam but left a violent and unstable political order."
+      },
+      {
+        "label": "Mosul",
+        "latlng": [
+          36.34,
+          43.13
+        ],
+        "type": "major",
+        "description": "Later ISIS gains showed that the war's consequences continued after U.S. withdrawal."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Iraq War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/1920px-UStanks_baghdad_2003.JPEG",
+        "cap": "Historical overview: Conflict Summary: Iraq War",
+        "body": "The invasion removed Saddam Hussein but the WMD justification proved false. Occupation decisions, insurgency, and sectarian war caused enormous human costs and destabilized the region; the Iraqi state survived but later faced the rise of ISIS.\n\nTaken as a whole, Iraq War shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Saddam removed; inconclusive and destabilizing aftermath",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Hundreds of thousands of Iraqis killed; 4,000+ US military deaths",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "The invasion removed Saddam Hussein but the WMD justification proved false. Occupation decisions, insurgency, and sectarian war caused enormous human costs and destabilized the region; the Iraqi state survived but later faced the rise of ISIS.",
+            "lbl": "Final assessment",
+            "full": true
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  }
+]

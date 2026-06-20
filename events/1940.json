@@ -1,0 +1,112 @@
+[
+  {
+    "id": "winter-war-ends-1940-1",
+    "name": "Moscow Peace Treaty Ends the Winter War",
+    "date": "March 13 1940",
+    "location": "Moscow",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "WWII: Finland cedes territory to the Soviet Union but preserves independence after fierce resistance."
+  },
+  {
+    "id": "weserubung-1940-2",
+    "name": "Germany Invades Denmark and Norway",
+    "date": "April 9 1940",
+    "location": "Oslo",
+    "coordinates": {
+      "lat": 59.9139,
+      "lng": 10.7522
+    },
+    "summary": "WWII: Germany launches Operation Weserubung to secure Scandinavia and protect iron ore routes."
+  },
+  {
+    "id": "invasion-low-countries-1940-3",
+    "name": "Germany Invades the Low Countries",
+    "date": "May 10 1940",
+    "location": "Brussels",
+    "coordinates": {
+      "lat": 50.8503,
+      "lng": 4.3517
+    },
+    "summary": "WWII: German forces invade Belgium, the Netherlands, and Luxembourg as part of the campaign in the West."
+  },
+  {
+    "id": "dunkirk-1940-4",
+    "name": "Dunkirk Evacuation",
+    "date": "May 26 1940",
+    "location": "Dunkirk",
+    "coordinates": {
+      "lat": 51.034,
+      "lng": 2.376
+    },
+    "summary": "WWII: British, French, and other Allied troops are evacuated from Dunkirk under German pressure."
+  },
+  {
+    "id": "italy-enters-wwii-1940-5",
+    "name": "Italy Enters World War II",
+    "date": "June 10 1940",
+    "location": "Rome",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "WWII: Mussolini declares war on Britain and France as France nears defeat."
+  },
+  {
+    "id": "paris-falls-1940-6",
+    "name": "Paris Falls",
+    "date": "June 14 1940",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "WWII: German troops enter Paris during the Fall of France."
+  },
+  {
+    "id": "french-armistice-1940-7",
+    "name": "French Armistice with Germany",
+    "date": "June 22 1940",
+    "location": "Compiegne",
+    "coordinates": {
+      "lat": 49.4275,
+      "lng": 2.9061
+    },
+    "summary": "WWII: France signs an armistice with Germany, dividing the country between occupation and the Vichy regime."
+  },
+  {
+    "id": "battle-of-britain-1940-8",
+    "name": "Battle of Britain Begins",
+    "date": "July 10 1940",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "WWII: The Luftwaffe begins a major air campaign against Britain, seeking air superiority before any invasion."
+  },
+  {
+    "id": "the-blitz-1940-9",
+    "name": "The Blitz",
+    "date": "September 7 1940",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "WWII: Germany begins sustained bombing of London and other British cities."
+  },
+  {
+    "id": "tripartite-pact-1940-10",
+    "name": "Tripartite Pact",
+    "date": "September 27 1940",
+    "location": "Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "WWII: Germany, Italy, and Japan sign the Tripartite Pact, formalizing the Axis alliance."
+  }
+]

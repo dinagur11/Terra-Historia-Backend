@@ -1,0 +1,112 @@
+[
+  {
+    "id": "united-states-congress-1933-1",
+    "name": "United States Congress",
+    "date": "January 17 1933",
+    "location": "United States Congress",
+    "coordinates": {
+      "lat": 38.88972222,
+      "lng": -77.00888889
+    },
+    "summary": "The United States Congress votes in favour of Philippines independence, against the wishes of U.S. President Herbert Hoover. The United States Congress is the legislative branch of the federal government of the United States. It is a bicameral legislature, including a lower body, the U.S."
+  },
+  {
+    "id": "nazi-party-1933-2",
+    "name": "Nazi Party",
+    "date": "January 28 1933",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "Nazi Party leader Adolf Hitler is appointed Chancellor of Germany by President of Germany Paul von Hindenburg. The Nazi Party, officially the National Socialist German Workers' Party (German: Nationalsozialistische Deutsche Arbeiterpartei or NSDAP), was a far-right political party in Germany active between 1920 and 1945 that created and supported the ideology of Nazism."
+  },
+  {
+    "id": "treaty-of-versailles-1933-3",
+    "name": "Treaty of Versailles",
+    "date": "February 3 1933",
+    "location": "Versailles",
+    "coordinates": {
+      "lat": 48.8049,
+      "lng": 2.1204
+    },
+    "summary": "Adolf Hitler gives a secret speech to his military leaders, outlining his plans to rearm Germany in defiance of the Treaty of Versailles and to adopt a policy of Lebensraum in eastern Europe. The Treaty of Versailles was a peace treaty signed on 28 June 1919. As the most important treaty of World War I, it ended the state of war between Germany and most of the Allied Powers."
+  },
+  {
+    "id": "twenty-first-amendment-to-the-united-states-constitution-1933-4",
+    "name": "Twenty-first Amendment to the United States Constitution",
+    "date": "February 17 1933",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Repeal of Prohibition in the United States: The Blaine Act passes the United States Senate, submitting the proposed Twenty-first Amendment to the Constitution to the states for ratification. The amendment is ratified on December 5, ending prohibition in the United States. The Twenty-first Amendment (Amendment XXI) to the United States Constitution repealed the Eighteenth Amendment to the United States Constitution, which had mandated nationwide prohibition on alcohol."
+  },
+  {
+    "id": "great-depression-1933-5",
+    "name": "Great Depression",
+    "date": "March 3 1933",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The Great Depression: President Franklin D. Roosevelt declares a \"Bank holiday\", closing all United States banks and freezing all financial transactions (the 'holiday' ends on March 13). The Great Depression was a severe global economic downturn from 1929 to 1939. The period was characterized by high rates of unemployment and poverty, drastic reductions in industrial production and international trade, and widespread bank and business failures around the world."
+  },
+  {
+    "id": "dow-jones-industrial-average-1933-6",
+    "name": "Dow Jones Industrial Average",
+    "date": "March 10 1933",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The Dow Jones Industrial Average rises from 53.84 to 62.10. The day's gain of 15.34%, achieved during the depths of the Great Depression, remains the largest 1-day percentage gain for the index. The Dow Jones Industrial Average (DJIA), Dow Jones, or simply the Dow (), is a stock market index of 30 prominent companies listed on stock exchanges in the United States."
+  },
+  {
+    "id": "nellie-tayloe-ross-1933-7",
+    "name": "Nellie Tayloe Ross",
+    "date": "May 2 1933",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Nellie Tayloe Ross becomes the first woman to be named director of the United States Mint. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "kansas-city-massacre-1933-8",
+    "name": "Kansas City massacre",
+    "date": "June 17 1933",
+    "location": "Kansas City massacre",
+    "coordinates": {
+      "lat": 39.08481,
+      "lng": -94.58537
+    },
+    "summary": "Kansas City massacre: At the Union Station in Kansas City, Missouri, gangsters kill four law enforcement officers and detained fugitive bank robber Frank Nash. The Kansas City massacre was the shootout and murder of four law enforcement officers and a criminal fugitive at the Union Station railroad depot in Kansas City, Missouri, on the morning of June 17, 1933."
+  },
+  {
+    "id": "simele-massacre-1933-9",
+    "name": "Simele massacre",
+    "date": "August 7 1933",
+    "location": "Simele massacre",
+    "coordinates": {
+      "lat": 36.85833333,
+      "lng": 42.85
+    },
+    "summary": "Simele massacre: More than 3,000 Assyrian Iraqis are killed by Iraqi government troops. The Simele massacre (Syriac: ܦܪܲܡܬܵܐ ܕܣܸܡܹܠܹܐ, romanized: Premta d'Simele, Arabic: مذبحة سميل, romanized: maḏbaḥat Simīl), also known as the Assyrian affair, was a massacre committed by the Kingdom of Iraq under the leadership of Kurdish army general Bakr Sidqi."
+  },
+  {
+    "id": "league-of-nations-1933-10",
+    "name": "League of Nations",
+    "date": "October 14 1933",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "Germany announces its withdrawal from the League of Nations and the World Disarmament Conference, after the U.S., the U.K. and France deny its request to increase its defence armaments under the Versailles Treaty. The League of Nations (LN or LoN; French: Société des Nations [sɔsjete de nɑsjɔ̃], SdN) was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace."
+  }
+]

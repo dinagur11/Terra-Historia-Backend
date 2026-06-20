@@ -1,0 +1,57 @@
+[
+  {
+    "id": "london-olympics-2012",
+    "name": "London Olympics",
+    "date": "July 27 2012",
+    "location": "London, United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "London hosted the Summer Olympics, becoming the first city to host the Games three times."
+  },
+  {
+    "id": "curiosity-landing-2012",
+    "name": "Curiosity Rover Lands on Mars",
+    "date": "August 6 2012",
+    "location": "Mars",
+    "coordinates": {
+      "lat": -4.5895,
+      "lng": 137.4417
+    },
+    "summary": "NASA's Curiosity rover landed on Mars to explore its environment."
+  },
+  {
+    "id": "higgs-boson-2012",
+    "name": "Higgs Boson Discovery Announced",
+    "date": "July 4 2012",
+    "location": "CERN, Switzerland",
+    "coordinates": {
+      "lat": 46.233,
+      "lng": 6.055
+    },
+    "summary": "Scientists announced the discovery of a particle consistent with the Higgs boson."
+  },
+  {
+    "id": "sandy-hurricane-2012",
+    "name": "Hurricane Sandy",
+    "date": "October 29 2012",
+    "location": "USA",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "A massive storm caused widespread damage along the U.S. East Coast."
+  },
+  {
+    "id": "obama-reelected-2012",
+    "name": "Barack Obama Re-elected",
+    "date": "November 6 2012",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Barack Obama was re-elected as U.S. president."
+  }
+]

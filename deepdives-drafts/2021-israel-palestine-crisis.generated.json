@@ -1,0 +1,347 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2021,
+    "date": "2021-05-10",
+    "title": "From 2014 Gaza War to 2021 Israel-Palestine Crisis",
+    "sub": "Connection and background to 2021 Israel-Palestine Crisis",
+    "view": {
+      "center": [
+        31.65,
+        34.8
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Gaza Strip",
+        "latlng": [
+          31.45,
+          34.39
+        ],
+        "type": "major",
+        "description": "Hamas rebuilt rockets and tunnels in Gaza after 2014."
+      },
+      {
+        "label": "Jerusalem",
+        "latlng": [
+          31.778,
+          35.235
+        ],
+        "type": "target",
+        "description": "Hamas used Jerusalem tension as the trigger for rocket war."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From 2014 Gaza War to 2021 Israel-Palestine Crisis",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Disorders_in_Lod%2C_May_2021._VII.jpg",
+        "cap": "Historical overview: From 2014 Gaza War to 2021 Israel-Palestine Crisis",
+        "body": "After 2014, Hamas rebuilt rockets, tunnels, and command networks while Israel tried to contain Gaza without returning to permanent control. Tension in Jerusalem gave Hamas an opening to present itself as defender of the city, but the decisive escalation came when it launched rockets toward Jerusalem and Israeli civilians.\n\nFor Israel, the crisis proved again that Hamas used political flashpoints to initiate military pressure. Operation Guardian of the Walls targeted rocket fire, command centers, and the underground tunnel system built to protect Hamas fighters while Israeli and Gazan civilians bore the danger.",
+        "stats": [
+          {
+            "val": "2014 Gaza War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "10-21 May 2021",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "Israel sought to stop rocket attacks, defend Jerusalem and Israeli cities, and damage Hamas's underground network while containing communal violence inside Israel.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jerusalem-ultimatum",
+    "year": 2021,
+    "date": "2021-05-10",
+    "title": "Hamas Rockets Toward Jerusalem",
+    "sub": "Part of 2021 Israel-Palestine Crisis",
+    "view": {
+      "center": [
+        31.778,
+        35.235
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Jerusalem",
+        "latlng": [
+          31.778,
+          35.235
+        ],
+        "type": "major",
+        "description": "Hamas fired toward Jerusalem after issuing an ultimatum."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Hamas Rockets Toward Jerusalem",
+        "img": "https://static.politico.com/46/00/82e09a23401e801531a7176b4e3a/210510-hamas-rockets-ap-773.jpg",
+        "cap": "Historical overview: Hamas Rockets Toward Jerusalem",
+        "body": "Hamas issued an ultimatum over Jerusalem and then fired rockets toward the capital. That choice transformed unrest and street clashes into a war initiated by a terrorist organization firing at Israeli population centers.\n\nIsrael treated the attack on Jerusalem as a strategic red line. The response was not only about one rocket salvo; it was about denying Hamas the ability to decide when Israeli cities would be dragged into war.",
+        "stats": [
+          {
+            "val": "10 May 2021",
+            "lbl": "War begins"
+          },
+          {
+            "val": "Jerusalem targeted",
+            "lbl": "Escalatory threshold"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mass-rocket-barrages",
+    "year": 2021,
+    "date": "2021-05-11",
+    "title": "Mass Rocket Barrages",
+    "sub": "Part of 2021 Israel-Palestine Crisis",
+    "view": {
+      "center": [
+        31.9,
+        34.8
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Ashkelon",
+        "latlng": [
+          31.6688,
+          34.5743
+        ],
+        "type": "major",
+        "description": "Israeli civilians faced heavy rocket fire from Gaza."
+      },
+      {
+        "label": "Tel Aviv",
+        "latlng": [
+          32.0853,
+          34.7818
+        ],
+        "type": "target",
+        "description": "Rocket alarms reached central Israel."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Mass Rocket Barrages",
+        "img": "https://www.aljazeera.com/wp-content/uploads/2021/07/000_99X76P.jpg?resize=770%2C513&quality=80",
+        "cap": "Historical overview: Mass Rocket Barrages",
+        "body": "Hamas and Palestinian Islamic Jihad launched mass barrages at southern and central Israel, forcing civilians into shelters and testing Iron Dome under heavy pressure. The scale of fire showed years of rearmament since the previous Gaza war.\n\nIsrael's air campaign sought to reduce launch capacity, hit commanders, and restore deterrence. The civilian geography of Gaza made every strike politically costly, but allowing rocket fire to become routine would have exposed millions of Israelis to coercion from Gaza.",
+        "stats": [
+          {
+            "val": "About 4,360 rockets",
+            "lbl": "Fired toward Israel"
+          },
+          {
+            "val": "Iron Dome",
+            "lbl": "Core civilian defense"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "communal-violence",
+    "year": 2021,
+    "date": "2021-05-11",
+    "title": "Communal Violence Inside Israel",
+    "sub": "Part of 2021 Israel-Palestine Crisis",
+    "view": {
+      "center": [
+        32,
+        34.95
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Lod",
+        "latlng": [
+          31.951,
+          34.895
+        ],
+        "type": "major",
+        "description": "Mixed Israeli cities saw riots, arson, and mob violence."
+      },
+      {
+        "label": "Acre",
+        "latlng": [
+          32.928,
+          35.082
+        ],
+        "type": "minor",
+        "description": "Communal violence spread beyond the Gaza front."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Communal Violence Inside Israel",
+        "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QAD6OCFT3UI6XK2DX265YWQPMU.jpg&w=1800&h=1800",
+        "cap": "Historical overview: Communal Violence Inside Israel",
+        "body": "Violence inside mixed Israeli cities shocked the country because it threatened the basic civic fabric between Jewish and Arab citizens. Riots, arson, assaults, and mob attacks created a second internal front while rockets were falling from Gaza.\n\nThe episode mattered because it showed how Hamas's escalation could inflame tensions far beyond the battlefield. Israeli police and local leaders had to restore order while protecting civilians and preventing local violence from turning into a broader civil rupture.",
+        "stats": [
+          {
+            "val": "Lod and Acre",
+            "lbl": "Major unrest centers"
+          },
+          {
+            "val": "Internal security crisis",
+            "lbl": "Distinctive feature"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "attack-on-the-metro",
+    "year": 2021,
+    "date": "2021-05-14",
+    "title": "Strikes on the Hamas 'Metro'",
+    "sub": "Part of 2021 Israel-Palestine Crisis",
+    "view": {
+      "center": [
+        31.5,
+        34.47
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Gaza City",
+        "latlng": [
+          31.5,
+          34.47
+        ],
+        "type": "major",
+        "description": "Israel struck Hamas's underground tunnel network."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Strikes on the Hamas 'Metro'",
+        "img": "https://www.brookings.edu/wp-content/uploads/2021/05/Gaza_001.jpg?quality=50&w=1500",
+        "cap": "Historical overview: Strikes on the Hamas 'Metro'",
+        "body": "Israel struck the underground tunnel network known as the Hamas 'Metro,' a system designed to move fighters, weapons, and command elements beneath dense civilian areas. The network represented years of Hamas investment in war infrastructure rather than civilian recovery.\n\nThe strikes were meant to make the tunnel system unsafe and reduce Hamas's ability to hide command nodes from the air. For Israel, the Metro was proof that Hamas had prepared the next war while leaving Gaza's civilians above the battlefield.",
+        "stats": [
+          {
+            "val": "Underground network",
+            "lbl": "Primary Israeli target"
+          },
+          {
+            "val": "No ground invasion",
+            "lbl": "Operational choice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ceasefire",
+    "year": 2021,
+    "date": "2021-05-21",
+    "title": "Ceasefire",
+    "sub": "Part of 2021 Israel-Palestine Crisis",
+    "view": {
+      "center": [
+        31.45,
+        34.5
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Gaza-Israel front",
+        "latlng": [
+          31.45,
+          34.5
+        ],
+        "type": "major",
+        "description": "The ceasefire paused rocket fire without removing Hamas rule."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ceasefire",
+        "img": "https://www.aljazeera.com/wp-content/uploads/2021/05/000_9AF7KF.jpg?resize=770%2C513&quality=80",
+        "cap": "Historical overview: Ceasefire",
+        "body": "The ceasefire ended the immediate round after Israel degraded parts of Hamas's rocket and tunnel infrastructure. Hamas claimed survival as victory, while Israel judged the outcome by restored deterrence and the time gained before another escalation.\n\nThe ceasefire did not answer the core question: whether Hamas would use quiet to rebuild. That unresolved problem shaped Israeli thinking before October 7.",
+        "stats": [
+          {
+            "val": "11 days",
+            "lbl": "Conflict duration"
+          },
+          {
+            "val": "Ceasefire",
+            "lbl": "Return to uneasy deterrence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2021,
+    "date": "2021-05-21",
+    "title": "Conflict Summary: 2021 Israel-Palestine Crisis",
+    "sub": "Final summary of 2021 Israel-Palestine Crisis",
+    "view": {
+      "center": [
+        31.75,
+        34.7
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Gaza and central Israel",
+        "latlng": [
+          31.75,
+          34.7
+        ],
+        "type": "major",
+        "description": "The crisis exposed the limits of deterrence before October 7."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: 2021 Israel-Palestine Crisis",
+        "img": "https://minorityrights.org/app/uploads/2024/02/gaza.jpg",
+        "cap": "Historical overview: Conflict Summary: 2021 Israel-Palestine Crisis",
+        "body": "The 2021 crisis showed Hamas's model clearly: use Jerusalem as a political trigger, fire rockets at Israeli cities, then rely on Gaza's civilian environment to limit Israel's response. Israel's campaign reduced parts of Hamas's infrastructure but did not remove its rule.\n\nThe conflict became a warning that deterrence alone was fragile. Hamas survived, rebuilt, and two years later launched a far more devastating attack on Israel.",
+        "stats": [
+          {
+            "val": "Ceasefire; both sides claimed victory",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "15 in Israel and roughly 250 Palestinians killed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel's missile defenses and air campaign limited the effect of mass rocket fire and damaged Hamas infrastructure, but Hamas retained control and claimed greater regional stature. The riots inside Israel exposed an additional challenge to national resilience.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1979,
+    "date": "1979-12-24",
+    "title": "From Cold War Proxy Conflicts to Soviet-Afghan War",
+    "sub": "Connection and background to Soviet-Afghan War",
+    "view": {
+      "center": [
+        45.05435,
+        53.4124
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The Saur Revolution, communist factional struggle, and Soviet-backed government centered on Kabul."
+      },
+      {
+        "label": "Herat",
+        "latlng": [
+          34.3529,
+          62.204
+        ],
+        "type": "major",
+        "description": "The March 1979 Herat uprising demonstrated the scale of resistance before the Soviet invasion."
+      },
+      {
+        "label": "Moscow",
+        "latlng": [
+          55.7558,
+          37.6173
+        ],
+        "type": "minor",
+        "description": "Soviet leaders debated intervention as the Afghan government fractured and repression widened revolt."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Cold War Proxy Conflicts to Soviet-Afghan War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mortar_attack_on_Shigal_Tarna_garrison%2C_Kunar_Province%2C_87.jpg",
+        "cap": "Visual reference for From Cold War Proxy Conflicts to Soviet-Afghan War.",
+        "body": "A communist coup in 1978 triggered revolt across Afghanistan. As the new government fractured and repression widened resistance, the Soviet Union intervened to preserve an allied regime on its southern frontier.\n\nAfghans resisted foreign occupation and communist rule, while the United States, Pakistan, Saudi Arabia, and others backed the mujahideen to impose costs on Soviet expansion.\n\nThe Saur Revolution imposed radical reforms through a divided communist party whose repression widened rebellion. Soviet leaders feared the collapse of a neighboring allied government, but intervention tied Moscow to a regime with little rural legitimacy and converted an Afghan political crisis into an international proxy war.",
+        "stats": [
+          {
+            "val": "1979-1989",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "Afghans resisted foreign occupation and communist rule, while the United States, Pakistan, Saudi Arabia, and others backed the mujahideen to impose costs on Soviet expansion.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soviet-invasion",
+    "year": 1979,
+    "date": "1979-12-24",
+    "title": "Soviet Invasion",
+    "sub": "Part of Soviet-Afghan War",
+    "view": {
+      "center": [
+        34.883,
+        69.1515
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Tajbeg Palace",
+        "latlng": [
+          34.454,
+          69.114
+        ],
+        "type": "target",
+        "description": "Soviet special forces assaulted the palace, killed Hafizullah Amin, and installed Babrak Karmal."
+      },
+      {
+        "label": "Bagram Air Base",
+        "latlng": [
+          34.9461,
+          69.265
+        ],
+        "type": "major",
+        "description": "Bagram became a principal airhead and operational hub for Soviet forces."
+      },
+      {
+        "label": "Salang Pass",
+        "latlng": [
+          35.312,
+          69.038
+        ],
+        "type": "major",
+        "description": "The Salang route connected Soviet supply lines from the north to Kabul."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Soviet Invasion",
+        "img": "https://cdn.britannica.com/79/134279-050-1B91C96F/vehicle-Soviet-civilians-group-invasion-Afghanistan-December-1979.jpg",
+        "cap": "Visual reference for Soviet Invasion.",
+        "body": "Soviet forces entered Afghanistan, seized key facilities, killed leader Hafizullah Amin, and installed Babrak Karmal. Moscow expected a limited intervention but became trapped in a nationwide insurgency.\n\nThe assault removed Hafizullah Amin and secured Kabul, airfields, and major garrisons with great speed. Moscow expected political stabilization under Babrak Karmal; instead, the foreign occupation broadened resistance and required an expanding military commitment.",
+        "stats": [
+          {
+            "val": "December 1979",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mujahideen-resistance",
+    "year": 1980,
+    "date": "1980-01-01",
+    "title": "Mujahideen Resistance Expands",
+    "sub": "Part of Soviet-Afghan War",
+    "view": {
+      "center": [
+        33.23945,
+        68.63105
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Peshawar",
+        "latlng": [
+          34.0151,
+          71.5249
+        ],
+        "type": "major",
+        "description": "Pakistan-based parties and the ISI channeled foreign weapons and money to Afghan resistance factions."
+      },
+      {
+        "label": "Kunar Valley",
+        "latlng": [
+          34.85,
+          71.1
+        ],
+        "type": "target",
+        "description": "Mountain sanctuaries and cross-border access sustained intense resistance in eastern Afghanistan."
+      },
+      {
+        "label": "Kandahar",
+        "latlng": [
+          31.6289,
+          65.7372
+        ],
+        "type": "major",
+        "description": "Southern resistance contested roads, garrisons, and rural control around Afghanistan's second city."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Mujahideen Resistance Expands",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Afghan_mujahideen.jpg",
+        "cap": "Visual reference for Mujahideen Resistance Expands.",
+        "body": "Decentralized Afghan resistance groups used mountain sanctuaries and support routed through Pakistan. Soviet firepower controlled cities and roads but could not reliably pacify the countryside.\n\nResistance remained fragmented by region, ideology, ethnicity, and patronage, yet Pakistan's sanctuary and foreign funding allowed it to survive losses. Soviet forces dominated cities and major roads but repeatedly surrendered rural ground after clearing operations ended.",
+        "stats": [
+          {
+            "val": "Insurgency spreads nationwide",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "panjshir-offensives",
+    "year": 1982,
+    "date": "1982-04-01",
+    "title": "Panjshir Offensives",
+    "sub": "Part of Soviet-Afghan War",
+    "view": {
+      "center": [
+        35.12305,
+        69.4825
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Panjshir Valley",
+        "latlng": [
+          35.3,
+          69.7
+        ],
+        "type": "target",
+        "description": "Ahmad Shah Massoud used the valley's terrain and local networks to survive repeated Soviet offensives."
+      },
+      {
+        "label": "Bagram Air Base",
+        "latlng": [
+          34.9461,
+          69.265
+        ],
+        "type": "major",
+        "description": "Soviet operations into Panjshir were launched and supplied from bases north of Kabul."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Panjshir Offensives",
+        "img": "https://warfarehistorynetwork.com/wp-content/uploads/2020/05/M-Sum20-Books-LEAD.jpg",
+        "cap": "Visual reference for Panjshir Offensives.",
+        "body": "Repeated Soviet offensives failed to eliminate Ahmad Shah Massoud's forces in the Panjshir Valley. Temporary truces and withdrawals showed the limits of Soviet control.\n\nAhmad Shah Massoud dispersed his forces, preserved local intelligence networks, and returned after Soviet columns withdrew. Repeated offensives inflicted damage but failed to create durable administration, showing the gap between entering a valley and controlling it politically.",
+        "stats": [
+          {
+            "val": "1980-1985",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stinger-missiles",
+    "year": 1986,
+    "date": "1986-09-01",
+    "title": "Stinger Missiles Reach the Resistance",
+    "sub": "Part of Soviet-Afghan War",
+    "view": {
+      "center": [
+        34.43255,
+        71.01175
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Jalalabad airfield",
+        "latlng": [
+          34.3998,
+          70.4986
+        ],
+        "type": "target",
+        "description": "Early Stinger teams demonstrated the missile against Soviet and Afghan aircraft near Jalalabad in 1986."
+      },
+      {
+        "label": "Peshawar",
+        "latlng": [
+          34.0151,
+          71.5249
+        ],
+        "type": "major",
+        "description": "The CIA supplied missiles through Pakistan's ISI under Operation Cyclone."
+      },
+      {
+        "label": "Kunar Province",
+        "latlng": [
+          34.85,
+          71.1
+        ],
+        "type": "major",
+        "description": "Mountain firing positions allowed resistance teams to threaten helicopters and low-flying aircraft."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Stinger Missiles Reach the Resistance",
+        "img": "https://i.insider.com/5bb3aaafdde867502f6b7449?width=700&format=jpeg&auto=webp",
+        "cap": "Visual reference for Stinger Missiles Reach the Resistance.",
+        "body": "The United States supplied FIM-92 Stinger missiles through the CIA's Operation Cyclone after years of providing less advanced weapons to the Afghan resistance. Washington wanted to raise the cost of Soviet occupation, support the Reagan Doctrine of backing anti-communist insurgencies, and reduce the freedom with which Soviet helicopters and low-flying aircraft attacked guerrilla positions. Pakistan's ISI controlled distribution and training, preserving indirect US involvement. Stingers forced Soviet pilots to fly higher and change tactics, but they were one part of a wider system of sanctuary, funding, local intelligence, and sustained resistance rather than a single weapon that won the war.",
+        "stats": [
+          {
+            "val": "Introduced in 1986",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-magistral",
+    "year": 1987,
+    "date": "1987-11-19",
+    "title": "Operation Magistral",
+    "sub": "Part of Soviet-Afghan War",
+    "view": {
+      "center": [
+        33.47015,
+        69.5727
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Gardez",
+        "latlng": [
+          33.6008,
+          69.225
+        ],
+        "type": "major",
+        "description": "The relief column assembled around Gardez before moving toward Khost."
+      },
+      {
+        "label": "Satukandav Pass",
+        "latlng": [
+          33.43,
+          69.55
+        ],
+        "type": "target",
+        "description": "Heavy fighting for the mountain pass opened the blocked road corridor."
+      },
+      {
+        "label": "Khost",
+        "latlng": [
+          33.3395,
+          69.9204
+        ],
+        "type": "major",
+        "description": "The operation temporarily relieved the besieged garrison and delivered supplies."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Magistral",
+        "img": "https://i.redd.it/600q275m2lz51.jpg",
+        "cap": "Visual reference for Operation Magistral.",
+        "body": "Soviet and Afghan government forces reopened the road to besieged Khost in one of the war's largest late operations, demonstrating continued battlefield capability without resolving the insurgency.\n\nThe operation reopened the Gardez-Khost road and demonstrated that Soviet and Afghan government forces could still coordinate a large conventional success. Once the supply mission ended, however, the strategic isolation of Khost and the nationwide insurgency remained.",
+        "stats": [
+          {
+            "val": "Nov 1987-Jan 1988",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "geneva-accords",
+    "year": 1988,
+    "date": "1988-04-14",
+    "title": "Geneva Accords",
+    "sub": "Part of Soviet-Afghan War",
+    "view": {
+      "center": [
+        39.9444,
+        39.59555
+      ],
+      "zoom": 3
+    },
+    "markers": [
+      {
+        "label": "Geneva",
+        "latlng": [
+          46.2044,
+          6.1432
+        ],
+        "type": "target",
+        "description": "Afghanistan and Pakistan signed the accords under UN mediation and US-Soviet guarantees."
+      },
+      {
+        "label": "Islamabad",
+        "latlng": [
+          33.6844,
+          73.0479
+        ],
+        "type": "major",
+        "description": "Pakistan signed the bilateral agreements while continuing to host and influence resistance factions."
+      },
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "major",
+        "description": "The Afghan government accepted a withdrawal framework that did not settle its war with the mujahideen."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Geneva Accords",
+        "img": "https://nsarchive.gwu.edu/sites/default/files/styles/wide/public/thumbnails/image/1990-summit-between-pres-bush-and-soviet-president-gorbachev-1.jpg?itok=y08na-Nd",
+        "cap": "Visual reference for Geneva Accords.",
+        "body": "Afghanistan and Pakistan signed agreements backed by the Soviet Union and United States. The accords established a timetable for Soviet withdrawal but did not settle Afghanistan's civil war.\n\nThe accords provided international guarantees and a timetable for Soviet departure. They did not include a power-sharing settlement among Afghans, disarm the mujahideen, or end external aid, so withdrawal diplomacy coexisted with preparation for the next civil-war phase.",
+        "stats": [
+          {
+            "val": "14 April 1988",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soviet-withdrawal",
+    "year": 1989,
+    "date": "1989-02-15",
+    "title": "Final Soviet Withdrawal",
+    "sub": "Part of Soviet-Afghan War",
+    "view": {
+      "center": [
+        35.89165,
+        68.31875
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Friendship Bridge",
+        "latlng": [
+          37.228,
+          67.43
+        ],
+        "type": "target",
+        "description": "General Boris Gromov crossed the bridge as the final Soviet commander to leave Afghanistan."
+      },
+      {
+        "label": "Hairatan",
+        "latlng": [
+          37.225,
+          67.43
+        ],
+        "type": "major",
+        "description": "The border town was the last Afghan staging point on the northern withdrawal route."
+      },
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "major",
+        "description": "Najibullah's government remained in power after Soviet combat troops departed."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Final Soviet Withdrawal",
+        "img": "https://static.themoscowtimes.com/image/1920/fe/aa853a852a4342d7add70cb58f2c6ab0.jpg",
+        "cap": "Visual reference for Final Soviet Withdrawal.",
+        "body": "The last Soviet troops crossed the Friendship Bridge under General Boris Gromov. The communist Afghan government survived until 1992, while civil war and militant networks endured.\n\nThe final crossing ended direct Soviet occupation but not the government created under it. Najibullah survived for three more years with Soviet aid, while mujahideen factions failed to form a unified alternative and later fought over Kabul after his fall.",
+        "stats": [
+          {
+            "val": "15 February 1989",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1989,
+    "date": "1989-02-15",
+    "title": "Conflict Summary: Soviet-Afghan War",
+    "sub": "Final summary of Soviet-Afghan War",
+    "view": {
+      "center": [
+        35.28375,
+        68.6752
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The Soviet-backed state held the capital and major institutions but never secured the countryside."
+      },
+      {
+        "label": "Panjshir Valley",
+        "latlng": [
+          35.3,
+          69.7
+        ],
+        "type": "major",
+        "description": "Panjshir represents the failure of repeated clearing operations to produce lasting political control."
+      },
+      {
+        "label": "Khost",
+        "latlng": [
+          33.3395,
+          69.9204
+        ],
+        "type": "major",
+        "description": "Khost illustrates late Soviet tactical success without a strategic end to the insurgency."
+      },
+      {
+        "label": "Friendship Bridge",
+        "latlng": [
+          37.228,
+          67.43
+        ],
+        "type": "major",
+        "description": "The final withdrawal ended occupation but left Afghanistan's civil war unresolved."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Soviet-Afghan War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Afgan_prisoners_in_Vardak_1987.jpg/1920px-Afgan_prisoners_in_Vardak_1987.jpg",
+        "cap": "Visual reference for Conflict Summary: Soviet-Afghan War.",
+        "body": "The Soviet Union withdrew without defeating the Afghan resistance. Western and regional support helped deny Moscow victory, but Afghanistan was left devastated and armed factions later fought one another, creating conditions exploited by the Taliban and transnational jihadists.\n\nTaken as a whole, Soviet-Afghan War shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.\n\nThe war is often called the 'Soviet Union's Vietnam' because a superpower entered expecting a limited intervention, became trapped in a long guerrilla war sustained by foreign aid and cross-border sanctuaries, suffered mounting casualties and political disillusionment, and withdrew without securing a durable allied victory. The comparison is useful but not exact: Afghanistan's geography, Soviet strategy, casualty scale, and domestic politics differed from the American war in Vietnam.",
+        "stats": [
+          {
+            "val": "Soviet withdrawal; mujahideen strategic victory",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "Official Soviet figures record 14,453 Soviet military deaths. Hundreds of thousands to more than one million Afghans were killed, and roughly five to six million became refugees; Afghan totals vary widely by source.",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The Soviet Union withdrew without defeating the Afghan resistance. Western and regional support helped deny Moscow victory, but Afghanistan was left devastated and armed factions later fought one another, creating conditions exploited by the Taliban and transnational jihadists.",
+            "full": true
+          },
+          {
+            "val": "Why 'the Soviet Vietnam'?",
+            "lbl": "The war is often called the 'Soviet Union's Vietnam' because a superpower entered expecting a limited intervention, became trapped in a long guerrilla war sustained by foreign aid and cross-border sanctuaries, suffered mounting casualties and political disillusionment, and withdrew without securing a durable allied victory. The comparison is useful but not exact: Afghanistan's geography, Soviet strategy, casualty scale, and domestic politics differed from the American war in Vietnam.",
+            "full": true
+          },
+          {
+            "val": "Why 'the Soviet Vietnam'?",
+            "lbl": "The war is often called the 'Soviet Union's Vietnam' because a superpower entered expecting a limited intervention, became trapped in a long guerrilla war sustained by foreign aid and cross-border sanctuaries, suffered mounting casualties and political disillusionment, and withdrew without securing a durable allied victory. The comparison is useful but not exact: Afghanistan's geography, Soviet strategy, casualty scale, and domestic politics differed from the American war in Vietnam.",
+            "full": true
+          },
+          {
+            "val": "Why 'the Soviet Vietnam'?",
+            "lbl": "The war is often called the 'Soviet Union's Vietnam' because a superpower entered expecting a limited intervention, became trapped in a long guerrilla war sustained by foreign aid and cross-border sanctuaries, suffered mounting casualties and political disillusionment, and withdrew without securing a durable allied victory. The comparison is useful but not exact: Afghanistan's geography, Soviet strategy, casualty scale, and domestic politics differed from the American war in Vietnam.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

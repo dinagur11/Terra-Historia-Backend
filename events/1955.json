@@ -1,0 +1,112 @@
+[
+  {
+    "id": "united-states-congress-1955-1",
+    "name": "United States Congress",
+    "date": "January 28 1955",
+    "location": "United States Congress",
+    "coordinates": {
+      "lat": 38.88972222,
+      "lng": -77.00888889
+    },
+    "summary": "The United States Congress authorizes President Dwight D. Eisenhower to use force to protect Taiwan from the People's Republic of China. The United States Congress is the legislative branch of the federal government of the United States. It is a bicameral legislature, including a lower body, the U.S."
+  },
+  {
+    "id": "taiwan-1955-2",
+    "name": "Taiwan",
+    "date": "April 6 1955",
+    "location": "Taiwan",
+    "coordinates": {
+      "lat": 24,
+      "lng": 121
+    },
+    "summary": "The Taiwanese Kuomintang put a bomb on the airplane Kashmir Princess, killing 16 but failing to assassinate the People's Republic of China leader, Zhou Enlai. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "salk-polio-vaccine-1955-3",
+    "name": "Salk polio vaccine",
+    "date": "April 12 1955",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The Salk polio vaccine, having passed large-scale trials earlier in the United States, receives full approval by the Food and Drug Administration. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "north-atlantic-treaty-organization-1955-4",
+    "name": "North Atlantic Treaty Organization",
+    "date": "May 9 1955",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "West Germany joins the North Atlantic Treaty Organization (NATO). The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "warsaw-1955-5",
+    "name": "Warsaw",
+    "date": "May 14 1955",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.23,
+      "lng": 21.01111111
+    },
+    "summary": "Eight Communist Bloc countries, including the Soviet Union, sign a mutual defence treaty in Warsaw, Poland, that is called the Warsaw Pact (it will be dissolved in 1991). Warsaw, officially the Capital City of Warsaw, is the capital and most-populous city of Poland. The metropolis stands on the River Vistula in east-central Poland."
+  },
+  {
+    "id": "austrian-state-treaty-1955-6",
+    "name": "Austrian State Treaty",
+    "date": "May 14 1955",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "The Austrian State Treaty, which restores Austria's national sovereignty, is concluded between the 4 occupying powers following World War II (the United Kingdom, the United States, the Soviet Union, and France) and Austria, setting it up as a neutral country. The Austrian State Treaty (German: Österreichischer Staatsvertrag [ˈøːstɐraɪçɪʃɐ ˈʃtaːtsfɐˌtraːɡ] ) or Austrian Independence Treaty established Austria as a sovereign state."
+  },
+  {
+    "id": "freedom-charter-of-the-anti-apartheid-south-african-congress-alliance--1955-7",
+    "name": "Freedom Charter of the anti-apartheid South African Congress Alliance is...",
+    "date": "June 26 1955",
+    "location": "Africa",
+    "coordinates": {
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    "summary": "The Freedom Charter of the anti-apartheid South African Congress Alliance is adopted, at a Congress of the People in Kliptown. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "austrian-independence-treaty-1955-8",
+    "name": "Austrian Independence Treaty",
+    "date": "October 14 1955",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "After the last Allied troops have left Austria, and following the provisions of the Austrian Independence Treaty, the country declares its permanent neutrality. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  },
+  {
+    "id": "vietnam-war-1955-9",
+    "name": "Vietnam War",
+    "date": "October 29 1955",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Official start date of the Vietnam War between the Democratic Republic of Vietnam and Republic of Vietnam; the north is allied with the Viet Cong. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies."
+  },
+  {
+    "id": "united-nations-1955-10",
+    "name": "United Nations",
+    "date": "December 10 1955",
+    "location": "Finland",
+    "coordinates": {
+      "lat": 60.1699,
+      "lng": 24.9384
+    },
+    "summary": "Albania, Austria, Bulgaria, Cambodia, Finland, Hungary, Ireland, Italy, Jordan, Laos, Libya, Nepal, Portugal, Romania, Spain and Sri Lanka join the United Nations simultaneously, after several years of moratorium on admitting new members that began during the Korean War. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  }
+]

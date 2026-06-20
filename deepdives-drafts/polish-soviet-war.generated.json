@@ -1,0 +1,440 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1919,
+    "date": "1919-02-14",
+    "title": "From Russian Civil War to Polish-Soviet War",
+    "sub": "Connection and background to Polish-Soviet War",
+    "view": {
+      "center": [
+        52.17535,
+        25.7678
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Warsaw",
+        "latlng": [
+          52.2297,
+          21.0122
+        ],
+        "type": "target",
+        "description": "The restored Polish state sought defensible borders and a federation of states east of Poland."
+      },
+      {
+        "label": "Minsk",
+        "latlng": [
+          53.9006,
+          27.559
+        ],
+        "type": "major",
+        "description": "Belarusian lands became a central contested corridor between Poland and Soviet Russia."
+      },
+      {
+        "label": "Kyiv",
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "type": "major",
+        "description": "Poland's alliance with the Ukrainian People's Republic made Ukraine a major theater of the war."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Russian Civil War to Polish-Soviet War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/19190501-lenin_speech_red_square.jpg",
+        "cap": "Visual reference for From Russian Civil War to Polish-Soviet War.",
+        "body": "The collapse of the Russian, German, and Austro-Hungarian empires left no accepted frontier between the restored Polish state and revolutionary Russia. Polish leaders sought security farther east and, under Piłsudski, imagined a federation with independent Lithuania, Belarus, and Ukraine. Bolshevik leaders aimed to recover former imperial territory and hoped a westward advance might connect the Russian Revolution with unrest in Germany. As German troops withdrew, both new armies moved into the same political vacuum.",
+        "stats": [
+          {
+            "val": "Russian Civil War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "1919-1921",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "Poland fought to secure defensible eastern borders and support an independent Ukraine, while Soviet leaders sought to recover former imperial territory and hoped revolution might spread west.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "first-clashes",
+    "year": 1919,
+    "date": "1919-02-14",
+    "title": "First Polish-Soviet Clashes",
+    "sub": "Part of Polish-Soviet War",
+    "view": {
+      "center": [
+        52.9715,
+        24.758
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Mosty",
+        "latlng": [
+          53.412,
+          24.538
+        ],
+        "type": "target",
+        "description": "Polish and Soviet forces met as German occupation troops withdrew from the borderlands."
+      },
+      {
+        "label": "Bereza Kartuska",
+        "latlng": [
+          52.531,
+          24.978
+        ],
+        "type": "major",
+        "description": "The commonly cited first clash occurred near Bereza Kartuska in February 1919."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "First Polish-Soviet Clashes",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Haller_and_blue_army.jpg",
+        "cap": "Visual reference for First Polish-Soviet Clashes.",
+        "body": "Polish and Soviet units first clashed as German occupation forces withdrew from the former imperial borderlands. Neither side initially possessed a continuous front, so control grew outward from railways, towns, and improvised local commands. The fighting near Mosty and Bereza Kartuska turned two competing advances into an undeclared interstate war over Belarus, Lithuania, and Ukraine.",
+        "stats": [
+          {
+            "val": "14 Feb 1919",
+            "lbl": "Commonly cited opening date"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kiev-offensive",
+    "year": 1920,
+    "date": "1920-04-25",
+    "title": "Kiev Offensive",
+    "sub": "Part of Polish-Soviet War",
+    "view": {
+      "center": [
+        50.3524,
+        29.59105
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Zhytomyr",
+        "latlng": [
+          50.2547,
+          28.6587
+        ],
+        "type": "major",
+        "description": "Polish-Ukrainian forces advanced rapidly through western Ukraine."
+      },
+      {
+        "label": "Kyiv",
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "type": "target",
+        "description": "The allies entered Kyiv but failed to destroy the retreating Soviet armies."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Kiev Offensive",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wej%C5%9Bcie_wojsk_polskich_do_Kijowa.jpg/1920px-Wej%C5%9Bcie_wojsk_polskich_do_Kijowa.jpg",
+        "cap": "Visual reference for Kiev Offensive.",
+        "body": "Poland and the Ukrainian People's Republic launched the Kiev Offensive to establish an allied independent Ukraine between Poland and Soviet Russia. They entered Kyiv on 7 May 1920, but the Red Army withdrew without being destroyed and Polish supply lines stretched deep into Ukraine. The apparent success encouraged Soviet mobilization and exposed the offensive as a strategic gamble rather than a decisive victory.",
+        "stats": [
+          {
+            "val": "7 May 1920",
+            "lbl": "Polish-Ukrainian forces enter Kyiv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soviet-counteroffensive",
+    "year": 1920,
+    "date": "1920-06-05",
+    "title": "Soviet Counteroffensive",
+    "sub": "Part of Polish-Soviet War",
+    "view": {
+      "center": [
+        52.17535,
+        27.12875
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Kyiv",
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "type": "major",
+        "description": "Soviet forces retook Kyiv and drove the Polish-Ukrainian army westward."
+      },
+      {
+        "label": "Minsk",
+        "latlng": [
+          53.9006,
+          27.559
+        ],
+        "type": "major",
+        "description": "The Western Front advanced through Belarus toward Poland."
+      },
+      {
+        "label": "Brest",
+        "latlng": [
+          52.0976,
+          23.7341
+        ],
+        "type": "target",
+        "description": "The Soviet capture of Brest opened the direct approaches toward Warsaw."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Soviet Counteroffensive",
+        "img": "https://realtimehistory.net/cdn/shop/articles/1920_15_bg.jpg?v=1611230841",
+        "cap": "Visual reference for Soviet Counteroffensive.",
+        "body": "The Red Army counterattacked in Ukraine and Belarus, forcing Polish-led forces into a rapid retreat. Semyon Budyonny's cavalry threatened communications in the south while Mikhail Tukhachevsky's Western Front drove toward Warsaw. Soviet leaders began to see military victory as a possible route for revolution into Central Europe, while Poland suddenly faced a war for national survival.",
+        "stats": [
+          {
+            "val": "Summer 1920",
+            "lbl": "Red Army advances toward Poland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-warsaw",
+    "year": 1920,
+    "date": "1920-08-12",
+    "title": "Battle of Warsaw",
+    "sub": "Part of Polish-Soviet War",
+    "view": {
+      "center": [
+        51.98295,
+        21.6311
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Warsaw",
+        "latlng": [
+          52.2297,
+          21.0122
+        ],
+        "type": "target",
+        "description": "The capital was the strategic objective of the Soviet Western Front."
+      },
+      {
+        "label": "Radzymin",
+        "latlng": [
+          52.4159,
+          21.1842
+        ],
+        "type": "major",
+        "description": "Heavy fighting northeast of Warsaw tested the Polish defensive line."
+      },
+      {
+        "label": "Wieprz River",
+        "latlng": [
+          51.55,
+          22.25
+        ],
+        "type": "major",
+        "description": "Piłsudski's counterstroke from the Wieprz struck the exposed Soviet flank."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Warsaw",
+        "img": "https://warsawinstitute.org/wp-content/uploads/2020/08/Poland-Battle-of-Warsaw-war-Soviets-1920.jpg",
+        "cap": "Visual reference for Battle of Warsaw.",
+        "body": "Polish forces stopped the Soviet advance outside Warsaw in August 1920. Defensive fighting around Radzymin held the approaches while Polish radio intelligence tracked Soviet communications and Piłsudski's strike group attacked from the Wieprz River into the exposed Soviet flank. The resulting retreat saved the capital, broke the Western Front's momentum, and ended the immediate prospect of carrying revolution west by force.",
+        "stats": [
+          {
+            "val": "12-25 Aug 1920",
+            "lbl": "Decisive Polish victory"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-of-niemen",
+    "year": 1920,
+    "date": "1920-09-20",
+    "title": "Battle of the Niemen River",
+    "sub": "Part of Polish-Soviet War",
+    "view": {
+      "center": [
+        53.7784,
+        24.5579
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Grodno",
+        "latlng": [
+          53.6694,
+          23.8131
+        ],
+        "type": "target",
+        "description": "The Niemen campaign centered on crossings and maneuver around Grodno."
+      },
+      {
+        "label": "Lida",
+        "latlng": [
+          53.8874,
+          25.3027
+        ],
+        "type": "major",
+        "description": "Polish forces threatened Soviet communications and forced a further retreat."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of the Niemen River",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Battle_of_Niemen.jpg/250px-Battle_of_Niemen.jpg",
+        "cap": "Visual reference for Battle of the Niemen River.",
+        "body": "At the Niemen River, Polish forces combined frontal pressure with maneuver through Lithuanian-held territory to threaten Soviet positions around Grodno and Lida. The victory prevented the Red Army from rebuilding a stable front after Warsaw and forced another eastward retreat. Poland entered peace negotiations from a position of military strength rather than emergency.",
+        "stats": [
+          {
+            "val": "20-26 Sep 1920",
+            "lbl": "Final major Polish offensive"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "treaty-of-riga",
+    "year": 1921,
+    "date": "1921-03-18",
+    "title": "Treaty of Riga",
+    "sub": "Part of Polish-Soviet War",
+    "view": {
+      "center": [
+        56.9496,
+        24.1052
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Riga",
+        "latlng": [
+          56.9496,
+          24.1052
+        ],
+        "type": "target",
+        "description": "Poland, Soviet Russia, and Soviet Ukraine signed the peace treaty establishing the new frontier."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Treaty of Riga",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Peace%20treaty%20of%20Riga%201921.png",
+        "cap": "Historical overview: Treaty of Riga",
+        "body": "The Treaty of Riga ended the war between Poland, Soviet Russia, and Soviet Ukraine. It established a frontier far east of the later Curzon Line but divided Belarusian and Ukrainian communities between states. Poland secured territory and temporary security, while its Ukrainian ally was excluded from the settlement and Soviet rule survived east of the border.",
+        "stats": [
+          {
+            "val": "18 Mar 1921",
+            "lbl": "Peace treaty signed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1921,
+    "date": "1921-03-18",
+    "title": "Conflict Summary: Polish-Soviet War",
+    "sub": "Final summary of Polish-Soviet War",
+    "view": {
+      "center": [
+        53.69985,
+        25.7678
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Warsaw",
+        "latlng": [
+          52.2297,
+          21.0122
+        ],
+        "type": "target",
+        "description": "The defense of Warsaw preserved the restored Polish state and reversed Soviet momentum."
+      },
+      {
+        "label": "Kyiv",
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "type": "major",
+        "description": "The failed federation project left Poland's Ukrainian ally outside the final settlement."
+      },
+      {
+        "label": "Riga",
+        "latlng": [
+          56.9496,
+          24.1052
+        ],
+        "type": "major",
+        "description": "The treaty divided Ukrainian and Belarusian lands and shaped Eastern Europe until World War II."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Polish-Soviet War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Powazki_1920.JPG",
+        "cap": "Visual reference for Conflict Summary: Polish-Soviet War.",
+        "body": "Poland preserved its independence and defeated the Soviet drive toward Warsaw, then secured a broad eastern frontier in the Treaty of Riga. The settlement divided Belarusian and Ukrainian lands and abandoned Poland's Ukrainian ally, creating borders and minority disputes later destroyed by World War II. Roughly 100,000 soldiers were killed across both sides, while many more were wounded, captured, or displaced; thousands of prisoners died in captivity amid disease, hunger, and harsh camp conditions.",
+        "stats": [
+          {
+            "val": "Polish victory and Treaty of Riga",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "About 100,000 military deaths; many more wounded, captured, or displaced",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Poland preserved its independence and defeated the Soviet drive toward Warsaw, then secured a broad eastern frontier in the Treaty of Riga. The settlement divided Belarusian and Ukrainian lands and abandoned Poland's Ukrainian ally, creating borders and minority disputes later destroyed by World War II. Roughly 100,000 soldiers were killed across both sides, while many more were wounded, captured, or displaced; thousands of prisoners died in captivity amid disease, hunger, and harsh camp conditions.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

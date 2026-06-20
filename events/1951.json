@@ -1,0 +1,112 @@
+[
+  {
+    "id": "los-angeles-times-1951-1",
+    "name": "Los Angeles Times",
+    "date": "January 11 1951",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "In the U.S., a top secret report is delivered to U.S. President Truman by his National Security Resources Board, urging Truman to expand the Korean War by launching \"a global offensive against communism\" with sustained bombing of Red China and diplomatic moves to establish \"moral justification\" for a U.S. nuclear attack on the Soviet Union. The report will not be declassified until 1978."
+  },
+  {
+    "id": "united-nations-general-assembly-1951-2",
+    "name": "United Nations General Assembly",
+    "date": "February 1 1951",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The United Nations General Assembly declares that China is an aggressor in the Korean War, in United Nations General Assembly Resolution 498. The United Nations General Assembly (UNGA or GA) is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter."
+  },
+  {
+    "id": "korean-war-1951-3",
+    "name": "Korean War",
+    "date": "March 6 1951",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Korean War: Operation Ripper – For the second time, United Nations troops recapture Seoul. The Korean War (25 June 1950 – 27 July 1953) was an armed conflict fought on the Korean Peninsula between North Korea (Democratic People's Republic of Korea; DPRK) and South Korea (Republic of Korea; ROK) and their allies."
+  },
+  {
+    "id": "tibet-1951-4",
+    "name": "Tibet",
+    "date": "May 23 1951",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The Tibetan government signs the Seventeen Point Agreement for the Peaceful Liberation of Tibet with the People's Republic of China. Tibet ( ) is a region in the western part of East Asia, covering much of the Tibetan Plateau, currently governed by China. It is the homeland of the Tibetans."
+  },
+  {
+    "id": "operation-greenhouse-1951-5",
+    "name": "Operation Greenhouse",
+    "date": "May 24 1951",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Operation Greenhouse: The first atomic bomb \"boosted\" by the inclusion of tritium is tested in the \"Item\" test on Enewetok Atoll in the Marshall Islands by the United States. Operation Greenhouse was the fifth American nuclear test series, the second conducted in 1951 and the first to test principles that would lead to developing thermonuclear weapons (hydrogen bombs)."
+  },
+  {
+    "id": "armistice-1951-6",
+    "name": "Armistice",
+    "date": "July 4 1951",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Korean War: Armistice negotiations begin at Kaesong. An armistice is a formal agreement of warring parties to stop fighting. It is not necessarily the end of a war, as it may constitute only a cessation of hostilities while an attempt is made to negotiate a lasting peace."
+  },
+  {
+    "id": "william-shockley-of-bell-labs-in-the-united-states-announces-the-inven-1951-7",
+    "name": "William Shockley of Bell Labs in the United States announces the inventio...",
+    "date": "July 4 1951",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "William Shockley of Bell Labs in the United States announces the invention jointly with John Bardeen and Walter Brattain of the grown-junction transistor. Also this year, General Electric and RCA develop the alloy-junction transistor. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "united-nations-1951-8",
+    "name": "United Nations",
+    "date": "July 28 1951",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Convention Relating to the Status of Refugees, a multilateral treaty of the United Nations, is signed at a special conference in Geneva, defining the status of refugees and setting out the basis for granting right of asylum, coming into force on 22 April 1954. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "nato-accepts-greece-and-turkey-as-members-1951-9",
+    "name": "NATO accepts Greece and Turkey as members",
+    "date": "September 20 1951",
+    "location": "Turkey",
+    "coordinates": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "summary": "NATO accepts Greece and Turkey as members. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "we-charge-genocide-1951-10",
+    "name": "We Charge Genocide",
+    "date": "December 17 1951",
+    "location": "Africa",
+    "coordinates": {
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    "summary": "We Charge Genocide, a petition describing genocide against African Americans, is delivered to the United Nations. We Charge Genocide is a petition charging the United States government with genocide based on the UN Genocide Convention. This paper was written by the Civil Rights Congress (CRC) and presented by William L."
+  }
+]

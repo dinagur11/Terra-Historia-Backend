@@ -1,0 +1,68 @@
+[
+  {
+    "id": "falklands-war-1982",
+    "name": "Falklands War",
+    "date": "April 2 1982",
+    "location": "Falkland Islands",
+    "coordinates": {
+      "lat": -51.7963,
+      "lng": -59.5236
+    },
+    "summary": "The UK and Argentina fought over the Falkland Islands."
+  },
+  {
+    "id": "lebanon-war-1982",
+    "name": "Israel Invades Lebanon",
+    "date": "June 6 1982",
+    "location": "Lebanon",
+    "coordinates": {
+      "lat": 33.8547,
+      "lng": 35.8623
+    },
+    "summary": "Israel launched a military operation in Lebanon."
+  },
+  {
+    "id": "tylenol-1982",
+    "name": "Tylenol Poisonings",
+    "date": "September 29 1982",
+    "location": "USA",
+    "coordinates": {
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "summary": "Poisoned Tylenol capsules caused multiple deaths."
+  },
+  {
+    "id": "compact-disc-1982",
+    "name": "CD Introduced",
+    "date": "October 1 1982",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "summary": "The compact disc was introduced for audio storage."
+  },
+  {
+    "id": "european-community-1982",
+    "name": "Spain Joins NATO",
+    "date": "May 30 1982",
+    "location": "Spain",
+    "coordinates": {
+      "lat": 40.4168,
+      "lng": -3.7038
+    },
+    "summary": "Spain became a member of NATO."
+  },
+  {
+    "id": "grace-kelly-1982",
+    "name": "Grace Kelly Dies",
+    "date": "September 14 1982",
+    "location": "Monaco",
+    "coordinates": {
+      "lat": 43.7384,
+      "lng": 7.4246
+    },
+    "summary": "Princess Grace of Monaco died following a car crash."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "trump-inauguration-2017",
+    "name": "Trump Inauguration",
+    "date": "January 20 2017",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Donald Trump was sworn in as president."
+  },
+  {
+    "id": "me-too-2017",
+    "name": "#MeToo Movement",
+    "date": "October 15 2017",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Movement against sexual harassment gained global attention."
+  },
+  {
+    "id": "las-vegas-2017",
+    "name": "Las Vegas Shooting",
+    "date": "October 1 2017",
+    "location": "USA",
+    "coordinates": {
+      "lat": 36.1699,
+      "lng": -115.1398
+    },
+    "summary": "A mass shooting killed 58 people."
+  },
+  {
+    "id": "north-korea-2017",
+    "name": "North Korea Nuclear Test",
+    "date": "September 3 2017",
+    "location": "North Korea",
+    "coordinates": {
+      "lat": 40.3399,
+      "lng": 127.5101
+    },
+    "summary": "North Korea tested a nuclear weapon."
+  },
+  {
+    "id": "catalonia-2017",
+    "name": "Catalonia Independence Referendum",
+    "date": "October 1 2017",
+    "location": "Spain",
+    "coordinates": {
+      "lat": 41.3851,
+      "lng": 2.1734
+    },
+    "summary": "Catalonia held a controversial independence vote."
+  },
+  {
+    "id": "hurricane-harvey-2017",
+    "name": "Hurricane Harvey",
+    "date": "August 25 2017",
+    "location": "USA",
+    "coordinates": {
+      "lat": 29.7604,
+      "lng": -95.3698
+    },
+    "summary": "A major hurricane caused severe flooding in Texas."
+  }
+]

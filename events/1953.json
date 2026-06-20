@@ -1,0 +1,112 @@
+[
+  {
+    "id": "united-nations-security-council-1953-1",
+    "name": "United Nations Security Council",
+    "date": "March 13 1953",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations Security Council nominates Dag Hammarskjöld from Sweden as United Nations Secretary General. The United Nations Security Council (UNSC or UN Security Council) is one of the six principal organs of the United Nations, and is the United Nation’s Executive Branch having primary responsibility for the maintenance of international peace and security."
+  },
+  {
+    "id": "jonas-salk-announces-his-polio-vaccine-1953-2",
+    "name": "Jonas Salk announces his polio vaccine",
+    "date": "March 26 1953",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Jonas Salk announced that he had successfully tested an experimental polio vaccine using inactivated virus. The announcement preceded the enormous 1954 field trial and the vaccine's licensing in 1955, after which widespread immunization sharply reduced polio cases in the United States and many other countries."
+  },
+  {
+    "id": "francis-crick-and-james-watson-publish-molecular-structure-of-nucleic--1953-3",
+    "name": "Francis Crick and James Watson publish \"Molecular Structure of Nucleic Acids",
+    "date": "April 25 1953",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Francis Crick and James Watson publish \"Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid\", their description of the double helix structure of DNA. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "rogers-dry-lake-1953-4",
+    "name": "Rogers Dry Lake",
+    "date": "May 18 1953",
+    "location": "Rogers Dry Lake",
+    "coordinates": {
+      "lat": 34.92194444,
+      "lng": -117.8275
+    },
+    "summary": "At Rogers Dry Lake, Californian Jackie Cochran becomes the first woman to exceed Mach 1, in a North American F-86 Sabre at. Rogers Dry Lake is an endorheic desert salt flat in the Mojave Desert of Kern County, California. The name is derived from the Anglicized Spanish name, Rodriguez Dry Lake."
+  },
+  {
+    "id": "cuban-revolution-1953-5",
+    "name": "Cuban Revolution",
+    "date": "July 26 1953",
+    "location": "Cuba",
+    "coordinates": {
+      "lat": 23.1136,
+      "lng": -82.3666
+    },
+    "summary": "Fidel Castro and his brother lead a disastrous assault on the Moncada Barracks, preliminary to the Cuban Revolution. The Cuban Revolution (Spanish: Revolución cubana) was the military and political movement that overthrew the dictatorship of Fulgencio Batista, who had ruled Cuba from 1952 to 1959. The revolution began after the 1952 Cuban coup d'état, in which Batista overthrew the emerging Cuban democracy and consolidated power."
+  },
+  {
+    "id": "korean-armistice-agreement-1953-6",
+    "name": "Korean Armistice Agreement",
+    "date": "July 27 1953",
+    "location": "Korean Armistice Agreement",
+    "coordinates": {
+      "lat": 37.9611,
+      "lng": 126.6645
+    },
+    "summary": "The Korean War ends, with the Korean Armistice Agreement: The United Nations Command (Korea) (United States), China and North Korea sign an armistice agreement at Panmunjom, and the north remains communist, while the south remains capitalist. No formal peace treaty is ever signed. The Korean Armistice Agreement (Korean: 한국정전협정; Hanja: 韓國停戰協定) is an armistice that brought about a cessation of hostilities of the Korean War."
+  },
+  {
+    "id": "operation-big-switch-1953-7",
+    "name": "Operation Big Switch",
+    "date": "August 5 1953",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Operation Big Switch: Prisoners of war are repatriated to the United States after the Korean War. Operation Big Switch was the repatriation of all remaining prisoners of the Korean War. Ceasefire talks had been going on between the North Korean, Chinese and United Nations Command (UNC) forces since 1951, with the main point of contention being the repatriation of all prisoners to their home countries, in accordance with Article 118 of the 1949 Geneva Convention."
+  },
+  {
+    "id": "soviet-atomic-bomb-project-1953-8",
+    "name": "Soviet atomic bomb project",
+    "date": "August 8 1953",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Soviet atomic bomb project: \"Joe 4\", the first Soviet thermonuclear weapon, is detonated at Semipalatinsk Test Site, Kazakh SSR. The Soviet atomic bomb project was authorized by Joseph Stalin in the Soviet Union to develop nuclear weapons during and after World War II. Physicist Georgy Flyorov, suspecting a Western Allied nuclear program, urged Stalin to start research in 1942."
+  },
+  {
+    "id": "cold-war-1953-9",
+    "name": "Cold War",
+    "date": "August 15 1953",
+    "location": "Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "summary": "19 - Cold War: 1953 Iranian coup d'état - Overthrow of the democratically elected Prime Minister of Iran, Mohammad Mosaddegh, by Iranian military in favour of strengthening the monarchical rule of the Shah, Mohammad Reza Pahlavi, with the support of the United States Central Intelligence Agency (as \"Operation Ajax\") and the United Kingdom."
+  },
+  {
+    "id": "united-nations-general-assembly-1953-10",
+    "name": "United Nations General Assembly",
+    "date": "December 8 1953",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "U.S. President Dwight D. Eisenhower delivers his Atoms for Peace address, to the United Nations General Assembly. The United Nations General Assembly (UNGA or GA) is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ."
+  }
+]

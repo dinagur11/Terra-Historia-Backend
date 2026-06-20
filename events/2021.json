@@ -1,0 +1,68 @@
+[
+  {
+    "id": "capitol-2021",
+    "name": "US Capitol Riot",
+    "date": "January 6 2021",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.8899,
+      "lng": -77.0091
+    },
+    "summary": "Supporters of Donald Trump stormed the Capitol."
+  },
+  {
+    "id": "covid-vaccines-2021",
+    "name": "Global COVID Vaccination Campaign",
+    "date": "January 1 2021",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Mass vaccination campaigns began worldwide."
+  },
+  {
+    "id": "afghanistan-2021",
+    "name": "Taliban Take Kabul",
+    "date": "August 15 2021",
+    "location": "Afghanistan",
+    "coordinates": {
+      "lat": 34.5553,
+      "lng": 69.2075
+    },
+    "summary": "The Taliban regained control of Afghanistan."
+  },
+  {
+    "id": "evergiven-2021",
+    "name": "Suez Canal Blockage",
+    "date": "March 23 2021",
+    "location": "Egypt",
+    "coordinates": {
+      "lat": 30.0444,
+      "lng": 32.531
+    },
+    "summary": "A cargo ship blocked a key global trade route."
+  },
+  {
+    "id": "spacex-tourism-2021",
+    "name": "First All-Civilian Spaceflight",
+    "date": "September 15 2021",
+    "location": "USA",
+    "coordinates": {
+      "lat": 28.5729,
+      "lng": -80.649
+    },
+    "summary": "SpaceX launched the first civilian-only mission."
+  },
+  {
+    "id": "tokyo-olympics-2021",
+    "name": "Tokyo Olympics",
+    "date": "July 23 2021",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "summary": "Olympics held after COVID delay."
+  }
+]

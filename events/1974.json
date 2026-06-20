@@ -1,0 +1,112 @@
+[
+  {
+    "id": "peoples-republic-of-china-1974-1",
+    "name": "People's Republic of China",
+    "date": "January 25 1974",
+    "location": "China",
+    "coordinates": {
+      "lat": 35,
+      "lng": 103
+    },
+    "summary": "The People's Republic of China released Gerald Emil Kosh, a U.S. civilian captured during the Battle of the Paracel Islands. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "end-of-five-month-oil-embargo-by-most-opec-nations-against-the-united--1974-2",
+    "name": "End of five-month oil embargo by most OPEC nations against the United Sta...",
+    "date": "March 4 1974",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "End of five-month oil embargo by most OPEC nations against the United States, Europe, and Japan which had caused the 1973 oil crisis. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "february-1974-united-kingdom-general-election-1974-3",
+    "name": "February 1974 United Kingdom general election",
+    "date": "March 4 1974",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Following a hung parliament in the United Kingdom general election, Conservative prime minister Edward Heath resigns and is succeeded by Labour's Harold Wilson, who previously led the country from 1964 to 1970. A general election was held in the United Kingdom on Thursday 28 February 1974. The Labour Party, led by former Prime Minister Harold Wilson, gained seats, and became the largest party, but was short of an overall majority."
+  },
+  {
+    "id": "carnation-revolution-1974-4",
+    "name": "Carnation Revolution",
+    "date": "April 25 1974",
+    "location": "Brazil",
+    "coordinates": {
+      "lat": -15.7939,
+      "lng": -47.8828
+    },
+    "summary": "Carnation Revolution: A left-wing military coup in Portugal restores democracy, ending 41 years of the Estado Novo dictatorship in the country. Portuguese Prime Minister Marcelo Caetano flees to Brazil and is granted political asylum by Brazilian President Ernesto Geisel."
+  },
+  {
+    "id": "nuclear-weapons-testing-1974-5",
+    "name": "Nuclear weapons testing",
+    "date": "May 17 1974",
+    "location": "Global",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "summary": "Nuclear weapons testing: Under Project Smiling Buddha, India successfully detonates its first nuclear weapon, becoming the 6th nation to do so. Nuclear weapons tests are experiments carried out to determine the performance of nuclear weapons and the effects of their explosion. Over 2,000 nuclear weapons tests have been carried out since 1945."
+  },
+  {
+    "id": "greek-military-junta-sponsors-a-coup-detat-in-cyprus-replacing-preside-1974-6",
+    "name": "Greek military junta sponsors a coup d'état in Cyprus, replacing Presiden...",
+    "date": "July 15 1974",
+    "location": "Cyprus",
+    "coordinates": {
+      "lat": 35.1856,
+      "lng": 33.3823
+    },
+    "summary": "The Greek military junta sponsors a coup d'état in Cyprus, replacing President Makarios III with Nikos Sampson. On that same day, reporter Christine Chubbuck commits suicide for the first-time-ever on live television. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "greece-1974-7",
+    "name": "Greece",
+    "date": "August 4 1974",
+    "location": "Greece",
+    "coordinates": {
+      "lat": 37.9838,
+      "lng": 23.7275
+    },
+    "summary": "Greece withdraws its forces from NATO's military command structure, as a result of the Turkish invasion of Cyprus. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "watergate-scandal-1974-8",
+    "name": "Watergate scandal",
+    "date": "August 4 1974",
+    "location": "Washington",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Watergate scandal: The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex."
+  },
+  {
+    "id": "united-nations-general-assembly-1974-9",
+    "name": "United Nations General Assembly",
+    "date": "November 22 1974",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations General Assembly grants the Palestine Liberation Organization observer status. The United Nations General Assembly (UNGA or GA) is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter."
+  },
+  {
+    "id": "united-nations-1974-10",
+    "name": "United Nations",
+    "date": "December 17 1974",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The World Intellectual Property Organization (WIPO) becomes a specialized agency of the United Nations. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  }
+]

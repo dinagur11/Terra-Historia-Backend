@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mandela-president-1994",
+    "name": "Nelson Mandela Elected President",
+    "date": "May 10 1994",
+    "location": "South Africa",
+    "coordinates": {
+      "lat": -25.7479,
+      "lng": 28.2293
+    },
+    "summary": "Nelson Mandela became South Africa’s first Black president."
+  },
+  {
+    "id": "rwanda-genocide-1994",
+    "name": "Rwandan Genocide Begins",
+    "date": "April 7 1994",
+    "location": "Rwanda",
+    "coordinates": {
+      "lat": -1.9403,
+      "lng": 29.8739
+    },
+    "summary": "A genocide led to the deaths of around 800,000 people."
+  },
+  {
+    "id": "nafta-1994",
+    "name": "NAFTA Comes into Effect",
+    "date": "January 1 1994",
+    "location": "North America",
+    "coordinates": {
+      "lat": 39.8283,
+      "lng": -98.5795
+    },
+    "summary": "A free trade agreement between the U.S., Canada, and Mexico began."
+  },
+  {
+    "id": "eurotunnel-1994",
+    "name": "Channel Tunnel Opens",
+    "date": "May 6 1994",
+    "location": "UK / France",
+    "coordinates": {
+      "lat": 50.95,
+      "lng": 1.85
+    },
+    "summary": "The Channel Tunnel opened, linking the UK and France by rail."
+  },
+  {
+    "id": "northridge-earthquake-1994",
+    "name": "Northridge Earthquake",
+    "date": "January 17 1994",
+    "location": "California, USA",
+    "coordinates": {
+      "lat": 34.2,
+      "lng": -118.5
+    },
+    "summary": "A powerful earthquake caused major damage in Los Angeles."
+  },
+  {
+    "id": "pulp-fiction-1994",
+    "name": "Pulp Fiction Released",
+    "date": "October 14 1994",
+    "location": "USA",
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "summary": "The film 'Pulp Fiction' became a major cultural milestone in cinema."
+  }
+]

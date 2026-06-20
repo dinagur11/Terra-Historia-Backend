@@ -1,0 +1,68 @@
+[
+  {
+    "id": "covid-emergence-2019",
+    "name": "COVID-19 Emerges",
+    "date": "December 1 2019",
+    "location": "Wuhan, China",
+    "coordinates": {
+      "lat": 30.5928,
+      "lng": 114.3055
+    },
+    "summary": "A new coronavirus was identified, later leading to a global pandemic."
+  },
+  {
+    "id": "notre-dame-fire-2019",
+    "name": "Notre-Dame Fire",
+    "date": "April 15 2019",
+    "location": "Paris, France",
+    "coordinates": {
+      "lat": 48.853,
+      "lng": 2.3499
+    },
+    "summary": "A fire severely damaged the historic cathedral."
+  },
+  {
+    "id": "hong-kong-2019",
+    "name": "Hong Kong Protests",
+    "date": "June 9 2019",
+    "location": "Hong Kong",
+    "coordinates": {
+      "lat": 22.3193,
+      "lng": 114.1694
+    },
+    "summary": "Mass protests erupted over proposed extradition laws."
+  },
+  {
+    "id": "black-hole-2019",
+    "name": "First Image of a Black Hole",
+    "date": "April 10 2019",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Scientists released the first image of a black hole."
+  },
+  {
+    "id": "amazon-fires-2019",
+    "name": "Amazon Rainforest Fires",
+    "date": "August 20 2019",
+    "location": "Brazil",
+    "coordinates": {
+      "lat": -3.4653,
+      "lng": -62.2159
+    },
+    "summary": "Large-scale fires raised global environmental concerns."
+  },
+  {
+    "id": "uk-election-2019",
+    "name": "UK General Election",
+    "date": "December 12 2019",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "The Conservative Party secured a majority, shaping Brexit's path."
+  }
+]

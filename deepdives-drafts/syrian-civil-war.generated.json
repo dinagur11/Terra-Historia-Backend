@@ -1,0 +1,452 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2011,
+    "date": "2011-03-15",
+    "title": "From Iraq War to Syrian Civil War",
+    "sub": "Connection and background to Syrian Civil War",
+    "view": {
+      "center": [
+        35,
+        38
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Damascus",
+        "latlng": [
+          33.5138,
+          36.2765
+        ],
+        "type": "major",
+        "description": "The Assad regime's center of power faced spreading protest and armed revolt."
+      },
+      {
+        "label": "Daraa",
+        "latlng": [
+          32.625,
+          36.106
+        ],
+        "type": "target",
+        "description": "The uprising began after the arrest and abuse of schoolchildren in Daraa."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Iraq War to Syrian Civil War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg",
+        "cap": "Historical overview: From Iraq War to Syrian Civil War",
+        "body": "The Iraq War destabilized the region and strengthened jihadist networks, while the Arab Spring inspired protests against authoritarian governments. Syria's security forces violently suppressed demonstrations against Bashar al-Assad, turning an uprising into civil war.\n\nSyrians fought over dictatorship, revolution, territory, communal survival, and the country's political future, while Russia, Iran, Turkey, the United States, Israel, and armed groups pursued competing interests.\n\nThe Daraa crackdown transformed demands for reform into a nationwide challenge to authoritarian rule. Militarization then fragmented the uprising among local rebels, Islamists, Kurdish forces, and jihadists, while foreign intervention gave the conflict several overlapping regional and international fronts.",
+        "stats": [
+          {
+            "val": "Previous conflict in this path",
+            "lbl": "Iraq War"
+          },
+          {
+            "val": "2011-2024",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "Syrians fought over dictatorship, revolution, territory, communal survival, and the country's political future, while Russia, Iran, Turkey, the United States, Israel, and armed groups pursued competing interests.",
+            "full": true
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "daraa-protests",
+    "year": 2011,
+    "date": "2011-03-15",
+    "title": "Daraa Protests and Crackdown",
+    "sub": "Part of Syrian Civil War",
+    "view": {
+      "center": [
+        32.625,
+        36.106
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Daraa",
+        "latlng": [
+          32.625,
+          36.106
+        ],
+        "type": "target",
+        "description": "Protests and regime violence in Daraa helped ignite the national uprising."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Daraa Protests and Crackdown",
+        "img": "https://media.cnn.com/api/v1/images/stellar/prod/120228112937-syria-2011-protests.jpg?q=w_5184,h_3456,x_0,y_0,c_fill",
+        "cap": "Historical overview: Daraa Protests and Crackdown",
+        "body": "Protests spread after the arrest and abuse of schoolchildren in Daraa. Security forces used lethal force, fueling nationwide demonstrations and armed resistance.\n\nThe arrest and torture of schoolchildren made local corruption and police abuse a national symbol. Funeral protests, lethal shootings, and failed concessions spread mobilization beyond Daraa and encouraged defections from a security apparatus ordered to suppress civilians.",
+        "stats": [
+          {
+            "val": "March 2011",
+            "lbl": "Uprising begins"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "battle-of-aleppo",
+    "year": 2012,
+    "date": "2012-07-19",
+    "title": "Battle of Aleppo",
+    "sub": "Part of Syrian Civil War",
+    "view": {
+      "center": [
+        36.2021,
+        37.1343
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Aleppo",
+        "latlng": [
+          36.2021,
+          37.1343
+        ],
+        "type": "target",
+        "description": "Years of urban warfare made Aleppo one of the war's defining battles."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Aleppo",
+        "img": "https://media.newyorker.com/photos/59097c942179605b11ad9122/master/pass/Wright-Aleppo-ceasefire-2.jpg",
+        "cap": "Historical overview: Battle of Aleppo",
+        "body": "Rebel forces entered Aleppo, beginning years of urban warfare. Government forces, backed by Russia and Iran-aligned forces, recaptured the eastern districts in December 2016.\n\nControl of Syria's largest city divided between rebel east and government west, producing siege, bombardment, and immense displacement. The government's 2016 victory, enabled by Russian airpower and Iran-aligned ground forces, ended the opposition's best chance to hold a major urban capital.",
+        "stats": [
+          {
+            "val": "2012-2016",
+            "lbl": "Major urban battle"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "ghouta-chemical-attack",
+    "year": 2013,
+    "date": "2013-08-21",
+    "title": "Ghouta Chemical Attack",
+    "sub": "Part of Syrian Civil War",
+    "view": {
+      "center": [
+        33.52,
+        36.35
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Eastern Ghouta",
+        "latlng": [
+          33.52,
+          36.35
+        ],
+        "type": "target",
+        "description": "Rockets carrying sarin struck opposition-held suburbs near Damascus."
+      },
+      {
+        "label": "Damascus",
+        "latlng": [
+          33.5138,
+          36.2765
+        ],
+        "type": "major",
+        "description": "The attack occurred on the capital's doorstep and triggered global outrage."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ghouta Chemical Attack",
+        "img": "https://snhr.org/arabic/wp-content/uploads/sites/2/2014/08/masecr11200.jpg",
+        "cap": "Historical overview: Ghouta Chemical Attack",
+        "body": "Rockets carrying sarin struck opposition-held areas near Damascus, killing large numbers of civilians. Syria later agreed to surrender its declared chemical arsenal under an international deal.\n\nThe sarin attack brought the war to the edge of direct US intervention after President Obama's chemical-weapons warning. The resulting US-Russian agreement removed much of Syria's declared arsenal but left Assad in power and failed to prevent later chemical attacks.",
+        "stats": [
+          {
+            "val": "21 Aug 2013",
+            "lbl": "Major chemical attack"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "rise-of-isis",
+    "year": 2014,
+    "date": "2014-06-29",
+    "title": "Rise of ISIS",
+    "sub": "Part of Syrian Civil War",
+    "view": {
+      "center": [
+        35.95,
+        39.01
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Raqqa",
+        "latlng": [
+          35.95,
+          39.01
+        ],
+        "type": "target",
+        "description": "Raqqa became ISIS's de facto Syrian capital."
+      },
+      {
+        "label": "Mosul",
+        "latlng": [
+          36.34,
+          43.13
+        ],
+        "type": "major",
+        "description": "ISIS's Iraq-Syria expansion made the war regional."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Rise of ISIS",
+        "img": "https://www.pbs.org/wgbh/frontline/media/uploads/2015/11/2014710123051_5192.jpg",
+        "cap": "Historical overview: Rise of ISIS",
+        "body": "ISIS proclaimed a caliphate across parts of Syria and Iraq. A US-led coalition began airstrikes and supported local partners, especially the Kurdish-led Syrian Democratic Forces.\n\nISIS erased parts of the Iraq-Syria border, captured oil fields and cities, and imposed mass violence under its caliphate. Fighting it redirected Western policy toward counterterrorism, strengthened Kurdish-led forces, and complicated the original contest between Assad and the rebellion.",
+        "stats": [
+          {
+            "val": "2014",
+            "lbl": "ISIS controls extensive territory"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "russian-intervention",
+    "year": 2015,
+    "date": "2015-09-30",
+    "title": "Russian Military Intervention",
+    "sub": "Part of Syrian Civil War",
+    "view": {
+      "center": [
+        35.4,
+        35.95
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Hmeimim airbase",
+        "latlng": [
+          35.401,
+          35.948
+        ],
+        "type": "target",
+        "description": "Russian air power from Hmeimim helped rescue Assad's position."
+      },
+      {
+        "label": "Latakia",
+        "latlng": [
+          35.52,
+          35.78
+        ],
+        "type": "major",
+        "description": "Russia anchored its Syrian intervention on the Mediterranean coast."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Russian Military Intervention",
+        "img": "https://d2uecu6cucl1lj.cloudfront.net/ari/2018/09/25180746/Arab_Reform_Initiative_Russian_Forces_in_Syria_and_the_Building_of_a_Sustainable_Military_Presence-I.jpg?w=640",
+        "cap": "Historical overview: Russian Military Intervention",
+        "body": "Russia intervened directly with air power in support of Assad, helping reverse rebel gains and preserve the government.\n\nRussian aircraft and advisers prevented further government collapse and targeted a broad range of opposition forces as well as ISIS. The intervention restored Assad's strategic initiative and shifted diplomacy away from a negotiated transition toward arrangements shaped by Moscow, Tehran, and Ankara.",
+        "stats": [
+          {
+            "val": "30 Sep 2015",
+            "lbl": "Russian intervention begins"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "fall-of-baghuz",
+    "year": 2019,
+    "date": "2019-03-23",
+    "title": "Fall of Baghuz",
+    "sub": "Part of Syrian Civil War",
+    "view": {
+      "center": [
+        34.45,
+        40.95
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Baghuz",
+        "latlng": [
+          34.45,
+          40.95
+        ],
+        "type": "target",
+        "description": "The Syrian Democratic Forces captured ISIS's last territorial enclave here."
+      },
+      {
+        "label": "Euphrates Valley",
+        "latlng": [
+          35,
+          40.5
+        ],
+        "type": "major",
+        "description": "ISIS's final territorial fight unfolded along the Euphrates."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Fall of Baghuz",
+        "img": "https://static01.nyt.com/images/2019/03/24/world/middleeast/24ISIS/ISIS-HFO-slide-0BSE-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "cap": "Historical overview: Fall of Baghuz",
+        "body": "The Syrian Democratic Forces captured ISIS's last major territorial enclave at Baghuz, ending the group's territorial caliphate while its insurgency continued.\n\nThe capture of Baghuz ended ISIS control of a territorial state but not its clandestine network. Thousands of detainees and families entered prisons and camps in northeastern Syria, creating an unresolved security and humanitarian burden for Kurdish-led authorities.",
+        "stats": [
+          {
+            "val": "23 Mar 2019",
+            "lbl": "ISIS territorial caliphate defeated"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "fall-of-assad",
+    "year": 2024,
+    "date": "2024-12-08",
+    "title": "Fall of Assad",
+    "sub": "Part of Syrian Civil War",
+    "view": {
+      "center": [
+        33.5138,
+        36.2765
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Damascus",
+        "latlng": [
+          33.5138,
+          36.2765
+        ],
+        "type": "target",
+        "description": "The fall of Damascus ended Assad family rule in the main civil-war phase."
+      },
+      {
+        "label": "Aleppo-Hama-Homs axis",
+        "latlng": [
+          35,
+          37
+        ],
+        "type": "major",
+        "description": "A rapid opposition offensive moved through Syria's western spine."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Fall of Assad",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Syrians%20in%20Germany%20celebrate%20Fall%20of%20Assad%20Regime%2C%208%20December%202024.png",
+        "cap": "Historical overview: Fall of Assad",
+        "body": "A rapid opposition offensive captured Aleppo, Hama, Homs, and Damascus. Bashar al-Assad fled to Russia, ending his family's rule and the principal civil-war phase.\n\nThe rapid offensive exposed how dependent the regime had become on exhausted foreign-backed military structures. Assad's flight ended dynastic rule, but the victory left a fragmented country containing armed factions, foreign troops, displaced populations, and unresolved Kurdish and regional questions.",
+        "stats": [
+          {
+            "val": "8 Dec 2024",
+            "lbl": "Assad regime collapses"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2024,
+    "date": "2024-12-08",
+    "title": "Conflict Summary: Syrian Civil War",
+    "sub": "Final summary of Syrian Civil War",
+    "view": {
+      "center": [
+        35,
+        38
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Damascus",
+        "latlng": [
+          33.5138,
+          36.2765
+        ],
+        "type": "target",
+        "description": "The regime's collapse did not end Syria's fragmentation or humanitarian crisis."
+      },
+      {
+        "label": "Northern Syria",
+        "latlng": [
+          36.5,
+          38.8
+        ],
+        "type": "major",
+        "description": "Kurdish, Turkish-backed, jihadist, and post-regime forces remained central to the aftermath."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Syrian Civil War",
+        "img": "https://c.files.bbci.co.uk/4CAB/production/_88772691_88772680.jpg",
+        "cap": "Historical overview: Conflict Summary: Syrian Civil War",
+        "body": "Opposition forces overthrew Assad in December 2024 after nearly fourteen years of war. Syria remained fractured and violent during the transition, with foreign troops, ISIS cells, communal tensions, and unresolved Kurdish and regional disputes continuing beyond the civil war's principal phase.\n\nTaken as a whole, Syrian Civil War shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Assad regime overthrown; unstable transition",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "More than 500,000 killed and millions displaced",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Opposition forces overthrew Assad in December 2024 after nearly fourteen years of war. Syria remained fractured and violent during the transition, with foreign troops, ISIS cells, communal tensions, and unresolved Kurdish and regional disputes continuing beyond the civil war's principal phase.",
+            "lbl": "Final assessment",
+            "full": true
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  }
+]

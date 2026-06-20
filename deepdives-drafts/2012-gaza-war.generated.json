@@ -1,0 +1,285 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2012,
+    "date": "2012-11-14",
+    "title": "From Gaza War (2008-2009) to 2012 Gaza War",
+    "sub": "Connection and background to 2012 Gaza War",
+    "view": {
+      "center": [
+        31.45,
+        34.5
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Gaza Strip",
+        "latlng": [
+          31.45,
+          34.39
+        ],
+        "type": "major",
+        "description": "Rocket fire and border attacks continued after Cast Lead, setting the stage for another round."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Gaza War (2008-2009) to 2012 Gaza War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/IronDome246.jpg",
+        "cap": "Historical overview: From Gaza War (2008-2009) to 2012 Gaza War",
+        "body": "The 2009 ceasefire reduced but did not end attacks from Gaza. Repeated rocket fire, Israeli strikes, and border incidents created another escalation cycle by November 2012.\n\nIsrael sought to restore quiet for southern communities, degrade longer-range rockets, and avoid a costly ground invasion.\n\nThis background is essential to understanding 2012 Gaza War: the conflict emerged from accumulated security failures, political choices, and unresolved disputes rather than from a single isolated incident. The recorded indicators, including Gaza War (2008-2009) (previous conflict in this path) and 14-21 November 2012 (conflict period), help convey the episode's scale and the pressures facing decision-makers.",
+        "stats": [
+          {
+            "val": "Gaza War (2008-2009)",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "14-21 November 2012",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "Israel sought to restore quiet for southern communities, degrade longer-range rockets, and avoid a costly ground invasion.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "killing-ahmed-jabari",
+    "year": 2012,
+    "date": "2012-11-14",
+    "title": "Strike on Ahmed Jabari",
+    "sub": "Part of 2012 Gaza War",
+    "view": {
+      "center": [
+        31.5,
+        34.47
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Gaza City",
+        "latlng": [
+          31.5,
+          34.47
+        ],
+        "type": "major",
+        "description": "Israel struck Hamas military chief Ahmed Jabari to disrupt command and deterrence after escalating fire."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Strike on Ahmed Jabari",
+        "img": "https://media.wired.com/photos/593283baedfced5820d111ce/master/pass/A7r0aq1CEAAsgkH.jpg-large.jpg",
+        "cap": "Historical overview: Strike on Ahmed Jabari",
+        "body": "Israel opened Operation Pillar of Defense by killing Ahmed Jabari, commander of Hamas's military wing, and striking rocket sites. The action followed a sharp escalation in attacks on southern Israel.\n\nThe operation came after recurring rocket fire, border attacks, and Hamas military buildup. Israel used intelligence, airpower, and Iron Dome to hit command networks while limiting the need for a ground invasion.",
+        "stats": [
+          {
+            "val": "14 Nov 2012",
+            "lbl": "Operation begins"
+          },
+          {
+            "val": "Ahmed Jabari",
+            "lbl": "Hamas military commander killed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rockets-tel-aviv-jerusalem",
+    "year": 2012,
+    "date": "2012-11-15",
+    "title": "Rockets Target Tel Aviv and Jerusalem",
+    "sub": "Part of 2012 Gaza War",
+    "view": {
+      "center": [
+        31.9,
+        34.95
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Tel Aviv",
+        "latlng": [
+          32.0853,
+          34.7818
+        ],
+        "type": "major",
+        "description": "Rockets toward Tel Aviv changed Israeli perceptions of the threat's national reach."
+      },
+      {
+        "label": "Jerusalem",
+        "latlng": [
+          31.778,
+          35.235
+        ],
+        "type": "target",
+        "description": "Rocket alerts near Jerusalem showed Hamas's attempt to expand psychological pressure."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Rockets Target Tel Aviv and Jerusalem",
+        "img": "https://media.npr.org/assets/img/2012/11/16/rocket_gaza_wide-32fb6e6d22cc7570a2f250100ab6220ac9489c1f.jpg",
+        "cap": "Historical overview: Rockets Target Tel Aviv and Jerusalem",
+        "body": "Longer-range rockets reached the Tel Aviv and Jerusalem areas, showing that Gaza-based groups could threaten Israel's largest population centers and political heartland.\n\nThe operation came after recurring rocket fire, border attacks, and Hamas military buildup. Israel used intelligence, airpower, and Iron Dome to hit command networks while limiting the need for a ground invasion.",
+        "stats": [
+          {
+            "val": "Tel Aviv and Jerusalem",
+            "lbl": "Areas targeted"
+          },
+          {
+            "val": "Longer-range rockets",
+            "lbl": "Strategic change"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iron-dome",
+    "year": 2012,
+    "date": "2012-11-17",
+    "title": "Iron Dome Proves Its Value",
+    "sub": "Part of 2012 Gaza War",
+    "view": {
+      "center": [
+        31.75,
+        34.65
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Southern Israel battery area",
+        "latlng": [
+          31.75,
+          34.65
+        ],
+        "type": "major",
+        "description": "Iron Dome intercepted rockets headed for populated areas and changed Israel's defensive options."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Iron Dome Proves Its Value",
+        "img": "https://static-cdn.toi-media.com/www/uploads/2013/02/F121117AB01-640x400.jpg",
+        "cap": "Historical overview: Iron Dome Proves Its Value",
+        "body": "Iron Dome intercepted hundreds of rockets assessed as heading toward populated areas. Its performance reduced casualties and gave Israeli leaders greater time and flexibility before considering a ground operation.\n\nThe operation came after recurring rocket fire, border attacks, and Hamas military buildup. Israel used intelligence, airpower, and Iron Dome to hit command networks while limiting the need for a ground invasion.",
+        "stats": [
+          {
+            "val": "Hundreds intercepted",
+            "lbl": "Missile-defense role"
+          },
+          {
+            "val": "Ground invasion avoided",
+            "lbl": "Strategic effect"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ceasefire",
+    "year": 2012,
+    "date": "2012-11-21",
+    "title": "Egyptian-Mediated Ceasefire",
+    "sub": "Part of 2012 Gaza War",
+    "view": {
+      "center": [
+        30.0444,
+        31.2357
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Cairo",
+        "latlng": [
+          30.0444,
+          31.2357
+        ],
+        "type": "major",
+        "description": "Egypt mediated the ceasefire after Israel restored deterrence without a ground invasion."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Egyptian-Mediated Ceasefire",
+        "img": "https://www.aljazeera.com/wp-content/uploads/2014/07/201472081652800580_20.jpeg?resize=570%2C380&quality=80",
+        "cap": "Historical overview: Egyptian-Mediated Ceasefire",
+        "body": "Egypt and the United States helped broker a ceasefire after eight days. Israel halted its strikes and Gaza groups stopped rocket fire, though the underlying military buildup continued.\n\nThe operation came after recurring rocket fire, border attacks, and Hamas military buildup. Israel used intelligence, airpower, and Iron Dome to hit command networks while limiting the need for a ground invasion.",
+        "stats": [
+          {
+            "val": "8 days",
+            "lbl": "Conflict duration"
+          },
+          {
+            "val": "Egyptian mediation",
+            "lbl": "Ceasefire channel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2012,
+    "date": "2012-11-21",
+    "title": "Conflict Summary: 2012 Gaza War",
+    "sub": "Final summary of 2012 Gaza War",
+    "view": {
+      "center": [
+        31.45,
+        34.5
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Gaza-Israel front",
+        "latlng": [
+          31.45,
+          34.5
+        ],
+        "type": "major",
+        "description": "The operation showed how intelligence and missile defense could blunt Hamas escalation."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: 2012 Gaza War",
+        "img": "https://images.dailynewsegypt.com/2024/05/Claims-that-Egypt-altered-Gaza-ceasefire-terms-are-diversionary-tactics-High-Level-Source.jpeg",
+        "cap": "Historical overview: Conflict Summary: 2012 Gaza War",
+        "body": "Israel restored temporary quiet without a ground invasion and demonstrated Iron Dome's strategic importance. Hamas survived and continued rebuilding, making the ceasefire another pause rather than a durable settlement.\n\nTaken as a whole, 2012 Gaza War shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Ceasefire and return to status quo",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "6 Israelis and roughly 160 Palestinians killed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel restored temporary quiet without a ground invasion and demonstrated Iron Dome's strategic importance. Hamas survived and continued rebuilding, making the ceasefire another pause rather than a durable settlement.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

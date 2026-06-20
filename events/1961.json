@@ -1,0 +1,112 @@
+[
+  {
+    "id": "casablanca-1961-1",
+    "name": "Casablanca",
+    "date": "January 7 1961",
+    "location": "Casablanca",
+    "coordinates": {
+      "lat": 33.53333333,
+      "lng": -7.58333333
+    },
+    "summary": "Following a four-day conference in Casablanca, five African chiefs of state announce plans for a NATO-type African organization to ensure common defense. The Charter of Casablanca involves the Casablanca Group: Morocco, the United Arab Republic, Ghana, Guinea, and Mali. Casablanca is the largest city in Morocco and the country's economic and business centre."
+  },
+  {
+    "id": "united-nations-1961-2",
+    "name": "United Nations",
+    "date": "February 14 1961",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "United States President John F. Kennedy warns the Soviet Union to avoid interfering with the United Nations' pacification of the Congo. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "algerian-war-of-independence-1961-3",
+    "name": "Algerian War of Independence",
+    "date": "March 3 1961",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "A ceasefire takes effect in the Algerian War of Independence. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  },
+  {
+    "id": "vostok-1-1961-4",
+    "name": "Vostok 1",
+    "date": "April 11 1961",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Vostok 1: Soviet cosmonaut Yuri Gagarin becomes the first human in space, orbiting the Earth once before parachuting to the ground. Vostok 1 (Russian: Восток, lit. 'East' or 'Orient') was the first spaceflight of the Vostok programme and the first human orbital spaceflight in history. The Vostok 3KA space capsule was launched from Baikonur Cosmodrome on 12 April 1961, with Soviet cosmonaut Yuri Gagarin aboard, making him the first human to reach orbital velocity around the Earth and to complete a full orbit around the Earth."
+  },
+  {
+    "id": "civil-rights-movement-1961-5",
+    "name": "Civil rights movement",
+    "date": "May 21 1961",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Civil rights movement: Alabama Governor John Patterson declares martial law in an attempt to restore order, after race riots break out. The civil rights movement was a social movement in the United States from 1954 to 1968 which aimed to abolish legalized racial segregation, discrimination, and disenfranchisement in the country, which most commonly affected African Americans."
+  },
+  {
+    "id": "berlin-wall-is-built-1961-6",
+    "name": "Berlin Wall Is Built",
+    "date": "August 13 1961",
+    "location": "Berlin, Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "East Germany seals the border through Berlin and begins building the Berlin Wall, making it the defining physical symbol of divided Europe. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "1961-ndola-united-nations-dc-6-crash-1961-7",
+    "name": "1961 Ndola United Nations DC-6 crash",
+    "date": "September 18 1961",
+    "location": "1961 Ndola Transair Sweden Douglas DC-6 crash",
+    "coordinates": {
+      "lat": -12.97527778,
+      "lng": 28.52277778
+    },
+    "summary": "1961 Ndola United Nations DC-6 crash: Secretary-General of the United Nations Dag Hammarskjöld is one of 16 to die in an air crash en route to Katanga, Congo. The disaster caused major human and material losses and prompted renewed attention to emergency response, public safety, and reconstruction. Its aftermath affected communities and public policy beyond the immediate emergency."
+  },
+  {
+    "id": "armistice-begins-in-katanga-congo-1961-8",
+    "name": "armistice begins in Katanga, Congo",
+    "date": "October 26 1961",
+    "location": "Congo",
+    "coordinates": {
+      "lat": -4.4419,
+      "lng": 15.2663
+    },
+    "summary": "An armistice begins in Katanga, Congo. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "united-nations-general-assembly-1961-9",
+    "name": "United Nations General Assembly",
+    "date": "November 3 1961",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations General Assembly unanimously elects Burmese diplomat U Thant to the position of acting Secretary-General. The United Nations General Assembly (UNGA or GA) is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter."
+  },
+  {
+    "id": "cold-war-1961-10",
+    "name": "Cold War",
+    "date": "December 2 1961",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Cold War: In a nationally broadcast speech, Cuban leader Fidel Castro announces he is a Marxist–Leninist, and that Cuba will adopt socialism. The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc."
+  }
+]

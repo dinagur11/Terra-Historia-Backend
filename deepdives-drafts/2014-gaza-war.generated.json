@@ -1,0 +1,364 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2014,
+    "date": "2014-07-08",
+    "title": "From 2012 Gaza War to 2014 Gaza War",
+    "sub": "Connection and background to 2014 Gaza War",
+    "view": {
+      "center": [
+        31.45,
+        34.5
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Gaza Strip",
+        "latlng": [
+          31.45,
+          34.39
+        ],
+        "type": "major",
+        "description": "After 2012, Hamas rebuilt rockets and attack tunnels while Israeli communities remained exposed."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From 2012 Gaza War to 2014 Gaza War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_home_of_the_Kware%27_family%2C_after_it_was_bombed_by_the_military.jpg",
+        "cap": "Historical overview: From 2012 Gaza War to 2014 Gaza War",
+        "body": "The 2012 ceasefire left Hamas in power and did not stop military rebuilding. The kidnapping and murder of three Israeli teenagers, West Bank arrests, reciprocal attacks, and renewed rocket fire produced another rapid escalation.\n\nIsrael aimed to stop sustained rocket attacks and destroy cross-border attack tunnels that threatened nearby Israeli communities.\n\nThis background is essential to understanding 2014 Gaza War: the conflict emerged from accumulated security failures, political choices, and unresolved disputes rather than from a single isolated incident. The recorded indicators, including 2012 Gaza War (previous conflict in this path) and 8 July-26 August 2014 (conflict period), help convey the episode's scale and the pressures facing decision-makers.",
+        "stats": [
+          {
+            "val": "2012 Gaza War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "8 July-26 August 2014",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "Israel aimed to stop sustained rocket attacks and destroy cross-border attack tunnels that threatened nearby Israeli communities.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "operation-protective-edge",
+    "year": 2014,
+    "date": "2014-07-08",
+    "title": "Operation Protective Edge Begins",
+    "sub": "Part of 2014 Gaza War",
+    "view": {
+      "center": [
+        31.5,
+        34.47
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Gaza City",
+        "latlng": [
+          31.5,
+          34.47
+        ],
+        "type": "major",
+        "description": "Israel began air operations after escalating rocket fire from Gaza."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Protective Edge Begins",
+        "img": "https://images.globes.co.il/Images/NewGlobes/big_image/2014/c02_zahal2-575.jpg",
+        "cap": "Historical overview: Operation Protective Edge Begins",
+        "body": "Israel began airstrikes after intensified rocket fire from Gaza. Hamas launched rockets across much of Israel, while Iron Dome limited casualties in populated areas.\n\nThe 2014 campaign centered on two threats Israeli leaders could not ignore: long-range rocket fire and cross-border attack tunnels built to reach Israeli communities. The operation combined airstrikes, Iron Dome, and ground action against tunnel infrastructure.",
+        "stats": [
+          {
+            "val": "8 Jul 2014",
+            "lbl": "Operation begins"
+          },
+          {
+            "val": "Thousands of rockets",
+            "lbl": "Threat to Israeli communities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zikkim-infiltration",
+    "year": 2014,
+    "date": "2014-07-08",
+    "title": "Zikim Sea Infiltration",
+    "sub": "Part of 2014 Gaza War",
+    "view": {
+      "center": [
+        31.61,
+        34.52
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Zikim",
+        "latlng": [
+          31.61,
+          34.52
+        ],
+        "type": "major",
+        "description": "Hamas naval commandos attempted to infiltrate near an Israeli coastal community."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Zikim Sea Infiltration",
+        "img": "https://i.ytimg.com/vi/hKC7Sws0Rbg/maxresdefault.jpg",
+        "cap": "Historical overview: Zikim Sea Infiltration",
+        "body": "Hamas naval commandos attempted to enter Israel near Zikim. Israeli forces stopped the raid, but it demonstrated Hamas's effort to bypass border defenses with specialized units.\n\nThe 2014 campaign centered on two threats Israeli leaders could not ignore: long-range rocket fire and cross-border attack tunnels built to reach Israeli communities. The operation combined airstrikes, Iron Dome, and ground action against tunnel infrastructure.",
+        "stats": [
+          {
+            "val": "Naval commandos",
+            "lbl": "Hamas tactic"
+          },
+          {
+            "val": "Raid stopped",
+            "lbl": "Israeli result"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ground-invasion-tunnels",
+    "year": 2014,
+    "date": "2014-07-17",
+    "title": "Ground Operation Against Tunnels",
+    "sub": "Part of 2014 Gaza War",
+    "view": {
+      "center": [
+        31.42,
+        34.47
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Gaza border tunnels",
+        "latlng": [
+          31.42,
+          34.47
+        ],
+        "type": "major",
+        "description": "The ground operation focused on destroying attack tunnels reaching toward Israel."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ground Operation Against Tunnels",
+        "img": "https://graphics.thomsonreuters.com/testfiles/2023/Hq7MvimjhG3l/cdn/images/soldier3.jpg",
+        "cap": "Historical overview: Ground Operation Against Tunnels",
+        "body": "Israel launched a ground operation after discovering cross-border tunnels used for attacks. Tunnel destruction became the central Israeli objective and brought intense combat in northern and eastern Gaza.\n\nThe 2014 campaign centered on two threats Israeli leaders could not ignore: long-range rocket fire and cross-border attack tunnels built to reach Israeli communities. The operation combined airstrikes, Iron Dome, and ground action against tunnel infrastructure.",
+        "stats": [
+          {
+            "val": "Cross-border tunnels",
+            "lbl": "Primary ground objective"
+          },
+          {
+            "val": "17 Jul 2014",
+            "lbl": "Ground phase begins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shuja-iyya",
+    "year": 2014,
+    "date": "2014-07-20",
+    "title": "Battle of Shuja'iyya",
+    "sub": "Part of 2014 Gaza War",
+    "view": {
+      "center": [
+        31.5,
+        34.49
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Shuja'iyya",
+        "latlng": [
+          31.5,
+          34.49
+        ],
+        "type": "major",
+        "description": "The battle took place in dense terrain used for rocket fire, tunnels, and ambushes."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Shuja'iyya",
+        "img": "https://www.palquest.org/download.php?file=media/Number_66_main_image29941_on89gQK52c.jpg",
+        "cap": "Historical overview: Battle of Shuja'iyya",
+        "body": "Israeli troops fought a major battle in a heavily fortified neighborhood used by Hamas forces. Thirteen Golani soldiers and many Palestinians were killed, illustrating the severe cost of urban combat.\n\nThe 2014 campaign centered on two threats Israeli leaders could not ignore: long-range rocket fire and cross-border attack tunnels built to reach Israeli communities. The operation combined airstrikes, Iron Dome, and ground action against tunnel infrastructure.",
+        "stats": [
+          {
+            "val": "13 Golani soldiers killed",
+            "lbl": "Israeli loss"
+          },
+          {
+            "val": "Heavy Palestinian casualties",
+            "lbl": "Human cost"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hadar-goldin",
+    "year": 2014,
+    "date": "2014-08-01",
+    "title": "Rafah Attack and Hadar Goldin",
+    "sub": "Part of 2014 Gaza War",
+    "view": {
+      "center": [
+        31.296,
+        34.243
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Rafah",
+        "latlng": [
+          31.296,
+          34.243
+        ],
+        "type": "major",
+        "description": "The Rafah attack and capture of Hadar Goldin's body shaped Israeli views of ceasefire risk."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Rafah Attack and Hadar Goldin",
+        "img": "https://www.idf.il/media/lfvnfu5g/hadar-goldin-1.jpg?rmode=max&width=500&height=281",
+        "cap": "Historical overview: Rafah Attack and Hadar Goldin",
+        "body": "During a humanitarian ceasefire, Hamas fighters attacked Israeli troops near Rafah, killing two and taking the body of Lieutenant Hadar Goldin. The event triggered intense Israeli fire and became a lasting national issue.\n\nThe 2014 campaign centered on two threats Israeli leaders could not ignore: long-range rocket fire and cross-border attack tunnels built to reach Israeli communities. The operation combined airstrikes, Iron Dome, and ground action against tunnel infrastructure.",
+        "stats": [
+          {
+            "val": "1 Aug 2014",
+            "lbl": "Ceasefire collapses"
+          },
+          {
+            "val": "Hadar Goldin",
+            "lbl": "Body held by Hamas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ceasefire",
+    "year": 2014,
+    "date": "2014-08-26",
+    "title": "Open-Ended Ceasefire",
+    "sub": "Part of 2014 Gaza War",
+    "view": {
+      "center": [
+        30.0444,
+        31.2357
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Cairo",
+        "latlng": [
+          30.0444,
+          31.2357
+        ],
+        "type": "major",
+        "description": "Egyptian mediation produced the open-ended ceasefire after weeks of fighting."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Open-Ended Ceasefire",
+        "img": "https://www.crisisgroup.org/sites/default/files/2025-04/gaza_hero.jpg",
+        "cap": "Historical overview: Open-Ended Ceasefire",
+        "body": "Egypt brokered an open-ended ceasefire after fifty days. Israel had destroyed many tunnels and degraded Hamas, but rocket threats and the political struggle over Gaza remained.\n\nThe 2014 campaign centered on two threats Israeli leaders could not ignore: long-range rocket fire and cross-border attack tunnels built to reach Israeli communities. The operation combined airstrikes, Iron Dome, and ground action against tunnel infrastructure.",
+        "stats": [
+          {
+            "val": "50 days",
+            "lbl": "War duration"
+          },
+          {
+            "val": "Egyptian ceasefire",
+            "lbl": "End of major fighting"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2014,
+    "date": "2014-08-26",
+    "title": "Conflict Summary: 2014 Gaza War",
+    "sub": "Final summary of 2014 Gaza War",
+    "view": {
+      "center": [
+        31.45,
+        34.5
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Gaza perimeter",
+        "latlng": [
+          31.45,
+          34.5
+        ],
+        "type": "major",
+        "description": "The war centered on rockets and tunnels aimed at Israeli civilians and border communities."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: 2014 Gaza War",
+        "img": "https://www.crisisgroup.org/sites/default/files/2025-01/Gaza%20ceasefire-QA_Hero_Jan25.jpg",
+        "cap": "Historical overview: Conflict Summary: 2014 Gaza War",
+        "body": "Israel destroyed many attack tunnels and reduced immediate rocket fire, but Hamas remained in control and both sides prepared for future conflict. The war caused major Israeli military losses and devastating Palestinian casualties and destruction.\n\nTaken as a whole, 2014 Gaza War shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Ceasefire; Hamas remained in power",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "73 Israelis and more than 2,100 Palestinians killed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel destroyed many attack tunnels and reduced immediate rocket fire, but Hamas remained in control and both sides prepared for future conflict. The war caused major Israeli military losses and devastating Palestinian casualties and destruction.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

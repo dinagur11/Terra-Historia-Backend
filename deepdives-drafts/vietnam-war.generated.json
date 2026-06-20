@@ -7,17 +7,27 @@
     "sub": "United States intervention and withdrawal front",
     "view": {
       "center": [
-        50,
-        15
+        17.9757,
+        102.6331
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          17.9757,
+          102.6331
+        ],
+        "label": "Vientiane",
+        "type": "target",
+        "description": "Vientiane marks the Laotian capital and the political center of the neighboring civil war tied to the Vietnam conflict."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "From Korean War to Vietnam War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/SNK_MAP_I_1000W.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/SNK_MAP_I_1000W.jpg",
         "cap": "Historical connection: Containment and proxy warfare",
         "body": "The Korean War established armed containment as a central American Cold War strategy. Leaders in Washington increasingly viewed communist advances in Asia as connected tests of credibility. That lesson shaped the decision to deepen support for South Vietnam and eventually commit large American forces.",
         "stats": [
@@ -42,8 +52,8 @@
       },
       {
         "title": "Laotian Civil War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Laos_1973-02_CIA.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Laotian_Civil_War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/SNK_MAP_I_1000W.jpg",
+        "cap": "Historical connection: Containment and proxy warfare",
         "body": "The Laotian Civil War was waged between the Communist Pathet Lao and the Royal Lao Government from 23 May 1959 to 2 December 1975. The Kingdom of Laos was a covert theater during the Vietnam War with both sides receiving heavy external support in a proxy war between the global Cold War superpowers. The fighting also involved the North Vietnamese, South Vietnamese, American and Thai armies, both directly and through irregular proxies. The war is known as the \"Secret War\" among the American CIA Special Activities Center, and Hmong and Mien veterans of the conflict. For the United States, Laos became part of the wider Vietnam struggle because supply routes, sanctuaries, and regional alliances crossed borders.",
         "stats": [
           {
@@ -59,15 +69,15 @@
             "lbl": "Bombs dropped on Laos, approx."
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It widened the war into a hidden regional conflict and tied US strategy to covert operations.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "Laotian Civil War should be understood through the decisions it forced on United States. It widened the war into a hidden regional conflict and tied US strategy to covert operations. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "title": "The Wider Impact",
+        "body": "It widened the war into a hidden regional conflict and tied US strategy to covert operations.",
         "stats": [
           {
             "val": "Secret War",
@@ -82,11 +92,13 @@
             "lbl": "Bombs dropped on Laos, approx."
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It widened the war into a hidden regional conflict and tied US strategy to covert operations.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/SNK_MAP_I_1000W.jpg",
+        "cap": "Historical connection: Containment and proxy warfare"
       }
     ]
   },
@@ -110,14 +122,15 @@
           19.7,
           106.767
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The Gulf of Tonkin marks the naval incidents that helped lead to expanded U.S. military action in Vietnam."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Gulf of Tonkin incident",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tonkingunboats.jpg/3840px-Tonkingunboats.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Tonkingunboats.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident",
         "body": "The Gulf of Tonkin incident refers to a naval confrontation in the Gulf of Tonkin off the coast of North Vietnam, which led to the United States engaging more directly in the Vietnam War. On 2 August 1964 there was a clash between a destroyer of the United States Navy that was collecting signals intelligence close to North Vietnamese waters, and three North Vietnamese naval vessels. On the night of 4 August, two US destroyers reported they were attacked by North Vietnamese vessels and that they were returning fire. Later investigation revealed that the 4 August attack did not happen; no North Vietnamese vessels had been present. Shortly after the events, the National Security Agency, an agency of the US Defense Department, deliberately skewed intelligence to create the impression that an attack had been carried out. The Gulf of Tonkin incident gave President Johnson the political opening to escalate US military involvement.",
         "stats": [
@@ -134,15 +147,15 @@
             "lbl": "Enabled escalation"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It became the legal and political bridge from advisory support to large-scale American war.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "Gulf of Tonkin incident should be understood through the decisions it forced on United States. It became the legal and political bridge from advisory support to large-scale American war. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "title": "The Wider Impact",
+        "body": "It became the legal and political bridge from advisory support to large-scale American war.",
         "stats": [
           {
             "val": "2 Aug 1964",
@@ -157,11 +170,13 @@
             "lbl": "Enabled escalation"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It became the legal and political bridge from advisory support to large-scale American war.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Tonkingunboats.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident"
       }
     ]
   },
@@ -173,19 +188,29 @@
     "sub": "United States intervention and withdrawal front",
     "view": {
       "center": [
-        50,
-        15
+        11.5564,
+        104.9282
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          11.5564,
+          104.9282
+        ],
+        "label": "Phnom Penh",
+        "type": "target",
+        "description": "Phnom Penh marks the Cambodian capital as the civil war widened the Vietnam conflict into Cambodia."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Cambodian Civil War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/11ACRCambodia1970_%28Colorized%29.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/11ACRCambodia1970_(Colorized).jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Cambodian_Civil_War",
-        "body": "The Cambodian Civil War was a civil war in Cambodia fought between the Khmer Rouge, supported by North Vietnam and China, against the government of the Kingdom of Cambodia and, after October 1970, the Khmer Republic, which had succeeded the kingdom after a coup, both supported by the United States and South Vietnam. The conflict was part of the Vietnam War. Cambodia mattered to US planners because North Vietnamese sanctuaries and supply lines ran through its territory.\n\nWhy It Matters: Cambodian Civil War should be understood through the decisions it forced on United States. It showed how the Vietnam War spilled across borders and destabilized the wider region. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "body": "The Cambodian Civil War was a civil war in Cambodia fought between the Khmer Rouge, supported by North Vietnam and China, against the government of the Kingdom of Cambodia and, after October 1970, the Khmer Republic, which had succeeded the kingdom after a coup, both supported by the United States and South Vietnam. The conflict was part of the Vietnam War. Cambodia mattered to US planners because North Vietnamese sanctuaries and supply lines ran through its territory.\n\nIt showed how the Vietnam War spilled across borders and destabilized the wider region.",
         "stats": [
           {
             "val": "1970 coup",
@@ -200,7 +225,7 @@
             "lbl": "Khmer Rouge victory"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It showed how the Vietnam War spilled across borders and destabilized the wider region.",
             "full": true
           }
@@ -228,14 +253,15 @@
           16.653888888,
           106.724166666
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Khe Sanh marks the besieged Marine combat base near the Demilitarized Zone."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Khe Sanh",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Khe_Sanh_Bunkers_and_burning_Fuel_Dump.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Khe_Sanh_Bunkers_and_burning_Fuel_Dump.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Khe_Sanh",
         "body": "The Battle of Khe Sanh was conducted in the Khe Sanh area of northwestern Quảng Trị Province, Republic of Vietnam, during the Vietnam War. The main US forces defending Khe Sanh Combat Base (KSCB) were two regiments of the United States Marine Corps supported by elements from the United States Army, the United States Air Force (USAF) and the Royal Australian Air Force (RAAF), as well as a small number of Army of the Republic of Vietnam (ARVN) troops. These were pitted against two to three divisional-size elements of the North Vietnamese People's Army of Vietnam (PAVN). Khe Sanh was seen by US commanders as a test of firepower, air supply, and resolve against a major North Vietnamese siege.",
         "stats": [
@@ -252,15 +278,15 @@
             "lbl": "Heavy bombing support"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It became a symbol of American endurance but also of the uncertainty over what battlefield success meant.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "Battle of Khe Sanh should be understood through the decisions it forced on United States. It became a symbol of American endurance but also of the uncertainty over what battlefield success meant. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "title": "The Wider Impact",
+        "body": "It became a symbol of American endurance but also of the uncertainty over what battlefield success meant.",
         "stats": [
           {
             "val": "77 days",
@@ -275,11 +301,13 @@
             "lbl": "Heavy bombing support"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It became a symbol of American endurance but also of the uncertainty over what battlefield success meant.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Khe_Sanh_Bunkers_and_burning_Fuel_Dump.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Khe_Sanh"
       }
     ]
   },
@@ -303,14 +331,15 @@
           11,
           107
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The Tet marker sits in South Vietnam to represent the nationwide 1968 offensive, when North Vietnamese and Viet Cong forces struck cities, bases, and provincial capitals to shock the US-backed war effort."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Tet Offensive",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Tet_Offensive_map.png",
+        "img": "https://daily.jstor.org/wp-content/uploads/2018/01/north_vietnamese_soldiers_1050x700.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Tet_Offensive",
         "body": "The Tet Offensive was both a major escalation and one of the largest military campaigns of the Vietnam War. The North Vietnamese People's Army of Vietnam (PAVN) and the Viet Cong (VC) launched a surprise attack on 30 and 31 January 1968 against the forces of the South Vietnamese Army of the Republic of Vietnam (ARVN), the United States Armed Forces and their allies, targeting military and civilian command and control centers throughout South Vietnam. The name is the truncated version of the Lunar New Year festival name in Vietnamese, Tết Nguyên Đán, a holiday period when most ARVN personnel were on leave. The North Vietnamese Politburo and leader Lê Duẩn intended to trigger political instability and that mass armed assaults on urban centers would trigger defections and uprisings. Militarily, US and South Vietnamese forces repelled Tet, but politically it shattered claims that victory was near.",
         "stats": [
@@ -327,15 +356,15 @@
             "lbl": "US victory claims damaged"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It changed American public opinion and forced Washington to rethink escalation.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "Tet Offensive should be understood through the decisions it forced on United States. It changed American public opinion and forced Washington to rethink escalation. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "title": "The Wider Impact",
+        "body": "It changed American public opinion and forced Washington to rethink escalation.",
         "stats": [
           {
             "val": "30 Jan 1968",
@@ -350,11 +379,13 @@
             "lbl": "US victory claims damaged"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It changed American public opinion and forced Washington to rethink escalation.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://daily.jstor.org/wp-content/uploads/2018/01/north_vietnamese_soldiers_1050x700.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Tet_Offensive"
       }
     ]
   },
@@ -378,14 +409,15 @@
           15.178333333,
           108.869444444
         ],
-        "type": "major"
+        "type": "target",
+        "description": "My Lai marks the massacre of Vietnamese civilians by U.S. troops in March 1968."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "My Lai Massacre",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/My_Lai_massacre.jpg",
+        "img": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/My-lai-gallery-17-3000_NAR.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/My_Lai_massacre",
         "body": "The Mỹ Lai Massacre was a United States war crime committed on 16 March 1968, involving the mass murder of unarmed civilians in Sơn Mỹ village, Quảng Ngãi province, South Vietnam, during the Vietnam War. At least 347 and up to 504 civilians, almost all women, children and elderly men, were murdered by U.S. Army soldiers. Some of the women were gang-raped and their bodies mutilated, and some soldiers mutilated and raped children as young as 12. The incident is the largest confirmed massacre of civilians by U.S. forces in the 20th century. My Lai exposed the moral collapse that could occur inside a war of attrition, search-and-destroy missions, and civilian insecurity.",
         "stats": [
@@ -402,15 +434,15 @@
             "lbl": "US scandal deepens"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It damaged trust in the war effort and became a defining scandal in US memory of Vietnam.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "My Lai Massacre should be understood through the decisions it forced on United States. It damaged trust in the war effort and became a defining scandal in US memory of Vietnam. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "title": "The Wider Impact",
+        "body": "It damaged trust in the war effort and became a defining scandal in US memory of Vietnam.",
         "stats": [
           {
             "val": "16 Mar 1968",
@@ -425,11 +457,13 @@
             "lbl": "US scandal deepens"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It damaged trust in the war effort and became a defining scandal in US memory of Vietnam.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/My-lai-gallery-17-3000_NAR.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/My_Lai_massacre"
       }
     ]
   },
@@ -453,14 +487,15 @@
           48.8567,
           2.3522
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Paris marks the negotiations and accords intended to end direct U.S. involvement in Vietnam."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Paris Peace Accords",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vietnam_Peace_Treaty_1973.jpg",
+        "img": "https://media.defense.gov/2023/Jan/27/2003151190/1200/1200/0/230127-Z-F3895-1001.JPG",
         "cap": "Source: https://en.wikipedia.org/wiki/Paris_Peace_Accords",
         "body": "The Paris Peace Accords, officially the Agreement on ending the war and restoring peace in Viet-Nam, was a peace agreement signed on 27 January 1973 to establish peace in Vietnam and end the Vietnam War. It included a main treaty and accompanying annexes. The agreement was registered by the United States of America on May 13, 1974, with the United Nations Secretariat. It is recorded in the United Nations Treaty Series (UNTS) under Volume 935, Treaty No.13295. It was scheduled to take effect at 8:00 AM Saigon time the following day. The agreement was signed by the Democratic Republic of Vietnam, the Republic of Vietnam, the Provisional Revolutionary Government (PRG), and the United States. The PRG represented the Viet Cong, a South Vietnamese opposition movement de facto controlled by the North. US ground forces had begun to withdraw from Vietnam in 1969, and by the beginning of 1972 those that remained had very little involvement in combat. The last American infantry battalions withdrew in August 1972. Most air and naval forces, and most advisers, also were gone from South Vietnam by that time, though air and naval forces not based in South Vietnam were still playing a symbolic role in the war. The Paris Agreement removed the remaining US forces, and direct US military intervention ended. Fighting between the three remaining powers did not stop on 28 January, even for an hour. The agreement was not formally designated a treaty, and President Nixon did not ask the US Senate to ratify it. The Paris Peace Accords allowed the United States to withdraw its combat forces while claiming it had secured a negotiated settlement.",
         "stats": [
@@ -477,15 +512,15 @@
             "lbl": "Operation Homecoming follows"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It marked the end of direct US ground-war responsibility but left South Vietnam vulnerable.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "Paris Peace Accords should be understood through the decisions it forced on United States. It marked the end of direct US ground-war responsibility but left South Vietnam vulnerable. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "title": "The Wider Impact",
+        "body": "It marked the end of direct US ground-war responsibility but left South Vietnam vulnerable.",
         "stats": [
           {
             "val": "27 Jan 1973",
@@ -500,11 +535,13 @@
             "lbl": "Operation Homecoming follows"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It marked the end of direct US ground-war responsibility but left South Vietnam vulnerable.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://media.defense.gov/2023/Jan/27/2003151190/1200/1200/0/230127-Z-F3895-1001.JPG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Paris_Peace_Accords"
       }
     ]
   },
@@ -528,16 +565,17 @@
           10.778055555,
           106.696111111
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Saigon marks the collapse of South Vietnam and the end of the Vietnam War in April 1975."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Fall of Saigon",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Helicopter_evacuation_of_Saigon_atop_22_Gia_Long_Street.webp",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Helicopter_evacuation_of_Saigon_atop_22_Gia_Long_Street.webp",
         "cap": "Source: https://en.wikipedia.org/wiki/Fall_of_Saigon",
-        "body": "Saigon, the capital of South Vietnam, was captured by North Vietnam on 30 April 1975. This caused the evacuation of thousands of civilians and U.S. personnel, and ended the Vietnam War. The aftermath ushered in a transition period under the Provisional Revolutionary Government of the Republic of South Vietnam until the formal reunification in 1976. The fall of Saigon was the final collapse of the US-backed South Vietnamese state.\n\nWhy It Matters: Fall of Saigon should be understood through the decisions it forced on United States. It closed the war with evacuation, trauma, and a lasting reassessment of American power. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "body": "Saigon, the capital of South Vietnam, was captured by North Vietnam on 30 April 1975. This caused the evacuation of thousands of civilians and U.S. personnel, and ended the Vietnam War. The aftermath ushered in a transition period under the Provisional Revolutionary Government of the Republic of South Vietnam until the formal reunification in 1976. The fall of Saigon was the final collapse of the US-backed South Vietnamese state.\n\nIt closed the war with evacuation, trauma, and a lasting reassessment of American power.",
         "stats": [
           {
             "val": "30 Apr 1975",
@@ -552,7 +590,7 @@
             "lbl": "North Vietnam wins war"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It closed the war with evacuation, trauma, and a lasting reassessment of American power.",
             "full": true
           }
@@ -560,8 +598,8 @@
       },
       {
         "title": "War Summary: Vietnam War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Helicopter_evacuation_of_Saigon_atop_22_Gia_Long_Street.webp",
-        "cap": "The end and legacy of the Vietnam War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Helicopter_evacuation_of_Saigon_atop_22_Gia_Long_Street.webp",
+        "cap": "Source: https://en.wikipedia.org/wiki/Fall_of_Saigon",
         "body": "The fall of Saigon ended South Vietnam and unified the country under communist rule. The war profoundly changed American foreign policy and devastated Vietnam, Laos, and Cambodia.",
         "stats": [
           {

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "euro-1999",
+    "name": "Euro Introduced (Electronic)",
+    "date": "January 1 1999",
+    "location": "Europe",
+    "coordinates": {
+      "lat": 50.8503,
+      "lng": 4.3517
+    },
+    "summary": "The euro was introduced for electronic transactions."
+  },
+  {
+    "id": "nato-yugoslavia-1999",
+    "name": "NATO Bombing of Yugoslavia",
+    "date": "March 24 1999",
+    "location": "Yugoslavia",
+    "coordinates": {
+      "lat": 44.7866,
+      "lng": 20.4489
+    },
+    "summary": "NATO launched airstrikes during the Kosovo War."
+  },
+  {
+    "id": "columbine-1999",
+    "name": "Columbine School Shooting",
+    "date": "April 20 1999",
+    "location": "USA",
+    "coordinates": {
+      "lat": 39.5807,
+      "lng": -105.0814
+    },
+    "summary": "A school shooting shocked the United States."
+  },
+  {
+    "id": "east-timor-1999",
+    "name": "East Timor Independence Vote",
+    "date": "August 30 1999",
+    "location": "East Timor",
+    "coordinates": {
+      "lat": -8.8742,
+      "lng": 125.7275
+    },
+    "summary": "East Timor voted for independence from Indonesia."
+  },
+  {
+    "id": "napster-1999",
+    "name": "Napster Launched",
+    "date": "June 1 1999",
+    "location": "USA",
+    "coordinates": {
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    "summary": "Napster launched, changing music sharing."
+  },
+  {
+    "id": "millennium-approach-1999",
+    "name": "Millennium Celebrations Begin",
+    "date": "December 31 1999",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Global celebrations marked the transition to the year 2000."
+  }
+]

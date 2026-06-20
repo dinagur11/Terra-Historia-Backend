@@ -1,0 +1,443 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2008,
+    "date": "2008-08-01",
+    "title": "Origins and Background",
+    "sub": "Frozen conflicts become a five-day war",
+    "view": {
+      "center": [
+        42.2,
+        43.9
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Tskhinvali",
+        "latlng": [
+          42.2276,
+          43.9686
+        ],
+        "type": "target",
+        "description": "South Ossetia was the immediate trigger zone for the August 2008 war."
+      },
+      {
+        "label": "Gori",
+        "latlng": [
+          41.9842,
+          44.1158
+        ],
+        "type": "major",
+        "description": "Gori sat on the main route between South Ossetia and Georgia's east-west corridor."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Frozen Conflict That Thawed",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Russo-Georgian%20War%20in%202008%20(1).jpg",
+        "cap": "Russo-Georgian War imagery from 2008.",
+        "body": "The Russo-Georgian War grew from unresolved South Ossetian and Abkhaz conflicts, Russian peacekeeping power, Georgian attempts to restore sovereignty, and years of escalating incidents. By August 2008, artillery exchanges, evacuations, and military movement made the conflict zone combustible.",
+        "stats": [
+          {
+            "val": "7-12 Aug 2008",
+            "lbl": "War period"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "The war was short because the escalation ladder had been built for years before the first major shots.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "august-escalation",
+    "year": 2008,
+    "date": "2008-08-07",
+    "title": "August Escalation",
+    "sub": "Shelling, evacuations, and failed de-escalation",
+    "view": {
+      "center": [
+        42.2276,
+        43.9686
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Tskhinvali district",
+        "latlng": [
+          42.2276,
+          43.9686
+        ],
+        "type": "target",
+        "description": "The final escalation centered on South Ossetian positions and Georgian villages around Tskhinvali."
+      },
+      {
+        "label": "Ergneti area",
+        "latlng": [
+          42.245,
+          43.96
+        ],
+        "type": "major",
+        "description": "Villages around the line of contact absorbed the prewar exchange of fire."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Last Hours Before War",
+        "img": "https://media.cnn.com/api/v1/images/stellar/prod/140106165256-georgia-conflict-2008.jpg?q=w_3000,h_1996,x_0,y_0,c_fill",
+        "cap": "Visual reference for August Escalation.",
+        "body": "In the days before the war, violence around South Ossetia intensified through shelling, roadside bombs, evacuations, and claims that the other side was preparing an attack. The crisis moved faster than diplomacy. By the night of 7 August, Georgia launched operations toward Tskhinvali.",
+        "stats": [
+          {
+            "val": "7 Aug 2008",
+            "lbl": "Final escalation"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "The event shows how local incidents around a frozen conflict can become a state-to-state war.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-for-tskhinvali",
+    "year": 2008,
+    "date": "2008-08-08",
+    "title": "Battle for Tskhinvali",
+    "sub": "Georgia attacks the South Ossetian capital",
+    "view": {
+      "center": [
+        42.2276,
+        43.9686
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Tskhinvali",
+        "latlng": [
+          42.2276,
+          43.9686
+        ],
+        "type": "target",
+        "description": "The city was the only major urban battle of the war."
+      },
+      {
+        "label": "Russian peacekeeper bases",
+        "latlng": [
+          42.23,
+          43.97
+        ],
+        "type": "major",
+        "description": "Russian peacekeeper casualties became central to Moscow's justification for intervention."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Fight for the City",
+        "img": "https://jamestown.org/wp-content/uploads/2010/01/georgia_war04.jpg",
+        "cap": "Visual reference for Battle for Tskhinvali.",
+        "body": "Georgian forces entered Tskhinvali after artillery preparation and fought South Ossetian forces and Russian peacekeepers. The battle was tactically intense and politically decisive: once Russian troops moved through the Roki Tunnel, the fighting in Tskhinvali became the opening phase of a wider Russian-Georgian war.",
+        "stats": [
+          {
+            "val": "8-10 Aug 2008",
+            "lbl": "Battle period"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Tskhinvali converted a disputed peacekeeping zone into a direct clash between Georgia and Russia.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "russian-intervention",
+    "year": 2008,
+    "date": "2008-08-08",
+    "title": "Russian Intervention Through Roki Tunnel",
+    "sub": "The 58th Army enters South Ossetia",
+    "view": {
+      "center": [
+        42.62,
+        44.11
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Roki Tunnel",
+        "latlng": [
+          42.62,
+          44.11
+        ],
+        "type": "target",
+        "description": "The tunnel was Russia's key military gateway from North Ossetia into South Ossetia."
+      },
+      {
+        "label": "Java",
+        "latlng": [
+          42.399,
+          43.936
+        ],
+        "type": "major",
+        "description": "Russian columns moved through Java toward Tskhinvali."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Mountain Gateway",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ruins_of_a_burnt_apartment_building_in_Gori.jpg/1920px-Ruins_of_a_burnt_apartment_building_in_Gori.jpg",
+        "cap": "Destroyed apartment building in Gori after Russian airstrikes.",
+        "body": "Russian forces entered through the Roki Tunnel and moved down the mountain road toward Tskhinvali. The tunnel was the war's most important piece of terrain: it allowed Russia to turn local fighting into a rapid conventional intervention and forced Georgia to confront a much larger army.",
+        "stats": [
+          {
+            "val": "8 Aug 2008",
+            "lbl": "Russian entry"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "The Roki Tunnel explains how Russian forces could reinforce South Ossetia quickly and change the war's scale.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "advance-toward-gori-and-poti",
+    "year": 2008,
+    "date": "2008-08-11",
+    "title": "Advance Toward Gori and Poti",
+    "sub": "The war moves beyond South Ossetia",
+    "view": {
+      "center": [
+        41.9842,
+        44.1158
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Gori",
+        "latlng": [
+          41.9842,
+          44.1158
+        ],
+        "type": "target",
+        "description": "Russian forces moved toward Gori, threatening Georgia's main east-west corridor."
+      },
+      {
+        "label": "Poti",
+        "latlng": [
+          42.15,
+          41.67
+        ],
+        "type": "major",
+        "description": "Russian forces also operated against the Black Sea port of Poti."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Pressure Across Georgia",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Anatoly_Lebed_12.jpg/250px-Anatoly_Lebed_12.jpg",
+        "cap": "Visual reference for Advance Toward Gori and Poti.",
+        "body": "Russian forces did not stop at Tskhinvali. They moved toward Gori, struck targets across Georgia, and operated near Poti on the Black Sea. The expansion showed that Moscow's goal was not only to defend South Ossetia; it was to punish Georgia and reshape the strategic environment.",
+        "stats": [
+          {
+            "val": "11 Aug 2008",
+            "lbl": "Advance widens"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "The move beyond South Ossetia made the war a national security crisis for Georgia.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ceasefire",
+    "year": 2008,
+    "date": "2008-08-12",
+    "title": "Six-Point Ceasefire",
+    "sub": "French mediation stops the main fighting",
+    "view": {
+      "center": [
+        41.7151,
+        44.8271
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Tbilisi",
+        "latlng": [
+          41.7151,
+          44.8271
+        ],
+        "type": "target",
+        "description": "Georgia accepted an EU-brokered ceasefire as Russian forces held battlefield momentum."
+      },
+      {
+        "label": "Moscow",
+        "latlng": [
+          55.7558,
+          37.6173
+        ],
+        "type": "minor",
+        "description": "Russia accepted the ceasefire while keeping leverage through troops on the ground."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Diplomacy Under Military Pressure",
+        "img": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2008/08/15/riceingeorgia460.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMDgucG5n&s=8cfd76a4281c745dcf8805022b6b6bbc",
+        "cap": "Visual reference for Six-Point Ceasefire.",
+        "body": "The six-point ceasefire, brokered by French President Nicolas Sarkozy, stopped the main fighting but left many details contested. Withdrawal lines, security zones, and the status of Russian forces became the next battlefield in diplomatic form.",
+        "stats": [
+          {
+            "val": "12 Aug 2008",
+            "lbl": "Ceasefire"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "The ceasefire ended five days of war but left Russia in a stronger position on the ground.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "recognition-of-abkhazia-and-south-ossetia",
+    "year": 2008,
+    "date": "2008-08-26",
+    "title": "Russia Recognizes Abkhazia and South Ossetia",
+    "sub": "Military victory becomes political rupture",
+    "view": {
+      "center": [
+        43,
+        41
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Sukhumi",
+        "latlng": [
+          43.0015,
+          41.0234
+        ],
+        "type": "major",
+        "description": "Abkhazia gained Russian recognition after the war."
+      },
+      {
+        "label": "Tskhinvali",
+        "latlng": [
+          42.2276,
+          43.9686
+        ],
+        "type": "target",
+        "description": "South Ossetia also gained Russian recognition and deeper Russian military presence."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Recognition After the War",
+        "img": "https://cdn-media.tass.ru/width/1020_b9261fa1/tass/m2/en/uploads/i/20230825/1399947.jpg",
+        "cap": "Visual reference for Russia Recognizes Abkhazia and South Ossetia.",
+        "body": "Russia recognized Abkhazia and South Ossetia as independent states on 26 August 2008. For Georgia and most of the world, this was occupation and partition. For Moscow, it formalized a new security reality after the war. The decision locked the conflict into a new phase.",
+        "stats": [
+          {
+            "val": "26 Aug 2008",
+            "lbl": "Recognition"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Recognition turned battlefield victory into a lasting diplomatic confrontation.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "outcome-and-legacy",
+    "year": 2008,
+    "date": "2008-08-26",
+    "title": "Outcome and Legacy",
+    "sub": "Occupation, displacement, and a warning for the post-Soviet order",
+    "view": {
+      "center": [
+        42.2,
+        43.9
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Akhalgori",
+        "latlng": [
+          42.125,
+          44.485
+        ],
+        "type": "major",
+        "description": "Georgia lost control of Akhalgori after the war."
+      },
+      {
+        "label": "Tskhinvali",
+        "latlng": [
+          42.2276,
+          43.9686
+        ],
+        "type": "target",
+        "description": "South Ossetia remained under Russian-backed separation from Georgia."
+      },
+      {
+        "label": "Gori",
+        "latlng": [
+          41.9842,
+          44.1158
+        ],
+        "type": "major",
+        "description": "Gori symbolizes the war's civilian vulnerability inside undisputed Georgia."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "A Five-Day War With Long Consequences",
+        "img": "https://www.americanprogress.org/wp-content/uploads/sites/2/2008/08/russian_tank.jpg?w=610",
+        "cap": "Visual reference for Outcome and Legacy.",
+        "body": "The Russo-Georgian War ended quickly but changed regional security. Russia entrenched itself in Abkhazia and South Ossetia, Georgia lost control of additional territory, about 850 people were killed, and tens of thousands were displaced. The war became a warning about how frozen conflicts could become instruments of interstate coercion.",
+        "stats": [
+          {
+            "val": "Russian victory",
+            "lbl": "Outcome"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "The war killed about 850 people in total, including Georgian, Russian, South Ossetian, and civilian victims, and displaced tens of thousands more. Those losses made a five-day war into a lasting national trauma and a durable security rupture.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

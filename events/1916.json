@@ -1,0 +1,112 @@
+[
+  {
+    "id": "verdun-1916-1",
+    "name": "Battle of Verdun Begins",
+    "date": "February 21 1916",
+    "location": "Verdun",
+    "coordinates": {
+      "lat": 49.2081,
+      "lng": 5.4219
+    },
+    "summary": "WWI: Germany attacks Verdun, hoping to bleed France white. The battle becomes one of the war's longest and most symbolic struggles."
+  },
+  {
+    "id": "battle-of-columbus-1916-2",
+    "name": "Battle of Columbus",
+    "date": "March 9 1916",
+    "location": "Columbus, New Mexico",
+    "coordinates": {
+      "lat": 31.8308,
+      "lng": -107.6417
+    },
+    "summary": "Pancho Villa raids Columbus, New Mexico, prompting the United States to launch the Punitive Expedition into Mexico while Europe remains consumed by World War I."
+  },
+  {
+    "id": "easter-rising-1916-3",
+    "name": "Easter Rising",
+    "date": "April 24 1916",
+    "location": "Dublin",
+    "coordinates": {
+      "lat": 53.3498,
+      "lng": -6.2603
+    },
+    "summary": "Irish republicans seize key buildings in Dublin and proclaim an Irish Republic. The rising is suppressed, but the executions of its leaders transform Irish politics during the wider wartime crisis."
+  },
+  {
+    "id": "jutland-1916-4",
+    "name": "Battle of Jutland",
+    "date": "May 31 1916",
+    "location": "North Sea",
+    "coordinates": {
+      "lat": 56.7,
+      "lng": 5.9
+    },
+    "summary": "WWI: The British Grand Fleet and German High Seas Fleet clash in the largest naval battle of the war. Germany inflicts heavy losses but fails to break Britain's naval blockade."
+  },
+  {
+    "id": "brusilov-offensive-1916-5",
+    "name": "Brusilov Offensive",
+    "date": "June 4 1916",
+    "location": "Lutsk",
+    "coordinates": {
+      "lat": 50.7472,
+      "lng": 25.3254
+    },
+    "summary": "WWI: Russia launches the Brusilov Offensive against Austria-Hungary, achieving one of the Entente's greatest battlefield successes and forcing Germany to divert troops east."
+  },
+  {
+    "id": "arab-revolt-1916-6",
+    "name": "Arab Revolt Begins",
+    "date": "June 10 1916",
+    "location": "Mecca",
+    "coordinates": {
+      "lat": 21.4225,
+      "lng": 39.8262
+    },
+    "summary": "WWI: Sharif Hussein of Mecca launches the Arab Revolt against Ottoman rule, supported by British promises and wartime strategy in the Middle East."
+  },
+  {
+    "id": "battle-of-the-somme-1916-7",
+    "name": "Battle of the Somme",
+    "date": "July 1 1916",
+    "location": "Somme",
+    "coordinates": {
+      "lat": 50.0156,
+      "lng": 2.6975
+    },
+    "summary": "WWI: The Somme opens with the bloodiest day in British military history. The offensive becomes a grinding battle of artillery, infantry, aircraft, and early tanks."
+  },
+  {
+    "id": "romania-enters-war-1916-8",
+    "name": "Romania Enters World War I",
+    "date": "August 27 1916",
+    "location": "Bucharest",
+    "coordinates": {
+      "lat": 44.4268,
+      "lng": 26.1025
+    },
+    "summary": "WWI: Romania joins the Entente, hoping to gain Transylvania. Central Powers counterattacks soon overrun much of the country."
+  },
+  {
+    "id": "flers-courcelette-1916-9",
+    "name": "Battle of Flers-Courcelette",
+    "date": "September 15 1916",
+    "location": "Flers-Courcelette",
+    "coordinates": {
+      "lat": 50.05,
+      "lng": 2.8
+    },
+    "summary": "WWI: Tanks are used in battle for the first time during the Somme campaign. The new weapon is unreliable but points toward future armored warfare."
+  },
+  {
+    "id": "verdun-french-counteroffensive-1916-10",
+    "name": "French Counteroffensive at Verdun",
+    "date": "October-December 1916",
+    "location": "Verdun",
+    "coordinates": {
+      "lat": 49.2081,
+      "lng": 5.4219
+    },
+    "summary": "WWI: French forces retake key Verdun forts, including Douaumont and Vaux. The battle ends with little territorial change and enormous casualties."
+  }
+]

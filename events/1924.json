@@ -1,0 +1,112 @@
+[
+  {
+    "id": "league-of-nations-1924-1",
+    "name": "League of Nations",
+    "date": "Autumn 1924",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "The Temporary Slavery Commission is created by the League of Nations. The League of Nations (LN or LoN; French: Société des Nations [sɔsjete de nɑsjɔ̃], SdN) was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. It was founded on 10 January 1920 by the Paris Peace Conference that ended the First World War."
+  },
+  {
+    "id": "ramsay-macdonald-1924-2",
+    "name": "Ramsay MacDonald",
+    "date": "January 22 1924",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Ramsay MacDonald becomes the first Labour Prime Minister of the United Kingdom. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "treaty-of-rome-1924-3",
+    "name": "Treaty of Rome",
+    "date": "February 14 1924",
+    "location": "Italy",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "Treaty of Rome: The Kingdom of Italy annexes the Free State of Fiume, and the Kingdom of Serbs, Croats and Slovenes absorbs Sušak. The Treaty of Rome, or EEC Treaty (officially the Treaty establishing the European Economic Community), brought about the creation of the European Economic Community (EEC), the best known of the European Communities (EC)."
+  },
+  {
+    "id": "calvin-coolidge-1924-4",
+    "name": "Calvin Coolidge",
+    "date": "February 14 1924",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Calvin Coolidge becomes the first President of the United States to deliver a radio broadcast from the White House. Calvin Coolidge (born John Calvin Coolidge Jr.; KOOL-ij; July 4, 1872 – January 5, 1933) was the 30th president of the United States, serving from 1923 to 1929. A Republican lawyer from Massachusetts, he had served as the 29th vice president from 1921 to 1923, under President Warren G."
+  },
+  {
+    "id": "horacio-vasquez-wins-the-dominican-republic-general-election-becoming--1924-5",
+    "name": "Horacio Vásquez wins the Dominican Republic general election, becoming pr...",
+    "date": "March 15 1924",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Horacio Vásquez wins the Dominican Republic general election, becoming president, coinciding with the end of United States military occupation. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "italian-general-election-1924-1924-6",
+    "name": "Italian general election, 1924",
+    "date": "April 6 1924",
+    "location": "Italy",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "Italian general election, 1924: Fascists win the elections in Italy with a two-thirds majority. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "napalpi-massacre-1924-7",
+    "name": "Napalpí massacre",
+    "date": "July 19 1924",
+    "location": "Napalpí massacre",
+    "coordinates": {
+      "lat": -26.91722222,
+      "lng": -60.11194444
+    },
+    "summary": "Napalpí massacre: Around 400 indigenous people of Toba ethnicity are massacred in Argentina. The Napalpí massacre occurred on 19 July 1924, in Napalpí a rural village in the Chaco Province of Northeast Argentina. It involved the massacre of 400 Indigenous people of the Toba and Mocoví ethnicity by the Argentine Police and ranchers."
+  },
+  {
+    "id": "hanapepe-massacre-1924-8",
+    "name": "Hanapepe massacre",
+    "date": "August 28 1924",
+    "location": "Hanapepe massacre",
+    "coordinates": {
+      "lat": 21.9005,
+      "lng": -159.5591
+    },
+    "summary": "The Hanapepe massacre occurs on Kauai, Hawaii. The Hanapēpē Massacre (also called the Battle of Hanapēpē) occurred on September 9, 1924, when a dispute amongst Filipino strike organizers in Hanapēpē, Kaua'i, resulted in a violent exchange between local police officers and Filipinos. The conflict began when two Ilocano youth, allegedly breaking the Filipino-led labor strike, were detained and harassed by a group of Visayans at the Hanapepe strike camp."
+  },
+  {
+    "id": "nellie-tayloe-ross-1924-9",
+    "name": "Nellie Tayloe Ross",
+    "date": "November 1924",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Nellie Tayloe Ross of Wyoming is elected as the first woman governor in the United States. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "soviet-backed-communist-1924-estonian-coup-detat-attempt-fails-in-esto-1924-10",
+    "name": "Soviet-backed communist 1924 Estonian coup d'état attempt fails in Estonia",
+    "date": "December 1 1924",
+    "location": "Estonia",
+    "coordinates": {
+      "lat": 59.437,
+      "lng": 24.7536
+    },
+    "summary": "A Soviet-backed communist 1924 Estonian coup d'état attempt fails in Estonia. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  }
+]

@@ -2,124 +2,568 @@
   {
     "id": "origins-and-road-to-war",
     "year": 1919,
-    "date": "1919-01-01",
+    "date": "1919-04-01",
     "title": "Origins and Road to War",
-    "sub": "How the Polish-Lithuanian War began",
+    "sub": "Two new states claim Vilnius",
     "view": {
       "center": [
-        54.7,
-        24.8
+        54.8,
+        24.7
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "target",
+        "description": "Vilnius was claimed by Lithuania as its historic capital and by Poland as a city with deep Polish political and cultural ties."
+      },
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "major",
+        "description": "Kaunas became Lithuania's seat of government while Vilnius remained contested."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "From Lithuanian-Soviet War to Polish-Lithuanian War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
-        "cap": "Historical connection: Competing borders after imperial collapse",
-        "body": "Lithuania survived the Soviet offensive, but independence did not settle its borders. Polish and Lithuanian national projects both claimed Vilnius, turning former partners against Bolshevik expansion into rivals.",
+        "title": "Allies Against Bolshevism, Rivals Over Vilnius",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg/250px-Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
+        "cap": "Lithuanian soldiers in Vilnius during the contested independence period.",
+        "body": "Poland and Lithuania both emerged from the collapse of empires with urgent security problems and incompatible national projects. Vilnius was the heart of the dispute. The city was Lithuanian in state symbolism, heavily Polish and Jewish in urban demography, and strategically important to Polish plans for a federation in the east.",
         "stats": [
           {
-            "val": "Lithuanian-Soviet War",
-            "lbl": "Previous conflict in this path"
+            "val": "1919",
+            "lbl": "Timeline year"
           },
           {
-            "val": "Regional conflict chain",
-            "lbl": "Competing borders after imperial collapse"
+            "val": "Origins and Road to War",
+            "lbl": "Event focus"
           },
           {
-            "val": "Polish-Lithuanian War",
-            "lbl": "The next conflict to explore"
-          },
-          {
-            "val": "Why they connect",
-            "lbl": "Lithuania survived the Soviet offensive, but independence did not settle its borders. Polish and Lithuanian national projects both claimed Vilnius, turning former partners against Bolshevik expansion into rivals.",
+            "val": "Why this moment matters",
+            "lbl": "Border-making after empire turns partners into rivals",
             "full": true
           }
         ]
-      },
-      {
-        "title": "Before the Polish-Lithuanian War",
-        "body": "Poland and Lithuania emerged from World War I with overlapping claims, especially over Vilnius and the surrounding region.\n\nThe Conflict Takes Shape: The conflict determined control of Vilnius and poisoned relations between two newly independent neighboring states. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
-        "stats": [
-          {
-            "val": "1919-1920",
-            "lbl": "Conflict period"
-          },
-          {
-            "val": "The conflict determined control of Vilnius and poisoned relations between two newly independent neighboring states.",
-            "lbl": "What was at stake",
-            "full": true
-          }
-        ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
-        "cap": "Opening context for the Polish-Lithuanian War"
       }
     ]
   },
   {
-    "id": "polish-lithuanian-war",
-    "year": 1914,
-    "date": "Review date",
-    "title": "Polish–Lithuanian War",
-    "sub": "Generated overview draft",
+    "id": "polish-capture-of-vilnius-1919",
+    "year": 1919,
+    "date": "1919-04-19",
+    "title": "Polish Capture of Vilnius",
+    "sub": "Polish forces take the disputed city",
     "view": {
       "center": [
-        50,
-        15
+        54.6872,
+        25.2797
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "target",
+        "description": "Polish forces captured Vilnius from Bolshevik control, but Lithuania saw the move as occupation of its capital."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Polish–Lithuanian War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War",
-        "body": "The Polish–Lithuanian War was an undeclared war fought in the aftermath of World War I between newly independent Lithuania and Poland, with fighting mainly in the Vilnius and Suwałki regions, which was part of the Lithuanian Wars of Independence and lasted from May 1919 to 29 November 1920. From the spring of 1920 onward, the conflict happened alongside the wider Polish–Soviet War and was affected by its progress. It was subject to unsuccessful international mediation at the Conference of Ambassadors and the League of Nations.\n\nWhy This Moment Matters: Polish–Lithuanian War was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The conflict determined control of Vilnius and poisoned relations between two newly independent neighboring states.",
+        "title": "Liberation for One Side, Occupation for the Other",
+        "img": "https://preview.redd.it/polish-chief-of-state-j%C3%B3zef-pi%C5%82sudski-with-soldiers-of-the-v0-1ki0cdbkn61c1.jpg?width=640&crop=smart&auto=webp&s=58a5d5e64038b0107b24d397924c3f0af47e35b9",
+        "cap": "Visual reference for Polish Capture of Vilnius.",
+        "body": "Polish forces captured Vilnius in April 1919 during the Polish-Soviet War. For Warsaw, the operation removed Bolshevik control and strengthened Poland's eastern position. For Lithuania, it meant the loss of the capital to another claimant. The same battle therefore had opposite meanings from the start.",
         "stats": [
           {
-            "val": "1914",
-            "lbl": "Year"
+            "val": "1919",
+            "lbl": "Timeline year"
           },
           {
-            "val": "1 of 1",
-            "lbl": "Existing timeline event"
+            "val": "Polish Capture of Vilnius",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "The city question hardens into interstate conflict",
+            "full": true
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": "sejny-uprising",
+    "year": 1919,
+    "date": "1919-08-23",
+    "title": "Sejny Uprising",
+    "sub": "The Suwałki border ignites",
+    "view": {
+      "center": [
+        54.108,
+        23.346
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Sejny",
+        "latlng": [
+          54.108,
+          23.346
+        ],
+        "type": "target",
+        "description": "Polish forces and local fighters took Sejny from Lithuanian control during the border struggle."
       },
       {
-        "title": "Consequences",
-        "body": "The effects of Polish–Lithuanian War extended beyond its immediate result. Military operations and contested administration divided communities with Polish, Lithuanian, Belarusian, and Jewish populations. Its place in the wider campaign also influenced later military choices and political calculations."
+        "label": "Suwałki",
+        "latlng": [
+          54.1115,
+          22.9308
+        ],
+        "type": "major",
+        "description": "The Suwałki region became a second flashpoint beyond Vilnius."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "A Local Border War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sejny_Parada.jpg",
+        "cap": "Visual reference for Sejny Uprising.",
+        "body": "The Sejny uprising showed that the conflict was not only about Vilnius. Around Suwałki and Sejny, mixed populations, rival administrations, and shifting demarcation lines turned local control into armed confrontation. The violence made compromise harder by tying national claims to village-level fear and revenge.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Sejny Uprising",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Local violence deepens national mistrust",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foch-line-and-entente-mediation",
+    "year": 1919,
+    "date": "1919-07-26",
+    "title": "Foch Line and Entente Mediation",
+    "sub": "Great-power lines fail to settle the border",
+    "view": {
+      "center": [
+        54.3,
+        23.4
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Suwałki region",
+        "latlng": [
+          54.2,
+          23.1
+        ],
+        "type": "target",
+        "description": "Entente demarcation efforts tried to separate Polish and Lithuanian forces but did not resolve sovereignty."
+      },
+      {
+        "label": "Paris Peace Conference",
+        "latlng": [
+          48.8566,
+          2.3522
+        ],
+        "type": "minor",
+        "description": "Western diplomats drew lines, but local armies and governments contested them."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Lines on Paper, Forces on the Ground",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Commemoration_of_the_Day_of_Independence_of_Lithuania_on_16_February_1920_in_Kaunas.jpg/250px-Commemoration_of_the_Day_of_Independence_of_Lithuania_on_16_February_1920_in_Kaunas.jpg",
+        "cap": "Lithuanian independence commemoration in Kaunas, 1920.",
+        "body": "The Entente-backed Foch Line tried to reduce fighting by separating Polish and Lithuanian forces. It did not solve the deeper dispute. Both governments believed outside mediation misunderstood their security and historical claims, while armed units on the ground kept changing facts faster than diplomats could stabilize them.",
+        "stats": [
+          {
+            "val": "1919",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Foch Line and Entente Mediation",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Diplomacy cannot keep pace with contested front lines",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "polish-soviet-war-overlap",
+    "year": 1920,
+    "date": "1920-07-12",
+    "title": "Polish-Soviet War Overlap",
+    "sub": "Lithuania and Soviet Russia sign a treaty",
+    "view": {
+      "center": [
+        54.6872,
+        25.2797
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Moscow",
+        "latlng": [
+          55.7558,
+          37.6173
+        ],
+        "type": "minor",
+        "description": "The Soviet-Lithuanian treaty recognized Lithuanian claims while the Red Army was fighting Poland."
+      },
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "target",
+        "description": "Soviet transfer and Lithuanian entry into Vilnius occurred during Poland's crisis against the Red Army."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "The Wider War Changes the Dispute",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg/250px-Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
+        "cap": "Lithuanian soldiers in Vilnius, 1920.",
+        "body": "The Polish-Soviet War transformed the Polish-Lithuanian conflict. Soviet Russia recognized Lithuania and its claim to Vilnius in July 1920 while the Red Army advanced against Poland. Lithuania regained the city briefly, but the sequence tied Vilnius to Poland's existential war with the Soviets and made Polish leaders even less willing to accept Lithuanian control.",
+        "stats": [
+          {
+            "val": "1920",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Polish-Soviet War Overlap",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "A bilateral border dispute is pulled into the Polish-Soviet War",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "suwalki-agreement",
+    "year": 1920,
+    "date": "1920-10-07",
+    "title": "Suwałki Agreement",
+    "sub": "A ceasefire that leaves Vilnius exposed",
+    "view": {
+      "center": [
+        54.1115,
+        22.9308
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Suwałki",
+        "latlng": [
+          54.1115,
+          22.9308
+        ],
+        "type": "target",
+        "description": "The agreement tried to halt fighting along the Suwałki line."
+      },
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "major",
+        "description": "The agreement did not fully secure Vilnius, leaving room for the next crisis."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "A Ceasefire With a Trapdoor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Suvalk%C5%B3sutartis1920-10-09.jpg/250px-Suvalk%C5%B3sutartis1920-10-09.jpg",
+        "cap": "Lithuanian and Polish delegations negotiating the Suwałki Agreement.",
+        "body": "The Suwałki Agreement attempted to stop Polish-Lithuanian fighting and set a demarcation line. It briefly offered diplomatic relief, but the Vilnius question remained exposed. Within days, a Polish-aligned force under Lucjan Żeligowski moved on the city, turning the agreement into a symbol of failed mediation for Lithuania.",
+        "stats": [
+          {
+            "val": "1920",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Suwałki Agreement",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Ceasefire fails to protect Vilnius from the next move",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zeligowski-mutiny",
+    "year": 1920,
+    "date": "1920-10-09",
+    "title": "Żeligowski's Mutiny",
+    "sub": "Polish-aligned troops seize Vilnius",
+    "view": {
+      "center": [
+        54.6872,
+        25.2797
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "target",
+        "description": "Żeligowski's force captured the city and created a Polish-backed fait accompli."
+      },
+      {
+        "label": "Vilnius approaches",
+        "latlng": [
+          54.75,
+          25.2
+        ],
+        "type": "major",
+        "description": "The operation was framed as a mutiny, but Lithuania viewed it as Polish aggression."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "A Plausibly Deniable Seizure",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lithuanian_soldiers_of_the_Fifth_Infantry_Regiment_in_the_forests_of_Vievis_during_the_fighting_with_the_%C5%BBeligowski%27s_unit_of_the_Polish_Army.jpg/250px-Lithuanian_soldiers_of_the_Fifth_Infantry_Regiment_in_the_forests_of_Vievis_during_the_fighting_with_the_%C5%BBeligowski%27s_unit_of_the_Polish_Army.jpg",
+        "cap": "Lithuanian soldiers fighting Żeligowski's forces near Vievis.",
+        "body": "General Lucjan Żeligowski's so-called mutiny seized Vilnius and created the Republic of Central Lithuania. The move let Poland deny direct responsibility while achieving its strategic goal. For Lithuania, it confirmed that agreements and mediation could be bypassed by force. The event poisoned relations for the entire interwar period.",
+        "stats": [
+          {
+            "val": "1920",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Żeligowski's Mutiny",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "A military fait accompli freezes the dispute",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "republic-of-central-lithuania",
+    "year": 1920,
+    "date": "1920-10-12",
+    "title": "Republic of Central Lithuania",
+    "sub": "A buffer state prepares annexation",
+    "view": {
+      "center": [
+        54.6872,
+        25.2797
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "target",
+        "description": "Central Lithuania used Vilnius as the center of a Polish-aligned statelet."
+      },
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "major",
+        "description": "Lithuania refused to accept the new entity and kept Kaunas as its temporary capital."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Statelet as Strategy",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/81/Celebration_of_incorporation_of_Vilnius_Region_to_Poland_1922.PNG",
+        "cap": "Visual reference for Republic of Central Lithuania.",
+        "body": "The Republic of Central Lithuania functioned as a buffer and political bridge toward incorporation into Poland. It gave the seizure of Vilnius a local institutional form, but Lithuania rejected its legitimacy. The result was not a settled compromise; it was a frozen conflict dressed in state paperwork.",
+        "stats": [
+          {
+            "val": "1920",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "Republic of Central Lithuania",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Creates the path to Polish annexation",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "league-of-nations-mediation",
+    "year": 1921,
+    "date": "1921-01-01",
+    "title": "League of Nations Mediation",
+    "sub": "International talks fail to repair relations",
+    "view": {
+      "center": [
+        46.2044,
+        6.1432
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Geneva",
+        "latlng": [
+          46.2044,
+          6.1432
+        ],
+        "type": "major",
+        "description": "League mediation attempted to find a political settlement but could not bridge the Vilnius dispute."
+      },
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "target",
+        "description": "Lithuania maintained its claim and refused normal relations with Poland."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "No Settlement From Geneva",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/J%C3%B3zef_Pi%C5%82sudski_w_Sejnach_%2822-320-1%29.jpg/250px-J%C3%B3zef_Pi%C5%82sudski_w_Sejnach_%2822-320-1%29.jpg",
+        "cap": "Visual reference for League of Nations Mediation.",
+        "body": "League of Nations mediation could not reconcile the competing claims. Proposed plebiscites, federative ideas, and demarcation schemes all ran into distrust and incompatible national narratives. The failure mattered because it left two neighboring states diplomatically frozen while the wider region remained insecure.",
+        "stats": [
+          {
+            "val": "1921",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "League of Nations Mediation",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "International mediation fails to normalize Polish-Lithuanian relations",
+            "full": true
+          }
+        ]
       }
     ]
   },
   {
     "id": "international-and-human-dimensions",
-    "year": 1919,
-    "date": "1919-01-01",
+    "year": 1921,
+    "date": "1921-06-01",
     "title": "International and Human Dimensions",
-    "sub": "The wider impact of the Polish-Lithuanian War",
+    "sub": "Mixed communities live inside rival national projects",
     "view": {
       "center": [
         54.7,
-        24.8
+        24.5
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Vilnius region",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "target",
+        "description": "Poles, Lithuanians, Jews, Belarusians, and others lived inside a city claimed by competing states."
+      },
+      {
+        "label": "Suwałki-Sejny region",
+        "latlng": [
+          54.12,
+          23.2
+        ],
+        "type": "major",
+        "description": "Border violence made local identity and security inseparable from national politics."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "International Dimension",
-        "body": "The fighting overlapped with the Polish-Soviet War, while the League of Nations attempted unsuccessfully to mediate.\n\nThe Human Cost: Military operations and contested administration divided communities with Polish, Lithuanian, Belarusian, and Jewish populations.",
+        "title": "The Human Geography of a Border War",
+        "img": "https://i.redd.it/rmftfcbe8bj31.jpg",
+        "cap": "Visual reference for International and Human Dimensions.",
+        "body": "The war's human dimension was rooted in mixed communities. Vilnius was not a simple national space, and neither was the Suwałki-Sejny region. Families, schools, churches, synagogues, veterans, and local officials all found themselves inside rival state projects. That is why the dispute lasted beyond battlefield operations: it was about belonging as much as borders.",
         "stats": [
           {
-            "val": "Thousands killed and wounded",
-            "lbl": "Estimated human cost",
+            "val": "1921",
+            "lbl": "Timeline year"
+          },
+          {
+            "val": "International and Human Dimensions",
+            "lbl": "Event focus"
+          },
+          {
+            "val": "Why this moment matters",
+            "lbl": "Local communities absorb the cost of national border-making",
             "full": true
           }
         ]
@@ -128,44 +572,59 @@
   },
   {
     "id": "outcome-and-legacy",
-    "year": 1920,
-    "date": "1920-01-01",
+    "year": 1922,
+    "date": "1922-03-24",
     "title": "Outcome and Legacy",
-    "sub": "How the Polish-Lithuanian War ended and what followed",
+    "sub": "Vilnius enters Poland; Lithuania refuses closure",
     "view": {
       "center": [
-        54.7,
-        24.8
+        54.6872,
+        25.2797
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Vilnius",
+        "latlng": [
+          54.6872,
+          25.2797
+        ],
+        "type": "target",
+        "description": "Poland incorporated Vilnius after Central Lithuania's election and annexation process."
+      },
+      {
+        "label": "Kaunas",
+        "latlng": [
+          54.8985,
+          23.9036
+        ],
+        "type": "major",
+        "description": "Kaunas remained Lithuania's temporary capital and the symbol of refusal to accept the loss of Vilnius."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "The End of the Polish-Lithuanian War",
-        "body": "Polish-aligned forces seized Vilnius, which Poland later annexed. Lithuania refused to recognize the settlement until 1938."
-      },
-      {
-        "title": "War Summary: Polish-Lithuanian War",
-        "body": "Polish-aligned forces seized Vilnius, which Poland later annexed. Lithuania refused to recognize the settlement until 1938. Military operations and contested administration divided communities with Polish, Lithuanian, Belarusian, and Jewish populations.",
+        "title": "A Frozen Victory",
+        "img": "https://alchetron.com/cdn/1919-polish-coup-dtat-attempt-in-lithuania-8f28530f-1501-41bc-9b7c-0b67863e3f5-resize-750.jpg",
+        "cap": "Visual reference for Outcome and Legacy.",
+        "body": "Poland gained Vilnius, but the outcome did not produce reconciliation. Lithuania treated Kaunas as a temporary capital and refused normal diplomatic relations with Poland for years. The Polish-Lithuanian War therefore ended with a winner on the map and a lasting rupture in regional politics.",
         "stats": [
           {
-            "val": "Polish territorial victory",
-            "lbl": "Outcome / winner"
+            "val": "1922",
+            "lbl": "Timeline year"
           },
           {
-            "val": "Thousands killed and wounded",
-            "lbl": "Casualties / human cost"
+            "val": "Outcome and Legacy",
+            "lbl": "Event focus"
           },
           {
-            "val": "Polish-aligned forces seized Vilnius, which Poland later annexed. Lithuania refused to recognize the settlement until 1938.",
-            "lbl": "Lasting legacy",
+            "val": "Why this moment matters",
+            "lbl": "The dispute shapes the entire interwar relationship",
             "full": true
           }
-        ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
-        "cap": "The outcome and legacy of the Polish-Lithuanian War"
+        ]
       }
     ]
   }

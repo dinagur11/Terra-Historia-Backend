@@ -1,0 +1,68 @@
+[
+  {
+    "id": "chernobyl-1986",
+    "name": "Chernobyl Nuclear Disaster",
+    "date": "April 26 1986",
+    "location": "Ukraine",
+    "coordinates": {
+      "lat": 51.2768,
+      "lng": 30.2219
+    },
+    "summary": "A nuclear reactor explosion caused one of the worst disasters in history."
+  },
+  {
+    "id": "challenger-1986",
+    "name": "Space Shuttle Challenger Disaster",
+    "date": "January 28 1986",
+    "location": "USA",
+    "coordinates": {
+      "lat": 28.5729,
+      "lng": -80.649
+    },
+    "summary": "The Challenger shuttle exploded shortly after launch, killing all onboard."
+  },
+  {
+    "id": "halley-comet-1986",
+    "name": "Halley's Comet Appearance",
+    "date": "February 9 1986",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Halley’s Comet became visible from Earth."
+  },
+  {
+    "id": "people-power-1986",
+    "name": "Philippines People Power Revolution",
+    "date": "February 25 1986",
+    "location": "Philippines",
+    "coordinates": {
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "summary": "A peaceful revolution overthrew President Marcos."
+  },
+  {
+    "id": "iran-contra-1986",
+    "name": "Iran–Contra Affair Revealed",
+    "date": "November 25 1986",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "A political scandal involving secret arms deals was exposed."
+  },
+  {
+    "id": "mir-space-1986",
+    "name": "Mir Space Station Launched",
+    "date": "February 20 1986",
+    "location": "USSR",
+    "coordinates": {
+      "lat": 45.92,
+      "lng": 63.342
+    },
+    "summary": "The Soviet Union launched the Mir space station."
+  }
+]

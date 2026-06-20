@@ -1,0 +1,68 @@
+[
+  {
+    "id": "atlanta-olympics-1996",
+    "name": "Atlanta Olympics",
+    "date": "July 19 1996",
+    "location": "USA",
+    "coordinates": {
+      "lat": 33.749,
+      "lng": -84.388
+    },
+    "summary": "The Summer Olympics were held in Atlanta."
+  },
+  {
+    "id": "dolly-clone-1996",
+    "name": "Dolly the Sheep Cloned",
+    "date": "July 5 1996",
+    "location": "Scotland",
+    "coordinates": {
+      "lat": 55.9533,
+      "lng": -3.1883
+    },
+    "summary": "The first cloned mammal was successfully created."
+  },
+  {
+    "id": "taliban-kabul-1996",
+    "name": "Taliban Capture Kabul",
+    "date": "September 27 1996",
+    "location": "Afghanistan",
+    "coordinates": {
+      "lat": 34.5553,
+      "lng": 69.2075
+    },
+    "summary": "The Taliban took control of Kabul."
+  },
+  {
+    "id": "tupac-death-1996",
+    "name": "Tupac Shakur Dies",
+    "date": "September 13 1996",
+    "location": "USA",
+    "coordinates": {
+      "lat": 36.1699,
+      "lng": -115.1398
+    },
+    "summary": "Rapper Tupac Shakur died after being shot."
+  },
+  {
+    "id": "mad-cow-1996",
+    "name": "Mad Cow Disease Crisis",
+    "date": "March 20 1996",
+    "location": "UK",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Concerns about mad cow disease spread globally."
+  },
+  {
+    "id": "everest-disaster-1996",
+    "name": "Mount Everest Disaster",
+    "date": "May 10 1996",
+    "location": "Nepal",
+    "coordinates": {
+      "lat": 27.9881,
+      "lng": 86.925
+    },
+    "summary": "A deadly storm killed climbers on Mount Everest."
+  }
+]

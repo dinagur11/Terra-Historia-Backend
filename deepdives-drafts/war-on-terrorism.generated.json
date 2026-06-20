@@ -2,36 +2,64 @@
   {
     "id": "origins-and-road-to-war",
     "year": 2001,
-    "date": "2001-01-01",
+    "date": "2001-09-11",
     "title": "Origins and Road to War",
     "sub": "How the War on Terror began",
     "view": {
       "center": [
-        28,
-        45
+        38.9,
+        -77
       ],
-      "zoom": 3
+      "zoom": 4
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "World Trade Center",
+        "latlng": [
+          40.7115,
+          -74.0134
+        ],
+        "type": "target",
+        "description": "Two hijacked planes struck the Twin Towers in New York, causing their collapse and the largest loss of life on 9/11."
+      },
+      {
+        "label": "Pentagon",
+        "latlng": [
+          38.8719,
+          -77.0563
+        ],
+        "type": "major",
+        "description": "American Airlines Flight 77 struck the Pentagon, killing 125 people inside the building and everyone aboard."
+      },
+      {
+        "label": "Shanksville",
+        "latlng": [
+          40.052,
+          -78.905
+        ],
+        "type": "major",
+        "description": "United Flight 93 crashed in Pennsylvania after passengers fought the hijackers."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "From Gulf War to War on Terror",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
-        "cap": "Historical connection: US regional presence and transnational militancy",
-        "body": "The Gulf War expanded the long-term American military presence in the Middle East, which became one grievance used by transnational jihadist groups. After the September 11 attacks, the United States launched a global military campaign.",
+        "title": "September 11 and the War on Terror",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg",
+        "cap": "The World Trade Center smoking on September 11, 2001",
+        "body": "The War on Terror began as a direct response to the September 11, 2001 attacks. Nineteen al-Qaeda hijackers seized four commercial airliners: two were flown into the World Trade Center, one struck the Pentagon, and Flight 93 crashed in Pennsylvania after passengers fought back. Nearly 3,000 people were killed, thousands were injured, and the attacks transformed American security policy overnight.\n\nThe United States concluded that al-Qaeda had used Taliban-ruled Afghanistan as a sanctuary for planning, training, and command. Washington demanded that the Taliban hand over al-Qaeda leaders and shut down terrorist infrastructure. When the Taliban refused to comply, the U.S. and its allies moved toward military action in Afghanistan, while the broader campaign expanded into intelligence, policing, finance, surveillance, detention, drone warfare, and later wars in Iraq, Syria, Yemen, Somalia, and beyond.",
         "stats": [
           {
-            "val": "Gulf War",
-            "lbl": "Previous conflict in this path"
+            "val": "Previous conflict in this path",
+            "lbl": "Gulf War"
           },
           {
-            "val": "Direct aftermath",
-            "lbl": "US regional presence and transnational militancy"
+            "val": "US regional presence and transnational militancy",
+            "lbl": "Direct aftermath"
           },
           {
-            "val": "War on Terror",
-            "lbl": "The next conflict to explore"
+            "val": "The next conflict to explore",
+            "lbl": "War on Terror"
           },
           {
             "val": "Why they connect",
@@ -42,60 +70,23 @@
       },
       {
         "title": "Before the War on Terror",
-        "body": "The United States launched a global counterterrorism campaign after the September 11 attacks, targeting al-Qaeda and governments accused of supporting terrorism.\n\nThe Conflict Takes Shape: The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "body": "The 1990s had already shown the rise of transnational jihadist networks: the 1993 World Trade Center bombing, al-Qaeda's 1998 embassy bombings in Kenya and Tanzania, and the 2000 USS Cole attack all pointed to a growing threat. 9/11 made that threat impossible for U.S. leaders to treat as a distant problem.\n\nThe opening logic of the campaign was simple: deny safe havens, destroy al-Qaeda's leadership, and pressure states or armed groups that sheltered global terrorist networks. Over time, that mission became much wider and more controversial.",
         "stats": [
           {
             "val": "2001-2026",
             "lbl": "Conflict period"
           },
           {
-            "val": "The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.",
-            "lbl": "What was at stake",
+            "val": "What was at stake",
+            "lbl": "The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Collage_conflicto_interno_armado_en_Colombia.jpg",
-        "cap": "Opening context for the War on Terror"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg",
+        "cap": "The World Trade Center smoking on September 11, 2001"
       }
-    ]
-  },
-  {
-    "id": "colombian-conflict",
-    "year": 1964,
-    "date": "1964-05-27",
-    "title": "Colombian conflict",
-    "sub": "Part of War on Terrorism",
-    "view": {
-      "center": [
-        50,
-        15
-      ],
-      "zoom": 3
-    },
-    "markers": [],
-    "regions": [],
-    "slides": [
-      {
-        "title": "Colombian conflict",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Collage_conflicto_interno_armado_en_Colombia.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Colombian_conflict",
-        "body": "The Colombian conflict began on May 27, 1964, and is a low-intensity asymmetric war between the government of Colombia, far-right paramilitary groups, crime syndicates and far-left guerrilla groups fighting each other to increase their influence in Colombian territory. Some of the most important international contributors to the Colombian conflict include multinational corporations, the United States, Cuba, and the drug trafficking industry.\n\nWhy This Moment Matters: Colombian conflict was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.",
-        "stats": [
-          {
-            "val": "1964",
-            "lbl": "Year"
-          },
-          {
-            "val": "1 of 8",
-            "lbl": "Existing timeline event"
-          }
-        ]
-      },
-      {
-        "title": "Consequences",
-        "body": "The effects of Colombian conflict extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites. Its place in the wider campaign also influenced later military choices and political calculations."
-      }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "afghan-conflict",
@@ -105,35 +96,67 @@
     "sub": "Part of War on Terrorism",
     "view": {
       "center": [
-        50,
-        15
+        34.5,
+        69.2
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "Decades of Afghan conflict created the conditions in which the Taliban and al-Qaeda sanctuary later emerged."
+      },
+      {
+        "label": "Panjshir Valley",
+        "latlng": [
+          35.3,
+          69.6
+        ],
+        "type": "major",
+        "description": "Anti-Taliban resistance networks remained important after 9/11."
+      },
+      {
+        "label": "Afghan-Pakistan border",
+        "latlng": [
+          34,
+          71
+        ],
+        "type": "major",
+        "description": "Militant networks used cross-border routes and sanctuaries throughout the wider conflict."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Afghan Conflict",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/War_in_Afghanistan_%281992%E2%80%932001%29.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Afghan_conflict",
+        "img": "https://cdn.britannica.com/66/127566-050-2432C183/Afghan-resistance-fighters-village-forces-Soviet-1986.jpg",
+        "cap": "Afghan resistance fighters during the Soviet-Afghan War",
         "body": "The Afghan conflict is the series of events that have kept Afghanistan in a near-continuous state of armed conflict since the 1970s. Early instability followed the collapse of the Kingdom of Afghanistan in the largely non-violent 1973 coup d'état, which deposed Afghan monarch Mohammad Zahir Shah in absentia, ending his 40-year-long reign. With the concurrent establishment of the Republic of Afghanistan, headed by Mohammad Daoud Khan, the country's relatively peaceful and stable period in modern history came to an end. However, all-out fighting did not erupt until after 1978, when the Saur Revolution violently overthrew Khan's government and established the Democratic Republic of Afghanistan. Subsequent unrest over the radical reforms that were being pushed by the then-ruling People's Democratic Party of Afghanistan (PDPA) led to unprecedented violence, prompting a large-scale pro-PDPA military intervention by the Soviet Union in 1979. In the ensuing Soviet–Afghan War, the anti-Soviet Afghan mujahideen received extensive support from Pakistan, the United States, and Saudi Arabia in a joint covert effort that was dubbed Operation Cyclone."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Afghan Conflict was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.\n\nConsequences: The effects of Afghan Conflict extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.\n\nConsequences: The effects of Afghan Conflict extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites.",
         "stats": [
           {
             "val": "1978",
             "lbl": "Year"
           },
           {
-            "val": "2 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Historical detail",
+            "lbl": "The Afghan conflict is the series of events that have kept Afghanistan in a near-continuous state of armed conflict since the 1970s.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://cdn.britannica.com/66/127566-050-2432C183/Afghan-resistance-fighters-village-forces-Soviet-1986.jpg",
+        "cap": "Afghan resistance fighters during the Soviet-Afghan War"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "war-in-afghanistan-2001-2021",
@@ -143,35 +166,58 @@
     "sub": "Part of War on Terrorism",
     "view": {
       "center": [
-        50,
-        15
+        34.5,
+        69.2
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kabul",
+        "latlng": [
+          34.5553,
+          69.2075
+        ],
+        "type": "target",
+        "description": "The Afghan campaign became the first major military theater of the War on Terror."
+      },
+      {
+        "label": "Kandahar",
+        "latlng": [
+          31.6289,
+          65.7372
+        ],
+        "type": "major",
+        "description": "The Taliban's southern heartland became an early objective of the U.S.-led intervention."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "War in Afghanistan (2001–2021)",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/3840px-U.S._Army_firefight_in_Kunar.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Army_firefight_in_Kunar.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
         "body": "The war in Afghanistan was a prolonged armed conflict lasting from 2001 to 2021. It began with an invasion by a United States–led coalition under the name Operation Enduring Freedom in response to the September 11 attacks (9/11) carried out by the Taliban-allied and Afghanistan-based al-Qaeda. The Taliban were expelled from major population centers by American-led forces supporting the anti-Taliban Northern Alliance, thus toppling the Taliban-ruled Islamic Emirate. In 2004, the U.S.-backed Islamic Republic was established, but by then, the Taliban, led by founder Mullah Omar, had reorganized and begun an insurgency against the Afghan government and coalition forces. The conflict ended as the 2021 Taliban offensive reestablished the Islamic Emirate. It was the longest war in United States military history, surpassing the Vietnam War by six months."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "War in Afghanistan (2001–2021) was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.\n\nConsequences: The effects of War in Afghanistan (2001–2021) extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.\n\nConsequences: The effects of War in Afghanistan (2001–2021) extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites.",
         "stats": [
           {
             "val": "2001",
             "lbl": "Year"
           },
           {
-            "val": "3 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Outcome",
+            "lbl": "The twenty-year war ended in August 2021 when foreign forces withdrew, the Afghan republic collapsed, and the Taliban returned to power.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Army_firefight_in_Kunar.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "operation-enduring-freedom",
@@ -181,35 +227,58 @@
     "sub": "Part of War on Terrorism",
     "view": {
       "center": [
-        50,
-        15
+        33.5,
+        66
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Afghanistan",
+        "latlng": [
+          33.9,
+          67.7
+        ],
+        "type": "target",
+        "description": "Operation Enduring Freedom began the U.S.-led campaign against al-Qaeda and the Taliban."
+      },
+      {
+        "label": "Bagram",
+        "latlng": [
+          34.946,
+          69.265
+        ],
+        "type": "major",
+        "description": "Bagram became a central coalition air base and logistics hub."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Enduring Freedom",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg/3840px-U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Operation_Enduring_Freedom",
         "body": "Operation Enduring Freedom (OEF) was the official name used by the U.S. government for both the first stage (2001–2014) of the war in Afghanistan (2001–2021) and related military operations during the broader-scale global war on terrorism. On 7 October 2001, in response to the September 11 attacks, President George W. Bush announced that airstrikes against al-Qaeda and the Taliban had begun in Afghanistan. Beyond the military activities in Afghanistan, a number of U.S military command structures operating under the Operation Enduring Freedom banner were also affiliated with several counterterrorism missions in other countries, such as OEF-Philippines and OEF-Trans Sahara."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Operation Enduring Freedom was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.\n\nConsequences: The effects of Operation Enduring Freedom extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.\n\nConsequences: The effects of Operation Enduring Freedom extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites.",
         "stats": [
           {
             "val": "2001",
             "lbl": "Year"
           },
           {
-            "val": "4 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Operation Enduring Freedom (OEF) was the official name used by the U.S. government for both the first stage (2001–2014) of the war in Afghanistan (2001–2021) and related military operations during the broader-scale global war on terrorism.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Soldiers_of_the_10th_Mountain_Division_during_Operation_Enduring_Freedom.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Enduring_Freedom"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "insurgency-in-the-maghreb",
@@ -219,35 +288,58 @@
     "sub": "Part of War on Terrorism",
     "view": {
       "center": [
-        50,
-        15
+        28,
+        2.6
       ],
-      "zoom": 3
+      "zoom": 4
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Algeria",
+        "latlng": [
+          28,
+          2.6
+        ],
+        "type": "target",
+        "description": "Jihadist insurgency in Algeria and the wider Maghreb became one regional front of post-9/11 counterterrorism."
+      },
+      {
+        "label": "Sahel routes",
+        "latlng": [
+          17.6,
+          1
+        ],
+        "type": "major",
+        "description": "Militant networks moved across desert routes linking North and West Africa."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Insurgency in the Maghreb",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mapa_GSPC.svg/1280px-Mapa_GSPC.svg.png",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Mapa_GSPC.svg",
         "cap": "Source: https://en.wikipedia.org/wiki/Insurgency_in_the_Maghreb_(2002%E2%80%93present)",
-        "body": "An Islamist insurgency is taking place in the Maghreb region of North Africa, followed on from the end of the Algerian Civil War in 2002. The Algerian militant group Salafist Group for Preaching and Combat (GSPC) allied itself with al-Qaeda to eventually become al-Qaeda in the Islamic Maghreb (AQIM). The Algerian and other Maghreb governments fighting the militants have worked with the United States and the United Kingdom since 2007, when Operation Enduring Freedom – Trans Sahara began.\n\nWhy This Moment Matters: Insurgency in the Maghreb was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.",
+        "body": "An Islamist insurgency is taking place in the Maghreb region of North Africa, followed on from the end of the Algerian Civil War in 2002. The Algerian militant group Salafist Group for Preaching and Combat (GSPC) allied itself with al-Qaeda to eventually become al-Qaeda in the Islamic Maghreb (AQIM). The Algerian and other Maghreb governments fighting the militants have worked with the United States and the United Kingdom since 2007, when Operation Enduring Freedom – Trans Sahara began.",
         "stats": [
           {
             "val": "2002",
             "lbl": "Year"
           },
           {
-            "val": "5 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The Algerian and other Maghreb governments fighting the militants have worked with the United States and the United Kingdom since 2007, when Operation Enduring Freedom – Trans Sahara began.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Insurgency in the Maghreb extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of Insurgency in the Maghreb extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Mapa_GSPC.svg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Insurgency_in_the_Maghreb_(2002%E2%80%93present)"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "iraq-war",
@@ -257,78 +349,58 @@
     "sub": "Part of War on Terrorism",
     "view": {
       "center": [
-        50,
-        15
+        33.3152,
+        44.3661
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "target",
+        "description": "The Iraq War became the most controversial expansion of the War on Terror."
+      },
+      {
+        "label": "Fallujah",
+        "latlng": [
+          33.35,
+          43.78
+        ],
+        "type": "major",
+        "description": "Insurgency and urban combat in Iraq reshaped the wider campaign."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Iraq War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/UStanks_baghdad_2003.JPEG",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/UStanks_baghdad_2003.JPEG",
         "cap": "Source: https://en.wikipedia.org/wiki/Iraq_War",
-        "body": "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose against coalition forces and the newly established Iraqi government. US forces were officially withdrawn in 2011. In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency.\n\nWhy This Moment Matters: Iraq War was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.",
+        "body": "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose against coalition forces and the newly established Iraqi government. US forces were officially withdrawn in 2011. In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency.",
         "stats": [
           {
             "val": "2003",
             "lbl": "Year"
           },
           {
-            "val": "6 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Iraq War extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites. Its place in the wider campaign also influenced later military choices and political calculations."
-      }
-    ]
-  },
-  {
-    "id": "south-thailand-insurgency",
-    "year": 2004,
-    "date": "2004-01-04",
-    "title": "South Thailand insurgency",
-    "sub": "Part of War on Terrorism",
-    "view": {
-      "center": [
-        8.05923,
-        99.97559
-      ],
-      "zoom": 5
-    },
-    "markers": [
-      {
-        "label": "South Thailand insurgency",
-        "latlng": [
-          8.05923,
-          99.97559
-        ],
-        "type": "major"
+        "body": "The effects of Iraq War extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/UStanks_baghdad_2003.JPEG",
+        "cap": "Source: https://en.wikipedia.org/wiki/Iraq_War"
       }
     ],
-    "regions": [],
-    "slides": [
-      {
-        "title": "South Thailand insurgency",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Souththailandmap.svg/960px-Souththailandmap.svg.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Southern_Thailand_insurgency",
-        "body": "The Southern Thailand insurgency is an ongoing conflict centered in southern Thailand. It originated in 1948 as a separatist insurgency in the historical Malay Patani Region, made up of the three southernmost provinces of Thailand and parts of a fourth, but has become more complex and increasingly violent since the early 2000s from drug cartels, oil smuggling networks, and sometimes pirate raids.\n\nWhy This Moment Matters: South Thailand insurgency was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.\n\nConsequences: The effects of South Thailand insurgency extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites. Its place in the wider campaign also influenced later military choices and political calculations.",
-        "stats": [
-          {
-            "val": "2004",
-            "lbl": "Year"
-          },
-          {
-            "val": "7 of 8",
-            "lbl": "Existing timeline event"
-          }
-        ]
-      }
-    ]
+    "arrows": []
   },
   {
     "id": "insurgency-in-khyber-pakhtunkhwa",
@@ -338,35 +410,58 @@
     "sub": "Part of War on Terrorism",
     "view": {
       "center": [
-        50,
-        15
+        34,
+        71.5
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Khyber Pakhtunkhwa",
+        "latlng": [
+          34,
+          71.5
+        ],
+        "type": "target",
+        "description": "Militant sanctuaries and Pakistani military operations made this a major linked front."
+      },
+      {
+        "label": "Waziristan",
+        "latlng": [
+          32.9,
+          69.7
+        ],
+        "type": "major",
+        "description": "Tribal areas became key sanctuaries for Taliban and al-Qaeda-linked networks."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "insurgency in Khyber Pakhtunkhwa",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pakistani_forces_-_Flickr_-_Al_Jazeera_English.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Pakistani_forces_-_Flickr_-_Al_Jazeera_English.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Insurgency_in_Khyber_Pakhtunkhwa",
-        "body": "Since 2004, an ongoing insurgency has being fought in the Pakistani province of Khyber Pakhtunkhwa by Islamist militant groups such as the Tehrik-i-Taliban Pakistan (TTP), Jundallah, Lashkar-e-Islam (LeI), the Tehreek-e-Nafaz-e-Shariat-e-Mohammadi (TNSM), Al-Qaeda, and their Central Asian allies such as the Islamic State – Khorasan Province (ISKP), Islamic Movement of Uzbekistan, East Turkistan Movement, Emirate of Caucasus, and elements of organised crime. Before being transformed into an insurgency in 2017, the conflict was a war.\n\nWhy This Moment Matters: insurgency in Khyber Pakhtunkhwa was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The campaign sought to prevent attacks and dismantle armed networks, but expanded into wars, occupations, surveillance, and state-building efforts.",
+        "body": "Since 2004, an ongoing insurgency has being fought in the Pakistani province of Khyber Pakhtunkhwa by Islamist militant groups such as the Tehrik-i-Taliban Pakistan (TTP), Jundallah, Lashkar-e-Islam (LeI), the Tehreek-e-Nafaz-e-Shariat-e-Mohammadi (TNSM), Al-Qaeda, and their Central Asian allies such as the Islamic State – Khorasan Province (ISKP), Islamic Movement of Uzbekistan, East Turkistan Movement, Emirate of Caucasus, and elements of organised crime. Before being transformed into an insurgency in 2017, the conflict was a war.",
         "stats": [
           {
             "val": "2004",
             "lbl": "Year"
           },
           {
-            "val": "8 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Since 2004, an ongoing insurgency has being fought in the Pakistani province of Khyber Pakhtunkhwa by Islamist militant groups such as the Tehrik-i-Taliban Pakistan (TTP), Jundallah, Lashkar-e-Islam (LeI), the Tehreek-e-Nafaz-e-Shariat-e-Mohammadi (TNSM), Al-Qaeda, and their Central Asian allies such as the Islamic State – Khorasan Province (ISKP), Islamic Movement of Uzbekistan, East Turkistan Movement, Emirate of Caucasus, and elements of organised crime.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of insurgency in Khyber Pakhtunkhwa extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of insurgency in Khyber Pakhtunkhwa extended beyond its immediate result. Civilian deaths, displacement, detention abuses, terrorism, and prolonged instability affected societies far beyond the original attack sites.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Pakistani_forces_-_Flickr_-_Al_Jazeera_English.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Insurgency_in_Khyber_Pakhtunkhwa"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "international-and-human-dimensions",
@@ -376,12 +471,40 @@
     "sub": "The wider impact of the War on Terror",
     "view": {
       "center": [
-        28,
+        30,
         45
       ],
       "zoom": 3
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Afghanistan",
+        "latlng": [
+          33.9,
+          67.7
+        ],
+        "type": "target",
+        "description": "Afghanistan was the first major war zone after 9/11."
+      },
+      {
+        "label": "Iraq",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "target",
+        "description": "Iraq became the largest and most controversial expansion of the campaign."
+      },
+      {
+        "label": "Sahel and Horn of Africa",
+        "latlng": [
+          12,
+          18
+        ],
+        "type": "major",
+        "description": "Counterterrorism expanded across Africa through local partners, drones, raids, and training missions."
+      }
+    ],
     "regions": [],
     "slides": [
       {
@@ -393,9 +516,11 @@
             "lbl": "Estimated human cost",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Collage_conflicto_interno_armado_en_Colombia.jpg"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "outcome-and-legacy",
@@ -405,17 +530,47 @@
     "sub": "How the War on Terror ended and what followed",
     "view": {
       "center": [
-        28,
+        30,
         45
       ],
       "zoom": 3
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "United States",
+        "latlng": [
+          38.9,
+          -77
+        ],
+        "type": "major",
+        "description": "9/11 reshaped U.S. security institutions, law, intelligence, and foreign policy."
+      },
+      {
+        "label": "Afghanistan",
+        "latlng": [
+          33.9,
+          67.7
+        ],
+        "type": "target",
+        "description": "The Taliban returned to power in 2021, showing the limits of the original intervention."
+      },
+      {
+        "label": "Iraq and Syria",
+        "latlng": [
+          34.5,
+          41
+        ],
+        "type": "major",
+        "description": "The campaign's later fronts helped shape ISIS, coalition air wars, and regional instability."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "The End of the War on Terror",
-        "body": "Al-Qaeda's central leadership was weakened, but new groups emerged and several interventions produced long wars without stable political settlements."
+        "body": "Al-Qaeda's central leadership was weakened, but new groups emerged and several interventions produced long wars without stable political settlements.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Pakistani_forces_-_Flickr_-_Al_Jazeera_English.jpg",
+        "cap": "The outcome and legacy of the War on Terror"
       },
       {
         "title": "War Summary: War on Terror",
@@ -435,9 +590,10 @@
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pakistani_forces_-_Flickr_-_Al_Jazeera_English.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Pakistani_forces_-_Flickr_-_Al_Jazeera_English.jpg",
         "cap": "The outcome and legacy of the War on Terror"
       }
-    ]
+    ],
+    "arrows": []
   }
 ]

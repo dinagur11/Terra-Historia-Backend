@@ -1,0 +1,112 @@
+[
+  {
+    "id": "vietnam-war-1954-1",
+    "name": "Vietnam War",
+    "date": "Pre 1954",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "Vietnam War: The Viet Minh takes control of North Vietnam. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations."
+  },
+  {
+    "id": "richard-nixon-1954-2",
+    "name": "Richard Nixon",
+    "date": "April 16 1954",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Vice President Richard Nixon announces that the United States may be \"putting our own boys in Indochina regardless of Allied support\". Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D."
+  },
+  {
+    "id": "united-nations-1954-3",
+    "name": "United Nations",
+    "date": "April 16 1954",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The 1951 United Nations Convention Relating to the Status of Refugees comes into force, defining the status of refugees and setting out the basis for granting right of asylum. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "brown-v-board-of-education-1954-4",
+    "name": "Brown v. Board of Education",
+    "date": "May 16 1954",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Brown v. Board of Education (347 US 483 1954): The Supreme Court of the United States rules unanimously that segregated schools are unconstitutional. Board of Education of Topeka, 347 U.S. 483 (1954), is a landmark decision of the United States Supreme Court that ruled that U.S. state laws establishing racial segregation in public schools violate the Equal Protection Clause of the Fourteenth Amendment, even if the segregated facilities are equal in quality."
+  },
+  {
+    "id": "diane-leather-1954-5",
+    "name": "Diane Leather",
+    "date": "May 26 1954",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Diane Leather becomes the first woman to run a sub-five minute mile, in Birmingham, England. Diane Susan Leather Charles, née Leather, (7 January 1933 – 5 September 2018) was an English athlete who was the first woman to run a sub-5-minute mile. Inspired to take up running aged 19 after watching the 1952 Olympic Games, within months Leather had become national cross-country champion, a title she would go on to win four times."
+  },
+  {
+    "id": "rationing-in-the-united-kingdom-1954-6",
+    "name": "Rationing in the United Kingdom",
+    "date": "June 18 1954",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Food rationing in Great Britain ends, with the lifting of restrictions on sale and purchase of meat, 14 years after it began early in World War II, and nearly a decade after the war's end. Rationing was introduced temporarily by the British government several times during the 20th century, during and immediately after a war."
+  },
+  {
+    "id": "first-indochina-war-1954-7",
+    "name": "First Indochina War",
+    "date": "July 21 1954",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "First Indochina War: The Geneva Conference sends French forces to the south, and Vietnamese forces to the north, of a ceasefire line, and calls for elections to decide the government for all of Vietnam by July 1956. Failure to abide by the terms of the agreement leads to the establishment of the de facto regimes of North Vietnam and South Vietnam, and the Vietnam War."
+  },
+  {
+    "id": "treaty-of-brussels-1954-8",
+    "name": "Treaty of Brussels",
+    "date": "October 15 1954",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Paris Agreement sets up the Western European Union to implement the Treaty of Brussels (1948), providing for mutual self-defence and other collaboration between Belgium, France, West Germany, Italy, Luxembourg, the Netherlands and the United Kingdom. Germany is granted admission to the NATO which becomes effective in 1955."
+  },
+  {
+    "id": "texas-instruments-announces-the-development-of-the-first-commercial-tr-1954-9",
+    "name": "Texas Instruments announces the development of the first commercial trans...",
+    "date": "October 15 1954",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Texas Instruments announces the development of the first commercial transistor radio. The Regency TR-1 goes on sale the following month. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "wall-street-crash-of-1929-1954-10",
+    "name": "Wall Street Crash of 1929",
+    "date": "November 23 1954",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The Dow Jones Industrial Average rises 3.27 points, or 0.86 percent, closing at an all-time high of 382.74. More significantly, this is the first time the Dow has surpassed its peak level, reached just before the Wall Street Crash of 1929. The Wall Street crash of 1929, also known as the Great Crash, was a major stock market crash in the United States which began in October 1929 with a sharp decline in prices on the New York Stock Exchange (NYSE)."
+  }
+]

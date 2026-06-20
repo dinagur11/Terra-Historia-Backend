@@ -1,0 +1,610 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2014,
+    "date": "2014-02-20",
+    "title": "From Russo-Georgian War to Russo-Ukrainian War",
+    "sub": "Connection and background to Russo-Ukrainian War",
+    "view": {
+      "center": [
+        47.5334,
+        34.16315
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Kyiv",
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "type": "target",
+        "description": "The Revolution of Dignity in Kyiv removed Viktor Yanukovych and triggered the immediate crisis with Russia."
+      },
+      {
+        "label": "Sevastopol",
+        "latlng": [
+          44.6167,
+          33.5254
+        ],
+        "type": "major",
+        "description": "Russia's Black Sea Fleet base made Crimea central to Moscow's first military move."
+      },
+      {
+        "label": "Donetsk",
+        "latlng": [
+          48.0159,
+          37.8029
+        ],
+        "type": "major",
+        "description": "Donetsk became a center of Russian-backed separatism and the long Donbas war."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Russo-Georgian War to Russo-Ukrainian War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/1920px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg",
+        "cap": "Historical overview: From Russo-Georgian War to Russo-Ukrainian War",
+        "body": "Russia's victory in Georgia demonstrated its willingness to use force against neighboring states seeking closer Western ties. After Ukraine's Revolution of Dignity removed President Viktor Yanukovych, Russia seized Crimea and supported armed separatism in Donbas.\n\nUkraine fights for sovereignty and territorial integrity; Russia seeks control and political leverage over Ukraine while challenging the post-Cold War European security order.\n\nUkraine's Revolution of Dignity reopened the country's struggle over democratic government and alignment with Europe. The Kremlin treated the loss of influence in Kyiv as a strategic threat and answered through territorial seizure and proxy war, overturning the assumption that European borders would not be changed by force.",
+        "stats": [
+          {
+            "val": "Russo-Georgian War",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "2014-present",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "Ukraine fights for sovereignty and territorial integrity; Russia seeks control and political leverage over Ukraine while challenging the post-Cold War European security order.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "annexation-of-crimea",
+    "year": 2014,
+    "date": "2014-02-20",
+    "title": "Seizure and Annexation of Crimea",
+    "sub": "Part of Russo-Ukrainian War",
+    "view": {
+      "center": [
+        44.98335,
+        35.0627
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Simferopol",
+        "latlng": [
+          44.9521,
+          34.1024
+        ],
+        "type": "target",
+        "description": "Russian troops seized Crimea's parliament and key government sites in Simferopol."
+      },
+      {
+        "label": "Sevastopol",
+        "latlng": [
+          44.6167,
+          33.5254
+        ],
+        "type": "major",
+        "description": "The Russian fleet base anchored the operation and Crimea's strategic importance."
+      },
+      {
+        "label": "Kerch Strait",
+        "latlng": [
+          45.35,
+          36.6
+        ],
+        "type": "minor",
+        "description": "The Kerch connection later tied occupied Crimea more closely to Russia."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Seizure and Annexation of Crimea",
+        "img": "https://d3i6fh83elv35t.cloudfront.net/static/2021/11/onedge-1024x682.jpg",
+        "cap": "Visual reference for Seizure and Annexation of Crimea.",
+        "body": "Russian troops without insignia seized strategic sites in Crimea. Russia annexed the peninsula after a referendum held under occupation that was widely rejected internationally.\n\nThe operation gave Russia control of the peninsula and strengthened its Black Sea position without a prolonged initial battle. It also triggered sanctions, militarized Crimea, displaced opponents of annexation, and established the coercive model soon used in Donbas.",
+        "stats": [
+          {
+            "val": "March 2014",
+            "lbl": "Russia annexes Crimea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "war-in-donbas",
+    "year": 2014,
+    "date": "2014-04-12",
+    "title": "War in Donbas Begins",
+    "sub": "Part of Russo-Ukrainian War",
+    "view": {
+      "center": [
+        48.43455,
+        38.45655
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Sloviansk",
+        "latlng": [
+          48.8532,
+          37.6053
+        ],
+        "type": "target",
+        "description": "The seizure of Sloviansk in April 2014 marked the opening of organized armed conflict in Donbas."
+      },
+      {
+        "label": "Donetsk",
+        "latlng": [
+          48.0159,
+          37.8029
+        ],
+        "type": "major",
+        "description": "Donetsk became the political and logistical center of the self-proclaimed Donetsk People's Republic."
+      },
+      {
+        "label": "Luhansk",
+        "latlng": [
+          48.574,
+          39.3078
+        ],
+        "type": "major",
+        "description": "Luhansk became the center of the parallel separatist entity in northern Donbas."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "War in Donbas Begins",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/A_Russia-backed_rebel_armored_fighting_vehicles_convoy_near_Donetsk%2C_Eastern_Ukraine%2C_May_30%2C_2015.jpg/1920px-A_Russia-backed_rebel_armored_fighting_vehicles_convoy_near_Donetsk%2C_Eastern_Ukraine%2C_May_30%2C_2015.jpg",
+        "cap": "Visual reference for War in Donbas Begins.",
+        "body": "Russian-backed armed groups seized towns in eastern Ukraine. Ukraine launched an operation to restore control, while Russian personnel and equipment supported the separatist forces.\n\nThe seizure of Sloviansk and government buildings turned political unrest into sustained armed conflict. Russian matériel, personnel, and cross-border intervention prevented Kyiv from restoring control, while the front hardened around two unrecognized separatist entities.",
+        "stats": [
+          {
+            "val": "April 2014",
+            "lbl": "Donbas war begins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minsk-agreements",
+    "year": 2015,
+    "date": "2015-02-12",
+    "title": "Minsk II Agreement",
+    "sub": "Part of Russo-Ukrainian War",
+    "view": {
+      "center": [
+        52.15,
+        32.98
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Minsk",
+        "latlng": [
+          53.9006,
+          27.559
+        ],
+        "type": "target",
+        "description": "Ukraine, Russia, France, Germany, and OSCE representatives negotiated Minsk II here."
+      },
+      {
+        "label": "Debaltseve",
+        "latlng": [
+          48.3407,
+          38.4049
+        ],
+        "type": "major",
+        "description": "Fighting around Debaltseve continued as Minsk II was signed, exposing the ceasefire's weakness."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Minsk II Agreement",
+        "img": "https://www.brookings.edu/wp-content/uploads/2016/06/ukraine_peace_talks001.jpg?quality=50",
+        "cap": "Visual reference for Minsk II Agreement.",
+        "body": "Ukraine, Russia, France, and Germany negotiated a framework intended to stop fighting and resolve the Donbas conflict. The ceasefire reduced but never ended combat.\n\nMinsk II reduced the intensity of fighting but left sovereignty, security, elections, and border control in an intentionally disputed sequence. Because neither side accepted the other's order of implementation, the agreement managed the front without resolving the war.",
+        "stats": [
+          {
+            "val": "12 Feb 2015",
+            "lbl": "Minsk II signed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "full-scale-invasion",
+    "year": 2022,
+    "date": "2022-02-24",
+    "title": "Full-Scale Russian Invasion",
+    "sub": "Part of Russo-Ukrainian War",
+    "view": {
+      "center": [
+        48.61945,
+        33.21115
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Kyiv",
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "type": "target",
+        "description": "Russia's northern thrust aimed to seize the capital and collapse the Ukrainian government."
+      },
+      {
+        "label": "Hostomel Airport",
+        "latlng": [
+          50.6035,
+          30.1919
+        ],
+        "type": "major",
+        "description": "The airborne battle at Hostomel was central to Russia's failed plan for a rapid capture of Kyiv."
+      },
+      {
+        "label": "Kharkiv",
+        "latlng": [
+          49.9935,
+          36.2304
+        ],
+        "type": "major",
+        "description": "Ukraine held its second-largest city against the northeastern invasion axis."
+      },
+      {
+        "label": "Kherson",
+        "latlng": [
+          46.6354,
+          32.6169
+        ],
+        "type": "major",
+        "description": "Kherson became the first regional capital occupied by Russia in the full-scale invasion."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Full-Scale Russian Invasion",
+        "img": "https://www.atlanticcouncil.org/wp-content/uploads/2022/04/2022-04-17T173359Z_1852816522_RC2ZOT9TOINT_RTRMADP_3_UKRAINE-CRISIS-MARIUPOL-1024x669.jpg",
+        "cap": "Visual reference for Full-Scale Russian Invasion.",
+        "body": "Russia attacked Ukraine from multiple directions, including from Belarus, Russia, occupied Crimea, and Donbas. Ukraine resisted and prevented the rapid capture of Kyiv.\n\nRussia's failure to seize Kyiv prevented regime change and transformed the invasion into a protracted war. Ukraine mobilized society, Western states imposed sweeping sanctions and expanded arms deliveries, and NATO reinforced its eastern flank while millions of Ukrainians fled their homes.",
+        "stats": [
+          {
+            "val": "24 Feb 2022",
+            "lbl": "Full-scale invasion begins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "siege-of-mariupol",
+    "year": 2022,
+    "date": "2022-03-01",
+    "title": "Siege of Mariupol",
+    "sub": "Part of Russo-Ukrainian War",
+    "view": {
+      "center": [
+        47.10205,
+        37.5797
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Mariupol",
+        "latlng": [
+          47.0971,
+          37.5434
+        ],
+        "type": "target",
+        "description": "The encircled port city was devastated during one of the war's longest and most destructive sieges."
+      },
+      {
+        "label": "Azovstal steelworks",
+        "latlng": [
+          47.107,
+          37.616
+        ],
+        "type": "major",
+        "description": "The steelworks became the defenders' final fortified position until their surrender in May 2022."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Siege of Mariupol",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_the_downtown_of_mariupol_during_the_siege.jpg",
+        "cap": "Historical overview: Siege of Mariupol",
+        "body": "Russian forces encircled and devastated Mariupol before its remaining defenders surrendered in May. The siege secured a land corridor between Russia and occupied Crimea.\n\nCapturing Mariupol completed a Russian-controlled land corridor toward Crimea and removed a major Ukrainian port from Kyiv's control. The method of victory left the city devastated, caused immense civilian loss, and made Azovstal a symbol of resistance and captivity.",
+        "stats": [
+          {
+            "val": "Spring 2022",
+            "lbl": "City captured after destructive siege"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ukrainian-counteroffensives",
+    "year": 2022,
+    "date": "2022-09-06",
+    "title": "Kharkiv and Kherson Counteroffensives",
+    "sub": "Part of Russo-Ukrainian War",
+    "view": {
+      "center": [
+        48.04905,
+        34.9369
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Balakliia",
+        "latlng": [
+          49.4627,
+          36.8598
+        ],
+        "type": "major",
+        "description": "The breakthrough around Balakliia opened the rapid Kharkiv counteroffensive."
+      },
+      {
+        "label": "Izium",
+        "latlng": [
+          49.2128,
+          37.2569
+        ],
+        "type": "target",
+        "description": "Recapturing Izium disrupted Russia's northern Donbas logistics and demonstrated operational surprise."
+      },
+      {
+        "label": "Kherson",
+        "latlng": [
+          46.6354,
+          32.6169
+        ],
+        "type": "target",
+        "description": "Russian forces withdrew across the Dnipro and Ukraine liberated Kherson city in November 2022."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Kharkiv and Kherson Counteroffensives",
+        "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7E6VKEBWBQI63IGWIFJJTP7L2U.jpg&w=1440&impolicy=high_res",
+        "cap": "Visual reference for Kharkiv and Kherson Counteroffensives.",
+        "body": "Ukraine rapidly recaptured territory in Kharkiv Oblast and later liberated Kherson city, demonstrating that Russian occupation could be reversed.\n\nThe Kharkiv breakthrough exploited thin Russian lines and recovered a large area before defenses could reorganize. Liberation of Kherson forced Russia behind the Dnipro, encouraged further Western support, and contributed to Moscow's mobilization and construction of deeper defensive belts.",
+        "stats": [
+          {
+            "val": "11 Nov 2022",
+            "lbl": "Kherson liberated"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "attritional-war",
+    "year": 2023,
+    "date": "2023-06-01",
+    "title": "Attritional War and Western Support",
+    "sub": "Part of Russo-Ukrainian War",
+    "view": {
+      "center": [
+        48.02265,
+        36.8999
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Bakhmut",
+        "latlng": [
+          48.5953,
+          37.9998
+        ],
+        "type": "target",
+        "description": "The prolonged battle for Bakhmut became a symbol of artillery-heavy attritional warfare."
+      },
+      {
+        "label": "Avdiivka",
+        "latlng": [
+          48.139,
+          37.742
+        ],
+        "type": "major",
+        "description": "Avdiivka's fall followed months of costly attacks and pressure on Ukrainian ammunition and manpower."
+      },
+      {
+        "label": "Zaporizhzhia front",
+        "latlng": [
+          47.45,
+          35.8
+        ],
+        "type": "major",
+        "description": "Dense defenses, mines, drones, and artillery limited movement during Ukraine's 2023 counteroffensive."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Attritional War and Western Support",
+        "img": "https://i.guim.co.uk/img/media/2832a1688b9563aeb9538c34a43a7407c2f3673e/0_100_3000_1800/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8c915067014a8b3935ba98bbcd22c3e4",
+        "cap": "Visual reference for Attritional War and Western Support.",
+        "body": "The war settled into prolonged fighting shaped by trenches, drones, artillery, missile attacks, mobilization, and extensive Western military aid to Ukraine.\n\nThe front became a contest of manpower, ammunition, industrial production, drones, electronic warfare, and layered fortifications. Local gains at enormous cost replaced rapid maneuver, making outside supply and each side's ability to regenerate forces as important as any single battle.",
+        "stats": [
+          {
+            "val": "Ongoing",
+            "lbl": "War of attrition"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drone-warfare-transforms-the-front",
+    "year": 2024,
+    "date": "2024-01-01",
+    "title": "Drone Warfare Transforms the Front",
+    "sub": "A new type of warfare reshapes reconnaissance, attack, logistics, and naval operations",
+    "view": {
+      "center": [
+        47.8,
+        36.6
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Donbas front",
+        "latlng": [
+          48.1,
+          37.8
+        ],
+        "type": "target",
+        "description": "FPV drones became a primary means of attacking vehicles, trenches, artillery, and individual soldiers near the front line."
+      },
+      {
+        "label": "Kyiv",
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "type": "major",
+        "description": "Long-range one-way attack drones made air defense and civilian infrastructure protection a daily strategic problem."
+      },
+      {
+        "label": "Sevastopol",
+        "latlng": [
+          44.6167,
+          33.5254
+        ],
+        "type": "major",
+        "description": "Ukrainian naval drones challenged Russia's Black Sea Fleet and changed how ships operated around occupied Crimea."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Drone Warfare Transforms the Front",
+        "img": "https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUDYDVNQLNCF7ASHK7B6UF4U2I.jpg",
+        "cap": "Drone warfare became one of the defining military innovations of the Russo-Ukrainian War.",
+        "body": "The Russo-Ukrainian War accelerated a new form of mass drone warfare. Cheap quadcopters provided constant reconnaissance and corrected artillery fire; FPV drones attacked vehicles, trenches, antennas, and individual soldiers; larger one-way attack drones struck cities and infrastructure hundreds of kilometers away. Electronic warfare became essential for jamming navigation and control links, while both sides rapidly modified hardware and software in response. Ukraine also used naval drones against Russian ships and facilities in the Black Sea. Drones did not replace artillery, infantry, armor, or airpower, but they made the battlefield more visible, more lethal, and much harder to move across without detection.",
+        "stats": [
+          {
+            "val": "FPV drones",
+            "lbl": "Low-cost precision attack at tactical range"
+          },
+          {
+            "val": "Electronic warfare",
+            "lbl": "Jamming and adaptation became continuous"
+          },
+          {
+            "val": "Why it matters",
+            "lbl": "The war demonstrated how commercial technology, rapid production, and software iteration can reshape conventional warfare.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2026,
+    "date": "2026-06-15",
+    "title": "Conflict Summary: Russo-Ukrainian War",
+    "sub": "Final summary of Russo-Ukrainian War",
+    "view": {
+      "center": [
+        47.82505,
+        34.2117
+      ],
+      "zoom": 5
+    },
+    "markers": [
+      {
+        "label": "Kyiv",
+        "latlng": [
+          50.4501,
+          30.5234
+        ],
+        "type": "target",
+        "description": "Ukraine preserved its government and sovereignty after defeating Russia's initial drive on the capital."
+      },
+      {
+        "label": "Crimea",
+        "latlng": [
+          45.2,
+          34.3
+        ],
+        "type": "major",
+        "description": "Crimea remains occupied and central to the war's territorial and naval dimensions."
+      },
+      {
+        "label": "Donbas",
+        "latlng": [
+          48.1,
+          37.9
+        ],
+        "type": "major",
+        "description": "The Donbas front connects the war that began in 2014 to the continuing full-scale conflict."
+      },
+      {
+        "label": "Mariupol",
+        "latlng": [
+          47.0971,
+          37.5434
+        ],
+        "type": "major",
+        "description": "Mariupol represents occupation, urban destruction, civilian loss, and Russia's land corridor to Crimea."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Russo-Ukrainian War",
+        "img": "https://www.aspistrategist.org.au/wp-content/uploads/2022/10/GettyImages-1238921487.jpg",
+        "cap": "Visual reference for Conflict Summary: Russo-Ukrainian War.",
+        "body": "As of June 15, 2026, the war remains unresolved. Ukraine preserved its state and defeated Russia's initial plan for rapid conquest, while Russia occupies substantial Ukrainian territory. Military deaths across both sides are estimated in the hundreds of thousands, but no independently verified combined total exists; verified civilian deaths exceeded 13,000 by mid-2025 and the true civilian toll is higher. Millions were displaced inside and outside Ukraine, and the war produced destruction on a continental scale.\n\nTaken as a whole, the Russo-Ukrainian War demonstrates the limits of rapid conquest, the importance of external military support, and the extraordinary cost of prolonged industrial warfare. Any final assessment must distinguish verified civilian losses from disputed military estimates and recognize that the outcome remains unsettled.\n\nA cautious mid-2026 estimate places combined military and civilian deaths at roughly 300,000-400,000 or more. The exact total cannot be independently verified: both governments restrict military-loss data, outside estimates vary substantially, and civilian deaths in occupied areas are undercounted.",
+        "stats": [
+          {
+            "val": "Ongoing as of June 15, 2026",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "A cautious mid-2026 estimate places combined military and civilian deaths at roughly 300,000-400,000 or more. The exact total cannot be independently verified: both governments restrict military-loss data, outside estimates vary substantially, and civilian deaths in occupied areas are undercounted.",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "As of June 15, 2026, the war remains unresolved. Ukraine preserved its state and defeated Russia's initial plan for rapid conquest, while Russia occupies substantial Ukrainian territory. Military deaths across both sides are estimated in the hundreds of thousands, but no independently verified combined total exists; verified civilian deaths exceeded 13,000 by mid-2025 and the true civilian toll is higher. Millions were displaced inside and outside Ukraine, and the war produced destruction on a continental scale.\n\nTaken as a whole, the Russo-Ukrainian War demonstrates the limits of rapid conquest, the importance of external military support, and the extraordinary cost of prolonged industrial warfare. Any final assessment must distinguish verified civilian losses from disputed military estimates and recognize that the outcome remains unsettled.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

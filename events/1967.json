@@ -1,0 +1,112 @@
+[
+  {
+    "id": "united-nations-1967-1",
+    "name": "United Nations",
+    "date": "April 2 1967",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "A United Nations delegation arrives in Aden as its independence approaches. The delegation leaves April 7, accusing British authorities of lack of cooperation. The British say the delegation did not contact them. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "vietnam-war-1967-2",
+    "name": "Vietnam War",
+    "date": "April 15 1967",
+    "location": "New York",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Large demonstrations are held against US involvement in the Vietnam War in New York City and San Francisco. The march, organized by the National Mobilization Committee to End the War in Vietnam, from Central Park to the United Nations drew hundreds of thousands of people, including Dr. Martin Luther King Jr., Harry Belafonte, James Bevel, and Dr. Benjamin Spock, who marched and spoke at the event. A simultaneous march in San Francisco is attended by Coretta Scott King."
+  },
+  {
+    "id": "waiting-period-1967-3",
+    "name": "Waiting period",
+    "date": "May 15 1967",
+    "location": "Israel",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "The tense waiting period before the Six-Day War began as Egypt moved forces into Sinai, ordered the departure of UN peacekeepers, and closed the Straits of Tiran to Israeli shipping. Israel mobilized while diplomacy failed to resolve the crisis, and the regional confrontation escalated into war on June 5, 1967."
+  },
+  {
+    "id": "six-day-war-1967-4",
+    "name": "Six-Day War",
+    "date": "June 5 1967",
+    "location": "Israel",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "Six-Day War begins: Israel launches Operation Focus, an attack on Egyptian Air Force airfields; the allied armies of Egypt, Syria, Iraq, and Jordan invade Israel. Battle of Ammunition Hill, start of the Jordanian campaign The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "project-639-1967-5",
+    "name": "Project 639",
+    "date": "June 17 1967",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "Project 639: The People's Republic of China tests its first hydrogen bomb. 639 was the codename for China's first full-scale test of a two-staged thermonuclear device, on 17 June 1967, yielding 3.3 megatons of TNT. It followed the first two-stage thermonuclear test, at a smaller 122 kt yield, in December 1966."
+  },
+  {
+    "id": "heavy-massive-rains-and-a-landslide-at-kobe-and-kure-hiroshima-japan-k-1967-6",
+    "name": "Heavy massive rains and a landslide at Kobe and Kure, Hiroshima, Japan, k...",
+    "date": "July 5 1967",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "summary": "Heavy massive rains and a landslide at Kobe and Kure, Hiroshima, Japan, kill at least 371. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "robert-j-flynn-1967-7",
+    "name": "Robert J. Flynn",
+    "date": "August 19 1967",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "Two U.S. Navy jets stray into the airspace of the People's Republic of China following an attack on a target in North Vietnam and are shot down. Lt. Robert J. Flynn, the only survivor, is captured alive and will be held prisoner by China until 1973."
+  },
+  {
+    "id": "eugene-mccarthy-1967-8",
+    "name": "Eugene McCarthy",
+    "date": "November 29 1967",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "U.S. Senator Eugene McCarthy announces his candidacy for the Democratic Party presidential nomination, challenging incumbent President Lyndon B. Johnson over the Vietnam War. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period."
+  },
+  {
+    "id": "christiaan-barnard-1967-9",
+    "name": "Christiaan Barnard",
+    "date": "December 3 1967",
+    "location": "Africa",
+    "coordinates": {
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    "summary": "Christiaan Barnard carries out the world's first heart transplant at Groote Schuur Hospital in Cape Town, South Africa. Christiaan Neethling Barnard (8 November 1922 – 2 September 2001) was a South African cardiac surgeon who performed the world's first human-to-human heart transplant operation. On 3 December 1967, Barnard transplanted the heart of accident victim Denise Darvall into the chest of 54-year-old Louis Washkansky, who regained full consciousness and was able to talk easily with his wife, before dying 18 days later of pneumonia, largely brought on by the anti-rejection drugs that suppressed his immune system."
+  },
+  {
+    "id": "benjamin-spock-1967-10",
+    "name": "Benjamin Spock",
+    "date": "December 5 1967",
+    "location": "New York",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "In New York City, Benjamin Spock and Allen Ginsberg are arrested for protesting against the Vietnam War. Benjamin McLane Spock (May 2, 1903–March 15, 1998), widely known as Dr. Spock, was an American pediatrician, Olympic athlete, and left-wing political activist."
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2006,
+    "date": "2006-07-12",
+    "title": "From South Lebanon Conflict to 2006 Lebanon War",
+    "sub": "Connection and background to 2006 Lebanon War",
+    "view": {
+      "center": [
+        33.05,
+        35.3
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Tyre",
+        "latlng": [
+          33.2708,
+          35.2033
+        ],
+        "type": "target",
+        "description": "Southern Lebanon remained a Hezbollah launch and staging area after Israel's 2000 withdrawal."
+      },
+      {
+        "label": "Northern Israel",
+        "latlng": [
+          33.05,
+          35.3
+        ],
+        "type": "major",
+        "description": "Israeli border towns were the civilian front line of Hezbollah's rocket strategy."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From South Lebanon Conflict to 2006 Lebanon War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/Tyre_air_strike.jpg",
+        "cap": "Historical overview: From South Lebanon Conflict to 2006 Lebanon War",
+        "body": "Israel withdrew from southern Lebanon in 2000, but Hezbollah remained armed, expanded its Iranian-supplied rocket arsenal, and continued cross-border attacks. The unresolved border confrontation erupted into war after Hezbollah killed and abducted Israeli soldiers.\n\nIsrael sought to recover its soldiers, stop rocket fire on northern communities, and restore deterrence against an Iranian-backed force operating across the border.\n\nThis background is essential to understanding 2006 Lebanon War: the conflict emerged from accumulated security failures, political choices, and unresolved disputes rather than from a single isolated incident. The recorded indicators, including South Lebanon Conflict (previous conflict in this path) and 12 July-14 August 2006 (conflict period), help convey the episode's scale and the pressures facing decision-makers.",
+        "stats": [
+          {
+            "val": "South Lebanon Conflict",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "12 July-14 August 2006",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "Israel sought to recover its soldiers, stop rocket fire on northern communities, and restore deterrence against an Iranian-backed force operating across the border.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cross-border-raid",
+    "year": 2006,
+    "date": "2006-07-12",
+    "title": "Hezbollah Cross-Border Raid",
+    "sub": "Part of 2006 Lebanon War",
+    "view": {
+      "center": [
+        33.09,
+        35.24
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Zarit border area",
+        "latlng": [
+          33.09,
+          35.24
+        ],
+        "type": "major",
+        "description": "Hezbollah crossed the border, killed Israeli soldiers, and kidnapped Ehud Goldwasser and Eldad Regev."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Hezbollah Cross-Border Raid",
+        "img": "https://static-cdn.toi-media.com/www/uploads/2016/07/hezbollahraid-e1469821109554.jpg",
+        "cap": "Historical overview: Hezbollah Cross-Border Raid",
+        "body": "Hezbollah attacked an Israeli patrol, killed eight soldiers, and abducted Ehud Goldwasser and Eldad Regev. Israel responded with airstrikes and a blockade, beginning a 34-day war.\n\nThe Israeli strategic problem was that Hezbollah had used the years after the 2000 withdrawal to build a fortified rocket army on the border. The war was fought to recover kidnapped soldiers, stop rocket fire on civilians, and restore deterrence against an Iranian-backed force embedded in Lebanese villages.",
+        "stats": [
+          {
+            "val": "8 soldiers killed",
+            "lbl": "Opening attack"
+          },
+          {
+            "val": "2 soldiers abducted",
+            "lbl": "Immediate Israeli objective"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rocket-war",
+    "year": 2006,
+    "date": "2006-07-13",
+    "title": "Rocket War on Northern Israel",
+    "sub": "Part of 2006 Lebanon War",
+    "view": {
+      "center": [
+        33,
+        35.25
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Haifa",
+        "latlng": [
+          32.794,
+          34.9896
+        ],
+        "type": "major",
+        "description": "Hezbollah rocket fire reached major cities, forcing civilians into shelters across the north."
+      },
+      {
+        "label": "Kiryat Shmona",
+        "latlng": [
+          33.207,
+          35.57
+        ],
+        "type": "target",
+        "description": "Border communities absorbed repeated rocket attacks throughout the war."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Rocket War on Northern Israel",
+        "img": "https://static.dw.com/image/17300399_902.jpg",
+        "cap": "Historical overview: Rocket War on Northern Israel",
+        "body": "Hezbollah fired thousands of rockets into northern Israel, forcing civilians into shelters and displacing communities. The sustained bombardment demonstrated the strategic threat posed by large militant rocket arsenals.\n\nThe Israeli strategic problem was that Hezbollah had used the years after the 2000 withdrawal to build a fortified rocket army on the border. The war was fought to recover kidnapped soldiers, stop rocket fire on civilians, and restore deterrence against an Iranian-backed force embedded in Lebanese villages.",
+        "stats": [
+          {
+            "val": "About 4,000 rockets",
+            "lbl": "Fired at Israel"
+          },
+          {
+            "val": "Northern Israel",
+            "lbl": "Civilian front"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "air-and-naval-campaign",
+    "year": 2006,
+    "date": "2006-07-14",
+    "title": "Air and Naval Campaign",
+    "sub": "Part of 2006 Lebanon War",
+    "view": {
+      "center": [
+        33.75,
+        35.42
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Beirut",
+        "latlng": [
+          33.8938,
+          35.5018
+        ],
+        "type": "target",
+        "description": "Israeli strikes targeted Hezbollah infrastructure, command links, and supply routes."
+      },
+      {
+        "label": "Lebanese coast",
+        "latlng": [
+          33.65,
+          35.3
+        ],
+        "type": "minor",
+        "description": "The naval campaign tried to restrict arms movement and pressure Hezbollah's support system."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Air and Naval Campaign",
+        "img": "https://www.marcodilauro.com/wp-content/uploads/2015/09/MDL_LEBANON002.jpg",
+        "cap": "Historical overview: Air and Naval Campaign",
+        "body": "Israel struck Hezbollah command sites, launchers, roads, and suspected weapons routes. A Hezbollah anti-ship missile hit INS Hanit, killing four sailors and exposing an unexpected capability.\n\nThe Israeli strategic problem was that Hezbollah had used the years after the 2000 withdrawal to build a fortified rocket army on the border. The war was fought to recover kidnapped soldiers, stop rocket fire on civilians, and restore deterrence against an Iranian-backed force embedded in Lebanese villages.",
+        "stats": [
+          {
+            "val": "INS Hanit hit",
+            "lbl": "Hezbollah anti-ship missile"
+          },
+          {
+            "val": "4 sailors killed",
+            "lbl": "Naval loss"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bint-jbeil",
+    "year": 2006,
+    "date": "2006-07-24",
+    "title": "Battle of Bint Jbeil",
+    "sub": "Part of 2006 Lebanon War",
+    "view": {
+      "center": [
+        33.12,
+        35.43
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Bint Jbeil",
+        "latlng": [
+          33.12,
+          35.43
+        ],
+        "type": "major",
+        "description": "The battle exposed Hezbollah's fortified village defenses and the cost of ground combat."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Battle of Bint Jbeil",
+        "img": "https://static-cdn.toi-media.com/www/uploads/2014/11/second-lebanon-war-1024x640.jpg",
+        "cap": "Historical overview: Battle of Bint Jbeil",
+        "body": "Israeli forces fought entrenched Hezbollah units in and around Bint Jbeil. The difficult battle revealed Hezbollah's preparation, anti-tank capabilities, and ability to operate from fortified village networks.\n\nThe Israeli strategic problem was that Hezbollah had used the years after the 2000 withdrawal to build a fortified rocket army on the border. The war was fought to recover kidnapped soldiers, stop rocket fire on civilians, and restore deterrence against an Iranian-backed force embedded in Lebanese villages.",
+        "stats": [
+          {
+            "val": "Close urban combat",
+            "lbl": "Battle character"
+          },
+          {
+            "val": "Fortified positions",
+            "lbl": "Hezbollah preparation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "litani-offensive",
+    "year": 2006,
+    "date": "2006-08-11",
+    "title": "Final Push Toward the Litani",
+    "sub": "Part of 2006 Lebanon War",
+    "view": {
+      "center": [
+        33.33,
+        35.33
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Litani River",
+        "latlng": [
+          33.33,
+          35.33
+        ],
+        "type": "major",
+        "description": "Israel pushed toward the Litani to reduce rocket fire and change the ceasefire map."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Final Push Toward the Litani",
+        "img": "https://static01.nyt.com/images/2006/08/12/world/13mideast.xlarge1.jpg?quality=75&auto=webp&disable=upscale",
+        "cap": "Historical overview: Final Push Toward the Litani",
+        "body": "As diplomacy neared a ceasefire, Israel expanded ground operations toward the Litani River. The late offensive gained territory but caused significant casualties and remained controversial inside Israel.\n\nThe Israeli strategic problem was that Hezbollah had used the years after the 2000 withdrawal to build a fortified rocket army on the border. The war was fought to recover kidnapped soldiers, stop rocket fire on civilians, and restore deterrence against an Iranian-backed force embedded in Lebanese villages.",
+        "stats": [
+          {
+            "val": "Litani River",
+            "lbl": "Operational objective"
+          },
+          {
+            "val": "Late-war offensive",
+            "lbl": "Controversial decision"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "resolution-1701",
+    "year": 2006,
+    "date": "2006-08-14",
+    "title": "Ceasefire and Resolution 1701",
+    "sub": "Part of 2006 Lebanon War",
+    "view": {
+      "center": [
+        33.25,
+        35.38
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "UNIFIL sector",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "major",
+        "description": "Resolution 1701 expanded UNIFIL and called for southern Lebanon to be free of armed groups outside state control."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ceasefire and Resolution 1701",
+        "img": "https://static.srpcdigital.com/styles/1037xauto/public/2024-11/866562.jpeg.webp",
+        "cap": "Historical overview: Ceasefire and Resolution 1701",
+        "body": "UN Security Council Resolution 1701 ended major fighting, expanded UNIFIL, and called for an area south of the Litani free of unauthorized armed personnel. Hezbollah nevertheless retained and later expanded its arsenal.\n\nThe Israeli strategic problem was that Hezbollah had used the years after the 2000 withdrawal to build a fortified rocket army on the border. The war was fought to recover kidnapped soldiers, stop rocket fire on civilians, and restore deterrence against an Iranian-backed force embedded in Lebanese villages.",
+        "stats": [
+          {
+            "val": "34 days",
+            "lbl": "War duration"
+          },
+          {
+            "val": "UNSCR 1701",
+            "lbl": "Ceasefire framework"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2006,
+    "date": "2006-08-14",
+    "title": "Conflict Summary: 2006 Lebanon War",
+    "sub": "Final summary of 2006 Lebanon War",
+    "view": {
+      "center": [
+        33.11,
+        35.55
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Israel-Lebanon border",
+        "latlng": [
+          33.11,
+          35.55
+        ],
+        "type": "major",
+        "description": "The war ended with deterrence partially restored but Hezbollah still armed in Lebanon."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: 2006 Lebanon War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2006_Lebanon_War._LXXXI.jpg/250px-2006_Lebanon_War._LXXXI.jpg",
+        "cap": "Historical overview: Conflict Summary: 2006 Lebanon War",
+        "body": "Israel damaged Hezbollah and secured a long period of relative border quiet, but failed to disarm the organization or immediately recover the abducted soldiers. The war exposed weaknesses in Israeli readiness and left Hezbollah's growing missile arsenal as a future threat.\n\nTaken as a whole, 2006 Lebanon War shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Ceasefire; inconclusive military result",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "About 165 Israelis and more than 1,000 Lebanese killed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Israel damaged Hezbollah and secured a long period of relative border quiet, but failed to disarm the organization or immediately recover the abducted soldiers. The war exposed weaknesses in Israeli readiness and left Hezbollah's growing missile arsenal as a future threat.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

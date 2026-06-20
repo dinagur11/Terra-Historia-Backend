@@ -1,0 +1,112 @@
+[
+  {
+    "id": "apollo-program-1971-1",
+    "name": "Apollo program",
+    "date": "February 8 1971",
+    "location": "Moon",
+    "coordinates": {
+      "lat": 0.7,
+      "lng": 23.4
+    },
+    "summary": "Apollo program: Apollo 14 returns to Earth after the third human Moon landing. The Apollo program, also known as Project Apollo, was the United States human spaceflight program led by NASA, which landed the first humans on the Moon in 1969. Apollo was conceived in 1960 in the Dwight D."
+  },
+  {
+    "id": "vietnam-war-1971-2",
+    "name": "Vietnam War",
+    "date": "February 13 1971",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "Vietnam War: Backed by American air and artillery support, South Vietnamese troops invade Laos. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations."
+  },
+  {
+    "id": "san-francisco-1971-3",
+    "name": "San Francisco",
+    "date": "April 23 1971",
+    "location": "Washington",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "An estimated 200,000 people in Washington, D.C., and a further 125,000 in San Francisco march in protest against the Vietnam War. San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 826,079 in 2025."
+  },
+  {
+    "id": "after-a-successful-mission-aboard-salyut-1-the-worlds-first-human-occu-1971-4",
+    "name": "After a successful mission aboard Salyut 1, the world's first human-occup...",
+    "date": "June 28 1971",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "After a successful mission aboard Salyut 1, the world's first human-occupied space station, the crew of the Soyuz 11 spacecraft die after their air supply leaks out through a faulty valve. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "richard-nixon-1971-5",
+    "name": "Richard Nixon",
+    "date": "July 15 1971",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "American President Richard Nixon announces his 1972 visit to China. Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D."
+  },
+  {
+    "id": "manlio-brosio-1971-6",
+    "name": "Manlio Brosio",
+    "date": "September 2 1971",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Manlio Brosio resigns as NATO Secretary General. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "united-nations-general-assembly-1971-7",
+    "name": "United Nations General Assembly",
+    "date": "October 25 1971",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The United Nations General Assembly admits the People's Republic of China and expels the Republic of China (or Taiwan). The United Nations General Assembly (UNGA or GA) is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter."
+  },
+  {
+    "id": "vietnamization-1971-8",
+    "name": "Vietnamization",
+    "date": "November 12 1971",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War – Vietnamization: U.S. President Richard M. Nixon sets February 1, 1972, as the deadline for the removal of another 45,000 American troops from Vietnam. Vietnamization was a policy enacted in early 1969 by the Richard Nixon administration aimed at ending U.S. involvement in the Vietnam War by expanding, equipping, and training the South Vietnamese armed forces (ARVN) and increasing their combat role, while at the same reducing involvement of U.S. combat troops."
+  },
+  {
+    "id": "united-nations-security-council-1971-9",
+    "name": "United Nations Security Council",
+    "date": "November 23 1971",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The People's Republic of China takes the Republic of China's seat on the United Nations Security Council (see China and the United Nations). The United Nations Security Council (UNSC or UN Security Council) is one of the six principal organs of the United Nations, and is the United Nation’s Executive Branch having primary responsibility for the maintenance of international peace and security."
+  },
+  {
+    "id": "ray-tomlinson-1971-10",
+    "name": "Ray Tomlinson",
+    "date": "December 30 1971",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Ray Tomlinson sends the first ARPANET e-mail between host computers, in late 1971. Raymond Samuel Tomlinson (April 23, 1941 – March 5, 2016) was an American computer programmer who invented the first email program on the ARPANET system, the precursor to the Internet, in 1971; it was the first system able to send mail between users on different hosts connected to ARPANET."
+  }
+]

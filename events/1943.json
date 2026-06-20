@@ -1,0 +1,112 @@
+[
+  {
+    "id": "stalingrad-surrender-1943-1",
+    "name": "German Surrender at Stalingrad",
+    "date": "February 2 1943",
+    "location": "Stalingrad",
+    "coordinates": {
+      "lat": 48.708,
+      "lng": 44.514
+    },
+    "summary": "WWII: German Sixth Army surrenders at Stalingrad, marking a major turning point on the Eastern Front."
+  },
+  {
+    "id": "warsaw-ghetto-uprising-1943-2",
+    "name": "Warsaw Ghetto Uprising",
+    "date": "April 19 1943",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "WWII / Holocaust: Jewish resistance fighters rise against German deportation efforts in the Warsaw Ghetto."
+  },
+  {
+    "id": "tunisia-surrender-1943-3",
+    "name": "Axis Surrender in Tunisia",
+    "date": "May 13 1943",
+    "location": "Tunis",
+    "coordinates": {
+      "lat": 36.8065,
+      "lng": 10.1815
+    },
+    "summary": "WWII: Axis forces surrender in North Africa, opening the way for Allied invasion of Italy."
+  },
+  {
+    "id": "kursk-1943-4",
+    "name": "Battle of Kursk",
+    "date": "July 5 1943",
+    "location": "Kursk",
+    "coordinates": {
+      "lat": 51.7304,
+      "lng": 36.1926
+    },
+    "summary": "WWII: Germany launches its last major eastern offensive. Soviet defenses absorb the attack, and the Red Army begins the long strategic advance west."
+  },
+  {
+    "id": "sicily-1943-5",
+    "name": "Allied Invasion of Sicily",
+    "date": "July 10 1943",
+    "location": "Sicily",
+    "coordinates": {
+      "lat": 37.6,
+      "lng": 14
+    },
+    "summary": "WWII: Allied forces invade Sicily, opening the Italian campaign."
+  },
+  {
+    "id": "mussolini-falls-1943-6",
+    "name": "Fall of Mussolini",
+    "date": "July 25 1943",
+    "location": "Rome",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "WWII: Mussolini is dismissed and arrested after Italy's military disasters."
+  },
+  {
+    "id": "italian-armistice-1943-7",
+    "name": "Armistice of Cassibile",
+    "date": "September 3 1943",
+    "location": "Cassibile",
+    "coordinates": {
+      "lat": 36.98,
+      "lng": 15.2
+    },
+    "summary": "WWII: Italy signs an armistice with the Allies, but Germany occupies much of the country."
+  },
+  {
+    "id": "salerno-1943-8",
+    "name": "Allied Landings at Salerno",
+    "date": "September 9 1943",
+    "location": "Salerno",
+    "coordinates": {
+      "lat": 40.682,
+      "lng": 14.768
+    },
+    "summary": "WWII: Allied forces land on mainland Italy and face fierce German counterattacks."
+  },
+  {
+    "id": "tehran-conference-1943-9",
+    "name": "Tehran Conference",
+    "date": "November 28 1943",
+    "location": "Tehran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "summary": "WWII: Roosevelt, Churchill, and Stalin meet to coordinate strategy, including the future invasion of France."
+  },
+  {
+    "id": "soviet-advance-1943-10",
+    "name": "Soviet Advance After Kursk",
+    "date": "August-December 1943",
+    "location": "Kyiv",
+    "coordinates": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "summary": "WWII: After Kursk, Soviet forces retake major territory, including Kyiv, and seize the strategic initiative from Germany."
+  }
+]

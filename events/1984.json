@@ -1,0 +1,68 @@
+[
+  {
+    "id": "los-angeles-olympics-1984",
+    "name": "Los Angeles Olympics",
+    "date": "July 28 1984",
+    "location": "USA",
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "summary": "The Olympics were held with a Soviet-led boycott."
+  },
+  {
+    "id": "bhopal-1984",
+    "name": "Bhopal Disaster",
+    "date": "December 3 1984",
+    "location": "India",
+    "coordinates": {
+      "lat": 23.2599,
+      "lng": 77.4126
+    },
+    "summary": "A gas leak caused one of the worst industrial disasters."
+  },
+  {
+    "id": "indira-gandhi-1984",
+    "name": "Indira Gandhi Assassinated",
+    "date": "October 31 1984",
+    "location": "India",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "summary": "India’s prime minister was assassinated."
+  },
+  {
+    "id": "apple-macintosh-1984",
+    "name": "Apple Macintosh Released",
+    "date": "January 24 1984",
+    "location": "USA",
+    "coordinates": {
+      "lat": 37.3349,
+      "lng": -122.009
+    },
+    "summary": "Apple released the first Macintosh computer."
+  },
+  {
+    "id": "uk-miners-1984",
+    "name": "UK Miners' Strike",
+    "date": "March 6 1984",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 53.4808,
+      "lng": -2.2426
+    },
+    "summary": "A major labor strike impacted the UK economy."
+  },
+  {
+    "id": "big-brother-1984",
+    "name": "1984 Cultural Impact Year",
+    "date": "January 1 1984",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "George Orwell's '1984' gained renewed global attention."
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 1919,
+    "date": "1919-01-21",
+    "title": "From World War I to Irish War of Independence",
+    "sub": "Connection and background to Irish War of Independence",
+    "view": {
+      "center": [
+        52.42465,
+        -3.19255
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "General Post Office",
+        "latlng": [
+          53.3494,
+          -6.2603
+        ],
+        "type": "major",
+        "description": "The Easter Rising and executions shifted public support toward republican independence."
+      },
+      {
+        "label": "Dublin",
+        "latlng": [
+          53.3498,
+          -6.2603
+        ],
+        "type": "target",
+        "description": "Sinn Féin's electoral victory and the First Dáil gave the independence movement a rival government."
+      },
+      {
+        "label": "Westminster",
+        "latlng": [
+          51.4995,
+          -0.1248
+        ],
+        "type": "minor",
+        "description": "Britain faced a collapsing political mandate for continued rule over most of Ireland."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From World War I to Irish War of Independence",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hogan%27s_Flying_Column.gif",
+        "cap": "Visual reference for From World War I to Irish War of Independence.",
+        "body": "Ireland entered World War I with Home Rule approved but suspended. The Easter Rising of 1916 initially lacked broad support, yet Britain's execution of its leaders, mass arrests, and the later conscription crisis transformed public opinion. Sinn Féin won the 1918 election across most of the island, refused to sit at Westminster, and prepared a separate parliament in Dublin. The coming conflict therefore joined two contests: whether an Irish republic could function as a government, and whether the IRA could make British administration impossible to sustain.",
+        "stats": [
+          {
+            "val": "World War I",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "1919-1921",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "What was at stake",
+            "lbl": "Irish republicans sought an independent republic; Britain sought to preserve the union while confronting a decentralized guerrilla campaign and a collapsing political mandate.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soloheadbeg",
+    "year": 1919,
+    "date": "1919-01-21",
+    "title": "Soloheadbeg Ambush and the First Dail",
+    "sub": "Part of Irish War of Independence",
+    "view": {
+      "center": [
+        52.90895,
+        -7.2123
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Soloheadbeg",
+        "latlng": [
+          52.477,
+          -8.166
+        ],
+        "type": "target",
+        "description": "IRA volunteers killed two RIC officers in the ambush commonly treated as the war's opening action."
+      },
+      {
+        "label": "Mansion House, Dublin",
+        "latlng": [
+          53.3409,
+          -6.2586
+        ],
+        "type": "major",
+        "description": "The First Dáil met and declared Irish independence on the same day."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Soloheadbeg Ambush and the First Dail",
+        "img": "https://www.theirishstory.com/wp-content/uploads/2014/05/Dan-Breen.jpg",
+        "cap": "Visual reference for Soloheadbeg Ambush and the First Dail.",
+        "body": "At Soloheadbeg, IRA volunteers including Dan Breen and Seán Treacy ambushed a gelignite escort and killed two Royal Irish Constabulary officers. On the same day, elected Sinn Féin representatives assembled at Dublin's Mansion House as the First Dáil and declared an Irish republic. The coincidence joined an armed challenge in rural Tipperary to a rival claim of national government in Dublin.",
+        "stats": [
+          {
+            "val": "21 Jan 1919",
+            "lbl": "Symbolic beginning of the war"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guerrilla-campaign",
+    "year": 1919,
+    "date": "1919-09-01",
+    "title": "IRA Guerrilla Campaign",
+    "sub": "Part of Irish War of Independence",
+    "view": {
+      "center": [
+        52.6249,
+        -7.43015
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "County Cork",
+        "latlng": [
+          51.9,
+          -8.6
+        ],
+        "type": "target",
+        "description": "Tom Barry's West Cork Brigade became one of the most effective IRA flying-column commands."
+      },
+      {
+        "label": "County Tipperary",
+        "latlng": [
+          52.55,
+          -7.9
+        ],
+        "type": "major",
+        "description": "Tipperary was an early center of barracks attacks and rural guerrilla activity."
+      },
+      {
+        "label": "Dublin",
+        "latlng": [
+          53.3498,
+          -6.2603
+        ],
+        "type": "major",
+        "description": "Michael Collins's intelligence network targeted British agents and protected the underground government."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "IRA Guerrilla Campaign",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/West_Connemara_Flying_Column_1922.jpg",
+        "cap": "Visual reference for IRA Guerrilla Campaign.",
+        "body": "The IRA avoided a conventional front and built a decentralized war around ambushes, raids on barracks, attacks on intelligence networks, and mobile flying columns. County brigades exploited local knowledge and civilian support, while Michael Collins's Dublin network penetrated British security operations. The campaign did not defeat Britain in open battle; it made policing, administration, and intelligence increasingly costly and unreliable.",
+        "stats": [
+          {
+            "val": "Flying columns",
+            "lbl": "Mobile IRA units"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "black-and-tans",
+    "year": 1920,
+    "date": "1920-03-25",
+    "title": "Black and Tans and Auxiliaries",
+    "sub": "Part of Irish War of Independence",
+    "view": {
+      "center": [
+        52.75325,
+        -7.3293
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Cork",
+        "latlng": [
+          51.8985,
+          -8.4756
+        ],
+        "type": "target",
+        "description": "Auxiliaries burned much of central Cork after an IRA ambush in December 1920."
+      },
+      {
+        "label": "Balbriggan",
+        "latlng": [
+          53.608,
+          -6.183
+        ],
+        "type": "major",
+        "description": "Black and Tan reprisals burned homes and businesses after the killing of police officers."
+      },
+      {
+        "label": "Trim",
+        "latlng": [
+          53.555,
+          -6.7917
+        ],
+        "type": "major",
+        "description": "Reprisals against towns demonstrated the coercive logic and political cost of British counterinsurgency."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Black and Tans and Auxiliaries",
+        "img": "https://www.theirishwar.com/wp-content/uploads/2012/03/black-Tans1.jpg",
+        "cap": "Visual reference for Black and Tans and Auxiliaries.",
+        "body": "Britain reinforced the Royal Irish Constabulary with the Black and Tans and the Auxiliary Division. These forces increased mobility and firepower, but reprisals, arson, beatings, and killings punished communities suspected of supporting the IRA. Destruction at Balbriggan, Trim, Cork, and elsewhere weakened Britain's moral position and helped the republican movement portray the conflict as a struggle against uncontrolled coercion.",
+        "stats": [
+          {
+            "val": "1920",
+            "lbl": "Counterinsurgency intensifies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bloody-sunday",
+    "year": 1920,
+    "date": "1920-11-21",
+    "title": "Bloody Sunday",
+    "sub": "Part of Irish War of Independence",
+    "view": {
+      "center": [
+        53.35135,
+        -6.2593
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Croke Park",
+        "latlng": [
+          53.3607,
+          -6.2511
+        ],
+        "type": "target",
+        "description": "Crown forces fired into a football crowd, killing fourteen civilians."
+      },
+      {
+        "label": "Dublin city center",
+        "latlng": [
+          53.342,
+          -6.26
+        ],
+        "type": "major",
+        "description": "Earlier that morning, IRA teams killed members of the British intelligence network at several addresses."
+      },
+      {
+        "label": "Dublin Castle",
+        "latlng": [
+          53.343,
+          -6.2675
+        ],
+        "type": "major",
+        "description": "The castle remained the center of British administration and security operations."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Bloody Sunday",
+        "img": "https://c.files.bbci.co.uk/12511/production/_115552057_gettyimages-82143779.jpg",
+        "cap": "Visual reference for Bloody Sunday.",
+        "body": "On the morning of 21 November 1920, Michael Collins's intelligence organization attacked British intelligence officers at addresses across Dublin. That afternoon, Crown forces opened fire at a Gaelic football match in Croke Park, killing fourteen civilians; later, three republican prisoners died in Dublin Castle. The day exposed the centrality of intelligence and demonstrated how quickly covert warfare could produce public massacre.",
+        "stats": [
+          {
+            "val": "21 Nov 1920",
+            "lbl": "Escalatory turning point"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "burning-of-cork",
+    "year": 1920,
+    "date": "1920-12-11",
+    "title": "Burning of Cork",
+    "sub": "Crown-force reprisals devastate the commercial center",
+    "view": {
+      "center": [
+        51.899,
+        -8.475
+      ],
+      "zoom": 11
+    },
+    "markers": [
+      {
+        "label": "St Patrick's Street",
+        "latlng": [
+          51.8986,
+          -8.4729
+        ],
+        "type": "target",
+        "description": "Fires destroyed major shops and commercial premises along Cork's principal street."
+      },
+      {
+        "label": "Dillon's Cross",
+        "latlng": [
+          51.913,
+          -8.459
+        ],
+        "type": "major",
+        "description": "An IRA ambush on an Auxiliary patrol here preceded the reprisals later that night."
+      },
+      {
+        "label": "Cork City Hall",
+        "latlng": [
+          51.897,
+          -8.465
+        ],
+        "type": "major",
+        "description": "City Hall and the adjoining Carnegie Free Library were among the public buildings destroyed."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Burning of Cork",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Burning_of_Cork_%289713428703%29.jpg/1920px-The_Burning_of_Cork_%289713428703%29.jpg",
+        "cap": "Cork's commercial center after Crown-force reprisals in December 1920.",
+        "body": "On the night of 11-12 December 1920, members of the Auxiliary Division and other Crown forces looted and burned buildings across central Cork after an IRA ambush at Dillon's Cross. Large sections of St Patrick's Street, City Hall, and the Carnegie Free Library were destroyed while firefighters struggled to contain the flames. The reprisal caused enormous economic damage and became international evidence that British counterinsurgency was punishing entire communities rather than isolating the IRA.",
+        "stats": [
+          {
+            "val": "11-12 Dec 1920",
+            "lbl": "Night of the burning"
+          },
+          {
+            "val": "Crown-force reprisal",
+            "lbl": "Cause and character"
+          },
+          {
+            "val": "Why it matters",
+            "lbl": "The destruction strengthened republican propaganda, intensified criticism in Britain, and demonstrated the political cost of collective punishment.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "custom-house",
+    "year": 1921,
+    "date": "1921-05-25",
+    "title": "Burning of the Custom House",
+    "sub": "Part of Irish War of Independence",
+    "view": {
+      "center": [
+        53.348,
+        -6.253
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Custom House, Dublin",
+        "latlng": [
+          53.348,
+          -6.253
+        ],
+        "type": "target",
+        "description": "The IRA burned the administrative landmark but lost many experienced volunteers to arrest."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Burning of the Custom House",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/19210525_-_Dublin_-_Agence_Rol_02.jpg",
+        "cap": "Historical overview: Burning of the Custom House",
+        "body": "The IRA attacked and burned Dublin's Custom House, a highly visible center of British administration. The fire produced dramatic publicity and demonstrated that republican forces could strike in the capital, but British troops surrounded the area and arrested more than one hundred participants and suspects. The operation damaged a symbol of government while costing the Dublin Brigade many experienced volunteers.",
+        "stats": [
+          {
+            "val": "25 May 1921",
+            "lbl": "Major Dublin operation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "truce-and-treaty",
+    "year": 1921,
+    "date": "1921-12-06",
+    "title": "Truce and Anglo-Irish Treaty",
+    "sub": "Part of Irish War of Independence",
+    "view": {
+      "center": [
+        53.05035,
+        -3.19395
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Dublin",
+        "latlng": [
+          53.3498,
+          -6.2603
+        ],
+        "type": "major",
+        "description": "The truce ended active operations while the republican movement debated acceptable terms."
+      },
+      {
+        "label": "10 Downing Street",
+        "latlng": [
+          51.5034,
+          -0.1276
+        ],
+        "type": "target",
+        "description": "British and Irish delegations negotiated and signed the Anglo-Irish Treaty in London."
+      },
+      {
+        "label": "Belfast",
+        "latlng": [
+          54.5973,
+          -5.9301
+        ],
+        "type": "major",
+        "description": "Northern Ireland remained in the United Kingdom, making partition central to the settlement."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Truce and Anglo-Irish Treaty",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Prayer_vigil_outside_the_Anglo-Irish_Treaty_negotiations%2C_July_1921.jpg/1920px-Prayer_vigil_outside_the_Anglo-Irish_Treaty_negotiations%2C_July_1921.jpg",
+        "cap": "Crowds holding a prayer vigil outside Whitehall, while negotiations are underway inside.",
+        "body": "The truce of 11 July 1921 stopped active operations after neither side found a politically acceptable military solution. Negotiations in London produced the Anglo-Irish Treaty, granting dominion status to the Irish Free State while retaining the Crown, treaty ports, and the option for Northern Ireland to remain in the United Kingdom. The agreement ended the war with Britain but divided the republican movement and led directly to civil war.",
+        "stats": [
+          {
+            "val": "6 Dec 1921",
+            "lbl": "Treaty signed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 1921,
+    "date": "1921-12-06",
+    "title": "Conflict Summary: Irish War of Independence",
+    "sub": "Final summary of Irish War of Independence",
+    "view": {
+      "center": [
+        53.24865,
+        -7.26505
+      ],
+      "zoom": 6
+    },
+    "markers": [
+      {
+        "label": "Dublin",
+        "latlng": [
+          53.3498,
+          -6.2603
+        ],
+        "type": "target",
+        "description": "Dublin was the center of the underground republic, intelligence war, and treaty debate."
+      },
+      {
+        "label": "County Cork",
+        "latlng": [
+          51.9,
+          -8.6
+        ],
+        "type": "major",
+        "description": "The southern guerrilla war made large rural areas difficult for British forces to administer."
+      },
+      {
+        "label": "Belfast",
+        "latlng": [
+          54.5973,
+          -5.9301
+        ],
+        "type": "major",
+        "description": "Partition left Northern Ireland within the United Kingdom and preserved a fundamental political dispute."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Irish War of Independence",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Crowd_at_Mansion_House_Dublin_ahead_of_War_of_Independence_truce_July_8_1921.jpg",
+        "cap": "Visual reference for Conflict Summary: Irish War of Independence.",
+        "body": "The guerrilla war made continued British rule over most of Ireland politically and militarily unsustainable. The Anglo-Irish Treaty created the Irish Free State but accepted partition, dominion status, and an oath to the Crown, disagreements that led directly to the Irish Civil War. Roughly 2,300 people were killed, including IRA volunteers, British soldiers, police, and civilians, while reprisals, imprisonment, economic disruption, and sectarian violence affected many more.",
+        "stats": [
+          {
+            "val": "Anglo-Irish Treaty and creation of the Irish Free State",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "Human cost",
+            "lbl": "Roughly 2,300 combatants and civilians killed",
+            "full": true
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "The guerrilla war made continued British rule over most of Ireland politically and militarily unsustainable. The Anglo-Irish Treaty created the Irish Free State but accepted partition, dominion status, and an oath to the Crown, disagreements that led directly to the Irish Civil War. Roughly 2,300 people were killed, including IRA volunteers, British soldiers, police, and civilians, while reprisals, imprisonment, economic disruption, and sectarian violence affected many more.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

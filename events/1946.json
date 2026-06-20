@@ -1,0 +1,112 @@
+[
+  {
+    "id": "allies-of-world-war-ii-1946-1",
+    "name": "Allies of World War II",
+    "date": "January 7 1946",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The Allies of World War II recognize the Austrian republic with its 1937 borders, and divide the country into four occupation zones. The Allies, or Allied powers, formally referred to as the United Nations from 1942, were an international military coalition formed during World War II (1939–1945) to oppose the Axis powers."
+  },
+  {
+    "id": "treaty-of-london-1946-2",
+    "name": "Treaty of London",
+    "date": "March 22 1946",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "The United Kingdom grants the British protectorate of the Emirate of Transjordan (later known as Jordan) its independence by the Treaty of London. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  },
+  {
+    "id": "league-of-nations-1946-3",
+    "name": "League of Nations",
+    "date": "April 17 1946",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "The League of Nations, in its last meeting, transfers its mission to the United Nations and disbands itself. The League of Nations (LN or LoN; French: Société des Nations [sɔsjete de nɑsjɔ̃], SdN) was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. It was founded on 10 January 1920 by the Paris Peace Conference that ended the First World War."
+  },
+  {
+    "id": "kinderdorf-pestalozzi-1946-4",
+    "name": "Kinderdorf Pestalozzi",
+    "date": "April 28 1946",
+    "location": "Kinderdorf Pestalozzi",
+    "coordinates": {
+      "lat": 47.40388889,
+      "lng": 9.46
+    },
+    "summary": "Kinderdorf Pestalozzi (Pestalozzi Children's Village) is established at Trogen, Switzerland to accommodate and educate orphans of World War II, according to Johann Heinrich Pestalozzi's principles. Kinderdorf Pestalozzi (lit. 'Pestalozzi Children’s Village') is a non-profit organization located in Trogen, Canton Appenzell. It was named after the Swiss education pioneer Johann Heinrich Pestalozzi."
+  },
+  {
+    "id": "ion-antonescu-1946-5",
+    "name": "Ion Antonescu",
+    "date": "May 31 1946",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "Ion Antonescu, prime minister and \"Conducator\" (Leader) of Romania during World War II, is executed: he was found guilty of betraying the Romanian people for the benefit of Germany and sentenced to death by the Bucharest People's Tribunal."
+  },
+  {
+    "id": "1946-italian-institutional-referendum-1946-6",
+    "name": "1946 Italian institutional referendum",
+    "date": "June 2 1946",
+    "location": "Italy",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "1946 Italian institutional referendum: Italians vote to turn Italy from a monarchy into a republic. In the simultaneous 1946 Italian general election, the first since the end of World War II and also the first in which women are allowed to vote, the Christian Democracy party, led by Prime Minister Alcide De Gasperi, wins most seats in the Constituent Assembly of Italy and forms a coalition government. Christian Democracy leads the Italian government continuously until 1981."
+  },
+  {
+    "id": "irgun-1946-7",
+    "name": "Irgun",
+    "date": "July 21 1946",
+    "location": "Jerusalem",
+    "coordinates": {
+      "lat": 31.7683,
+      "lng": 35.2137
+    },
+    "summary": "An Irgun bomb explodes in Jerusalem, during secretive talks between Jews and Britain to consolidate the state of Israel. The Irgun (Hebrew: ארגון), officially the National Military Organization in the Land of Israel, often abbreviated as Etzel or IZL (אצ״ל), was a Zionist paramilitary organization that operated in Mandatory Palestine between 1931 and 1948."
+  },
+  {
+    "id": "nuclear-testing-1946-8",
+    "name": "Nuclear testing",
+    "date": "July 22 1946",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Nuclear testing: In the first underwater test of the atomic bomb, the surplus is sunk near Bikini Atoll in the Pacific Ocean, when the United States detonates the Baker device during Operation Crossroads. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "united-nations-1946-9",
+    "name": "United Nations",
+    "date": "November 4 1946",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "UNESCO (the United Nations Educational, Scientific and Cultural Organization) is established as a specialized agency of the United Nations. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "unicef-1946-10",
+    "name": "UNICEF",
+    "date": "December 11 1946",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "UNICEF (the United Nations International Children's Emergency Fund) is founded. UNICEF ( YOO-nee-SEF), originally the United Nations International Children's Emergency Fund, officially United Nations Children's Fund since 1953, is an agency of the United Nations responsible for providing humanitarian and developmental aid to children worldwide. The organization is one of the most widely known and visible social welfare entities globally, operating in 192 countries and territories."
+  }
+]

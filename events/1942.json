@@ -1,0 +1,112 @@
+[
+  {
+    "id": "wannsee-1942-1",
+    "name": "Wannsee Conference",
+    "date": "January 20 1942",
+    "location": "Berlin",
+    "coordinates": {
+      "lat": 52.433,
+      "lng": 13.165
+    },
+    "summary": "WWII / Holocaust: Nazi officials coordinate the implementation of the Final Solution."
+  },
+  {
+    "id": "fall-of-singapore-1942-2",
+    "name": "Fall of Singapore",
+    "date": "February 15 1942",
+    "location": "Singapore",
+    "coordinates": {
+      "lat": 1.3521,
+      "lng": 103.8198
+    },
+    "summary": "WWII: Japan captures Singapore, one of Britain's greatest military defeats."
+  },
+  {
+    "id": "bataan-1942-3",
+    "name": "Bataan Death March",
+    "date": "April 1942",
+    "location": "Bataan",
+    "coordinates": {
+      "lat": 14.6417,
+      "lng": 120.4818
+    },
+    "summary": "WWII: Japanese forces force American and Filipino prisoners on a brutal march after the fall of Bataan."
+  },
+  {
+    "id": "coral-sea-1942-4",
+    "name": "Battle of the Coral Sea",
+    "date": "May 4 1942",
+    "location": "Coral Sea",
+    "coordinates": {
+      "lat": -15,
+      "lng": 155
+    },
+    "summary": "WWII: Allied naval forces halt Japan's move toward Port Moresby in the first carrier battle fought beyond visual range."
+  },
+  {
+    "id": "midway-1942-5",
+    "name": "Battle of Midway",
+    "date": "June 4 1942",
+    "location": "Midway Atoll",
+    "coordinates": {
+      "lat": 28.2072,
+      "lng": -177.3735
+    },
+    "summary": "WWII: The U.S. Navy defeats a major Japanese carrier force, shifting the balance in the Pacific."
+  },
+  {
+    "id": "first-el-alamein-1942-6",
+    "name": "First Battle of El Alamein",
+    "date": "July 1 1942",
+    "location": "El Alamein",
+    "coordinates": {
+      "lat": 30.8333,
+      "lng": 28.95
+    },
+    "summary": "WWII: British forces stop Axis advance toward Egypt and the Suez Canal."
+  },
+  {
+    "id": "guadalcanal-1942-7",
+    "name": "Guadalcanal Campaign Begins",
+    "date": "August 7 1942",
+    "location": "Guadalcanal",
+    "coordinates": {
+      "lat": -9.577,
+      "lng": 160.145
+    },
+    "summary": "WWII: U.S. Marines land on Guadalcanal, beginning a decisive campaign in the Solomon Islands."
+  },
+  {
+    "id": "stalingrad-1942-8",
+    "name": "Battle of Stalingrad Begins",
+    "date": "August 23 1942",
+    "location": "Stalingrad",
+    "coordinates": {
+      "lat": 48.708,
+      "lng": 44.514
+    },
+    "summary": "WWII: German forces attack Stalingrad, beginning a brutal urban battle on the Volga."
+  },
+  {
+    "id": "second-el-alamein-1942-9",
+    "name": "Second Battle of El Alamein",
+    "date": "October 23 1942",
+    "location": "El Alamein",
+    "coordinates": {
+      "lat": 30.8333,
+      "lng": 28.95
+    },
+    "summary": "WWII: Montgomery's Eighth Army defeats Rommel's forces, turning the North African campaign."
+  },
+  {
+    "id": "operation-torch-1942-10",
+    "name": "Operation Torch",
+    "date": "November 8 1942",
+    "location": "Casablanca",
+    "coordinates": {
+      "lat": 33.5731,
+      "lng": -7.5898
+    },
+    "summary": "WWII: Allied forces land in French North Africa, opening a new front against Axis forces."
+  }
+]

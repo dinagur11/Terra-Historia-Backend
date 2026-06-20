@@ -1,0 +1,112 @@
+[
+  {
+    "id": "peoples-republic-of-china-1950-1",
+    "name": "People's Republic of China",
+    "date": "January 6 1950",
+    "location": "China",
+    "coordinates": {
+      "lat": 35,
+      "lng": 103
+    },
+    "summary": "The United Kingdom recognizes the People's Republic of China; the Republic of China severs diplomatic relations with Britain in response. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "finland-forms-diplomatic-relations-with-the-peoples-republic-of-china-1950-2",
+    "name": "Finland forms diplomatic relations with the People's Republic of China",
+    "date": "January 13 1950",
+    "location": "Finland",
+    "coordinates": {
+      "lat": 60.1699,
+      "lng": 24.9384
+    },
+    "summary": "Finland forms diplomatic relations with the People's Republic of China. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "nuclear-weapon-1950-3",
+    "name": "Nuclear weapon",
+    "date": "January 26 1950",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "United States President Harry S. Truman orders the development of the hydrogen bomb, in response to the detonation of the Soviet Union's first atomic bomb in 1949. A nuclear weapon is an explosive device that derives its destructive force from nuclear reactions, either nuclear fission (fission or atomic bomb) or a combination of fission and nuclear fusion reactions (thermonuclear weapon), producing a nuclear explosion."
+  },
+  {
+    "id": "klaus-fuchs-is-convicted-in-london-of-spying-against-both-britain-and--1950-4",
+    "name": "Klaus Fuchs is convicted in London of spying against both Britain and the...",
+    "date": "February 1950",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Klaus Fuchs is convicted in London of spying against both Britain and the United States for the Soviet Union, by giving to the latter top secret atomic bomb data. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "united-nations-1950-5",
+    "name": "United Nations",
+    "date": "February 1950",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The Ad Hoc Committee on Slavery of the United Nations is formally inaugurated with its first meeting at Lake Success in February 1950. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "cold-war-1950-6",
+    "name": "Cold War",
+    "date": "February 14 1950",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "Cold War: The Soviet Union and the People's Republic of China sign a mutual defense treaty (terminated in 1979). The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc. It began in the aftermath of the Second World War and ended with the dissolution of the Soviet Union in 1991."
+  },
+  {
+    "id": "unrwa-1950-7",
+    "name": "UNRWA",
+    "date": "May 1 1950",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "UNRWA, the United Nations Relief and Works Agency for Palestine Refugees in the Near East, begins operations. The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA, pronounced ) is a UN agency that supports the relief and human development of Palestinian refugees. UNRWA's mandate encompasses Palestinians who fled or were expelled during the Nakba, the 1948 Palestine war, and subsequent conflicts, as well as their descendants, including legally adopted children."
+  },
+  {
+    "id": "bodo-league-massacre-1950-8",
+    "name": "Bodo League massacre",
+    "date": "June 28 1950",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Korean War: Bodo League massacre begins: South Korean armed forces and police summarily execute at least 100,000 suspected North Korean sympathizers. The Bodo League massacre (Korean: 보도연맹 학살; Hanja: 保導聯盟虐殺) was the mass killing of alleged communists and communist sympathizers by South Korean forces in the summer of 1950, during the Korean War."
+  },
+  {
+    "id": "bloody-gulch-massacre-1950-9",
+    "name": "Bloody Gulch massacre",
+    "date": "August 6 1950",
+    "location": "Global",
+    "coordinates": {
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    "summary": "Korean War: Bloody Gulch massacre – 75 U.S. soldiers are executed after being captured in battle by North Korea. The Bloody Gulch massacre was a war crime that took place in the Korean War on August 12, 1950, in \"Bloody Gulch\", west of Masan, South Korea. After a successful attack on two US artillery battalions that killed or injured hundreds of US soldiers, North Korea's Korean People's Army (KPA) 13th Regiment then killed 75 US Army prisoners of war."
+  },
+  {
+    "id": "korean-war-1950-10",
+    "name": "Korean War",
+    "date": "November 26 1950",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "Korean War: Troops from the People's Republic of China launch a massive counterattack against South Korean and United Nations forces at the Battle of the Ch'ongch'on River and the Battle of Chosin Reservoir, dashing any hopes for a quick end to the conflict. The Korean War (25 June 1950 – 27 July 1953) was an armed conflict fought on the Korean Peninsula between North Korea (Democratic People's Republic of Korea; DPRK) and South Korea (Republic of Korea; ROK) and their allies."
+  }
+]

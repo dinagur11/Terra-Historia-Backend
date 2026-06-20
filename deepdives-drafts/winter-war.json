@@ -1,7 +1,7 @@
 [
   {
     "id": "molotov-ribbentrop-shadow",
-    "year": "1939",
+    "year": 1939,
     "date": "August - October 1939",
     "title": "Finland in Stalin's Shadow",
     "sub": "Security Demands After the Nazi-Soviet Pact",
@@ -19,7 +19,8 @@
           24.9384
         ],
         "label": "Helsinki",
-        "type": "target"
+        "type": "target",
+        "description": "Helsinki marks Finland's capital as Soviet pressure increased after the Molotov-Ribbentrop Pact."
       },
       {
         "latlng": [
@@ -27,7 +28,8 @@
           30.3351
         ],
         "label": "Leningrad",
-        "type": "minor"
+        "type": "minor",
+        "description": "Leningrad marks the Soviet security concern used to demand Finnish border concessions."
       },
       {
         "latlng": [
@@ -35,7 +37,8 @@
           30
         ],
         "label": "Karelian Isthmus",
-        "type": "minor"
+        "type": "minor",
+        "description": "The Karelian Isthmus marks the disputed border zone between Finland and Leningrad."
       }
     ],
     "regions": [
@@ -101,8 +104,8 @@
       {
         "title": "A Small State Beside a Giant",
         "body": "After Germany and the Soviet Union divided Eastern Europe into spheres of influence, Finland faced growing Soviet pressure. Stalin wanted territory and bases to push the frontier away from Leningrad, which lay dangerously close to the Finnish border.\n\nNegotiations Fail: Finland refused Soviet demands that would have weakened its defenses on the Karelian Isthmus. Moscow offered land elsewhere in exchange, but Finnish leaders feared that accepting would open the door to domination or occupation.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Finland_and_the_Soviet_Union_1939.svg",
-        "cap": "Finland and the Soviet Union on the eve of the Winter War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
+        "cap": "Historical connection: Rise of the Soviet Union",
         "stats": [
           {
             "val": "Aug 1939",
@@ -136,7 +139,7 @@
   },
   {
     "id": "mainila-invasion",
-    "year": "1939",
+    "year": 1939,
     "date": "26 - 30 November 1939",
     "title": "Shelling of Mainila and Soviet Invasion",
     "sub": "The War Begins",
@@ -154,7 +157,8 @@
           29.95
         ],
         "label": "Mainila area",
-        "type": "target"
+        "type": "target",
+        "description": "The Mainila area marks the shelling incident Moscow used as a pretext for invasion."
       },
       {
         "latlng": [
@@ -162,7 +166,8 @@
           24.9384
         ],
         "label": "Helsinki",
-        "type": "minor"
+        "type": "minor",
+        "description": "Helsinki marks the Finnish capital attacked from the air as the war opened."
       },
       {
         "latlng": [
@@ -170,56 +175,16 @@
           30.3351
         ],
         "label": "Leningrad",
-        "type": "minor"
+        "type": "minor",
+        "description": "Leningrad marks the Soviet base area near the invasion front."
       }
     ],
-    "regions": [
-      {
-        "id": "initial-soviet-invasion-fronts",
-        "label": "Initial Soviet invasion fronts",
-        "color": "#c0392b",
-        "opacity": 0.18,
-        "coordinates": [
-          [
-            28,
-            69.5
-          ],
-          [
-            31.5,
-            69
-          ],
-          [
-            32.5,
-            64
-          ],
-          [
-            31.5,
-            60
-          ],
-          [
-            29.5,
-            59
-          ],
-          [
-            27,
-            61.5
-          ],
-          [
-            27,
-            66
-          ],
-          [
-            28,
-            69.5
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "The Mainila Incident",
         "body": "The Soviet Union claimed Finnish artillery had shelled the village of Mainila near the border. Finland denied responsibility and proposed an investigation. Moscow instead used the incident to renounce non-aggression agreements and justify war.\n\nRed Army Crosses the Border: On 30 November 1939, Soviet forces attacked along a long frontier from the Arctic to the Gulf of Finland. Soviet leaders expected a quick collapse. Instead, Finland mobilized a desperate national defense against an enemy with far greater numbers.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Winter_War_map.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Shells_addressed_to_Mainila.jpg/250px-Shells_addressed_to_Mainila.jpg",
         "cap": "Soviet invasion routes during the Winter War",
         "stats": [
           {
@@ -250,11 +215,93 @@
           }
         ]
       }
+    ],
+    "arrows": [
+      {
+        "id": "karelian-isthmus",
+        "label": "Toward Viipuri",
+        "color": "#c0392b",
+        "coordinates": [
+          [
+            30.35,
+            59.95
+          ],
+          [
+            29.95,
+            60.25
+          ],
+          [
+            29.2,
+            60.7
+          ],
+          [
+            28.75,
+            60.71
+          ]
+        ]
+      },
+      {
+        "id": "ladoga-karelia",
+        "label": "Toward Ladoga Karelia",
+        "color": "#c0392b",
+        "coordinates": [
+          [
+            32.4,
+            61.2
+          ],
+          [
+            31.3,
+            61.4
+          ],
+          [
+            30.2,
+            61.7
+          ]
+        ]
+      },
+      {
+        "id": "central-finland",
+        "label": "Toward Suomussalmi",
+        "color": "#c0392b",
+        "coordinates": [
+          [
+            31.6,
+            64
+          ],
+          [
+            30.2,
+            64.6
+          ],
+          [
+            28.9,
+            64.9
+          ]
+        ]
+      },
+      {
+        "id": "salla-front",
+        "label": "Toward Salla",
+        "color": "#c0392b",
+        "coordinates": [
+          [
+            31.2,
+            66.4
+          ],
+          [
+            29.5,
+            66.7
+          ],
+          [
+            28.65,
+            66.83
+          ]
+        ]
+      }
     ]
   },
   {
     "id": "mannerheim-line",
-    "year": "1939",
+    "year": 1939,
     "date": "December 1939 - February 1940",
     "title": "Defense of the Mannerheim Line",
     "sub": "Finland Holds the Isthmus",
@@ -272,7 +319,8 @@
           29
         ],
         "label": "Mannerheim Line",
-        "type": "target"
+        "type": "target",
+        "description": "The Mannerheim Line marks Finland's main defensive belt on the Karelian Isthmus."
       },
       {
         "latlng": [
@@ -280,7 +328,8 @@
           28.7528
         ],
         "label": "Viipuri / Vyborg",
-        "type": "minor"
+        "type": "minor",
+        "description": "Viipuri / Vyborg marks the key city behind the Finnish defensive line."
       },
       {
         "latlng": [
@@ -288,7 +337,8 @@
           29.3
         ],
         "label": "Summa sector",
-        "type": "minor"
+        "type": "minor",
+        "description": "The Summa sector marks the strongest Soviet pressure point against the Mannerheim Line."
       }
     ],
     "regions": [
@@ -329,7 +379,7 @@
       {
         "title": "A Thin Line Against Mass",
         "body": "The Mannerheim Line was not an impenetrable fortress, but a patchwork of bunkers, trenches, lakes, forests, and field defenses. Finnish troops used terrain, camouflage, and discipline to blunt Soviet assaults on the Karelian Isthmus.\n\nThe Soviet Assault Stalls: Early Red Army attacks were poorly coordinated and suffered from weak reconnaissance, rigid command, and Finnish anti-tank tactics. The defenders lacked heavy equipment, but they bought precious time and shocked the outside world.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Mannerheim_Line_map.png",
+        "img": "https://i.ytimg.com/vi/U5tHkDk4IIE/maxresdefault.jpg",
         "cap": "The Mannerheim Line on the Karelian Isthmus",
         "stats": [
           {
@@ -364,7 +414,7 @@
   },
   {
     "id": "suomussalmi-raate",
-    "year": "1939",
+    "year": 1939,
     "date": "December 1939 - January 1940",
     "title": "Suomussalmi and Raate Road",
     "sub": "Motti Warfare in the Forest",
@@ -382,7 +432,8 @@
           28.91
         ],
         "label": "Suomussalmi",
-        "type": "target"
+        "type": "target",
+        "description": "Suomussalmi marks the Finnish victory that destroyed Soviet formations in central Finland."
       },
       {
         "latlng": [
@@ -390,7 +441,8 @@
           29.35
         ],
         "label": "Raate Road",
-        "type": "minor"
+        "type": "minor",
+        "description": "Raate Road marks the narrow road where Finnish motti tactics trapped Soviet columns."
       }
     ],
     "regions": [
@@ -431,7 +483,7 @@
       {
         "title": "Cutting the Columns",
         "body": "In the forests of central Finland, Soviet divisions advanced along narrow roads where vehicles could not easily maneuver. Finnish ski troops split long columns into isolated pockets called mottis, then destroyed them piece by piece.\n\nA Legendary Finnish Victory: The battles of Suomussalmi and Raate Road became symbols of Finnish skill and Soviet failure. Small Finnish units defeated much larger formations by exploiting winter, terrain, local knowledge, and Red Army confusion.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Raate_Road_after_battle.jpg",
+        "img": "https://battlefieldtravels.com/wp-content/uploads/2024/06/26232567_10155944258704477_1540845561015313497_o.jpg",
         "cap": "Destroyed Soviet equipment on Raate Road",
         "stats": [
           {
@@ -466,7 +518,7 @@
   },
   {
     "id": "salla-kollaa",
-    "year": "1939",
+    "year": 1939,
     "date": "December 1939 - March 1940",
     "title": "Salla and Kollaa",
     "sub": "The Northern and Eastern Fronts Hold",
@@ -484,7 +536,8 @@
           28.6667
         ],
         "label": "Salla",
-        "type": "target"
+        "type": "target",
+        "description": "Salla marks the northern front where Soviet forces tried to cut across Finland."
       },
       {
         "latlng": [
@@ -492,7 +545,8 @@
           31.3
         ],
         "label": "Kollaa River",
-        "type": "target"
+        "type": "target",
+        "description": "The Kollaa River marks the defensive stand remembered as 'Kollaa holds.'"
       },
       {
         "latlng": [
@@ -500,52 +554,16 @@
           25.4651
         ],
         "label": "Oulu",
-        "type": "minor"
+        "type": "minor",
+        "description": "Oulu marks the strategic target Soviet advances threatened to cut Finland in two."
       }
     ],
-    "regions": [
-      {
-        "id": "eastern-front-winter-war",
-        "label": "Eastern Finland defense zones",
-        "color": "#2980b9",
-        "opacity": 0.16,
-        "coordinates": [
-          [
-            28,
-            67.5
-          ],
-          [
-            31.5,
-            67
-          ],
-          [
-            32,
-            62
-          ],
-          [
-            31.5,
-            61
-          ],
-          [
-            29,
-            61.5
-          ],
-          [
-            27.6,
-            65
-          ],
-          [
-            28,
-            67.5
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "Holding in the Wilderness",
         "body": "Soviet attacks in northern and eastern Finland sought to cut the country in half and threaten key communications. Finnish defenders used delay, ambush, and winter mobility to slow stronger forces across huge distances.\n\nKollaa Holds: At Kollaa, Finnish troops resisted repeated Soviet attacks with limited ammunition and manpower. The phrase Kollaa kestaa - Kollaa holds - became a symbol of stubborn national defense under extreme pressure.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Winter_War_northern_front_map.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/A_Finnish_guard_during_the_Battle_of_Salla.jpg/960px-A_Finnish_guard_during_the_Battle_of_Salla.jpg",
         "cap": "Northern and eastern fronts during the Winter War",
         "stats": [
           {
@@ -580,7 +598,7 @@
   },
   {
     "id": "international-reaction",
-    "year": "1939",
+    "year": 1939,
     "date": "December 1939 - February 1940",
     "title": "International Reaction",
     "sub": "Sympathy, Volunteers, and Limited Help",
@@ -598,7 +616,8 @@
           18.0686
         ],
         "label": "Stockholm",
-        "type": "target"
+        "type": "target",
+        "description": "Stockholm marks Sweden's central role in volunteers, supplies, and diplomacy."
       },
       {
         "latlng": [
@@ -606,7 +625,8 @@
           -0.1278
         ],
         "label": "London",
-        "type": "minor"
+        "type": "minor",
+        "description": "London marks British debate over aid and possible intervention."
       },
       {
         "latlng": [
@@ -614,52 +634,16 @@
           2.3522
         ],
         "label": "Paris",
-        "type": "minor"
+        "type": "minor",
+        "description": "Paris marks French support planning during the Winter War."
       }
     ],
-    "regions": [
-      {
-        "id": "aid-route-scandinavia",
-        "label": "Scandinavian aid route",
-        "color": "#f1c40f",
-        "opacity": 0.14,
-        "coordinates": [
-          [
-            10,
-            58
-          ],
-          [
-            18,
-            60
-          ],
-          [
-            25,
-            64
-          ],
-          [
-            25,
-            66
-          ],
-          [
-            17,
-            63
-          ],
-          [
-            9,
-            59
-          ],
-          [
-            10,
-            58
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "The World Cheers Finland",
         "body": "Finland's resistance drew wide sympathy in Europe and the United States. Newspapers celebrated Finnish courage, volunteers traveled from neighboring countries, and aid campaigns raised money and supplies, though direct military help remained limited.\n\nSoviet Union Expelled: The League of Nations condemned the invasion and expelled the Soviet Union in December 1939. Britain and France considered intervention through Scandinavia, but plans were slow, politically complex, and never arrived before the war ended.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_Winter_War_volunteers.jpg",
+        "img": "https://i.imgur.com/WMqkRLJ.jpg",
         "cap": "Foreign volunteers and aid became part of Finland's wartime story",
         "stats": [
           {
@@ -694,7 +678,7 @@
   },
   {
     "id": "soviet-reorganization",
-    "year": "1940",
+    "year": 1940,
     "date": "January - February 1940",
     "title": "Soviet Reorganization",
     "sub": "The Red Army Learns the Hard Way",
@@ -712,7 +696,8 @@
           29.3
         ],
         "label": "Summa",
-        "type": "target"
+        "type": "target",
+        "description": "Summa marks the sector where renewed Soviet tactics began breaking Finnish defenses."
       },
       {
         "latlng": [
@@ -720,7 +705,8 @@
           28.7528
         ],
         "label": "Viipuri / Vyborg",
-        "type": "minor"
+        "type": "minor",
+        "description": "Viipuri / Vyborg marks the city threatened by the reorganized Soviet offensive."
       }
     ],
     "regions": [
@@ -761,7 +747,7 @@
       {
         "title": "More Guns, Better Coordination",
         "body": "After humiliating failures, Soviet commanders reorganized. They concentrated artillery, improved infantry-tank cooperation, and attacked narrower sectors with overwhelming force. The Red Army still paid heavily, but it began to adapt.\n\nThe Line Begins to Crack: Finnish units were exhausted, short of reserves, and under constant bombardment. Soviet attacks finally broke key positions on the Karelian Isthmus. Finland's battlefield skill could not fully compensate for the imbalance in men and material.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Soviet_artillery_Winter_War.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg",
         "cap": "Soviet artillery became central to the February offensive",
         "stats": [
           {
@@ -796,7 +782,7 @@
   },
   {
     "id": "viborg-crisis",
-    "year": "1940",
+    "year": 1940,
     "date": "February - March 1940",
     "title": "Viipuri Crisis",
     "sub": "Finland Nears the Limit",
@@ -814,7 +800,8 @@
           28.7528
         ],
         "label": "Viipuri / Vyborg",
-        "type": "target"
+        "type": "target",
+        "description": "Viipuri / Vyborg marks the crisis point as Finnish defenses neared exhaustion."
       },
       {
         "latlng": [
@@ -822,7 +809,8 @@
           28.6
         ],
         "label": "Viipuri Bay",
-        "type": "minor"
+        "type": "minor",
+        "description": "Viipuri Bay marks the frozen-water approach used in the final Soviet attacks."
       }
     ],
     "regions": [
@@ -863,7 +851,7 @@
       {
         "title": "The Fight Reaches Viipuri",
         "body": "As Soviet pressure mounted, fighting approached Viipuri, Finland's second-largest city. Soviet forces crossed frozen waters and pushed around Finnish defenses, threatening to turn a retreat into a wider collapse.\n\nMilitary Reality Forces Diplomacy: Finland had won admiration but not enough support to continue indefinitely. Commanders warned that the army could not hold much longer. The government reopened peace talks, knowing the terms would be harsh.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Viipuri_Winter_War.jpg",
+        "img": "https://warfarehistorynetwork.com/wp-content/uploads/2016/11/M-WinterWar-1-4C-Jun11-crop.jpg",
         "cap": "Viipuri became the focus of the war's final crisis",
         "stats": [
           {
@@ -898,7 +886,7 @@
   },
   {
     "id": "moscow-peace",
-    "year": "1940",
+    "year": 1940,
     "date": "12 - 13 March 1940",
     "title": "Moscow Peace Treaty",
     "sub": "Independence Preserved, Territory Lost",
@@ -916,7 +904,8 @@
           37.6173
         ],
         "label": "Moscow",
-        "type": "target"
+        "type": "target",
+        "description": "Moscow marks the treaty negotiations that ended the Winter War."
       },
       {
         "latlng": [
@@ -924,7 +913,8 @@
           28.7528
         ],
         "label": "Viipuri / Vyborg",
-        "type": "minor"
+        "type": "minor",
+        "description": "Viipuri / Vyborg marks territory Finland ceded to the Soviet Union."
       },
       {
         "latlng": [
@@ -932,48 +922,16 @@
           24.9384
         ],
         "label": "Helsinki",
-        "type": "minor"
+        "type": "minor",
+        "description": "Helsinki marks the Finnish government accepting peace while preserving independence."
       }
     ],
-    "regions": [
-      {
-        "id": "territory-ceded-1940",
-        "label": "Territory ceded to USSR",
-        "color": "#c0392b",
-        "opacity": 0.18,
-        "coordinates": [
-          [
-            27,
-            62
-          ],
-          [
-            31.5,
-            61.8
-          ],
-          [
-            31,
-            60
-          ],
-          [
-            29.2,
-            59.5
-          ],
-          [
-            27.4,
-            60
-          ],
-          [
-            27,
-            62
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "A Harsh Peace",
         "body": "The Moscow Peace Treaty ended the war on 13 March 1940. Finland ceded the Karelian Isthmus, Viipuri, territories around Lake Ladoga, and other areas. The price was severe, but Finland remained independent.\n\nEvacuation and Loss: Hundreds of thousands of Finns left ceded territories rather than live under Soviet rule. The territorial loss became a national wound and shaped Finland's next decisions as Europe moved deeper into World War II.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow_Peace_Treaty_1940_map.svg",
+        "img": "https://secure-images.rarenewspapers.com/ebayimgs/2.7.2012/image008.jpg",
         "cap": "Territories ceded by Finland after the Winter War",
         "stats": [
           {
@@ -1008,7 +966,7 @@
   },
   {
     "id": "legacy",
-    "year": "1940",
+    "year": 1940,
     "date": "1940 and After",
     "title": "Legacy of the Winter War",
     "sub": "A Small Country Changes the Calculus",
@@ -1026,7 +984,8 @@
           24.9384
         ],
         "label": "Helsinki",
-        "type": "target"
+        "type": "target",
+        "description": "Helsinki marks Finland's survival as an independent state after the war."
       },
       {
         "latlng": [
@@ -1034,7 +993,8 @@
           30.3351
         ],
         "label": "Leningrad",
-        "type": "minor"
+        "type": "minor",
+        "description": "Leningrad marks the Soviet security objective that shaped the war's legacy."
       }
     ],
     "regions": [
@@ -1083,7 +1043,7 @@
       {
         "title": "Sisu and Survival",
         "body": "Finland's defense became associated with sisu - endurance, grit, and determination under impossible pressure. The country lost territory but preserved its sovereignty, army, political system, and sense of national unity.\n\nLessons for Europe: The war exposed weaknesses in the Red Army after Stalin's purges, but also showed that the Soviet Union could learn and concentrate overwhelming force. Germany watched closely, drawing dangerous conclusions before launching its own invasion of the USSR in 1941.",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_soldier_Winter_War.jpg",
+        "img": "https://media.iwm.org.uk/ciim5/31/414/super_000000.jpg",
         "cap": "Finnish soldier during the Winter War",
         "stats": [
           {
@@ -1116,8 +1076,8 @@
       },
       {
         "title": "War Summary: Winter War",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Destroyed_Soviet_tank_Winter_War.jpg",
-        "cap": "The end and legacy of the Winter War",
+        "img": "https://media.iwm.org.uk/ciim5/31/414/super_000000.jpg",
+        "cap": "Finnish soldier during the Winter War",
         "body": "Finland preserved its independence but ceded significant territory. The Soviet Union won its territorial demands at enormous cost, while Finland prepared for the possibility of renewed war.",
         "stats": [
           {

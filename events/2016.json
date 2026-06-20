@@ -1,0 +1,68 @@
+[
+  {
+    "id": "brexit-2016",
+    "name": "Brexit Referendum",
+    "date": "June 23 2016",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "The UK voted to leave the European Union."
+  },
+  {
+    "id": "trump-2016",
+    "name": "Donald Trump Elected",
+    "date": "November 8 2016",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Donald Trump was elected U.S. president."
+  },
+  {
+    "id": "rio-olympics-2016",
+    "name": "Rio Olympics",
+    "date": "August 5 2016",
+    "location": "Brazil",
+    "coordinates": {
+      "lat": -22.9068,
+      "lng": -43.1729
+    },
+    "summary": "Brazil hosted the Summer Olympics."
+  },
+  {
+    "id": "aleppo-2016",
+    "name": "Battle of Aleppo Ends",
+    "date": "December 22 2016",
+    "location": "Syria",
+    "coordinates": {
+      "lat": 36.2021,
+      "lng": 37.1343
+    },
+    "summary": "Syrian forces recaptured Aleppo."
+  },
+  {
+    "id": "zika-2016",
+    "name": "Zika Virus Outbreak",
+    "date": "February 1 2016",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The WHO declared Zika a public health emergency."
+  },
+  {
+    "id": "panama-papers-2016",
+    "name": "Panama Papers Leak",
+    "date": "April 3 2016",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Leaked documents exposed global financial corruption."
+  }
+]

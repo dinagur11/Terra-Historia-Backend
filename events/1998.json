@@ -1,0 +1,68 @@
+[
+  {
+    "id": "google-founded-1998",
+    "name": "Google Founded",
+    "date": "September 4 1998",
+    "location": "USA",
+    "coordinates": {
+      "lat": 37.422,
+      "lng": -122.0841
+    },
+    "summary": "Google was officially founded."
+  },
+  {
+    "id": "good-friday-1998",
+    "name": "Good Friday Agreement",
+    "date": "April 10 1998",
+    "location": "Northern Ireland",
+    "coordinates": {
+      "lat": 54.5973,
+      "lng": -5.9301
+    },
+    "summary": "A peace agreement helped end decades of conflict."
+  },
+  {
+    "id": "india-nuclear-1998",
+    "name": "India Nuclear Tests",
+    "date": "May 11 1998",
+    "location": "India",
+    "coordinates": {
+      "lat": 27,
+      "lng": 71
+    },
+    "summary": "India conducted nuclear weapons tests."
+  },
+  {
+    "id": "pakistan-nuclear-1998",
+    "name": "Pakistan Nuclear Tests",
+    "date": "May 28 1998",
+    "location": "Pakistan",
+    "coordinates": {
+      "lat": 28,
+      "lng": 65
+    },
+    "summary": "Pakistan conducted nuclear tests in response to India."
+  },
+  {
+    "id": "clinton-impeachment-1998",
+    "name": "Clinton Impeached",
+    "date": "December 19 1998",
+    "location": "USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "President Bill Clinton was impeached by the House."
+  },
+  {
+    "id": "titanic-1998",
+    "name": "Titanic Film Wins Oscars",
+    "date": "March 23 1998",
+    "location": "USA",
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "summary": "Titanic won 11 Academy Awards."
+  }
+]

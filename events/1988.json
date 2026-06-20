@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pan-am-1988",
+    "name": "Lockerbie Bombing",
+    "date": "December 21 1988",
+    "location": "Scotland",
+    "coordinates": {
+      "lat": 55.1236,
+      "lng": -3.356
+    },
+    "summary": "A bomb destroyed Pan Am Flight 103, killing 270 people."
+  },
+  {
+    "id": "iran-iraq-end-1988",
+    "name": "Iran–Iraq War Ends",
+    "date": "August 20 1988",
+    "location": "Iran / Iraq",
+    "coordinates": {
+      "lat": 32,
+      "lng": 47
+    },
+    "summary": "A ceasefire ended the long Iran–Iraq War."
+  },
+  {
+    "id": "seoul-olympics-1988",
+    "name": "Seoul Olympics",
+    "date": "September 17 1988",
+    "location": "South Korea",
+    "coordinates": {
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    "summary": "South Korea hosted the Summer Olympics."
+  },
+  {
+    "id": "ussr-afghanistan-1988",
+    "name": "Soviet Withdrawal from Afghanistan Begins",
+    "date": "May 15 1988",
+    "location": "Afghanistan",
+    "coordinates": {
+      "lat": 34.5553,
+      "lng": 69.2075
+    },
+    "summary": "The USSR began withdrawing troops from Afghanistan."
+  },
+  {
+    "id": "benazir-1988",
+    "name": "Benazir Bhutto Elected",
+    "date": "December 2 1988",
+    "location": "Pakistan",
+    "coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "summary": "Bhutto became the first female leader of a Muslim-majority country."
+  },
+  {
+    "id": "ipcc-1988",
+    "name": "IPCC Established",
+    "date": "November 6 1988",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The Intergovernmental Panel on Climate Change was created."
+  }
+]

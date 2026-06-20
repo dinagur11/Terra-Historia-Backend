@@ -7,12 +7,22 @@
     "sub": "UN and United States intervention front",
     "view": {
       "center": [
-        50,
-        15
+        37.5665,
+        126.978
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          37.5665,
+          126.978
+        ],
+        "label": "Seoul",
+        "type": "target",
+        "description": "Seoul marks the South Korean capital seized by North Korean forces in the opening days of the Korean War."
+      }
+    ],
     "regions": [],
     "slides": [
       {
@@ -42,9 +52,9 @@
       },
       {
         "title": "First Battle of Seoul",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/SNK_MAP_I_1000W.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/First_Battle_of_Seoul",
-        "body": "The First Battle of Seoul, known in North Korean historiography as the Liberation of Seoul, was the North Korean capture of the South Korean capital, Seoul, during June 1950 at the start of the Korean War. South Korea's capital fell quickly, showing Washington and the UN that the invasion was not a border incident but an attempt to destroy the Republic of Korea.\n\nWhy It Matters: First Battle of Seoul should be understood through the decisions it forced on United Nations / United States. It forced the US-led coalition to treat Korea as a test of collective security after World War II. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+        "cap": "Historical connection: Division after Japanese surrender",
+        "body": "The First Battle of Seoul, known in North Korean historiography as the Liberation of Seoul, was the North Korean capture of the South Korean capital, Seoul, during June 1950 at the start of the Korean War. South Korea's capital fell quickly, showing Washington and the UN that the invasion was not a border incident but an attempt to destroy the Republic of Korea.\n\nIt forced the US-led coalition to treat Korea as a test of collective security after World War II.",
         "stats": [
           {
             "val": "25-28 Jun 1950",
@@ -59,7 +69,7 @@
             "lbl": "South Korean government retreats"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It forced the US-led coalition to treat Korea as a test of collective security after World War II.",
             "full": true
           }
@@ -87,14 +97,15 @@
           37.185,
           127.053
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Osan marks the first ground combat between U.S. forces and North Korean troops in July 1950."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Osan",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Osan_Bazooka_Team.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Osan_Bazooka_Team.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Osan",
         "body": "The Battle of Osan was the first engagement between the United States and North Korea during the Korean War. On July 5, 1950, Task Force Smith, an American task force of 540 infantry supported by an artillery battery, was moved to Osan, south of Seoul, the capital of South Korea, and was ordered to fight as a rearguard to delay the advancing North Korean forces while more US troops arrived to form a stronger defensive line to the south. The task force lacked both anti-tank guns and effective infantry anti-tank weapons and had been equipped with obsolete rocket launchers and a few 57 mm recoilless rifles. Aside from a limited number of HEAT shells for the unit's 105 mm howitzers, crew-served weapons that could defeat T-34/85 tanks from the Soviet Union had not yet been distributed to the US Army forces in South Korea. Task Force Smith was the first American ground action in Korea, and its defeat exposed how unprepared US occupation-era forces were for armored war.",
         "stats": [
@@ -111,15 +122,15 @@
             "lbl": "US anti-tank weapons prove weak"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It shocked American commanders into rushing reinforcements and rebuilding combat readiness.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "Battle of Osan should be understood through the decisions it forced on United Nations / United States. It shocked American commanders into rushing reinforcements and rebuilding combat readiness. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "title": "The Wider Impact",
+        "body": "It shocked American commanders into rushing reinforcements and rebuilding combat readiness.",
         "stats": [
           {
             "val": "~540 US troops",
@@ -134,11 +145,13 @@
             "lbl": "US anti-tank weapons prove weak"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It shocked American commanders into rushing reinforcements and rebuilding combat readiness.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Osan_Bazooka_Team.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Osan"
       }
     ]
   },
@@ -162,16 +175,17 @@
           36.47472222,
           127.27277778
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Taejon marks the delaying battle where U.S. and South Korean forces tried to slow the North Korean advance."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Taejon",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/US_Retreat_from_Taejon.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Retreat_from_Taejon.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Taejon",
-        "body": "The Battle of Taejon was an early battle of the Korean War, between U.S. and North Korean forces. Forces of the United States Army attempted to defend the headquarters of the 24th Infantry Division. The 24th Infantry Division was overwhelmed by numerically superior forces of the Korean People's Army (KPA) at the major city and transportation hub of Daejon. The 24th Infantry Division's regiments were already exhausted from the previous two weeks of delaying actions to stem the advance of the KPA. Taejon bought time at great cost while US and South Korean forces tried to slow the North Korean advance toward the southeast.\n\nWhy It Matters: Battle of Taejon should be understood through the decisions it forced on United Nations / United States. It helped delay the collapse long enough for the Pusan Perimeter defense to form. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "body": "The Battle of Taejon was an early battle of the Korean War, between U.S. and North Korean forces. Forces of the United States Army attempted to defend the headquarters of the 24th Infantry Division. The 24th Infantry Division was overwhelmed by numerically superior forces of the Korean People's Army (KPA) at the major city and transportation hub of Daejon. The 24th Infantry Division's regiments were already exhausted from the previous two weeks of delaying actions to stem the advance of the KPA. Taejon bought time at great cost while US and South Korean forces tried to slow the North Korean advance toward the southeast.\n\nIt helped delay the collapse long enough for the Pusan Perimeter defense to form.",
         "stats": [
           {
             "val": "14-21 Jul 1950",
@@ -186,7 +200,7 @@
             "lbl": "Helped form Pusan defense"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It helped delay the collapse long enough for the Pusan Perimeter defense to form.",
             "full": true
           }
@@ -214,16 +228,17 @@
           36.428511,
           127.295006
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Tunam marks the massacre site near Daejeon during the early Korean War."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Tunam massacre",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Felhoelter.JPG",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Felhoelter.JPG",
         "cap": "Source: https://en.wikipedia.org/wiki/Chaplain%E2%80%93Medic_massacre",
-        "body": "The Chaplain–Medic massacre took place in the Korean War on July 16, 1950, on a mountain above the village of Tuman. South Korean local natives claim that it took place on a mountain above the village of Yongdam-ri, which is next to Duman-ri. Thirty unarmed, critically wounded United States Army (US) soldiers and an unarmed chaplain were murdered by members of the Korean People's Army (KPA) during the Battle of the Kum River. For UN forces, atrocities against prisoners and civilians hardened the sense that the war was ideological as well as territorial.\n\nWhy It Matters: Tunam massacre should be understood through the decisions it forced on United Nations / United States. It deepened the moral urgency of the intervention and shaped later memories of the war's brutality. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "body": "The Chaplain–Medic massacre took place in the Korean War on July 16, 1950, on a mountain above the village of Tuman. South Korean local natives claim that it took place on a mountain above the village of Yongdam-ri, which is next to Duman-ri. Thirty unarmed, critically wounded United States Army (US) soldiers and an unarmed chaplain were murdered by members of the Korean People's Army (KPA) during the Battle of the Kum River. For UN forces, atrocities against prisoners and civilians hardened the sense that the war was ideological as well as territorial.\n\nIt deepened the moral urgency of the intervention and shaped later memories of the war's brutality.",
         "stats": [
           {
             "val": "1950",
@@ -238,7 +253,7 @@
             "lbl": "Hardened UN resolve"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It deepened the moral urgency of the intervention and shaped later memories of the war's brutality.",
             "full": true
           }
@@ -266,16 +281,17 @@
           35.1,
           129.040277777
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The Pusan Perimeter marks the southeastern defensive line that held until the Inchon landing."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Pusan Perimeter",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/27th_Infantry_Regiment_soldiers_at_the_Pusan_Perimeter%2C_September_4%2C_1950.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/27th_Infantry_Regiment_soldiers_at_the_Pusan_Perimeter%2C_September_4%2C_1950.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_the_Pusan_Perimeter",
-        "body": "The Battle of the Pusan Perimeter, known in Korean as the Battle of the Naktong River Defense Line, was a large-scale battle between United Nations Command (UN) and North Korean forces lasting from August 4 to September 18, 1950. It was one of the first major engagements of the Korean War. An army of 140,000 UN troops, having been pushed south to the brink of defeat, were rallied to make a final stand against the invading Korean People's Army (KPA), 98,000 men strong. The Pusan Perimeter became the last major defensive line for South Korea and the UN command.\n\nWhy It Matters: Battle of Pusan Perimeter should be understood through the decisions it forced on United Nations / United States. It prevented total defeat and created the base from which the UN counteroffensive could begin. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "body": "The Battle of the Pusan Perimeter, known in Korean as the Battle of the Naktong River Defense Line, was a large-scale battle between United Nations Command (UN) and North Korean forces lasting from August 4 to September 18, 1950. It was one of the first major engagements of the Korean War. An army of 140,000 UN troops, having been pushed south to the brink of defeat, were rallied to make a final stand against the invading Korean People's Army (KPA), 98,000 men strong. The Pusan Perimeter became the last major defensive line for South Korea and the UN command.\n\nIt prevented total defeat and created the base from which the UN counteroffensive could begin.",
         "stats": [
           {
             "val": "Aug-Sep 1950",
@@ -290,7 +306,7 @@
             "lbl": "Critical defensive advantage"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It prevented total defeat and created the base from which the UN counteroffensive could begin.",
             "full": true
           }
@@ -318,16 +334,17 @@
           37.476111111,
           126.602777777
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Inchon marks the amphibious landing that reversed the early course of the Korean War."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Inchon",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Battle_of_Inchon.png",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Inchon.png",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Inchon",
-        "body": "The Battle of Inchon, also called Inchon landing, was an amphibious invasion and a battle of the Korean War that resulted in a decisive victory and strategic reversal in favor of the United Nations Command (UN). The operation involved some 75,000 troops and 261 naval vessels and led to the recapture of the South Korean capital of Seoul two weeks later. The code name for the Incheon operation was Operation Chromite. Inchon was MacArthur's high-risk amphibious landing behind North Korean lines.\n\nWhy It Matters: Battle of Inchon should be understood through the decisions it forced on United Nations / United States. It reversed the war's momentum and restored Seoul, proving that the UN command could move from survival to initiative. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "body": "The Battle of Inchon, also called Inchon landing, was an amphibious invasion and a battle of the Korean War that resulted in a decisive victory and strategic reversal in favor of the United Nations Command (UN). The operation involved some 75,000 troops and 261 naval vessels and led to the recapture of the South Korean capital of Seoul two weeks later. The code name for the Incheon operation was Operation Chromite. Inchon was MacArthur's high-risk amphibious landing behind North Korean lines.\n\nIt reversed the war's momentum and restored Seoul, proving that the UN command could move from survival to initiative.",
         "stats": [
           {
             "val": "15 Sep 1950",
@@ -342,7 +359,7 @@
             "lbl": "Extreme landing constraint"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It reversed the war's momentum and restored Seoul, proving that the UN command could move from survival to initiative.",
             "full": true
           }
@@ -370,14 +387,15 @@
           39.71,
           125.84
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The Ch'ongch'on River marks the Chinese counteroffensive that drove UN forces back south."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of the Ch'ongch'on River",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Second_Phase_Campaign.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Second_Phase_Campaign.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_the_Ch'ongch'on_River",
         "body": "The Battle of the Ch'ongch'on River, also known as the Battle of the Ch'ongch'on, was a battle in the Korean War that took place from November 25 to December 2, 1950, along the Ch'ongch'on River Valley in the northwestern part of North Korea. In response to the successful Chinese First Phase Offensive against the United Nations (UN) forces, General Douglas MacArthur launched the Home-by-Christmas Offensive to expel the Chinese forces from Korea and to end the war. Anticipating this reaction, the Chinese People's Volunteer Army (PVA) Commander Peng Dehuai planned a counteroffensive, dubbed the \"Second Phase Campaign\", against the advancing UN forces. Chinese intervention shattered the assumption that the UN advance could end the war quickly near the Yalu River.",
         "stats": [
@@ -394,15 +412,15 @@
             "lbl": "Major US Army withdrawal"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It transformed the war from liberation of South Korea into a larger confrontation with communist China.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "Battle of the Ch'ongch'on River should be understood through the decisions it forced on United Nations / United States. It transformed the war from liberation of South Korea into a larger confrontation with communist China. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "title": "The Wider Impact",
+        "body": "It transformed the war from liberation of South Korea into a larger confrontation with communist China.",
         "stats": [
           {
             "val": "Nov-Dec 1950",
@@ -417,11 +435,13 @@
             "lbl": "Major US Army withdrawal"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It transformed the war from liberation of South Korea into a larger confrontation with communist China.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Second_Phase_Campaign.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_the_Ch'ongch'on_River"
       }
     ]
   },
@@ -445,16 +465,17 @@
           40.37,
           127.26
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Changjin Reservoir marks the brutal winter battle and UN breakout from northeast Korea."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Changjin Reservoir",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Chosin.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Chosin_Reservoir",
-        "body": "The Battle of Chosin Reservoir, also known as the Chosin Reservoir Campaign or the Battle of Lake Changjin, was a battle in the Korean War. The name \"Chosin\" is derived from the Japanese pronunciation \"Chōshin\", instead of the Korean pronunciation. At Chosin, US Marines and UN forces fought their way out in freezing conditions after Chinese forces surrounded them.\n\nWhy It Matters: Battle of Changjin Reservoir should be understood through the decisions it forced on United Nations / United States. It became a symbol of discipline under disaster and helped preserve forces for the later stabilization of the front. In the wider arc of the war, this event changed calculations about security, legitimacy, escalation, or withdrawal.",
+        "body": "The Battle of Chosin Reservoir, also known as the Chosin Reservoir Campaign or the Battle of Lake Changjin, was a battle in the Korean War. The name \"Chosin\" is derived from the Japanese pronunciation \"Chōshin\", instead of the Korean pronunciation. At Chosin, US Marines and UN forces fought their way out in freezing conditions after Chinese forces surrounded them.\n\nIt became a symbol of discipline under disaster and helped preserve forces for the later stabilization of the front.",
         "stats": [
           {
             "val": "-30?C",
@@ -469,7 +490,7 @@
             "lbl": "Hungnam evacuation scale"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It became a symbol of discipline under disaster and helped preserve forces for the later stabilization of the front.",
             "full": true
           }
@@ -477,8 +498,8 @@
       },
       {
         "title": "War Summary: Korean War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg",
-        "cap": "The end and legacy of the Korean War",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Chosin.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Chosin_Reservoir",
         "body": "The fighting ended near the original dividing line rather than with a peace treaty. Korea remained divided, heavily armed, and central to East Asian security.",
         "stats": [
           {

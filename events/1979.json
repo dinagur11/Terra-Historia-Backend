@@ -1,0 +1,112 @@
+[
+  {
+    "id": "deng-xiaoping-1979-1",
+    "name": "Deng Xiaoping",
+    "date": "January 28 1979",
+    "location": "Washington",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Deng Xiaoping arrives in Washington, D.C., for the first visit of a paramount leader of the People's Republic of China to the United States. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "iranian-revolution-1979-2",
+    "name": "Iranian Revolution",
+    "date": "February 3 1979",
+    "location": "Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "summary": "Iranian Revolution: Supporters of Ayatollah Khomeini take over the Iranian law enforcement, courts, and government administration; the final session of the Iranian National Consultative Assembly is held. The Iranian Revolution, also known as the Islamic Revolution, culminated in the overthrow of the Pahlavi dynasty in 1979. The revolution led to the replacement of the Imperial State of Iran by the Islamic Republic of Iran, as the monarchical government of Shah Mohammad Reza Pahlavi was superseded by Ruhollah Khomeini, an Islamist cleric who had headed one of the rebel factions."
+  },
+  {
+    "id": "ruhollah-khomeini-1979-3",
+    "name": "Ruhollah Khomeini",
+    "date": "February 10 1979",
+    "location": "Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "summary": "11 – The Iranian Revolution ends with the Iranian army withdrawing to its barracks leaving power in the hands of Ayatollah Khomeini, ending the Pahlavi dynasty. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "vietnam-1979-4",
+    "name": "Vietnam",
+    "date": "February 17 1979",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The People's Republic of China invades northern Vietnam, launching the Sino-Vietnamese War. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "iranian-revolution-1979-5",
+    "name": "Iranian revolution",
+    "date": "March 7 1979",
+    "location": "Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "summary": "Thousands of women participate in the International Women's Day Protests in Tehran, 1979 against the introduction of mandatory veiling during the Iranian revolution. The Iranian Revolution, also known as the Islamic Revolution, culminated in the overthrow of the Pahlavi dynasty in 1979. The revolution led to the replacement of the Imperial State of Iran by the Islamic Republic of Iran, as the monarchical government of Shah Mohammad Reza Pahlavi was superseded by Ruhollah Khomeini, an Islamist cleric who had headed one of the rebel factions."
+  },
+  {
+    "id": "1979-united-kingdom-general-election-for-the-house-of-commons-takes-pl-1979-6",
+    "name": "1979 United Kingdom general election for the House of Commons takes place...",
+    "date": "May 3 1979",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "The 1979 United Kingdom general election for the House of Commons takes place, giving the Conservatives a majority, and designating Margaret Thatcher the nation's first woman prime minister, ending the rule of James Callaghan's Labour government. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "nato-supreme-allied-commander-alexander-haig-escapes-an-assassination--1979-7",
+    "name": "NATO Supreme Allied Commander Alexander Haig escapes an assassination att...",
+    "date": "June 25 1979",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "NATO Supreme Allied Commander Alexander Haig escapes an assassination attempt in Belgium by the Baader-Meinhof terrorist organization. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "iran-hostage-crisis-1979-8",
+    "name": "Iran hostage crisis",
+    "date": "October 31 1979",
+    "location": "Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "summary": "Iran hostage crisis: Iranian Ayatollah Ruhollah Khomeini urges his people to demonstrate on November 4 and to expand attacks on United States and Israeli interests. The Iran hostage crisis (Persian: بحران گروگانگیری سفارت آمریکا) began on November 4, 1979, when 66 Americans, including diplomats and other civilian personnel, were taken hostage at the Embassy of the United States in Tehran, with 52 of them being held until January 20, 1981."
+  },
+  {
+    "id": "ronald-reagan-1979-9",
+    "name": "Ronald Reagan",
+    "date": "November 13 1979",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Ronald Reagan announces his candidacy for President of the United States, 9 days after the beginning of the Iran hostage crisis. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "soviet-invasion-of-afghanistan-1979-10",
+    "name": "Soviet Invasion of Afghanistan",
+    "date": "December 24 1979",
+    "location": "Afghanistan",
+    "coordinates": {
+      "lat": 34.5553,
+      "lng": 69.2075
+    },
+    "summary": "The Soviet Union invades Afghanistan to preserve an allied communist government, beginning a decade-long war with global consequences. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  }
+]

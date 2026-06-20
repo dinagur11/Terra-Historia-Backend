@@ -1,0 +1,74 @@
+[
+  {
+    "id": "iran-protests-2026",
+    "name": "mass killing of protesters in Iran",
+    "date": "January 8 ,2026",
+    "location": "Tehran, Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "summary": "Reports of protests across Iran were met with a government crackdown and mass killing.",
+    "type": "unverified"
+  },
+  {
+    "id": "iran-israel-us-war-2026",
+    "name": "Escalation Between Iran, Israel, and the United States",
+    "date": "Febuary 28 ,2026",
+    "location": "Middle East",
+    "coordinates": {
+      "lat": 32,
+      "lng": 53
+    },
+    "summary": "Rising tensions and military incidents between Iran, Israel, and the United States led to fears of a broader regional war.",
+    "type": "unverified"
+  },
+  {
+    "id": "ukraine-war-2026",
+    "name": "Continuation of the Russia–Ukraine War",
+    "date": "2026",
+    "location": "Ukraine",
+    "coordinates": {
+      "lat": 48.3794,
+      "lng": 31.1656
+    },
+    "summary": "The war between Russia and Ukraine continued into 2026, with ongoing fighting, territorial disputes casualties are estimitated to be at the 2 million range, the biggest war in Europe since WW2, and international involvement.",
+    "type": "historical"
+  },
+  {
+    "id": "artemis-2-2026",
+    "name": "Artemis II Mission",
+    "date": "april first 2026",
+    "location": "Kennedy Space Center, USA",
+    "coordinates": {
+      "lat": 28.5729,
+      "lng": -80.649
+    },
+    "summary": "NASA's Artemis II mission is planned to send astronauts around the Moon, marking the first human lunar mission in over 50 years since Apollo.",
+    "type": "planned"
+  },
+  {
+    "id": "winter-olympics-2026",
+    "name": "2026 Winter Olympics",
+    "date": "2026-02-06",
+    "location": "Milan–Cortina, Italy",
+    "coordinates": {
+      "lat": 45.4642,
+      "lng": 9.19
+    },
+    "summary": "The Winter Olympic Games took place across northern Italy, bringing together athletes from around the world to compete in winter sports.",
+    "type": "historical"
+  },
+  {
+    "id": "fifa-world-cup-2026",
+    "name": "FIFA World Cup 2026",
+    "date": "2026-06-11",
+    "location": "USA, Canada, Mexico",
+    "coordinates": {
+      "lat": 39.8283,
+      "lng": -98.5795
+    },
+    "summary": "The FIFA World Cup expanded to 48 teams and was hosted across three countries for the first time in history. :contentReference[oaicite:2]{index=2}",
+    "type": "planned"
+  }
+]

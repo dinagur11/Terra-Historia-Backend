@@ -1,0 +1,68 @@
+[
+  {
+    "id": "crimea-2014",
+    "name": "Russia Annexes Crimea",
+    "date": "March 18 2014",
+    "location": "Crimea",
+    "coordinates": {
+      "lat": 45.3,
+      "lng": 34.4
+    },
+    "summary": "Russia annexed Crimea from Ukraine."
+  },
+  {
+    "id": "mh17-2014",
+    "name": "Flight MH17 Shot Down",
+    "date": "July 17 2014",
+    "location": "Ukraine",
+    "coordinates": {
+      "lat": 48,
+      "lng": 38
+    },
+    "summary": "A passenger plane was shot down, killing 298 people."
+  },
+  {
+    "id": "ebola-2014",
+    "name": "Ebola Outbreak",
+    "date": "March 23 2014",
+    "location": "West Africa",
+    "coordinates": {
+      "lat": 8.4606,
+      "lng": -11.7799
+    },
+    "summary": "A major Ebola outbreak spread across West Africa."
+  },
+  {
+    "id": "isis-2014",
+    "name": "ISIS Declares Caliphate",
+    "date": "June 29 2014",
+    "location": "Iraq / Syria",
+    "coordinates": {
+      "lat": 33,
+      "lng": 44
+    },
+    "summary": "ISIS declared a caliphate across captured territory."
+  },
+  {
+    "id": "world-cup-2014",
+    "name": "FIFA World Cup",
+    "date": "June 12 2014",
+    "location": "Brazil",
+    "coordinates": {
+      "lat": -15.7939,
+      "lng": -47.8828
+    },
+    "summary": "Brazil hosted the FIFA World Cup."
+  },
+  {
+    "id": "scotland-referendum-2014",
+    "name": "Scottish Independence Referendum",
+    "date": "September 18 2014",
+    "location": "Scotland",
+    "coordinates": {
+      "lat": 56.4907,
+      "lng": -4.2026
+    },
+    "summary": "Scotland voted to remain part of the United Kingdom."
+  }
+]

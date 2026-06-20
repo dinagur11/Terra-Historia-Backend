@@ -1,0 +1,68 @@
+[
+  {
+    "id": "maastricht-1992",
+    "name": "Maastricht Treaty Signed",
+    "date": "February 7 1992",
+    "location": "Netherlands",
+    "coordinates": {
+      "lat": 50.8514,
+      "lng": 5.69
+    },
+    "summary": "The European Union was formally established."
+  },
+  {
+    "id": "la-riots-1992",
+    "name": "Los Angeles Riots",
+    "date": "April 29 1992",
+    "location": "USA",
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "summary": "Riots erupted following the Rodney King verdict."
+  },
+  {
+    "id": "bosnia-war-1992",
+    "name": "Bosnian War Begins",
+    "date": "April 6 1992",
+    "location": "Bosnia",
+    "coordinates": {
+      "lat": 43.8563,
+      "lng": 18.4131
+    },
+    "summary": "War broke out in Bosnia following independence."
+  },
+  {
+    "id": "barcelona-olympics-1992",
+    "name": "Barcelona Olympics",
+    "date": "July 25 1992",
+    "location": "Spain",
+    "coordinates": {
+      "lat": 41.3851,
+      "lng": 2.1734
+    },
+    "summary": "Spain hosted the Summer Olympics."
+  },
+  {
+    "id": "rio-earth-1992",
+    "name": "Earth Summit",
+    "date": "June 3 1992",
+    "location": "Brazil",
+    "coordinates": {
+      "lat": -22.9068,
+      "lng": -43.1729
+    },
+    "summary": "A major UN conference on environment and development."
+  },
+  {
+    "id": "euro-intro-1992",
+    "name": "European Monetary Union Agreement",
+    "date": "December 11 1992",
+    "location": "Europe",
+    "coordinates": {
+      "lat": 50.8503,
+      "lng": 4.3517
+    },
+    "summary": "Steps toward a unified European currency were agreed."
+  }
+]

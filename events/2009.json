@@ -1,0 +1,46 @@
+[
+  {
+    "id": "obama-inauguration-2009",
+    "name": "Barack Obama Inaugurated",
+    "date": "January 20 2009",
+    "location": "Washington D.C., USA",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Barack Obama was sworn in as the 44th President of the United States."
+  },
+  {
+    "id": "h1n1-pandemic-2009",
+    "name": "H1N1 Pandemic Declared",
+    "date": "June 11 2009",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The World Health Organization declared the H1N1 influenza outbreak a global pandemic."
+  },
+  {
+    "id": "iran-election-protests-2009",
+    "name": "Iranian Election Protests",
+    "date": "June 13 2009",
+    "location": "Tehran, Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "summary": "Mass protests erupted in Iran following disputed presidential election results."
+  },
+  {
+    "id": "bitcoin-launch-2009",
+    "name": "Bitcoin Introduced",
+    "date": "January 3 2009",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Bitcoin was introduced as the first decentralized cryptocurrency."
+  }
+]

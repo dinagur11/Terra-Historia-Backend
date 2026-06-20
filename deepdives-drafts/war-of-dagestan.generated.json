@@ -7,17 +7,27 @@
     "sub": "How the War of Dagestan began",
     "view": {
       "center": [
-        42.8,
-        46.8
+        42.65,
+        46.22
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.65,
+          46.22
+        ],
+        "label": "Botlikh",
+        "type": "target",
+        "description": "Botlikh marks the Dagestani district first attacked by militants crossing from Chechnya."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "From First Chechen War to War of Dagestan",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Evstafiev-Chechnya-BURNED.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Evstafiev-Chechnya-BURNED.jpg",
         "cap": "Historical connection: Chechen conflict spreads into Dagestan",
         "body": "The unresolved First Chechen War left armed Islamist factions operating from Chechnya. Their invasion of neighboring Dagestan attempted to spread rebellion across the North Caucasus.",
         "stats": [
@@ -42,7 +52,7 @@
       },
       {
         "title": "Before the War of Dagestan",
-        "body": "Islamist fighters based in Chechnya entered Dagestan hoping to trigger an uprising and establish a broader Islamic state.\n\nThe Conflict Takes Shape: The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "body": "Islamist fighters based in Chechnya entered Dagestan hoping to trigger an uprising and establish a broader Islamic state.",
         "stats": [
           {
             "val": "1999-1999",
@@ -53,7 +63,9 @@
             "lbl": "What was at stake",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Evstafiev-Chechnya-BURNED.jpg",
+        "cap": "Historical connection: Chechen conflict spreads into Dagestan"
       }
     ]
   },
@@ -65,27 +77,38 @@
     "sub": "Part of War of Dagestan",
     "view": {
       "center": [
-        50,
-        15
+        42.97,
+        47.4
       ],
-      "zoom": 3
+      "zoom": 10
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.97,
+          47.4
+        ],
+        "label": "Karamakhi",
+        "type": "target",
+        "description": "Karamakhi was one of the fortified militant villages retaken by federal forces."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Karamakhi",
-        "img": "",
+        "img": "https://meduza.io/impro/MX6zQa90872GNC1YG6aMwHUBvyiED1E_HjOXTTz68tk/resizing_type:fit/width:0/height:0/enlarge:1/quality:80/aHR0cHM6Ly9tZWR1/emEuaW8vaW1hZ2Uv/YXR0YWNobWVudHMv/aW1hZ2VzLzAwNi8w/NDUvOTE3L2xhcmdl/L1NubDBSN2k3YkZz/OFExRnVXMHFqWGcu/anBn.webp",
         "cap": "",
-        "body": "Battle of Karamakhi marked an important episode in the War of Dagestan. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Battle of Karamakhi was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Battle of Karamakhi extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Battle of Karamakhi extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya.\n\nKaramakhi and nearby Chabanmakhi had become fortified centers for Islamist militants who rejected Dagestan's secular authorities. Federal forces used artillery, armor, and house-to-house fighting to retake the area. The battle mattered because it showed Moscow that the Dagestan incursion was not only a border raid from Chechnya, but also had local strongpoints that had to be reduced village by village.",
         "stats": [
           {
             "val": "1999",
             "lbl": "Year"
           },
           {
-            "val": "1 of 7",
-            "lbl": "Existing timeline event"
+            "val": "Outcome",
+            "lbl": "Federal forces began bombarding the fortified Karamakhi area in late August 1999; militants withdrew by 13 September and the villages were left ruined.",
+            "full": true
           }
         ]
       }
@@ -99,27 +122,38 @@
     "sub": "Part of War of Dagestan",
     "view": {
       "center": [
-        50,
-        15
+        42.65,
+        46.22
       ],
-      "zoom": 3
+      "zoom": 9
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.65,
+          46.22
+        ],
+        "label": "Botlikh",
+        "type": "target",
+        "description": "Botlikh marks the district attacked by militants entering Dagestan from Chechnya."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Tsumadinsky-Botlikhsky campaign",
-        "img": "",
+        "img": "https://alchetron.com/cdn/war-of-dagestan-4a3b17aa-f3e6-4450-abe2-57a10cdf278-resize-750.jpeg",
         "cap": "",
-        "body": "Tsumadinsky-Botlikhsky campaign marked an important episode in the War of Dagestan. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Tsumadinsky-Botlikhsky campaign was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Tsumadinsky-Botlikhsky campaign extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Tsumadinsky-Botlikhsky campaign extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya.",
         "stats": [
           {
             "val": "1999",
             "lbl": "Year"
           },
           {
-            "val": "2 of 7",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "On 7 August 1999, roughly 1,500–2,000 militants invaded Dagestan and seized villages in the Tsumadi and Botlikh districts.",
+            "full": true
           }
         ]
       }
@@ -133,27 +167,38 @@
     "sub": "Part of War of Dagestan",
     "view": {
       "center": [
-        50,
-        15
+        42.7,
+        46.1
       ],
-      "zoom": 3
+      "zoom": 10
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.7,
+          46.1
+        ],
+        "label": "Donkey's Ear Height",
+        "type": "target",
+        "description": "This height dominated local routes and became a costly tactical fight."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Battle for Donkey's Ear Height",
-        "img": "",
+        "img": "https://www.warhistoryonline.com/wp-content/uploads/sites/64/2018/07/yxy2s8ue.jpg",
         "cap": "",
-        "body": "Battle for Donkey's Ear Height marked an important episode in the War of Dagestan. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Battle for Donkey's Ear Height was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Battle for Donkey's Ear Height extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Battle for Donkey's Ear Height extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya.",
         "stats": [
           {
             "val": "1999",
             "lbl": "Year"
           },
           {
-            "val": "3 of 7",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "The August 1999 fighting for the strategic Donkey's Ear height involved federal paratroopers and Islamist militants; one six-hour battle killed 12 paratroopers and wounded 25.",
+            "full": true
           }
         ]
       }
@@ -167,27 +212,38 @@
     "sub": "Part of War of Dagestan",
     "view": {
       "center": [
-        50,
-        15
+        42.76,
+        46.18
       ],
-      "zoom": 3
+      "zoom": 10
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.76,
+          46.18
+        ],
+        "label": "Height 715.3",
+        "type": "target",
+        "description": "Height 715.3 is marked because militants captured it before federal counterattacks."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Wahhabi capture of Height 715,3",
-        "img": "",
+        "img": "https://peakvisor.com/photo/Dagestan-Russian-Bazarduzu.jpg",
         "cap": "",
-        "body": "Wahhabi capture of Height 715,3 marked an important episode in the War of Dagestan. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Wahhabi capture of Height 715,3 was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Wahhabi capture of Height 715,3 extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Wahhabi capture of Height 715,3 extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya.",
         "stats": [
           {
             "val": "1999",
             "lbl": "Year"
           },
           {
-            "val": "4 of 7",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "Militants captured Height 715.3 on 5–6 September 1999; up to 50 militants were killed or wounded in the fighting.",
+            "full": true
           }
         ]
       }
@@ -204,39 +260,41 @@
         43.221667,
         46.4125
       ],
-      "zoom": 5
+      "zoom": 10
     },
     "markers": [
       {
-        "label": "Tukhchar massacre",
         "latlng": [
           43.221667,
           46.4125
         ],
-        "type": "major"
+        "label": "Tukhchar",
+        "type": "target",
+        "description": "Tukhchar marks the massacre site where captured Russian soldiers were executed."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Tukhchar massacre",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Tukhchar_massacre",
-        "body": "The Tukhchar massacre was an incident during the War in Dagestan which was filmed and distributed on tape, in which Russian prisoners of war were executed. Throughout the battle, Russian soldiers reported finding taped executions of Russian officers and men. Some videos were later sold as snuff films and ended up being posted online. One tape created in September 1999 showed six Russian servicemen, five as young as 19, who were conscripts, being executed by Chechen and Dagestani militants. The method was piercing the trachea, also known as beheading.\n\nWhy This Moment Matters: Tukhchar massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.",
+        "img": "https://pt.pube.tk/lazy-static/previews/8dc78107-839a-4320-917e-9e7cdcdfc792.jpg",
+        "body": "The Tukhchar massacre was an incident during the War in Dagestan which was filmed and distributed on tape, in which Russian prisoners of war were executed. Throughout the battle, Russian soldiers reported finding taped executions of Russian officers and men. Some videos were later sold as snuff films and ended up being posted online. One tape created in September 1999 showed six Russian servicemen, five as young as 19, who were conscripts, being executed by Chechen and Dagestani militants. The method was piercing the trachea, also known as beheading.",
         "stats": [
           {
             "val": "1999",
             "lbl": "Year"
           },
           {
-            "val": "5 of 7",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "The Tukhchar massacre was an incident during the War in Dagestan which was filmed and distributed on tape, in which Russian prisoners of war were executed.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Tukhchar massacre extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of Tukhchar massacre extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya.",
+        "img": "https://pt.pube.tk/lazy-static/previews/8dc78107-839a-4320-917e-9e7cdcdfc792.jpg"
       }
     ]
   },
@@ -248,27 +306,38 @@
     "sub": "Part of War of Dagestan",
     "view": {
       "center": [
-        50,
-        15
+        43.18,
+        46.49
       ],
-      "zoom": 3
+      "zoom": 10
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          43.18,
+          46.49
+        ],
+        "label": "Novolakskoye",
+        "type": "target",
+        "description": "Novolakskoye was seized by militants before federal forces restored control."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Wahhabi capture of Novolakskoye",
-        "img": "",
+        "img": "https://www.aberfoylesecurity.com/wp-content/uploads/2020/11/CISS-Dagestan-Khattab-and-Basayev.jpg",
         "cap": "",
-        "body": "Wahhabi capture of Novolakskoye marked an important episode in the War of Dagestan. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Wahhabi capture of Novolakskoye was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Wahhabi capture of Novolakskoye extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Wahhabi capture of Novolakskoye extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya.",
         "stats": [
           {
             "val": "1999",
             "lbl": "Year"
           },
           {
-            "val": "6 of 7",
-            "lbl": "Existing timeline event"
+            "val": "Outcome",
+            "lbl": "Militants seized Novolakskoye on 5–6 September 1999, but federal forces restored control of the village on 14 September.",
+            "full": true
           }
         ]
       }
@@ -282,27 +351,38 @@
     "sub": "Part of War of Dagestan",
     "view": {
       "center": [
-        50,
-        15
+        42.76,
+        46.18
       ],
-      "zoom": 3
+      "zoom": 10
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.76,
+          46.18
+        ],
+        "label": "Height 715.3",
+        "type": "target",
+        "description": "The Armavir Spetsnaz disaster occurred in fighting around the same tactical height."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Disaster of the Armavir Spetsnaz",
-        "img": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGrHIGTSGoouNc_51XOpWJ6D0cNHWPy8TyuQ&s",
         "cap": "",
-        "body": "Disaster of the Armavir Spetsnaz marked an important episode in the War of Dagestan. It showed how the conflict's political goals were being translated into military action and placed new pressure on both the battlefield and surrounding communities.\n\nWhy This Moment Matters: Disaster of the Armavir Spetsnaz was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Disaster of the Armavir Spetsnaz extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The incursion challenged Russian federal authority and threatened to spread insurgency across the North Caucasus.\n\nConsequences: The effects of Disaster of the Armavir Spetsnaz extended beyond its immediate result. Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya.",
         "stats": [
           {
             "val": "1999",
             "lbl": "Year"
           },
           {
-            "val": "7 of 7",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "The Armavir Spetsnaz battle for Height 715.3 on 10–11 September 1999 resulted in 80 deaths according to the military prosecutor's case materials.",
+            "full": true
           }
         ]
       }
@@ -311,17 +391,27 @@
   {
     "id": "international-and-human-dimensions",
     "year": 1999,
-    "date": "1999-01-01",
+    "date": "1999-09-10",
     "title": "International and Human Dimensions",
     "sub": "The wider impact of the War of Dagestan",
     "view": {
       "center": [
-        42.8,
-        46.8
+        42.97,
+        47.4
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.97,
+          47.4
+        ],
+        "label": "Karamakhi",
+        "type": "target",
+        "description": "Karamakhi marks the fortified village fighting and the civilian disruption caused by the campaign."
+      }
+    ],
     "regions": [],
     "slides": [
       {
@@ -329,33 +419,45 @@
         "body": "Foreign fighters joined the militants, but the campaign remained primarily a Russian and Dagestani response.\n\nThe Human Cost: Mountain villages became battlefields, civilians fled, and subsequent violence contributed to a much wider renewed war in Chechnya.",
         "stats": [
           {
-            "val": "Hundreds killed",
-            "lbl": "Estimated human cost",
+            "val": "Estimated human cost",
+            "lbl": "Hundreds killed",
             "full": true
           }
-        ]
+        ],
+        "img": "https://www.hrw.org/sites/default/files/styles/16x9_large/public/multimedia_images_2015/agachaul_february2014.jpg?itok=jkteLy2g"
       }
     ]
   },
   {
     "id": "outcome-and-legacy",
     "year": 1999,
-    "date": "1999-01-01",
+    "date": "1999-09-10",
     "title": "Outcome and Legacy",
     "sub": "How the War of Dagestan ended and what followed",
     "view": {
       "center": [
-        42.8,
-        46.8
+        42.65,
+        46.22
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "latlng": [
+          42.65,
+          46.22
+        ],
+        "label": "Botlikh",
+        "type": "target",
+        "description": "Botlikh marks the failed incursion whose aftermath helped trigger the Second Chechen War."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "The End of the War of Dagestan",
-        "body": "Russian forces and local Dagestani militias expelled the attackers. The crisis became the immediate prelude to the Second Chechen War."
+        "body": "Russian forces and local Dagestani militias expelled the attackers. The crisis became the immediate prelude to the Second Chechen War.",
+        "img": "https://www.hrw.org/sites/default/files/styles/16x9_large/public/multimedia_images_2015/agachaul_february2014.jpg?itok=jkteLy2g"
       },
       {
         "title": "War Summary: War of Dagestan",
@@ -366,15 +468,16 @@
             "lbl": "Outcome / winner"
           },
           {
-            "val": "Hundreds killed",
-            "lbl": "Casualties / human cost"
+            "val": "Estimated human cost",
+            "lbl": "Hundreds killed"
           },
           {
             "val": "Russian forces and local Dagestani militias expelled the attackers. The crisis became the immediate prelude to the Second Chechen War.",
             "lbl": "Lasting legacy",
             "full": true
           }
-        ]
+        ],
+        "img": "https://www.hrw.org/sites/default/files/styles/16x9_large/public/multimedia_images_2015/agachaul_february2014.jpg?itok=jkteLy2g"
       }
     ]
   }

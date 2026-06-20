@@ -1,0 +1,112 @@
+[
+  {
+    "id": "watergate-scandal-1975-1",
+    "name": "Watergate scandal",
+    "date": "January 1 1975",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Watergate scandal (United States): John N. Mitchell, H.R. Haldeman and John Ehrlichman are found guilty of the Watergate cover-up. The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon."
+  },
+  {
+    "id": "vietnam-war-1975-2",
+    "name": "Vietnam War",
+    "date": "April 30 1975",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "Vietnam War - Fall of Saigon: The Vietnam War concludes as Communist forces from North Vietnam take over Saigon, resulting in mass evacuation of the remaining American troops and South Vietnam civilians. As the capital is taken, South Vietnam surrenders unconditionally and is replaced with a temporary Provisional Government."
+  },
+  {
+    "id": "junko-tabei-1975-3",
+    "name": "Junko Tabei",
+    "date": "May 15 1975",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "summary": "Junko Tabei from Japan becomes the first woman to reach the summit of Mount Everest. Junko Tabei (Japanese: 田部井 淳子, Hepburn: Tabei Junko; née Ishibashi; 22 September 1939 – 20 October 2016) was a Japanese mountaineer, author and teacher. She was the first woman to reach the summit of Mount Everest and ascend the Seven Summits, climbing the highest peak on every continent."
+  },
+  {
+    "id": "suez-canal-1975-4",
+    "name": "Suez Canal",
+    "date": "June 5 1975",
+    "location": "Egypt",
+    "coordinates": {
+      "lat": 30.0444,
+      "lng": 31.2357
+    },
+    "summary": "The Suez Canal opens for the first time since the Six-Day War. The Suez Canal (; Egyptian Arabic: قناة السويس, Qanāt as-Suwais) is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez and dividing Africa and Asia (and by extension, the Sinai Peninsula from the rest of Egypt)."
+  },
+  {
+    "id": "united-nations-1975-5",
+    "name": "United Nations",
+    "date": "September 15 1975",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Cape Verde, Mozambique and São Tomé and Príncipe join the United Nations. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "satcom-1975-6",
+    "name": "Satcom",
+    "date": "September 27 1975",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "(US time) Home Box Office becomes the first pay television network to deliver a continuous signal via satellite by broadcasting the \"Thrilla in Manila\" boxing match live. The achievement demonstrated rapidly advancing scientific and technical capabilities and influenced later research, investment, and international competition. It helped establish methods or ambitions developed further in subsequent projects."
+  },
+  {
+    "id": "indonesian-invasion-of-east-timor-1975-7",
+    "name": "Indonesian invasion of East Timor",
+    "date": "October 1 1975",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The \"Balibo Five\", Australian television journalists are killed at Balibo by Indonesian Army special forces in the buildup to the Indonesian invasion of East Timor. The Indonesian invasion of East Timor, known in Indonesia as Operation Lotus (Indonesian: Operasi Seroja), began on 7 December 1975 when the Indonesian military (ABRI/TNI) invaded East Timor under the pretext of anti-colonialism and anti-communism to overthrow the Fretilin government that had emerged in 1974."
+  },
+  {
+    "id": "united-nations-general-assembly-resolution-3379-1975-8",
+    "name": "United Nations General Assembly Resolution 3379",
+    "date": "November 7 1975",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "United Nations General Assembly Resolution 3379: By a vote of 72–35 (with 32 abstentions), the United Nations General Assembly approves a resolution equating Zionism with racism. The resolution provokes an outcry among Zionists. It is repealed in 1991. United Nations General Assembly Resolution 3379, adopted on 10 November 1975, \"Determines that Zionism is a form of racism and racial discrimination\" with 72 votes in favour, 35 votes against, and 32 abstentions."
+  },
+  {
+    "id": "lev-leshchenko-1975-9",
+    "name": "Lev Leshchenko",
+    "date": "November 7 1975",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Lev Leshchenko revives \"Den Pobedy\", one of the most popular World War II songs in the Soviet Union. Lev Valerianovich Leshchenko (Russian: Лев Валерьянович Лещенко; born 1 February 1942), is a Russian singer, who is best known for his rendition of \"Den Pobedy\" and the 1980 Summer Olympics closing ceremony theme song \"Do svidanya, Moskva\"."
+  },
+  {
+    "id": "in-laos-the-second-indochina-war-ends-when-the-communist-party-of-the--1975-10",
+    "name": "In Laos, the Second Indochina War ends, when the communist party of the P...",
+    "date": "December 2 1975",
+    "location": "Laos",
+    "coordinates": {
+      "lat": 17.9757,
+      "lng": 102.6331
+    },
+    "summary": "In Laos, the Second Indochina War ends, when the communist party of the Pathet Lao takes over Vientiane and defeats the Kingdom of Laos, forcing King Sisavang Vatthana to abdicate and creating the Lao People's Democratic Republic. This ends the Laotian Civil War, with mass evacuation of American troops and Laotian civilians, but effectively begins the Insurgency in Laos with the Pathet Lao fighting the Hmong people, Royalist-in-exile and the Right-wings."
+  }
+]

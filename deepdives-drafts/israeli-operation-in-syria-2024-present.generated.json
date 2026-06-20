@@ -1,0 +1,366 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2024,
+    "date": "2024-12-08",
+    "title": "From Syrian Civil War to Israeli Operation in Syria, 2024-Present",
+    "sub": "Connection and background to Israeli Operation in Syria, 2024-Present",
+    "view": {
+      "center": [
+        33.2,
+        35.9
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Golan Heights",
+        "latlng": [
+          33.05,
+          35.75
+        ],
+        "type": "target",
+        "description": "Assad's collapse created a security vacuum near Israel's most sensitive Syrian frontier."
+      },
+      {
+        "label": "Damascus",
+        "latlng": [
+          33.5138,
+          36.2765
+        ],
+        "type": "major",
+        "description": "The fall of central authority in Damascus changed the military balance in southern Syria."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Syrian Civil War to Israeli Operation in Syria, 2024-Present",
+        "img": "https://assets.cfr.org/images/t_gct_w1200/v1755542657/globalconflicttracker/Conflict-in-Syria-Syria20Fall20of20Assad202/Conflict-in-Syria-Syria20Fall20of20Assad202.jpg?_i=AA",
+        "cap": "Historical overview: From Syrian Civil War to Israeli Operation in Syria, 2024-Present",
+        "body": "Assad's collapse in December 2024 removed a hostile regime but also dissolved military control near Israel and left strategic weapons vulnerable. Israel moved to prevent advanced arms from reaching jihadists or Hezbollah.\n\nIsrael argues it must prevent hostile forces from establishing themselves near the Golan Heights and protect vulnerable Druze communities. Syria's new authorities and many international actors view Israeli territorial moves and strikes as violations of sovereignty.\n\nThis background is essential to understanding Israeli Operation in Syria, 2024-Present: the conflict emerged from accumulated security failures, political choices, and unresolved disputes rather than from a single isolated incident. The recorded indicators, including 2024-present (key detail), help convey the episode's scale and the pressures facing decision-makers.",
+        "stats": [
+          {
+            "val": "2024-present",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "Israel argues it must prevent hostile forces from establishing themselves near the Golan Heights and protect vulnerable Druze communities. Syria's new authorities and many international actors view Israeli territorial moves and strikes as violations of sovereignty.",
+            "lbl": "What was at stake",
+            "full": true
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "buffer-zone",
+    "year": 2024,
+    "date": "2024-12-08",
+    "title": "Israel Enters the Buffer Zone",
+    "sub": "Part of Israeli Operation in Syria, 2024-Present",
+    "view": {
+      "center": [
+        33.2,
+        35.85
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "UN buffer zone",
+        "latlng": [
+          33.2,
+          35.85
+        ],
+        "type": "target",
+        "description": "Israeli forces entered parts of the separation zone after Syrian troops withdrew."
+      },
+      {
+        "label": "Mount Hermon",
+        "latlng": [
+          33.416,
+          35.85
+        ],
+        "type": "major",
+        "description": "High ground on Hermon gives observation and warning advantages."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Israel Enters the Buffer Zone",
+        "img": "https://static01.nyt.com/images/2024/01/07/multimedia/07syria-israel-reax-vqtg/07syria-israel-reax-vqtg-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "cap": "Historical overview: Israel Enters the Buffer Zone",
+        "body": "Israeli forces moved into the UN-monitored separation zone and positions on Mount Hermon after Syrian troops withdrew during Assad's collapse. Israel described the deployment as temporary and defensive, aimed at preventing jihadist or Iranian-linked forces from rushing into positions overlooking the Golan Heights.\n\nThe move created a new security reality on the border. It gave Israel more tactical depth, but it also drew criticism from Syria's new authorities and from states that viewed the deployment as a violation of Syrian sovereignty.",
+        "stats": [
+          {
+            "val": "8 December 2024",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "arrow-of-bashan",
+    "year": 2024,
+    "date": "2024-12-09",
+    "title": "Operation Arrow of Bashan",
+    "sub": "Part of Israeli Operation in Syria, 2024-Present",
+    "view": {
+      "center": [
+        33.7,
+        36.2
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Damascus military sites",
+        "latlng": [
+          33.5138,
+          36.2765
+        ],
+        "type": "target",
+        "description": "Israeli strikes targeted strategic weapons and military infrastructure after Assad's collapse."
+      },
+      {
+        "label": "Syrian air and naval assets",
+        "latlng": [
+          35.5,
+          35.8
+        ],
+        "type": "major",
+        "description": "Strikes also hit assets beyond the immediate border area."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operation Arrow of Bashan",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Egoz_unit_during_Operation_Arrow_of_Bashan_December_2024.jpg",
+        "cap": "Historical overview: Operation Arrow of Bashan",
+        "body": "Israel struck Syrian aircraft, naval vessels, air defenses, missiles, and weapons sites to prevent strategic systems from falling to hostile armed groups after the regime collapse. The scale of the strikes showed how quickly Israel tried to reshape the military balance before a new Syrian order could consolidate.\n\nThe operation reduced immediate weapons risks near Israel, but it also signaled that Israel would act unilaterally in Syria whenever it judged the post-Assad vacuum dangerous.",
+        "stats": [
+          {
+            "val": "Hundreds of targets struck",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "demilitarized-south",
+    "year": 2025,
+    "date": "2025-02-23",
+    "title": "Demand for a Demilitarized South",
+    "sub": "Part of Israeli Operation in Syria, 2024-Present",
+    "view": {
+      "center": [
+        32.8,
+        36
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Southern Syria",
+        "latlng": [
+          32.8,
+          36
+        ],
+        "type": "target",
+        "description": "Israel demanded that this area remain free of heavy or hostile forces."
+      },
+      {
+        "label": "Golan frontier",
+        "latlng": [
+          33.05,
+          35.75
+        ],
+        "type": "major",
+        "description": "The demand centered on preventing threats from forming next to northern Israel."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Demand for a Demilitarized South",
+        "img": "https://vid.alarabiya.net/images/2025/02/17/9dc1553f-50b9-4db4-96a4-d72932cb2ea8/9dc1553f-50b9-4db4-96a4-d72932cb2ea8_16x9_1200x676.JPG?width=555",
+        "cap": "Historical overview: Demand for a Demilitarized South",
+        "body": "Israel called for southern Syria to remain free of heavy forces and hostile armed groups. The demand reflected fear that the collapse of central control could allow Iranian-backed networks, jihadists, or unstable new security forces to establish positions near the Golan frontier.\n\nFor Israel, a demilitarized south would create warning time and reduce rocket, drone, and raid risks. For Syria's new authorities, the demand raised hard questions about sovereignty, border control, and whether outside powers would define the limits of the post-Assad state.",
+        "stats": [
+          {
+            "val": "February 2025",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "druze-protection-strikes",
+    "year": 2025,
+    "date": "2025-05-02",
+    "title": "Strikes Linked to Druze Protection",
+    "sub": "Part of Israeli Operation in Syria, 2024-Present",
+    "view": {
+      "center": [
+        32.7,
+        36.6
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Suwayda / Druze region",
+        "latlng": [
+          32.7,
+          36.6
+        ],
+        "type": "target",
+        "description": "Violence involving Druze communities became linked to Israeli warnings and strikes."
+      },
+      {
+        "label": "Damascus approaches",
+        "latlng": [
+          33.35,
+          36.25
+        ],
+        "type": "major",
+        "description": "Strikes near the capital signaled Israel's willingness to intervene beyond the buffer zone."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Strikes Linked to Druze Protection",
+        "img": "https://ichef.bbci.co.uk/news/480/cpsprodpb/af96/live/cee5bc90-629f-11f0-b903-f515e3045d80.jpg.webp",
+        "cap": "Historical overview: Strikes Linked to Druze Protection",
+        "body": "Israel struck targets near Damascus amid violence involving Druze communities, presenting the action as connected to protection of vulnerable Druze and to security near the southern Syrian frontier. The issue resonated strongly inside Israel because of the Druze community's role in Israeli society and military service.\n\nThe strikes showed how humanitarian, communal, and strategic arguments could overlap. They also risked pulling Israel deeper into Syria's internal fractures if local violence continued.",
+        "stats": [
+          {
+            "val": "May 2025",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "continued-operations",
+    "year": 2026,
+    "date": "2026-06-15",
+    "title": "Operations Continue",
+    "sub": "Part of Israeli Operation in Syria, 2024-Present",
+    "view": {
+      "center": [
+        33.05,
+        35.85
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Golan frontier",
+        "latlng": [
+          33.05,
+          35.85
+        ],
+        "type": "target",
+        "description": "Ongoing Israeli operations focus on preventing hostile buildup near the frontier."
+      },
+      {
+        "label": "Southern Syria",
+        "latlng": [
+          32.8,
+          36
+        ],
+        "type": "major",
+        "description": "The unresolved security vacuum keeps the operation active."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Operations Continue",
+        "img": "https://ichef.bbci.co.uk/news/480/cpsprodpb/af96/live/cee5bc90-629f-11f0-b903-f515e3045d80.jpg.webp",
+        "cap": "Historical overview: Operations Continue",
+        "body": "As of June 15, 2026, Israel continues raids and maintains forward positions to prevent hostile military buildup near the Golan Heights. The operation is shaped by the same fear that drove the first moves after Assad's fall: a vacuum in southern Syria could be filled by jihadist groups, Iranian-linked networks, or armed factions hostile to Israel.\n\nThe longer the operation continues, the more it becomes a political problem as well as a military one. Israel gains local security advantages, but it also faces criticism over sovereignty, escalation risks, and the possibility of becoming entangled in Syria's unstable transition.",
+        "stats": [
+          {
+            "val": "Ongoing as of 15 June 2026",
+            "lbl": "Key detail"
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2026,
+    "date": "2026-06-15",
+    "title": "Conflict Summary: Israeli Operation in Syria, 2024-Present",
+    "sub": "Final summary of Israeli Operation in Syria, 2024-Present",
+    "view": {
+      "center": [
+        33.05,
+        35.85
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Israel-Syria frontier",
+        "latlng": [
+          33.05,
+          35.85
+        ],
+        "type": "target",
+        "description": "The operation remains centered on the post-Assad frontier and the Golan Heights."
+      },
+      {
+        "label": "Damascus",
+        "latlng": [
+          33.5138,
+          36.2765
+        ],
+        "type": "major",
+        "description": "Syria's new authorities contest Israeli moves while trying to consolidate power."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Israeli Operation in Syria, 2024-Present",
+        "img": "https://innov8.krd/wp-content/uploads/2026/01/Syria-and-Israel-flags.jpg",
+        "cap": "Historical overview: Conflict Summary: Israeli Operation in Syria, 2024-Present",
+        "body": "Israel exploited the post-Assad vacuum to remove dangerous strategic weapons and create greater distance from potential threats. Those actions improved immediate security but extended Israeli control beyond the previous line and generated serious legal, diplomatic, and escalation risks.\n\nTaken as a whole, Israeli Operation in Syria, 2024-Present shows how battlefield achievements can alter the balance of power without necessarily producing a durable political settlement. The outcome must therefore be judged by the security conditions it created, the threats that survived, the human cost, and whether later leaders learned from the campaign.",
+        "stats": [
+          {
+            "val": "Ongoing security operation as of June 15, 2026",
+            "lbl": "Key detail"
+          },
+          {
+            "val": "Casualty totals remain disputed and continue to change",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Israel exploited the post-Assad vacuum to remove dangerous strategic weapons and create greater distance from potential threats. Those actions improved immediate security but extended Israeli control beyond the previous line and generated serious legal, diplomatic, and escalation risks.",
+            "lbl": "Final assessment",
+            "full": true
+          }
+        ]
+      }
+    ],
+    "arrows": []
+  }
+]

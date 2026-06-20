@@ -1,0 +1,57 @@
+[
+  {
+    "id": "facebook-launch-2004",
+    "name": "Facebook Launched",
+    "date": "February 4 2004",
+    "location": "USA",
+    "coordinates": {
+      "lat": 42.377,
+      "lng": -71.1167
+    },
+    "summary": "Facebook was launched, becoming one of the most influential social media platforms."
+  },
+  {
+    "id": "madrid-bombings-2004",
+    "name": "Madrid Train Bombings",
+    "date": "March 11 2004",
+    "location": "Madrid, Spain",
+    "coordinates": {
+      "lat": 40.4168,
+      "lng": -3.7038
+    },
+    "summary": "Coordinated bombings on commuter trains killed nearly 200 people."
+  },
+  {
+    "id": "eu-expansion-2004",
+    "name": "European Union Expansion",
+    "date": "May 1 2004",
+    "location": "Europe",
+    "coordinates": {
+      "lat": 50.8503,
+      "lng": 4.3517
+    },
+    "summary": "Ten countries joined the European Union in its largest expansion."
+  },
+  {
+    "id": "athens-olympics-2004",
+    "name": "Athens Olympics",
+    "date": "August 13 2004",
+    "location": "Athens, Greece",
+    "coordinates": {
+      "lat": 37.9838,
+      "lng": 23.7275
+    },
+    "summary": "The Olympic Games returned to their historic birthplace in Athens."
+  },
+  {
+    "id": "indian-ocean-tsunami-2004",
+    "name": "Indian Ocean Tsunami",
+    "date": "December 26 2004",
+    "location": "Indian Ocean",
+    "coordinates": {
+      "lat": 3.3167,
+      "lng": 95.8547
+    },
+    "summary": "A massive earthquake triggered a tsunami that killed over 200,000 people."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "lateran-treaty-1929-1",
+    "name": "Lateran Treaty",
+    "date": "February 11 1929",
+    "location": "Italy",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "The Kingdom of Italy and the Holy See of the Catholic Church sign the Lateran Treaty, to establish the Vatican City as an independent sovereign enclave within Rome, resolving the \"Roman Question\". The Lateran Treaty (Italian: Patti Lateranensi; Latin: Pacta Lateranensia) was one component of the Lateran Pacts of 1929, agreements between Italy under King Victor Emmanuel III and Duce Benito Mussolini and the Holy See under Pope Pius XI to settle the long-standing Roman question."
+  },
+  {
+    "id": "saint-valentines-day-massacre-1929-2",
+    "name": "Saint Valentine's Day Massacre",
+    "date": "February 14 1929",
+    "location": "Saint Valentine's Day Massacre",
+    "coordinates": {
+      "lat": 41.9208,
+      "lng": -87.6379
+    },
+    "summary": "\"Saint Valentine's Day Massacre\": Five gangsters (rivals of Al Capone), plus a civilian, are shot dead in Chicago. The Saint Valentine's Day Massacre was the murder of seven members and associates of Chicago's North Side Gang on Saint Valentine's Day 1929. The men were gathered at a Lincoln Park, Chicago, garage when between four and six men entered, two of whom were disguised as police officers."
+  },
+  {
+    "id": "treaty-of-lima-1929-3",
+    "name": "Treaty of Lima",
+    "date": "June 3 1929",
+    "location": "Chile",
+    "coordinates": {
+      "lat": -33.4489,
+      "lng": -70.6693
+    },
+    "summary": "The Treaty of Lima settles a border dispute between Peru and Chile. Treaty of Lima refers to a number of treaties. Treaty of Lima (1848), more formally known as the Treaty of Confederation between the Republics of Peru, Bolivia, Chile, Ecuador and New Granada, was signed on February 8, 1848."
+  },
+  {
+    "id": "first-public-demonstration-of-color-tv-is-held-by-h-1929-4",
+    "name": "first public demonstration of color TV is held, by H",
+    "date": "June 27 1929",
+    "location": "New York",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The first public demonstration of color TV is held, by H.E. Ives and his colleagues at Bell Telephone Laboratories in New York. The first images are a bouquet of roses and an American flag. A mechanical system is used to transmit 50-line color television images between New York and Washington."
+  },
+  {
+    "id": "john-logie-baird-1929-5",
+    "name": "John Logie Baird",
+    "date": "August 20 1929",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "John Logie Baird's experimental 30-line television system is first transmitted, by the British Broadcasting Corporation in London. John Logie Baird (; 13 August 1888 – 14 June 1946) was a Scottish inventor, electrical engineer and innovator who demonstrated the world's first mechanical television system on 26 January 1926. He went on to invent the first publicly demonstrated colour television system and the first viable purely electronic colour television picture tube."
+  },
+  {
+    "id": "24-the-1929-hebron-massacre-1929-6",
+    "name": "24 – The 1929 Hebron massacre",
+    "date": "August 23 1929",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "24 – The 1929 Hebron massacre: 65–68 Jews are killed by Palestinians and the remaining Jews are forced to leave Hebron. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "world-war-i-reparations-1929-7",
+    "name": "World War I reparations",
+    "date": "August 31 1929",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "The Young Plan, which sets the total World War I reparations owed by Germany at US$26,350,000,000 to be paid over a period of 58½ years, is finalized. Following their defeat in World War I, the Central Powers agreed to pay war reparations to the Allied Powers. Each defeated power was required to make payments in either cash or kind."
+  },
+  {
+    "id": "wall-street-crash-of-1929-1929-8",
+    "name": "Wall Street Crash of 1929",
+    "date": "October 24 1929",
+    "location": "New York",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "29 – Wall Street Crash of 1929: Three multi-digit percentage drops wipe out more than $30 billion from the New York Stock Exchange (10 times greater than the annual budget of the federal government). The Wall Street crash of 1929, also known as the Great Crash, was a major stock market crash in the United States which began in October 1929 with a sharp decline in prices on the New York Stock Exchange (NYSE)."
+  },
+  {
+    "id": "mau-movement-1929-9",
+    "name": "Mau movement",
+    "date": "December 28 1929",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "\"Black Saturday\" in Samoa: New Zealand colonial police kill 11 unarmed demonstrators, an event which leads the Mau movement to demand independence for Samoa. The Mau was a non-violent movement for Samoan independence from colonial rule during the first half of the 20th century. Mau means 'resolute' or 'resolved' in the sense of 'opinion', 'unwavering', 'to be decided', or 'testimony'; also denoting 'firm strength' in Samoan."
+  },
+  {
+    "id": "all-india-congress-in-lahore-demands-indian-independence-1929-10",
+    "name": "All India Congress in Lahore demands Indian independence",
+    "date": "December 29 1929",
+    "location": "Global",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "summary": "The All India Congress in Lahore demands Indian independence. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  }
+]

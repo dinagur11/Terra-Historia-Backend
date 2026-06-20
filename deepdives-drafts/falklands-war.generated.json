@@ -2,65 +2,55 @@
   {
     "id": "operation-black-buck",
     "year": 1982,
-    "date": "1982-01-01",
+    "date": "1982-05-01",
     "title": "Operation Black Buck",
-    "sub": "Part of Falklands War",
+    "sub": "Long-range Vulcan raids from Ascension Island",
     "view": {
       "center": [
-        50,
-        15
+        -51.69,
+        -57.85
       ],
-      "zoom": 3
+      "zoom": 4
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "RAF Ascension Island",
+        "latlng": [
+          -7.9467,
+          -14.3559
+        ],
+        "type": "major",
+        "description": "Ascension Island was the staging base for the Vulcan bombers and Victor tankers that made the extraordinary round trip possible."
+      },
+      {
+        "label": "Port Stanley airfield",
+        "latlng": [
+          -51.6857,
+          -57.7776
+        ],
+        "type": "target",
+        "description": "Black Buck targeted Stanley's runway to restrict Argentine air operations and signal that Britain could strike the occupied islands."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "From World War II to Falklands War",
-        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
-        "cap": "Historical connection: Unresolved imperial sovereignty",
-        "body": "World War II accelerated the decline of European empires but did not resolve every sovereignty dispute. Argentina continued to claim the British-held Falkland Islands, while Britain maintained the islanders' right to remain British. In 1982, Argentina attempted to settle that lingering imperial dispute by force.",
+        "title": "A Bomber Route Across the Atlantic",
+        "img": "https://www.collectair.co.uk/images/black-buck-650.jpg",
+        "cap": "RAF Vulcan imagery associated with the Black Buck raids.",
+        "body": "Operation Black Buck sent RAF Vulcan bombers from Ascension Island to attack the runway at Port Stanley. The raids required complex chains of Victor tankers and became a test of range, planning, and endurance as much as bombing accuracy. Militarily, the runway damage was limited; strategically, the operation showed Argentina that the islands were within British reach and forced planners to consider the vulnerability of mainland-linked air operations.",
         "stats": [
-          {
-            "val": "World War II",
-            "lbl": "Previous conflict in this path"
-          },
-          {
-            "val": "Decolonization",
-            "lbl": "Unresolved imperial sovereignty"
-          },
-          {
-            "val": "Falklands War",
-            "lbl": "The next conflict to explore"
-          },
-          {
-            "val": "Why they connect",
-            "lbl": "World War II accelerated the decline of European empires but did not resolve every sovereignty dispute. Argentina continued to claim the British-held Falkland Islands, while Britain maintained the islanders' right to remain British. In 1982, Argentina attempted to settle that lingering imperial dispute by force.",
-            "full": true
-          }
-        ]
-      },
-      {
-        "title": "Operation Black Buck",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Blackbuck.operation.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Black_Buck",
-        "body": "Operation Black Buck was Britain's ultra-long-range Vulcan bomber campaign from Ascension Island against the runway and radar facilities around Stanley. The raids required complex chains of Victor tanker refueling and stretched aircraft designed for a different era into a new role. Militarily, the runway damage was limited, but politically and psychologically the raids proved Britain could strike the islands from extreme range.\n\nWhy It Matters: The raids demonstrated British reach, pressured Argentine air planning, and became legendary for their refueling complexity. The Falklands War was a British expeditionary war fought far from Europe, watched closely by NATO, the United States, and every navy interested in missiles, carriers, logistics, and amphibious operations.",
-        "stats": [
-          {
-            "val": "~6,600 nm",
-            "lbl": "Round trip, approx."
-          },
-          {
-            "val": "Victor tankers",
-            "lbl": "Refueling chain"
-          },
           {
             "val": "1 May 1982",
             "lbl": "First raid"
           },
           {
-            "val": "The importance of this event:",
-            "lbl": "The raids demonstrated British reach, pressured Argentine air planning, and became legendary for their refueling complexity.",
+            "val": "Ascension to Stanley",
+            "lbl": "Route"
+          },
+          {
+            "val": "Long-range deterrent signal",
+            "lbl": "Main significance",
             "full": true
           }
         ]
@@ -72,47 +62,53 @@
     "year": 1982,
     "date": "1982-04-02",
     "title": "Operation Rosary",
-    "sub": "Part of Falklands War",
+    "sub": "Argentina seizes the Falkland Islands",
     "view": {
       "center": [
         -51.6917,
         -57.8728
       ],
-      "zoom": 5
+      "zoom": 7
     },
     "markers": [
       {
-        "label": "Operation Rosary",
+        "label": "Government House, Stanley",
         "latlng": [
-          -51.6917,
-          -57.8728
+          -51.696,
+          -57.852
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The small Royal Marine garrison resisted around Stanley before surrendering to a much larger Argentine landing force."
+      },
+      {
+        "label": "Mullet Creek landing area",
+        "latlng": [
+          -51.74,
+          -58.02
+        ],
+        "type": "major",
+        "description": "Argentine units came ashore around Stanley, turning a long-running sovereignty dispute into an armed occupation."
       }
     ],
     "regions": [],
     "slides": [
       {
-        "title": "Operation Rosary",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Recopilaci%C3%B3n_de_im%C3%A1genes_durante_la_Guerra_de_las_Malvinas.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/1982_invasion_of_the_Falkland_Islands",
-        "body": "Operation Rosary was Argentina's seizure of the Falkland Islands on 2 April 1982. Argentine forces quickly overwhelmed the small Royal Marine garrison, expecting Britain might protest but not fight a major war so far from home. Instead, the invasion triggered a British task force deployment and transformed a sovereignty dispute into a high-risk naval war in the South Atlantic.\n\nWhy It Matters: The landing created the crisis, forced Margaret Thatcher's government to respond, and set the entire British task force campaign in motion. The Falklands War was a British expeditionary war fought far from Europe, watched closely by NATO, the United States, and every navy interested in missiles, carriers, logistics, and amphibious operations.",
+        "title": "The Seizure That Started the War",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/LVTP7-IMARA-17may07.jpg",
+        "cap": "An Argentine LVTP-7 amphibious vehicle of the type associated with Argentine marine landings.",
+        "body": "Operation Rosary was Argentina's 2 April 1982 invasion of the Falkland Islands. Argentine commanders expected a quick occupation to strengthen Buenos Aires's claim and perhaps avoid a major British response. Instead, the landing created a political crisis in London, rallied British public opinion, and forced both governments into a war neither side could easily de-escalate.",
         "stats": [
           {
             "val": "2 Apr 1982",
             "lbl": "Argentine landing"
           },
           {
-            "val": "~80 Royal Marines",
-            "lbl": "Small British garrison, approx."
+            "val": "Stanley",
+            "lbl": "Main objective"
           },
           {
-            "val": "8,000 miles",
-            "lbl": "Distance from Britain, approx."
-          },
-          {
-            "val": "The importance of this event:",
-            "lbl": "The landing created the crisis, forced Margaret Thatcher's government to respond, and set the entire British task force campaign in motion.",
+            "val": "Occupation triggers British task force",
+            "lbl": "Consequence",
             "full": true
           }
         ]
@@ -124,31 +120,41 @@
     "year": 1982,
     "date": "1982-04-03",
     "title": "Invasion of South Georgia",
-    "sub": "Part of Falklands War",
+    "sub": "Argentina extends the crisis to South Georgia",
     "view": {
       "center": [
-        -54.285238888,
-        -36.499061111
+        -54.2852,
+        -36.4991
       ],
-      "zoom": 5
+      "zoom": 6
     },
     "markers": [
       {
-        "label": "Invasion of South Georgia",
+        "label": "Grytviken",
         "latlng": [
-          -54.285238888,
-          -36.499061111
+          -54.2811,
+          -36.5092
         ],
-        "type": "major"
+        "type": "major",
+        "description": "Grytviken was the center of the brief British resistance and later an early target for British recapture."
+      },
+      {
+        "label": "Leith Harbour",
+        "latlng": [
+          -54.1405,
+          -36.6891
+        ],
+        "type": "minor",
+        "description": "The earlier scrap-metal workers dispute around Leith helped escalate tensions before the Argentine military landing."
       }
     ],
     "regions": [],
     "slides": [
       {
-        "title": "Invasion of South Georgia",
-        "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/Overview_of_Battle_of_Grytviken_3rd_April_1982.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Invasion_of_South_Georgia",
-        "body": "Argentina also moved on South Georgia, a remote island with enormous symbolic and maritime value. The tiny British presence resisted briefly before surrendering, but the island did not stay in Argentine hands for long. South Georgia became an early target for British recovery because retaking it would prove momentum, restore morale, and show the task force could operate effectively in brutal South Atlantic conditions.\n\nWhy It Matters: South Georgia gave Britain an early chance to reverse Argentine gains and demonstrate that the task force was not just sailing south, but fighting back. The Falklands War was a British expeditionary war fought far from Europe, watched closely by NATO, the United States, and every navy interested in missiles, carriers, logistics, and amphibious operations.",
+        "title": "A Remote Island Becomes an Early Test",
+        "img": "https://i.guim.co.uk/img/media/4244ea5b45e8d407af82a11ef4d16b07ba634b5c/0_980_2293_1375/master/2293.jpg?width=465&dpr=1&s=none&crop=none",
+        "cap": "South Georgia during the 1982 crisis.",
+        "body": "Argentina's move on South Georgia widened the campaign beyond the Falklands themselves. The island had little immediate military value compared with East Falkland, but it mattered symbolically and operationally: retaking it would let Britain prove that the task force could fight, coordinate helicopters and ships in severe weather, and reverse Argentine gains before the main amphibious landing.",
         "stats": [
           {
             "val": "3 Apr 1982",
@@ -156,15 +162,11 @@
           },
           {
             "val": "Grytviken",
-            "lbl": "Key settlement"
+            "lbl": "Key location"
           },
           {
-            "val": "Remote island",
-            "lbl": "Logistics mattered"
-          },
-          {
-            "val": "The importance of this event:",
-            "lbl": "South Georgia gave Britain an early chance to reverse Argentine gains and demonstrate that the task force was not just sailing south, but fighting back.",
+            "val": "Sets up Britain's first recapture operation",
+            "lbl": "Consequence",
             "full": true
           }
         ]
@@ -176,47 +178,53 @@
     "year": 1982,
     "date": "1982-04-24",
     "title": "Operation Algeciras",
-    "sub": "Part of Falklands War",
+    "sub": "A covert Argentine plot near Gibraltar",
     "view": {
       "center": [
-        36.13111111,
-        -5.39611111
+        36.1311,
+        -5.3961
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Operation Algeciras",
+        "label": "Gibraltar anchorage",
         "latlng": [
-          36.13111111,
-          -5.39611111
+          36.1311,
+          -5.3961
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Argentine commandos planned to attack British naval targets with limpet mines near Gibraltar."
+      },
+      {
+        "label": "Algeciras",
+        "latlng": [
+          36.1408,
+          -5.4562
+        ],
+        "type": "major",
+        "description": "Spanish police disrupted the team before the planned attack could be carried out."
       }
     ],
     "regions": [],
     "slides": [
       {
-        "title": "Operation Algeciras",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bay_of_Gibraltar_map.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Algeciras",
-        "body": "Operation Algeciras was Argentina's covert plan to attack British ships at Gibraltar using commandos and limpet mines. Spanish authorities disrupted the plot before it could be carried out. The episode is a fascinating side chapter because it shows the war was not only fought around the Falklands; Argentina also explored asymmetric ways to hit British naval power near Europe.\n\nWhy It Matters: The failed plot revealed how a distant naval war could spill into covert operations on European soil. The Falklands War was a British expeditionary war fought far from Europe, watched closely by NATO, the United States, and every navy interested in missiles, carriers, logistics, and amphibious operations.",
+        "title": "The War's Covert European Edge",
+        "img": "https://nuttersworld.com/gibraltars-secret-wars/operation-algeciras/belgrano.webp",
+        "cap": "Image associated with Operation Algeciras and the wider Gibraltar plot.",
+        "body": "Operation Algeciras was Argentina's attempt to strike British shipping at Gibraltar with commandos and limpet mines. The plan failed after Spanish authorities uncovered the team, but the episode shows that the conflict was not confined to the South Atlantic. Argentina looked for asymmetric pressure points, while Britain had to think about port security, intelligence, and escalation far from the islands.",
         "stats": [
           {
             "val": "Gibraltar",
-            "lbl": "Planned target area"
+            "lbl": "Planned target"
           },
           {
             "val": "Limpet mines",
-            "lbl": "Intended weapon"
+            "lbl": "Intended method"
           },
           {
-            "val": "Foiled",
-            "lbl": "Spanish police intervention"
-          },
-          {
-            "val": "The importance of this event:",
-            "lbl": "The failed plot revealed how a distant naval war could spill into covert operations on European soil.",
+            "val": "Foiled by Spanish authorities",
+            "lbl": "Outcome",
             "full": true
           }
         ]
@@ -228,38 +236,53 @@
     "year": 1982,
     "date": "1982-04-25",
     "title": "Operation Paraquet",
-    "sub": "Part of Falklands War",
+    "sub": "Britain retakes South Georgia",
     "view": {
       "center": [
-        50,
-        15
+        -54.2852,
+        -36.4991
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Grytviken",
+        "latlng": [
+          -54.2811,
+          -36.5092
+        ],
+        "type": "target",
+        "description": "British forces accepted the Argentine surrender at Grytviken after disabling the submarine ARA Santa Fe."
+      },
+      {
+        "label": "South Georgia approaches",
+        "latlng": [
+          -54.2,
+          -36.6
+        ],
+        "type": "minor",
+        "description": "Bad weather, helicopter losses, and improvised special-forces movement shaped the operation."
+      }
+    ],
     "regions": [],
     "slides": [
       {
-        "title": "Operation Paraquet",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Fleet_Air_Arm_Museum_%2811368442603%29.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Paraquet",
-        "body": "Operation Paraquet was Britain's recapture of South Georgia, nicknamed Paraquet because commanders joked it should be a tough bird. The operation combined special forces, helicopters, ships, and harsh-weather improvisation. The surrender message, \"Be pleased to inform Her Majesty that the White Ensign flies alongside the Union Jack in South Georgia,\" gave Britain a morale boost before the main Falklands landings.\n\nWhy It Matters: It was Britain's first clear success of the campaign and proved the task force could retake occupied territory. The Falklands War was a British expeditionary war fought far from Europe, watched closely by NATO, the United States, and every navy interested in missiles, carriers, logistics, and amphibious operations.",
+        "title": "First British Success",
+        "img": "https://i.guim.co.uk/img/media/4244ea5b45e8d407af82a11ef4d16b07ba634b5c/0_980_2293_1375/master/2293.jpg?width=465&dpr=1&s=none&crop=none",
+        "cap": "South Georgia, the first territory retaken by British forces in the campaign.",
+        "body": "Operation Paraquet recaptured South Georgia and gave Britain its first clear victory of the campaign. The operation mixed special forces, naval aviation, ships, and rapid improvisation in harsh weather. Its military scale was smaller than the later Falklands landing, but the political effect was large: it proved the task force was not just sailing south, it was already reversing Argentine control.",
         "stats": [
           {
             "val": "25 Apr 1982",
             "lbl": "South Georgia retaken"
           },
           {
-            "val": "ARA Santa Fe",
-            "lbl": "Argentine submarine disabled"
+            "val": "ARA Santa Fe disabled",
+            "lbl": "Key military result"
           },
           {
-            "val": "No British combat deaths",
-            "lbl": "In recapture"
-          },
-          {
-            "val": "The importance of this event:",
-            "lbl": "It was Britain's first clear success of the campaign and proved the task force could retake occupied territory.",
+            "val": "Boosts British morale before the Falklands landing",
+            "lbl": "Significance",
             "full": true
           }
         ]
@@ -271,47 +294,53 @@
     "year": 1982,
     "date": "1982-05-21",
     "title": "Battle of San Carlos",
-    "sub": "Part of Falklands War",
+    "sub": "The amphibious landing and Bomb Alley",
     "view": {
       "center": [
-        -51.50777778,
-        -59.07972222
+        -51.5078,
+        -59.0797
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Battle of San Carlos",
+        "label": "San Carlos Water",
         "latlng": [
-          -51.50777778,
-          -59.07972222
+          -51.5078,
+          -59.0797
         ],
-        "type": "major"
+        "type": "target",
+        "description": "British troops landed here to create the beachhead for the ground campaign across East Falkland."
+      },
+      {
+        "label": "Falkland Sound",
+        "latlng": [
+          -51.6,
+          -59.05
+        ],
+        "type": "major",
+        "description": "Argentine aircraft attacked ships in the confined waters that British sailors called Bomb Alley."
       }
     ],
     "regions": [],
     "slides": [
       {
-        "title": "Battle of San Carlos",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_San_Carlos_(1982)",
-        "body": "San Carlos was the amphibious doorway back into the Falklands. British troops landed in Falkland Sound while Argentine aircraft launched repeated low-level attacks against the ships. The anchorage became known as Bomb Alley because vessels were exposed to bombs and missiles while unloading troops and supplies. Britain held the beachhead, but the cost in damaged and sunk ships showed how dangerous modern air attack was for amphibious operations.\n\nWhy It Matters: The landing secured the ground campaign but taught navies worldwide hard lessons about air defense, ship survivability, and expeditionary logistics. The Falklands War was a British expeditionary war fought far from Europe, watched closely by NATO, the United States, and every navy interested in missiles, carriers, logistics, and amphibious operations.",
+        "title": "The Beachhead Under Air Attack",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Heading_into_Port_Stanley.jpg/250px-Heading_into_Port_Stanley.jpg",
+        "cap": "British troops advancing after the San Carlos landing.",
+        "body": "The Battle of San Carlos opened the land campaign. British troops got ashore, but the ships supporting them endured repeated low-level Argentine air attacks while unloading men, ammunition, vehicles, and supplies. Holding the anchorage made the advance on Stanley possible; the losses and damage to ships also made San Carlos one of the war's defining lessons in air defense, naval logistics, and amphibious risk.",
         "stats": [
           {
             "val": "21 May 1982",
             "lbl": "Landing begins"
           },
           {
-            "val": "Bomb Alley",
-            "lbl": "British nickname"
+            "val": "San Carlos Water",
+            "lbl": "Beachhead"
           },
           {
-            "val": "5 ships",
-            "lbl": "British ships sunk nearby, campaign phase"
-          },
-          {
-            "val": "The importance of this event:",
-            "lbl": "The landing secured the ground campaign but taught navies worldwide hard lessons about air defense, ship survivability, and expeditionary logistics.",
+            "val": "Amphibious success under heavy air attack",
+            "lbl": "Operational result",
             "full": true
           }
         ]
@@ -323,31 +352,41 @@
     "year": 1982,
     "date": "1982-05-28",
     "title": "Battle of Goose Green",
-    "sub": "Part of Falklands War",
+    "sub": "2 Para fights the first major land battle",
     "view": {
       "center": [
-        -51.828833333,
-        -58.969166666
+        -51.8288,
+        -58.9692
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Battle of Goose Green",
+        "label": "Goose Green",
         "latlng": [
-          -51.828833333,
-          -58.969166666
+          -51.8288,
+          -58.9692
         ],
-        "type": "major"
+        "type": "target",
+        "description": "The settlement and nearby Argentine garrison became the first major British land objective after San Carlos."
+      },
+      {
+        "label": "Darwin",
+        "latlng": [
+          -51.812,
+          -58.986
+        ],
+        "type": "major",
+        "description": "The Darwin-Goose Green isthmus forced attackers through exposed ground under fire."
       }
     ],
     "regions": [],
     "slides": [
       {
-        "title": "Battle of Goose Green",
+        "title": "Momentum on Land",
         "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Goose_Green_school.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Goose_Green",
-        "body": "Goose Green was the first major land battle after the British landing. 2 Para attacked a larger Argentine garrison across open, difficult ground, and Lieutenant Colonel H. Jones was killed leading an assault. The British victory freed civilians, captured a large number of prisoners, and gave the land campaign a psychological lift before the advance on Stanley.\n\nWhy It Matters: The battle proved British troops could win on land after the risky amphibious landing and helped build momentum toward Stanley. The Falklands War was a British expeditionary war fought far from Europe, watched closely by NATO, the United States, and every navy interested in missiles, carriers, logistics, and amphibious operations.",
+        "cap": "Goose Green school, one of the recognizable sites from the battle area.",
+        "body": "Goose Green was the first major land battle after the British landing. 2 Para attacked over open ground against a larger Argentine garrison, and Lieutenant Colonel H. Jones was killed during the fighting. The British victory freed civilians, captured hundreds of prisoners, and gave the ground campaign momentum before the final advance toward Stanley.",
         "stats": [
           {
             "val": "28-29 May 1982",
@@ -358,12 +397,8 @@
             "lbl": "Main British unit"
           },
           {
-            "val": "~1,000+",
-            "lbl": "Argentine prisoners captured"
-          },
-          {
-            "val": "The importance of this event:",
-            "lbl": "The battle proved British troops could win on land after the risky amphibious landing and helped build momentum toward Stanley.",
+            "val": "First major British land victory",
+            "lbl": "Significance",
             "full": true
           }
         ]
@@ -374,73 +409,54 @@
     "id": "1982-british-army-gazelle-friendly-fire-incident",
     "year": 1982,
     "date": "1982-06-06",
-    "title": "1982 British Army Gazelle friendly fire incident",
-    "sub": "Part of Falklands War",
+    "title": "1982 British Army Gazelle Friendly Fire Incident",
+    "sub": "Command-and-control failure in a crowded battlespace",
     "view": {
       "center": [
-        -51.783611111,
-        -58.467777777
+        -51.7836,
+        -58.4678
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "1982 British Army Gazelle friendly fire incident",
+        "label": "Pleasant Peak area",
         "latlng": [
-          -51.783611111,
-          -58.467777777
+          -51.7836,
+          -58.4678
         ],
-        "type": "major"
+        "type": "major",
+        "description": "A British Gazelle helicopter was mistakenly shot down by British forces, killing four servicemen."
+      },
+      {
+        "label": "Stanley approaches",
+        "latlng": [
+          -51.7,
+          -58.2
+        ],
+        "type": "minor",
+        "description": "The incident occurred as British forces were pushing toward the final battles around Stanley."
       }
     ],
     "regions": [],
     "slides": [
       {
-        "title": "1982 British Army Gazelle friendly fire incident",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/GazelleAH1_Ahlhorn_May1983.jpeg",
-        "cap": "Source: https://en.wikipedia.org/wiki/1982_British_Army_Gazelle_friendly_fire_incident",
-        "body": "The Gazelle friendly-fire incident was a painful reminder that expeditionary warfare is full of identification problems. A British helicopter was mistakenly shot down by British forces, killing four servicemen. It happened during a campaign where aircraft, ships, ground units, and air defenses all operated under stress, poor weather, and imperfect communications. For military historians, it is a small event with a large lesson about command and control.\n\nWhy It Matters: The incident highlights the confusion of modern joint operations and the lethal risk of misidentifying friendly aircraft in a crowded battlespace. The Falklands War was a British expeditionary war fought far from Europe, watched closely by NATO, the United States, and every navy interested in missiles, carriers, logistics, and amphibious operations.",
+        "title": "A Small Incident With a Large Lesson",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/GazelleAH1_Ahlhorn_May1983.jpeg",
+        "cap": "A British Army Gazelle helicopter, the aircraft type involved in the incident.",
+        "body": "The Gazelle friendly-fire incident exposed how hard identification can become when helicopters, ships, ground forces, and air defenses operate under stress. Four British servicemen were killed when a British helicopter was mistaken for hostile aircraft. The episode did not decide the campaign, but it belongs in the deep dive because it reveals the human cost of command friction and the limits of battlefield awareness.",
         "stats": [
           {
             "val": "6 Jun 1982",
             "lbl": "Incident date"
           },
           {
-            "val": "4 killed",
-            "lbl": "British servicemen"
+            "val": "4 British dead",
+            "lbl": "Human cost"
           },
           {
-            "val": "Gazelle",
-            "lbl": "Helicopter type"
-          },
-          {
-            "val": "The importance of this event:",
-            "lbl": "The incident highlights the confusion of modern joint operations and the lethal risk of misidentifying friendly aircraft in a crowded battlespace.",
-            "full": true
-          }
-        ]
-      },
-      {
-        "title": "War Summary: Falklands War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/GazelleAH1_Ahlhorn_May1983.jpeg",
-        "cap": "The end and legacy of the Falklands War",
-        "body": "British forces retook the islands after a distant naval and amphibious campaign. The defeat accelerated the collapse of Argentina's military dictatorship.",
-        "stats": [
-          {
-            "val": "255 military deaths",
-            "lbl": "United Kingdom casualties, approximate"
-          },
-          {
-            "val": "649 military deaths",
-            "lbl": "Argentina casualties, approximate"
-          },
-          {
-            "val": "British victory",
-            "lbl": "Outcome / winner"
-          },
-          {
-            "val": "Final assessment",
-            "lbl": "British forces retook the islands after a distant naval and amphibious campaign. The defeat accelerated the collapse of Argentina's military dictatorship.",
+            "val": "Friendly-fire risk in joint operations",
+            "lbl": "Lesson",
             "full": true
           }
         ]

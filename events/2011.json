@@ -1,0 +1,46 @@
+[
+  {
+    "id": "arab-spring-2011",
+    "name": "Arab Spring Spreads Across Middle East",
+    "date": "January 25 2011",
+    "location": "Egypt",
+    "coordinates": {
+      "lat": 30.0444,
+      "lng": 31.2357
+    },
+    "summary": "Mass protests spread across multiple countries, leading to political upheaval."
+  },
+  {
+    "id": "bin-laden-killed-2011",
+    "name": "Osama bin Laden Killed",
+    "date": "May 2 2011",
+    "location": "Abbottabad, Pakistan",
+    "coordinates": {
+      "lat": 34.1688,
+      "lng": 73.2215
+    },
+    "summary": "U.S. forces killed al-Qaeda leader Osama bin Laden in a targeted raid."
+  },
+  {
+    "id": "fukushima-disaster-2011",
+    "name": "Fukushima Nuclear Disaster",
+    "date": "March 11 2011",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 37.421,
+      "lng": 141.032
+    },
+    "summary": "A massive earthquake and tsunami caused a nuclear disaster at the Fukushima plant."
+  },
+  {
+    "id": "south-sudan-independence-2011",
+    "name": "South Sudan Independence",
+    "date": "July 9 2011",
+    "location": "South Sudan",
+    "coordinates": {
+      "lat": 6.877,
+      "lng": 31.307
+    },
+    "summary": "South Sudan became the world's newest independent country."
+  }
+]

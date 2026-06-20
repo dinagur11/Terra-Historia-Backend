@@ -1,0 +1,68 @@
+[
+  {
+    "id": "paris-attacks-2015",
+    "name": "Paris Terror Attacks",
+    "date": "November 13 2015",
+    "location": "Paris, France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Coordinated attacks killed 130 people."
+  },
+  {
+    "id": "iran-deal-2015",
+    "name": "Iran Nuclear Deal",
+    "date": "July 14 2015",
+    "location": "Vienna, Austria",
+    "coordinates": {
+      "lat": 48.2082,
+      "lng": 16.3738
+    },
+    "summary": "World powers agreed to limit Iran’s nuclear program."
+  },
+  {
+    "id": "refugee-crisis-2015",
+    "name": "European Migrant Crisis",
+    "date": "September 1 2015",
+    "location": "Europe",
+    "coordinates": {
+      "lat": 50.1109,
+      "lng": 8.6821
+    },
+    "summary": "Large numbers of refugees entered Europe."
+  },
+  {
+    "id": "paris-climate-2015",
+    "name": "Paris Climate Agreement",
+    "date": "December 12 2015",
+    "location": "Paris, France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "Countries agreed on global climate goals."
+  },
+  {
+    "id": "nepal-earthquake-2015",
+    "name": "Nepal Earthquake",
+    "date": "April 25 2015",
+    "location": "Nepal",
+    "coordinates": {
+      "lat": 28.3949,
+      "lng": 84.124
+    },
+    "summary": "A powerful earthquake killed thousands."
+  },
+  {
+    "id": "vw-scandal-2015",
+    "name": "Volkswagen Emissions Scandal",
+    "date": "September 18 2015",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "Volkswagen was found to have cheated emissions tests."
+  }
+]

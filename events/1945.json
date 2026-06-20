@@ -1,0 +1,112 @@
+[
+  {
+    "id": "auschwitz-liberated-1945-1",
+    "name": "Liberation of Auschwitz",
+    "date": "January 27 1945",
+    "location": "Auschwitz",
+    "coordinates": {
+      "lat": 50.0358,
+      "lng": 19.1783
+    },
+    "summary": "WWII / Holocaust: Soviet troops liberate Auschwitz-Birkenau, exposing the scale of Nazi mass murder."
+  },
+  {
+    "id": "yalta-1945-2",
+    "name": "Yalta Conference",
+    "date": "February 4 1945",
+    "location": "Yalta",
+    "coordinates": {
+      "lat": 44.495,
+      "lng": 34.166
+    },
+    "summary": "WWII: Allied leaders meet to plan final victory and the postwar order."
+  },
+  {
+    "id": "dresden-1945-3",
+    "name": "Bombing of Dresden",
+    "date": "February 13 1945",
+    "location": "Dresden",
+    "coordinates": {
+      "lat": 51.0504,
+      "lng": 13.7373
+    },
+    "summary": "WWII: Allied bombing devastates Dresden, remaining one of the war's most controversial air raids."
+  },
+  {
+    "id": "iwo-jima-1945-4",
+    "name": "Battle of Iwo Jima",
+    "date": "February 19 1945",
+    "location": "Iwo Jima",
+    "coordinates": {
+      "lat": 24.754,
+      "lng": 141.29
+    },
+    "summary": "WWII: U.S. Marines capture Iwo Jima after fierce fighting, providing airfields for the campaign against Japan."
+  },
+  {
+    "id": "okinawa-1945-5",
+    "name": "Battle of Okinawa",
+    "date": "April 1 1945",
+    "location": "Okinawa",
+    "coordinates": {
+      "lat": 26.3344,
+      "lng": 127.8056
+    },
+    "summary": "WWII: The largest battle of the Pacific War begins, with massive military and civilian losses."
+  },
+  {
+    "id": "berlin-offensive-1945-6",
+    "name": "Battle of Berlin",
+    "date": "April 16 1945",
+    "location": "Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "WWII: Soviet forces launch the final assault on Berlin as Nazi Germany collapses."
+  },
+  {
+    "id": "hitler-death-1945-7",
+    "name": "Death of Adolf Hitler",
+    "date": "April 30 1945",
+    "location": "Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "WWII: Hitler commits suicide in Berlin as Soviet forces close in."
+  },
+  {
+    "id": "ve-day-1945-8",
+    "name": "Victory in Europe Day",
+    "date": "May 8 1945",
+    "location": "Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "WWII: Germany surrenders unconditionally, ending the war in Europe."
+  },
+  {
+    "id": "hiroshima-nagasaki-1945-9",
+    "name": "Atomic Bombings of Hiroshima and Nagasaki",
+    "date": "August 6-9 1945",
+    "location": "Hiroshima",
+    "coordinates": {
+      "lat": 34.3853,
+      "lng": 132.4553
+    },
+    "summary": "WWII: The United States drops atomic bombs on Hiroshima and Nagasaki, killing vast numbers of civilians and accelerating Japan's surrender."
+  },
+  {
+    "id": "japan-surrenders-1945-10",
+    "name": "Japan Surrenders",
+    "date": "September 2 1945",
+    "location": "Tokyo Bay",
+    "coordinates": {
+      "lat": 35.35,
+      "lng": 139.76
+    },
+    "summary": "WWII: Japan formally surrenders aboard USS Missouri, ending World War II."
+  }
+]

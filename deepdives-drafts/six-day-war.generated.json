@@ -1,75 +1,104 @@
 [
   {
-    "id": "ras-sedr-massacre",
+    "id": "egyptian-blockade-and-waiting-period",
     "year": 1967,
-    "date": "1967-06-01",
-    "title": "Ras Sedr massacre",
-    "sub": "Israeli preemptive war and survival front",
+    "date": "1967-05-22",
+    "title": "Egyptian Blockade and the Waiting Period",
+    "sub": "The crisis before the Six-Day War",
     "view": {
       "center": [
-        29.591666666,
-        32.705555555
+        29.2,
+        34.5
       ],
-      "zoom": 5
+      "zoom": 6
     },
     "markers": [
       {
-        "label": "Ras Sedr massacre",
+        "label": "Straits of Tiran",
         "latlng": [
-          29.591666666,
-          32.705555555
+          28,
+          34.45
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Egypt closed the straits to Israeli shipping on 22 May 1967, cutting Israel's Red Sea route."
+      },
+      {
+        "label": "Sharm el-Sheikh",
+        "latlng": [
+          27.9158,
+          34.3299
+        ],
+        "type": "major",
+        "description": "Egyptian forces controlled the entrance to the Gulf of Aqaba from this area."
+      },
+      {
+        "label": "Sinai buildup",
+        "latlng": [
+          30.2,
+          33.8
+        ],
+        "type": "major",
+        "description": "Egypt moved large forces into Sinai after demanding UNEF's withdrawal."
+      },
+      {
+        "label": "Eilat",
+        "latlng": [
+          29.5577,
+          34.9519
+        ],
+        "type": "minor",
+        "description": "Israel's Red Sea port was directly affected by the blockade."
       }
     ],
     "regions": [],
+    "arrows": [],
     "slides": [
       {
         "title": "From Suez Crisis to Six-Day War",
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Operation%20Yona%2C%201956%20IV.jpg",
-        "cap": "Historical connection: Regional rivalry",
-        "body": "The Suez Crisis failed to resolve the Arab-Israeli confrontation. Although foreign troops withdrew and peacekeepers entered Sinai, regional rivalry, military buildup, Palestinian raids, and disputes over waterways continued. In 1967, escalating mobilization and fear of attack produced another major war.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Peace_in_the_Army_-_1967.jpg/250px-Peace_in_the_Army_-_1967.jpg",
+        "cap": "Israeli soldiers during the tense 1967 waiting period",
+        "body": "The Suez Crisis left a temporary arrangement rather than a peace. UNEF peacekeepers stood in Sinai, the Straits of Tiran remained central to Israel's sea access, and Arab-Israeli rivalry continued through raids, mobilization, and alliance politics.\n\nIn May 1967 Egypt ordered UNEF out of Sinai, moved major forces into the peninsula, and closed the Straits of Tiran to Israeli shipping. Israel had warned since 1957 that closing the straits would be treated as a casus belli. With reserves mobilized, the economy strained, and Arab armies coordinating around Israel, the waiting period became a national emergency.",
         "stats": [
           {
-            "val": "Suez Crisis",
-            "lbl": "Previous conflict in this path"
+            "val": "Previous conflict in this path",
+            "lbl": "Suez Crisis"
           },
           {
-            "val": "Regional conflict chain",
-            "lbl": "Regional rivalry"
+            "val": "Immediate trigger",
+            "lbl": "Egypt closed the Straits of Tiran"
           },
           {
-            "val": "Six-Day War",
-            "lbl": "The next conflict to explore"
+            "val": "Strategic danger",
+            "lbl": "Israel faced Egypt, Jordan, Syria, and Iraqi support"
           },
           {
-            "val": "Why they connect",
-            "lbl": "The Suez Crisis failed to resolve the Arab-Israeli confrontation. Although foreign troops withdrew and peacekeepers entered Sinai, regional rivalry, military buildup, Palestinian raids, and disputes over waterways continued. In 1967, escalating mobilization and fear of attack produced another major war.",
+            "val": "Why it mattered",
+            "lbl": "The blockade, Egyptian deployment in Sinai, and removal of UNEF made the crisis feel like a direct threat to Israel's survival and freedom of navigation.",
             "full": true
           }
         ]
       },
       {
-        "title": "Ras Sedr massacre",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Ras_Sedr_massacre",
-        "body": "Ras Sedr massacre was a mass murder of at least 52 Egyptian prisoners of war that took place immediately after a paratrooper unit of the Israel Defense Forces conquered Ras Sedr in the Sinai Peninsula on 8 June 1967 during the Six-Day War. From the Israeli perspective, episodes like Ras Sedr became part of the bitter memory of a short war fought with extreme fear and speed.\n\nWhy It Matters: Ras Sedr massacre mattered because it forced Israel to make choices about preventing encirclement and securing strategic depth against surrounding Arab armies. It reminds the timeline that victory did not erase the violence and trauma experienced by soldiers and civilians.",
+        "title": "A Small State Surrounded",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Peace_in_the_Army_-_1967.jpg/250px-Peace_in_the_Army_-_1967.jpg",
+        "cap": "Israeli soldiers during the tense 1967 waiting period",
+        "body": "Israel tried diplomacy while mobilizing reserves. The problem was time: keeping much of the country in uniform could not be sustained for long, and waiting risked allowing enemy deployments to harden. The country was geographically narrow, with its coastal plain only a short distance from the Jordanian-held West Bank and its southern sea route blocked at Tiran.\n\nThat is why the victory became so astonishing. Israel began the war under deep pressure, with hostile armies on several fronts, yet within six days it destroyed enemy air forces, broke Egypt's Sinai defenses, captured East Jerusalem and the West Bank from Jordan, and took the Golan Heights from Syria.",
         "stats": [
           {
-            "val": "Sinai front",
-            "lbl": "After Egyptian collapse"
+            "val": "9-15 miles",
+            "lbl": "Approximate narrowest width of pre-1967 Israel"
           },
           {
-            "val": "POWs killed",
-            "lbl": "Contested atrocity memory"
+            "val": "Reserve army",
+            "lbl": "Mobilization strained daily life and the economy"
           },
           {
-            "val": "War trauma",
-            "lbl": "Victory included brutality"
+            "val": "Six days",
+            "lbl": "Time from opening strike to ceasefire"
           },
           {
-            "val": "The importance of this event:",
-            "lbl": "It reminds the timeline that victory did not erase the violence and trauma experienced by soldiers and civilians.",
+            "val": "What made it insane",
+            "lbl": "Israel converted a multi-front strategic crisis into air superiority, rapid maneuver, and territorial victory before its enemies could coordinate a sustained campaign.",
             "full": true
           }
         ]
@@ -84,17 +113,45 @@
     "sub": "Israeli preemptive war and survival front",
     "view": {
       "center": [
-        50,
-        15
+        29.9,
+        33.5
       ],
-      "zoom": 3
+      "zoom": 5
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Egyptian airfields",
+        "latlng": [
+          30.1,
+          31.4
+        ],
+        "type": "target",
+        "description": "Operation Focus destroyed much of Egypt's air force on the ground in the opening hours."
+      },
+      {
+        "label": "Sinai air bases",
+        "latlng": [
+          30.4,
+          33.3
+        ],
+        "type": "major",
+        "description": "Airfield attacks disabled Egyptian operations over Sinai."
+      },
+      {
+        "label": "Jordan and Syria airfields",
+        "latlng": [
+          32.7,
+          35.8
+        ],
+        "type": "major",
+        "description": "After Jordanian and Syrian attacks, Israel struck their air bases too."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Focus",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/6dayswar1.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/6dayswar1.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Operation_Focus",
         "body": "Operation Focus was the opening airstrike by Israel at the start of the Six-Day War in 1967. It is sometimes referred to as the \"Sinai Air Strike\". At 07:45 on 5 June 1967, the Israeli Air Force (IAF) under Maj. Gen. Mordechai Hod launched a massive airstrike that destroyed the majority of the Egyptian Air Force on the ground. Following Syrian and Jordanian attacks in retaliation, the Israeli Air Force bombed air bases in those countries. By noon, the Egyptian, Jordanian and Syrian Air Forces, totaling about 450 aircraft, were destroyed. It was also very successful in disabling 18 airfields in Egypt, hindering Egyptian air operations for the duration of the war, and remains one of the most successful air attack campaigns in military history. Operation Focus was Israel's decisive opening air strike, designed to destroy Arab air forces before they could threaten Israeli cities and troops.",
         "stats": [
@@ -111,15 +168,15 @@
             "lbl": "Air superiority decided early"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It gave Israel air superiority and shaped the entire war in its first hours.",
             "full": true
           }
         ]
       },
       {
-        "title": "Why It Matters",
-        "body": "Operation Focus mattered because it forced Israel to make choices about preventing encirclement and securing strategic depth against surrounding Arab armies. It gave Israel air superiority and shaped the entire war in its first hours.",
+        "title": "The Wider Impact",
+        "body": "It gave Israel air superiority and shaped the entire war in its first hours.",
         "stats": [
           {
             "val": "5 Jun 1967",
@@ -134,13 +191,16 @@
             "lbl": "Air superiority decided early"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It gave Israel air superiority and shaped the entire war in its first hours.",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/6dayswar1.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Operation_Focus"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "battle-of-ammunition-hill",
@@ -153,25 +213,35 @@
         31.7994,
         35.2281
       ],
-      "zoom": 5
+      "zoom": 11
     },
     "markers": [
       {
-        "label": "Battle of Ammunition Hill",
+        "label": "Ammunition Hill",
         "latlng": [
           31.7994,
           35.2281
         ],
-        "type": "major"
+        "type": "target",
+        "description": "One of the fiercest battles in Jerusalem, opening the way toward Mount Scopus and the Old City."
+      },
+      {
+        "label": "Old City",
+        "latlng": [
+          31.7767,
+          35.2345
+        ],
+        "type": "major",
+        "description": "Israeli forces entered the Old City after the battle for East Jerusalem."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Ammunition Hill",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tahmoshet.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Tahmoshet.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Ammunition_Hill",
-        "body": "Ammunition Hill was a fortified Jordanian military post in the northern part of Jordanian-ruled East Jerusalem and the western slope of Mount Scopus. It was the site of one of the fiercest battles of the Six-Day War. Ammunition Hill is now a national memorial site. Ammunition Hill was one of the hardest fights in Jerusalem, where Israeli paratroopers battled for a fortified Jordanian position.\n\nWhy It Matters: Battle of Ammunition Hill mattered because it forced Israel to make choices about preventing encirclement and securing strategic depth against surrounding Arab armies. It opened the way to East Jerusalem and became a central symbol in Israeli memory.",
+        "body": "Ammunition Hill was a fortified Jordanian military post in the northern part of Jordanian-ruled East Jerusalem and the western slope of Mount Scopus. It was the site of one of the fiercest battles of the Six-Day War. Ammunition Hill is now a national memorial site. Ammunition Hill was one of the hardest fights in Jerusalem, where Israeli paratroopers battled for a fortified Jordanian position.\n\nIt opened the way to East Jerusalem and became a central symbol in Israeli memory.",
         "stats": [
           {
             "val": "36 Israelis killed",
@@ -186,13 +256,14 @@
             "lbl": "Opened path to Old City"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It opened the way to East Jerusalem and became a central symbol in Israeli memory.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "battle-of-abu-ageila",
@@ -202,28 +273,38 @@
     "sub": "Israeli preemptive war and survival front",
     "view": {
       "center": [
-        30.83885,
-        34.25582778
+        30.84,
+        34.26
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Battle of Abu-Ageila",
+        "label": "Abu-Ageila",
         "latlng": [
           30.83885,
           34.25582778
         ],
-        "type": "major"
+        "type": "target",
+        "description": "A key Egyptian defensive complex broken by Israeli combined-arms tactics."
+      },
+      {
+        "label": "El Arish axis",
+        "latlng": [
+          31.13,
+          33.8
+        ],
+        "type": "major",
+        "description": "The breakthrough helped open the route across northern Sinai."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Abu-Ageila",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Centurion_Tanks.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr_-_Government_Press_Office_(GPO)_-_Centurion_Tanks.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Abu-Ageila",
-        "body": "The Battle of Abu-Ageila was a military confrontation between the Israel Defense Forces and the Egyptian Army in the Six-Day War of June 1967. The decisive defeat of the Egyptians was critical to the eventual loss of the entire Sinai Peninsula to Israel. Leading Israeli forces was Major General Ariel Sharon, later a prominent politician and prime minister of Israel. Abu-Ageila was a key Egyptian defensive complex in Sinai, and Israeli victory there broke the backbone of the Egyptian front.\n\nWhy It Matters: Battle of Abu-Ageila mattered because it forced Israel to make choices about preventing encirclement and securing strategic depth against surrounding Arab armies. It allowed Israel to advance rapidly across Sinai and turned the southern campaign into a rout.",
+        "body": "The Battle of Abu-Ageila was a military confrontation between the Israel Defense Forces and the Egyptian Army in the Six-Day War of June 1967. The decisive defeat of the Egyptians was critical to the eventual loss of the entire Sinai Peninsula to Israel. Leading Israeli forces was Major General Ariel Sharon, later a prominent politician and prime minister of Israel. Abu-Ageila was a key Egyptian defensive complex in Sinai, and Israeli victory there broke the backbone of the Egyptian front.\n\nIt allowed Israel to advance rapidly across Sinai and turned the southern campaign into a rout.",
         "stats": [
           {
             "val": "Night assault",
@@ -238,13 +319,14 @@
             "lbl": "Egyptian front cracks"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It allowed Israel to advance rapidly across Sinai and turned the southern campaign into a rout.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "attack-on-an-iraqi-tupolev-plane-in-israel",
@@ -254,19 +336,38 @@
     "sub": "Israeli preemptive war and survival front",
     "view": {
       "center": [
-        50,
-        15
+        32,
+        35
       ],
-      "zoom": 3
+      "zoom": 7
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Israeli airspace",
+        "latlng": [
+          32,
+          35
+        ],
+        "type": "target",
+        "description": "The Iraqi aircraft episode reflected Israeli fears that the war could expand beyond Egypt, Jordan, and Syria."
+      },
+      {
+        "label": "Jordanian front",
+        "latlng": [
+          31.95,
+          35.2
+        ],
+        "type": "major",
+        "description": "Iraqi support was tied to the wider eastern-front danger facing Israel."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Attack on an Iraqi Tupolev plane in Israel",
-        "img": "",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/6dayswar1.jpg",
         "cap": "",
-        "body": "Draft note for Attack on an Iraqi Tupolev plane in Israel. Review and expand this slide before uploading. The Iraqi aircraft incident reflected Israel's fear of wider Arab participation and the need to defend its airspace during a fast-moving war.\n\nWhy It Matters: Attack on an Iraqi Tupolev plane in Israel mattered because it forced Israel to make choices about preventing encirclement and securing strategic depth against surrounding Arab armies. It showed how regional the conflict could become even beyond the main Egyptian, Jordanian, and Syrian fronts.",
+        "body": "The Iraqi aircraft incident reflected Israel's fear of wider Arab participation and the need to defend its airspace during a fast-moving war.\n\nIt showed how regional the conflict could become even beyond the main Egyptian, Jordanian, and Syrian fronts.",
         "stats": [
           {
             "val": "Iraqi aircraft",
@@ -281,13 +382,14 @@
             "lbl": "Wider Arab involvement feared"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It showed how regional the conflict could become even beyond the main Egyptian, Jordanian, and Syrian fronts.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "jordanian-campaign",
@@ -297,19 +399,47 @@
     "sub": "Israeli preemptive war and survival front",
     "view": {
       "center": [
-        50,
-        15
+        31.9,
+        35.2
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "East Jerusalem",
+        "latlng": [
+          31.778,
+          35.235
+        ],
+        "type": "target",
+        "description": "The Jordanian front brought the war into Jerusalem and changed Israeli history dramatically."
+      },
+      {
+        "label": "West Bank",
+        "latlng": [
+          31.95,
+          35.25
+        ],
+        "type": "major",
+        "description": "Jordanian-held territory was captured during the campaign."
+      },
+      {
+        "label": "Jordan Valley",
+        "latlng": [
+          32.05,
+          35.55
+        ],
+        "type": "major",
+        "description": "Israeli forces pushed east as Jordanian resistance collapsed."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Jordanian campaign",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/1967_Six_Day_War_-_The_Jordan_salient.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/1967_Six_Day_War_-_The_Jordan_salient.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Jordanian_campaign_(1967)",
-        "body": "The Jordanian campaign of 1967 was part of the broader Six-Day War, in which Israel defeated Egypt, Syria, Jordan, and Iraq. For Israel, it was the most significant part of the war, as it resulted in the capture of many Jewish monuments by the Israelis. The Jordanian front brought the war into Jerusalem and the West Bank after Jordan entered the fighting.\n\nWhy It Matters: Jordanian campaign mattered because it forced Israel to make choices about preventing encirclement and securing strategic depth against surrounding Arab armies. It changed Israel's map dramatically and placed Jerusalem at the center of the war's legacy.",
+        "body": "The Jordanian campaign of 1967 was part of the broader Six-Day War, in which Israel defeated Egypt, Syria, Jordan, and Iraq. For Israel, it was the most significant part of the war, as it resulted in the capture of many Jewish monuments by the Israelis. The Jordanian front brought the war into Jerusalem and the West Bank after Jordan entered the fighting.\n\nIt changed Israel's map dramatically and placed Jerusalem at the center of the war's legacy.",
         "stats": [
           {
             "val": "West Bank",
@@ -324,13 +454,14 @@
             "lbl": "War changes Israeli control"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It changed Israel's map dramatically and placed Jerusalem at the center of the war's legacy.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "uss-liberty-incident",
@@ -343,25 +474,35 @@
         31.39,
         33.38
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "USS Liberty incident",
+        "label": "USS Liberty",
         "latlng": [
           31.39,
           33.38
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Israeli air and naval forces mistakenly attacked the American intelligence ship on 8 June 1967."
+      },
+      {
+        "label": "Sinai coast",
+        "latlng": [
+          31.1,
+          33.8
+        ],
+        "type": "major",
+        "description": "The incident occurred while Israel was fighting fast-moving operations near Sinai."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "USS Liberty incident",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SH-3A_Sea_King_hovers_over_the_damaged_USS_Liberty_%28AGTR-5%29_on_8_June_1967_%28USN_1123118%29.jpg/3840px-SH-3A_Sea_King_hovers_over_the_damaged_USS_Liberty_%28AGTR-5%29_on_8_June_1967_%28USN_1123118%29.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/SH-3A_Sea_King_hovers_over_the_damaged_USS_Liberty_(AGTR-5)_on_8_June_1967_(USN_1123118).jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/USS_Liberty_incident",
-        "body": "The USS Liberty incident was an attack on a United States Navy technical research ship, USS Liberty, by Israeli Air Force jet fighter aircraft and Israeli Navy motor torpedo boats, on 8 June 1967, during the Six-Day War. The attack killed 34 crew members, wounded 171 crew members, and severely damaged the ship. Both the Israeli and United States governments conducted inquiries and issued reports that concluded the attack was a mistake due to Israeli confusion about the ship's identity. The USS Liberty incident was a tragic Israeli attack on an American intelligence ship during the fog of war.\n\nWhy It Matters: USS Liberty incident mattered because it forced Israel to make choices about preventing encirclement and securing strategic depth against surrounding Arab armies. It became a lasting diplomatic wound between Israel and the United States despite their broader strategic relationship.",
+        "body": "The USS Liberty incident was an attack on a United States Navy technical research ship, USS Liberty, by Israeli Air Force jet fighter aircraft and Israeli Navy motor torpedo boats, on 8 June 1967, during the Six-Day War. The attack killed 34 crew members, wounded 171 crew members, and severely damaged the ship. Both the Israeli and United States governments conducted inquiries and issued reports that concluded the attack was a mistake due to Israeli confusion about the ship's identity. The USS Liberty incident was a tragic Israeli attack on an American intelligence ship during the fog of war.\n\nIt became a lasting diplomatic wound between Israel and the United States despite their broader strategic relationship.",
         "stats": [
           {
             "val": "34 US killed",
@@ -376,13 +517,14 @@
             "lbl": "US-Israel controversy"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It became a lasting diplomatic wound between Israel and the United States despite their broader strategic relationship.",
             "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "battle-of-tel-azaziat",
@@ -392,28 +534,47 @@
     "sub": "Israeli preemptive war and survival front",
     "view": {
       "center": [
-        33.22571,
-        35.66719
+        33.2,
+        35.7
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Battle of Tel Azaziat",
+        "label": "Tel Azaziat",
         "latlng": [
           33.22571,
           35.66719
         ],
-        "type": "major"
+        "type": "target",
+        "description": "A fortified Syrian post overlooking northern Israel."
+      },
+      {
+        "label": "Golan Heights",
+        "latlng": [
+          33,
+          35.75
+        ],
+        "type": "major",
+        "description": "Capturing the heights removed a long-standing artillery threat to northern communities."
+      },
+      {
+        "label": "Hula Valley",
+        "latlng": [
+          33.1,
+          35.6
+        ],
+        "type": "minor",
+        "description": "Israeli communities below the heights had lived under Syrian fire."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Tel Azaziat",
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Tel%20Azaziat.%20I.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Tel%20Azaziat.%20I.jpg",
         "cap": "",
-        "body": "Draft note for Battle of Tel Azaziat. Review and expand this slide before uploading. Tel Azaziat was part of Israel's final push against Syrian positions overlooking northern communities.\n\nWhy It Matters: Battle of Tel Azaziat mattered because it forced Israel to make choices about preventing encirclement and securing strategic depth against surrounding Arab armies. It helped end the threat from the Golan Heights and reshaped Israel's northern security posture.",
+        "body": "Tel Azaziat was part of Israel's final push against Syrian positions overlooking northern communities.\n\nIt helped end the threat from the Golan Heights and reshaped Israel's northern security posture.",
         "stats": [
           {
             "val": "Golan Heights",
@@ -428,7 +589,7 @@
             "lbl": "Final day fighting"
           },
           {
-            "val": "The importance of this event:",
+            "val": "Historical significance",
             "lbl": "It helped end the threat from the Golan Heights and reshaped Israel's northern security posture.",
             "full": true
           }
@@ -436,9 +597,8 @@
       },
       {
         "title": "War Summary: Six-Day War",
-        "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Tel%20Azaziat.%20I.jpg",
-        "cap": "The end and legacy of the Six-Day War",
-        "body": "Israel captured the Sinai Peninsula, Gaza Strip, West Bank, East Jerusalem, and Golan Heights. The dramatic territorial changes reshaped every later stage of the conflict.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Tel%20Azaziat.%20I.jpg",
+        "body": "Israel captured the Sinai Peninsula, Gaza Strip, West Bank, East Jerusalem, and Golan Heights in six days. The speed was extraordinary because Israel began under blockade, reserve mobilization, and the fear of encirclement, then won air superiority in hours and used it to support rapid ground breakthroughs on three fronts.\n\nThe victory transformed Israel's strategic depth and morale, but it also created the central territorial and political disputes that shaped the next decades: control of the territories, Jerusalem, settlements, refugees, and the search for peace with neighboring states.",
         "stats": [
           {
             "val": "776-983 killed",
@@ -459,6 +619,7 @@
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   }
 ]

@@ -26,28 +26,26 @@
     "slides": [
       {
         "title": "Conflict at Rutbah",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Royal_Air_Force_Operations_in_the_Middle_East_and_North_Africa%2C_1939-1943._CM822.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal_Air_Force_Operations_in_the_Middle_East_and_North_Africa%2C_1939-1943._CM822.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Assault_on_Rutbah_Fort_(1941)",
         "body": "The Assault on Rutbah Fort was fought during the Anglo-Iraqi War between British and Transjordanian forces and Iraqi forces loyal to Rashid Ali."
       },
       {
-        "title": "Why It Matters",
-        "body": "Generated draft. Use this slide to explain causes, consequences, and how this event moved the conflict forward.",
+        "title": "The Wider Impact",
+        "body": "British and Transjordanian forces captured Rutbah Fort in May 1941, securing an important desert route between Transjordan and Iraq during the campaign against Rashid Ali's government.",
         "stats": [
           {
             "val": "1941",
             "lbl": "Year"
           },
           {
-            "val": "Q20981441",
-            "lbl": "Wikidata"
-          },
-          {
             "val": "Wikipedia",
             "lbl": "https://en.wikipedia.org/wiki/Assault_on_Rutbah_Fort_(1941)",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal_Air_Force_Operations_in_the_Middle_East_and_North_Africa%2C_1939-1943._CM822.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Assault_on_Rutbah_Fort_(1941)"
       }
     ]
   }

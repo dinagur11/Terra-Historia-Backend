@@ -1,0 +1,112 @@
+[
+  {
+    "id": "anzio-1944-1",
+    "name": "Anzio Landings",
+    "date": "January 22 1944",
+    "location": "Anzio",
+    "coordinates": {
+      "lat": 41.448,
+      "lng": 12.629
+    },
+    "summary": "WWII: Allied forces land behind German lines in Italy but become pinned down near Anzio."
+  },
+  {
+    "id": "monte-cassino-1944-2",
+    "name": "Battle of Monte Cassino",
+    "date": "January-May 1944",
+    "location": "Monte Cassino",
+    "coordinates": {
+      "lat": 41.49,
+      "lng": 13.814
+    },
+    "summary": "WWII: Allied forces fight through German defenses blocking the road to Rome."
+  },
+  {
+    "id": "rome-liberated-1944-3",
+    "name": "Liberation of Rome",
+    "date": "June 4 1944",
+    "location": "Rome",
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "summary": "WWII: Allied troops enter Rome, the first Axis capital liberated."
+  },
+  {
+    "id": "d-day-1944-4",
+    "name": "D-Day Landings",
+    "date": "June 6 1944",
+    "location": "Normandy",
+    "coordinates": {
+      "lat": 49.339,
+      "lng": -0.621
+    },
+    "summary": "WWII: Allied forces land in Normandy, opening the long-awaited western front in France."
+  },
+  {
+    "id": "operation-bagration-1944-5",
+    "name": "Operation Bagration",
+    "date": "June 22 1944",
+    "location": "Belarus",
+    "coordinates": {
+      "lat": 53.9,
+      "lng": 27.56
+    },
+    "summary": "WWII: The Soviet Union destroys much of Germany's Army Group Centre and drives west across Belarus."
+  },
+  {
+    "id": "warsaw-uprising-1944-6",
+    "name": "Warsaw Uprising",
+    "date": "August 1 1944",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "WWII: The Polish Home Army rises against German occupation as Soviet forces approach the city."
+  },
+  {
+    "id": "liberation-paris-1944-7",
+    "name": "Liberation of Paris",
+    "date": "August 25 1944",
+    "location": "Paris",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "WWII: Allied and Free French forces liberate Paris."
+  },
+  {
+    "id": "operation-market-garden-1944-8",
+    "name": "Operation Market Garden",
+    "date": "September 17 1944",
+    "location": "Arnhem",
+    "coordinates": {
+      "lat": 51.985,
+      "lng": 5.898
+    },
+    "summary": "WWII: Allied airborne and ground forces attempt to seize bridges in the Netherlands but fail to cross the Rhine."
+  },
+  {
+    "id": "battle-of-the-bulge-1944-9",
+    "name": "Battle of the Bulge",
+    "date": "December 16 1944",
+    "location": "Ardennes",
+    "coordinates": {
+      "lat": 50.25,
+      "lng": 5.67
+    },
+    "summary": "WWII: Germany launches its last major offensive in the West, surprising Allied forces in the Ardennes."
+  },
+  {
+    "id": "race-to-berlin-1944-10",
+    "name": "Race Toward Berlin Begins",
+    "date": "Late 1944",
+    "location": "Eastern Europe",
+    "coordinates": {
+      "lat": 52,
+      "lng": 20
+    },
+    "summary": "WWII: Soviet and Western Allied advances make the defeat of Nazi Germany certain and begin the final race toward Berlin."
+  }
+]

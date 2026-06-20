@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ukraine-war-2022",
+    "name": "Russia Invades Ukraine",
+    "date": "February 24 2022",
+    "location": "Ukraine",
+    "coordinates": {
+      "lat": 48.3794,
+      "lng": 31.1656
+    },
+    "summary": "Russia launched a full-scale invasion of Ukraine."
+  },
+  {
+    "id": "queen-death-2022",
+    "name": "Queen Elizabeth II Dies",
+    "date": "September 8 2022",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "The UK's longest-reigning monarch passed away."
+  },
+  {
+    "id": "chatgpt-2022",
+    "name": "ChatGPT Released",
+    "date": "November 30 2022",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "OpenAI released ChatGPT, accelerating AI adoption."
+  },
+  {
+    "id": "world-cup-2022",
+    "name": "FIFA World Cup Qatar",
+    "date": "November 20 2022",
+    "location": "Qatar",
+    "coordinates": {
+      "lat": 25.276987,
+      "lng": 51.520008
+    },
+    "summary": "Qatar hosted the FIFA World Cup."
+  },
+  {
+    "id": "monkeypox-2022",
+    "name": "Monkeypox Outbreak",
+    "date": "July 23 2022",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "WHO declared monkeypox a global health emergency."
+  },
+  {
+    "id": "uk-pm-change-2022",
+    "name": "UK Political Crisis",
+    "date": "September 6 2022",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Multiple prime ministers served in one year amid instability."
+  }
+]

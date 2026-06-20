@@ -1,0 +1,347 @@
+[
+  {
+    "id": "origins-and-background",
+    "year": 2008,
+    "date": "2008-12-27",
+    "title": "From Second Intifada to Gaza War (2008-2009)",
+    "sub": "Connection and background to Gaza War (2008-2009)",
+    "view": {
+      "center": [
+        31.45,
+        34.5
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Gaza Strip",
+        "latlng": [
+          31.45,
+          34.39
+        ],
+        "type": "major",
+        "description": "After Israel's 2005 withdrawal, Hamas and other factions expanded rockets, smuggling, and tunnel networks."
+      },
+      {
+        "label": "Kerem Shalom",
+        "latlng": [
+          31.228,
+          34.284
+        ],
+        "type": "target",
+        "description": "Gilad Shalit was kidnapped in a 2006 cross-border attack near this area."
+      },
+      {
+        "label": "Sderot",
+        "latlng": [
+          31.525,
+          34.596
+        ],
+        "type": "target",
+        "description": "Sderot became the symbol of Israeli civilian life under rocket fire."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "From Second Intifada to Gaza War (2008-2009)",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Operation_Cast_Lead%2C_2009.jpg/500px-Operation_Cast_Lead%2C_2009.jpg",
+        "cap": "Historical overview: From Second Intifada to Gaza War (2008-2009)",
+        "body": "Israel withdrew from the Gaza Strip in 2005, removing settlements and soldiers in the hope that disengagement might reduce friction. Instead, Hamas and other armed groups expanded rocket fire toward Israeli towns, built smuggling routes and tunnels, and in 2006 kidnapped Israeli soldier Gilad Shalit in a cross-border attack.\n\nAfter Hamas seized Gaza in 2007, southern Israel faced a hostile armed enclave rather than a quiet border. The road to Operation Cast Lead was shaped by years of rockets on Sderot and nearby communities, failed ceasefires, and the sense that withdrawal had been answered by escalation.",
+        "stats": [
+          {
+            "val": "Second Intifada",
+            "lbl": "Previous conflict in this path"
+          },
+          {
+            "val": "27 December 2008-18 January 2009",
+            "lbl": "Conflict period"
+          },
+          {
+            "val": "Israeli security perspective",
+            "lbl": "Israel aimed to stop rocket attacks on southern towns, damage Hamas's military organization, and disrupt weapons smuggling while limiting Israeli military losses.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "opening-airstrikes",
+    "year": 2008,
+    "date": "2008-12-27",
+    "title": "Opening Airstrikes",
+    "sub": "Part of Gaza War (2008-2009)",
+    "view": {
+      "center": [
+        31.5,
+        34.47
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Gaza City",
+        "latlng": [
+          31.5,
+          34.47
+        ],
+        "type": "major",
+        "description": "Israeli airstrikes hit Hamas security and command infrastructure at the start of the campaign."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Opening Airstrikes",
+        "img": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/images/articles/migrated/AirStrike_Top.jpg",
+        "cap": "Historical overview: Opening Airstrikes",
+        "body": "Israel opened Operation Cast Lead with coordinated airstrikes against Hamas security compounds, command sites, weapons stores, and rocket infrastructure. The aim was to shock Hamas's military system and reduce its ability to fire on Israeli civilians.\n\nThe opening phase reflected a hard Israeli lesson from the post-2005 years: restraint and limited responses had not stopped the rockets. Israeli leaders chose a major strike because southern communities had spent years living under alarms, school closures, and repeated attacks.",
+        "stats": [
+          {
+            "val": "27 Dec 2008",
+            "lbl": "Operation begins"
+          },
+          {
+            "val": "Operation Cast Lead",
+            "lbl": "Israeli campaign name"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rocket-fire",
+    "year": 2008,
+    "date": "2008-12-28",
+    "title": "Rockets Reach Deeper into Israel",
+    "sub": "Part of Gaza War (2008-2009)",
+    "view": {
+      "center": [
+        31.55,
+        34.72
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Ashkelon",
+        "latlng": [
+          31.6688,
+          34.5743
+        ],
+        "type": "major",
+        "description": "Rocket range expanded beyond the immediate border area into larger Israeli cities."
+      },
+      {
+        "label": "Beersheba",
+        "latlng": [
+          31.252,
+          34.791
+        ],
+        "type": "target",
+        "description": "Longer-range rockets brought deeper Israeli population centers under threat."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Rockets Reach Deeper into Israel",
+        "img": "https://i.guim.co.uk/img/media/0eab0df5ecb7ae925a86bcd5b66718472d807508/0_285_6466_3879/master/6466.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=d5eab3d928ec676b3c719bfaff25c83a",
+        "cap": "Historical overview: Rockets Reach Deeper into Israel",
+        "body": "Hamas and other groups continued launching rockets during the campaign, reaching beyond the border towns into larger Israeli cities. The expanding range demonstrated why Israel viewed the problem as strategic rather than local.\n\nFor Israeli civilians, the war was measured in sirens, shelters, interrupted school days, and the fear that every new rocket generation would place more of the country under threat. That reality shaped public support for a stronger military response.",
+        "stats": [
+          {
+            "val": "Ashdod and Beersheba",
+            "lbl": "Cities reached"
+          },
+          {
+            "val": "3 civilians killed",
+            "lbl": "Israeli rocket fatalities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ground-operation",
+    "year": 2009,
+    "date": "2009-01-03",
+    "title": "Ground Operation Begins",
+    "sub": "Part of Gaza War (2008-2009)",
+    "view": {
+      "center": [
+        31.55,
+        34.48
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Northern Gaza",
+        "latlng": [
+          31.55,
+          34.48
+        ],
+        "type": "major",
+        "description": "Ground forces entered to attack launch areas, tunnels, and Hamas defensive positions."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Ground Operation Begins",
+        "img": "https://ichef.bbci.co.uk/news/480/cpsprodpb/63f3/live/cf3d90f0-994f-11f0-928c-71dbb8619e94.jpg.webp",
+        "cap": "Historical overview: Ground Operation Begins",
+        "body": "Israel sent ground forces into Gaza to attack launch areas, tunnel routes, and Hamas defensive positions that airstrikes alone could not neutralize. The ground phase put soldiers into dense terrain where Hamas prepared ambushes, explosives, and firing positions.\n\nThe operation was meant to push the threat away from the border and force Hamas to pay a military price for rocket fire. It also showed the difficulty of fighting an armed organization that operated from crowded civilian surroundings.",
+        "stats": [
+          {
+            "val": "3 Jan 2009",
+            "lbl": "Ground phase begins"
+          },
+          {
+            "val": "Combined arms",
+            "lbl": "Air, land, and naval campaign"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "humanitarian-controversies",
+    "year": 2009,
+    "date": "2009-01-06",
+    "title": "Urban Fighting and Humanitarian Crisis",
+    "sub": "Part of Gaza War (2008-2009)",
+    "view": {
+      "center": [
+        31.51,
+        34.45
+      ],
+      "zoom": 10
+    },
+    "markers": [
+      {
+        "label": "Gaza City neighborhoods",
+        "latlng": [
+          31.51,
+          34.45
+        ],
+        "type": "major",
+        "description": "Dense urban terrain made the war's civilian cost and Hamas's use of populated areas central issues."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Urban Fighting and Humanitarian Crisis",
+        "img": "https://www.allworldwars.com/image/057/Gaza002.jpg",
+        "cap": "Historical overview: Urban Fighting and Humanitarian Crisis",
+        "body": "Urban fighting in Gaza produced heavy destruction and civilian suffering, while Israel argued that Hamas's placement of weapons, fighters, and command infrastructure inside populated areas made clean separation nearly impossible. The humanitarian crisis became a central part of the international debate.\n\nFor Israel, the operational dilemma was severe: stop rockets and degrade Hamas without allowing the group to gain immunity by embedding itself in civilian neighborhoods. The event should be read through that military problem, not as a simple story of force used without cause.",
+        "stats": [
+          {
+            "val": "Dense urban battlefield",
+            "lbl": "Operational challenge"
+          },
+          {
+            "val": "International scrutiny",
+            "lbl": "Long-term consequence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unilateral-ceasefire",
+    "year": 2009,
+    "date": "2009-01-18",
+    "title": "Unilateral Ceasefire",
+    "sub": "Part of Gaza War (2008-2009)",
+    "view": {
+      "center": [
+        31.4,
+        34.47
+      ],
+      "zoom": 9
+    },
+    "markers": [
+      {
+        "label": "Gaza-Israel border",
+        "latlng": [
+          31.4,
+          34.47
+        ],
+        "type": "major",
+        "description": "The ceasefire paused the fighting but left Hamas in control of Gaza."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Unilateral Ceasefire",
+        "img": "https://www.crisisgroup.org/sites/default/files/2023-11/Gaza%20360%20Hero.jpg",
+        "cap": "Historical overview: Unilateral Ceasefire",
+        "body": "Israel announced a unilateral ceasefire after degrading parts of Hamas's rocket and command infrastructure. Hamas also halted fire shortly afterward, but the underlying question remained whether deterrence would hold or simply pause the next round.\n\nThe ceasefire reflected Israel's preference to end the operation once the immediate military goals had been met. It did not solve Gaza's deeper problem: an armed Hamas government that continued to treat Israeli towns as legitimate pressure points.",
+        "stats": [
+          {
+            "val": "22 days",
+            "lbl": "War duration"
+          },
+          {
+            "val": "Rocket fire reduced",
+            "lbl": "Immediate Israeli result"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-summary",
+    "year": 2009,
+    "date": "2009-01-18",
+    "title": "Conflict Summary: Gaza War (2008-2009)",
+    "sub": "Final summary of Gaza War (2008-2009)",
+    "view": {
+      "center": [
+        31.5,
+        34.7
+      ],
+      "zoom": 8
+    },
+    "markers": [
+      {
+        "label": "Southern Israel",
+        "latlng": [
+          31.5,
+          34.7
+        ],
+        "type": "major",
+        "description": "The campaign was driven by the need to reduce rocket fire after years of attacks following disengagement."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Conflict Summary: Gaza War (2008-2009)",
+        "img": "https://www.allworldwars.com/image/057/Gaza002.jpg",
+        "cap": "Historical overview: Conflict Summary: Gaza War (2008-2009)",
+        "body": "The Gaza War of 2008-2009 was Israel's first major campaign after the disengagement era proved that withdrawal alone would not produce quiet. Hamas rocket fire, the Gilad Shalit kidnapping, tunnels, and smuggling turned Gaza into a recurring military front.\n\nOperation Cast Lead restored a measure of deterrence but did not remove Hamas from power. Its legacy is the pattern that followed: Israel would repeatedly face the same strategic choice between absorbing rocket fire and conducting limited campaigns to restore deterrence.",
+        "stats": [
+          {
+            "val": "Israeli military victory; temporary reduction in rocket fire",
+            "lbl": "Outcome / present status"
+          },
+          {
+            "val": "13 Israelis and roughly 1,200-1,400 Palestinians killed",
+            "lbl": "Human cost"
+          },
+          {
+            "val": "Final assessment",
+            "lbl": "Operation Cast Lead temporarily reduced rocket fire and damaged Hamas, but it did not remove Hamas from power or resolve Gaza's isolation and recurring conflict. The severe Palestinian death toll and destruction generated lasting international criticism.",
+            "full": true
+          }
+        ]
+      }
+    ]
+  }
+]

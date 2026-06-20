@@ -1,7 +1,7 @@
 [
   {
     "id": "popular-front-coup",
-    "year": "1936",
+    "year": 1936,
     "date": "February - July 1936",
     "title": "Popular Front and Military Coup",
     "sub": "Spain Splits in Two",
@@ -19,7 +19,8 @@
           -3.7038
         ],
         "label": "Madrid",
-        "type": "target"
+        "type": "target",
+        "description": "Madrid is marked because control of the capital became the central military and symbolic objective."
       },
       {
         "latlng": [
@@ -27,7 +28,8 @@
           -5.3213
         ],
         "label": "Spanish Morocco / Ceuta",
-        "type": "minor"
+        "type": "minor",
+        "description": "Ceuta marks the Army of Africa's base before Franco's forces crossed to mainland Spain."
       },
       {
         "latlng": [
@@ -35,111 +37,11 @@
           -5.9845
         ],
         "label": "Seville",
-        "type": "minor"
+        "type": "minor",
+        "description": "Seville marks the Nationalist foothold that received troops airlifted from Morocco."
       }
     ],
-    "regions": [
-      {
-        "id": "republican-core-1936",
-        "label": "Republican strongholds",
-        "color": "#c0392b",
-        "opacity": 0.16,
-        "coordinates": [
-          [
-            -9,
-            43.5
-          ],
-          [
-            -3,
-            43.7
-          ],
-          [
-            1.8,
-            42.6
-          ],
-          [
-            2.9,
-            41.2
-          ],
-          [
-            0.2,
-            39.8
-          ],
-          [
-            -3.7,
-            40.5
-          ],
-          [
-            -5.5,
-            39.5
-          ],
-          [
-            -7,
-            41
-          ],
-          [
-            -9,
-            43.5
-          ]
-        ]
-      },
-      {
-        "id": "nationalist-core-1936",
-        "label": "Nationalist footholds",
-        "color": "#f1c40f",
-        "opacity": 0.14,
-        "coordinates": [
-          [
-            -8.5,
-            42.8
-          ],
-          [
-            -6,
-            43
-          ],
-          [
-            -4.5,
-            42.2
-          ],
-          [
-            -5.6,
-            40.5
-          ],
-          [
-            -6.8,
-            38.5
-          ],
-          [
-            -7.4,
-            37.2
-          ],
-          [
-            -5.6,
-            36.6
-          ],
-          [
-            -2.5,
-            37.2
-          ],
-          [
-            -1,
-            39
-          ],
-          [
-            -2,
-            41
-          ],
-          [
-            -5,
-            42.5
-          ],
-          [
-            -8.5,
-            42.8
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "From Russian Civil War to Spanish Civil War",
@@ -169,8 +71,8 @@
       {
         "title": "A Republic Under Pressure",
         "body": "Spain's Second Republic was already strained by land reform, church-state conflict, labor unrest, regional autonomy, and political violence. When the left-wing Popular Front won the 1936 election, conservative officers and right-wing groups accelerated plans for a military uprising.\n\nThe Coup Fails to Finish the Job: The military rebellion began in Spanish Morocco and spread to the mainland in July 1936. It succeeded in some regions but failed in Madrid, Barcelona, and other major cities. Instead of a quick seizure of power, Spain entered a civil war.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Spanish_Republican_flag.svg/960px-Spanish_Republican_flag.svg.png",
-        "cap": "Flag of the Second Spanish Republic",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Red_Army_before_being_sent_to_the_Civil_War.JPG",
+        "cap": "Historical connection: Communism and anti-communism",
         "stats": [
           {
             "val": "Feb 1936",
@@ -204,7 +106,7 @@
   },
   {
     "id": "army-of-africa",
-    "year": "1936",
+    "year": 1936,
     "date": "July - August 1936",
     "title": "Army of Africa Airlift",
     "sub": "Foreign Help Changes the War",
@@ -222,7 +124,8 @@
           -5.3213
         ],
         "label": "Ceuta",
-        "type": "minor"
+        "type": "minor",
+        "description": "Ceuta marks where the Army of Africa assembled before the airlift."
       },
       {
         "latlng": [
@@ -230,7 +133,8 @@
           -5.3536
         ],
         "label": "Gibraltar Strait",
-        "type": "target"
+        "type": "target",
+        "description": "The strait was the barrier that German and Italian air transport helped Franco overcome."
       },
       {
         "latlng": [
@@ -238,7 +142,8 @@
           -5.9845
         ],
         "label": "Seville",
-        "type": "minor"
+        "type": "minor",
+        "description": "Seville marks the Nationalist foothold that received troops airlifted from Morocco."
       }
     ],
     "regions": [
@@ -275,7 +180,7 @@
       {
         "title": "Franco Needs a Bridge",
         "body": "The Nationalists' strongest troops were trapped in Spanish Morocco. With the navy largely loyal to the Republic, Francisco Franco needed aircraft to move the Army of Africa across the Strait of Gibraltar. Germany and Italy supplied planes, pilots, and logistical support.\n\nThe War Internationalizes: The airlift turned a divided coup into a serious Nationalist military campaign. It also revealed the pattern of the war: Spain would become a testing ground for foreign powers, ideologies, aircraft, tanks, and propaganda.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ju_52_Spanish_Civil_War.jpg/960px-Ju_52_Spanish_Civil_War.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Moroccan_troops_boarding_Ju-52.jpg/330px-Moroccan_troops_boarding_Ju-52.jpg",
         "cap": "German Ju 52 aircraft, the type used to support Franco's airlift",
         "stats": [
           {
@@ -310,7 +215,7 @@
   },
   {
     "id": "battle-for-madrid",
-    "year": "1936",
+    "year": 1936,
     "date": "November 1936 - March 1937",
     "title": "Battle for Madrid",
     "sub": "No Pasaran",
@@ -328,7 +233,8 @@
           -3.7038
         ],
         "label": "Madrid",
-        "type": "target"
+        "type": "target",
+        "description": "Madrid is marked because control of the capital became the central military and symbolic objective."
       },
       {
         "latlng": [
@@ -336,7 +242,8 @@
           -3.72
         ],
         "label": "University City",
-        "type": "minor"
+        "type": "minor",
+        "description": "University City marks the western Madrid battlefield where fighting became urban and positional."
       },
       {
         "latlng": [
@@ -344,7 +251,8 @@
           -3.765
         ],
         "label": "Jarama sector",
-        "type": "minor"
+        "type": "minor",
+        "description": "Jarama marks the Republican supply-road battles southeast of Madrid."
       }
     ],
     "regions": [
@@ -385,7 +293,7 @@
       {
         "title": "The Capital Holds",
         "body": "Nationalist forces reached Madrid in November 1936 expecting the capital to fall. Republican militias, regular troops, and newly arrived International Brigades defended the city street by street. Madrid became the symbol of Republican resistance.\n\nA Siege, Not a Capture: Franco's armies failed to take Madrid by direct assault. The front stabilized around the capital, forcing the Nationalists to seek victory elsewhere. Madrid would remain under siege until the final days of the war.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/No_pasaran_madrid_1937.jpg/960px-No_pasaran_madrid_1937.jpg",
+        "img": "https://ichef.bbci.co.uk/images/ic/1200x675/p09l3y92.jpg",
         "cap": "Republican slogan No Pasaran became linked to the defense of Madrid",
         "stats": [
           {
@@ -420,7 +328,7 @@
   },
   {
     "id": "international-brigades",
-    "year": "1936",
+    "year": 1936,
     "date": "1936 - 1938",
     "title": "International Brigades",
     "sub": "The World Comes to Spain",
@@ -438,7 +346,8 @@
           -1.8585
         ],
         "label": "Albacete training base",
-        "type": "target"
+        "type": "target",
+        "description": "Albacete was the main training and organization center for the International Brigades."
       },
       {
         "latlng": [
@@ -446,48 +355,16 @@
           -3.7038
         ],
         "label": "Madrid",
-        "type": "minor"
+        "type": "minor",
+        "description": "Madrid is marked because control of the capital became the central military and symbolic objective."
       }
     ],
-    "regions": [
-      {
-        "id": "brigade-operating-zone",
-        "label": "Brigade operating fronts",
-        "color": "#8e44ad",
-        "opacity": 0.14,
-        "coordinates": [
-          [
-            -5,
-            41.5
-          ],
-          [
-            -1,
-            41.6
-          ],
-          [
-            1,
-            39.5
-          ],
-          [
-            -1.5,
-            38
-          ],
-          [
-            -4.5,
-            38.5
-          ],
-          [
-            -5,
-            41.5
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "Volunteers Against Fascism",
         "body": "Tens of thousands of volunteers from Europe, the Americas, and beyond joined the International Brigades to defend the Republic. Many saw Spain as the frontline of a global struggle against fascism after Hitler and Mussolini backed Franco.\n\nAmericans in the Lincoln Battalion: Around 2,800 volunteers from the United States served, many in the Abraham Lincoln Battalion. They fought despite official US neutrality, making Spain one of the clearest early places where Americans confronted European fascism before World War II.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/International_Brigades_Spanish_Civil_War.jpg/960px-International_Brigades_Spanish_Civil_War.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lincoln_Battalion.jpg",
         "cap": "International Brigade volunteers during the Spanish Civil War",
         "stats": [
           {
@@ -522,7 +399,7 @@
   },
   {
     "id": "malaga-jarama-guadalajara",
-    "year": "1937",
+    "year": 1937,
     "date": "February - March 1937",
     "title": "Malaga, Jarama, and Guadalajara",
     "sub": "The War Tests Foreign Arms",
@@ -540,7 +417,8 @@
           -4.4214
         ],
         "label": "Malaga",
-        "type": "minor"
+        "type": "minor",
+        "description": "Malaga marks the Nationalist capture and civilian flight along the coast."
       },
       {
         "latlng": [
@@ -548,7 +426,8 @@
           -3.48
         ],
         "label": "Jarama",
-        "type": "target"
+        "type": "target",
+        "description": "Jarama marks the battle for the Madrid-Valencia road."
       },
       {
         "latlng": [
@@ -556,48 +435,16 @@
           -3.1667
         ],
         "label": "Guadalajara",
-        "type": "minor"
+        "type": "minor",
+        "description": "Guadalajara marks the failed Italian-led Nationalist offensive."
       }
     ],
-    "regions": [
-      {
-        "id": "central-front-1937",
-        "label": "Central front battles",
-        "color": "#e67e22",
-        "opacity": 0.15,
-        "coordinates": [
-          [
-            -4.6,
-            40.9
-          ],
-          [
-            -2.8,
-            40.9
-          ],
-          [
-            -2.5,
-            39.7
-          ],
-          [
-            -3.5,
-            39.1
-          ],
-          [
-            -4.7,
-            39.7
-          ],
-          [
-            -4.6,
-            40.9
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "Malaga Falls",
         "body": "Nationalist and Italian-backed forces captured Malaga in February 1937, triggering a mass flight of civilians along the coastal road toward Almeria. The retreat was bombed and shelled, exposing the vulnerability of civilians in modern warfare.\n\nMadrid Still Holds: At Jarama, Nationalists tried to cut the Madrid-Valencia road. At Guadalajara, Italian forces attempted another blow at the capital but were defeated by Republican troops. The battles showed that foreign-backed offensives could still be stopped.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Desband%C3%A1_M%C3%A1laga_Almer%C3%ADa_1937.jpg/960px-Desband%C3%A1_M%C3%A1laga_Almer%C3%ADa_1937.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bundesarchiv_Bild_183-2006-1204-500%2C_Spanien%2C_Schlacht_um_Guadalajara.jpg",
         "cap": "Civilians fleeing Malaga during the Desbanda",
         "stats": [
           {
@@ -632,7 +479,7 @@
   },
   {
     "id": "guernica-north",
-    "year": "1937",
+    "year": 1937,
     "date": "April - October 1937",
     "title": "Guernica and the War in the North",
     "sub": "Air Power Against Cities",
@@ -650,7 +497,8 @@
           -2.6833
         ],
         "label": "Guernica",
-        "type": "target"
+        "type": "target",
+        "description": "Guernica marks the bombing that became an international symbol of air war against civilians."
       },
       {
         "latlng": [
@@ -658,7 +506,8 @@
           -2.935
         ],
         "label": "Bilbao",
-        "type": "minor"
+        "type": "minor",
+        "description": "Bilbao marks the industrial Basque center lost during the northern campaign."
       },
       {
         "latlng": [
@@ -666,52 +515,16 @@
           -3.8099
         ],
         "label": "Santander",
-        "type": "minor"
+        "type": "minor",
+        "description": "Santander marks the continuing collapse of the Republican north after Bilbao."
       }
     ],
-    "regions": [
-      {
-        "id": "northern-republican-zone",
-        "label": "Republican north",
-        "color": "#c0392b",
-        "opacity": 0.17,
-        "coordinates": [
-          [
-            -8.8,
-            43.7
-          ],
-          [
-            -6,
-            43.7
-          ],
-          [
-            -2,
-            43.5
-          ],
-          [
-            -1.2,
-            42.9
-          ],
-          [
-            -3,
-            42.6
-          ],
-          [
-            -6.2,
-            42.8
-          ],
-          [
-            -8.8,
-            43.7
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "The Bombing of Guernica",
         "body": "On 26 April 1937, aircraft from Germany's Condor Legion and Italy's Aviazione Legionaria bombed the Basque town of Guernica. The attack became an international symbol of the terror bombing of civilians.\n\nThe North Falls: Nationalist forces captured Bilbao, Santander, and Asturias, eliminating the Republic's isolated northern zone. The loss deprived the Republic of industry, mines, and ports while proving the effectiveness of coordinated ground and air operations.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Guernica_after_bombing_1937.jpg/960px-Guernica_after_bombing_1937.jpg",
+        "img": "https://open-images.acast.com/shows/619566332eacc3a360702518/619566ac07e9e10013cf1ee5.jpg?height=750",
         "cap": "Guernica after the bombing in 1937",
         "stats": [
           {
@@ -746,7 +559,7 @@
   },
   {
     "id": "brunete-teruel",
-    "year": "1937",
+    "year": 1937,
     "date": "July 1937 - February 1938",
     "title": "Brunete and Teruel",
     "sub": "Republican Counteroffensives",
@@ -764,7 +577,17 @@
           -3.999
         ],
         "label": "Brunete",
-        "type": "target"
+        "type": "target",
+        "description": "Brunete marks the Republican offensive intended to relieve pressure on Madrid."
+      },
+      {
+        "latlng": [
+          40.4168,
+          -3.7038
+        ],
+        "label": "Madrid",
+        "type": "minor",
+        "description": "Madrid is marked because control of the capital became the central military and symbolic objective."
       },
       {
         "latlng": [
@@ -772,52 +595,16 @@
           -1.1065
         ],
         "label": "Teruel",
-        "type": "target"
+        "type": "target",
+        "description": "Teruel marks the winter battle where Republicans briefly captured the city before losing it again."
       }
     ],
-    "regions": [
-      {
-        "id": "counteroffensive-zones",
-        "label": "Republican counteroffensive zones",
-        "color": "#2980b9",
-        "opacity": 0.15,
-        "coordinates": [
-          [
-            -4.4,
-            40.7
-          ],
-          [
-            -3,
-            40.9
-          ],
-          [
-            -1,
-            40.8
-          ],
-          [
-            -0.6,
-            40
-          ],
-          [
-            -1.5,
-            39.5
-          ],
-          [
-            -3.2,
-            39.7
-          ],
-          [
-            -4.4,
-            40.7
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "Brunete Relieves Madrid",
         "body": "The Republic launched the Brunete offensive west of Madrid to relieve pressure on the capital and regain initiative. Initial gains faded under Nationalist counterattack, heat, air superiority, and heavy casualties.\n\nTeruel in Winter: Republican forces captured Teruel in a rare success, only for Nationalist troops to retake it after brutal winter fighting. The campaign drained Republican reserves and opened the way for Franco's offensive toward the Mediterranean.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Battle_of_Brunete_map.svg/960px-Battle_of_Brunete_map.svg.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/26/Closing_in_on_trapped_Rebels_at_Teruel_-_Google_Art_Project.jpg",
         "cap": "Map of the Battle of Brunete",
         "stats": [
           {
@@ -852,7 +639,7 @@
   },
   {
     "id": "aragon-mediterranean",
-    "year": "1938",
+    "year": 1938,
     "date": "March - April 1938",
     "title": "Aragon Offensive",
     "sub": "The Republic Cut in Two",
@@ -870,7 +657,8 @@
           -0.8891
         ],
         "label": "Zaragoza",
-        "type": "minor"
+        "type": "minor",
+        "description": "Zaragoza marks the Aragon front and Republican objective before the Nationalist breakthrough."
       },
       {
         "latlng": [
@@ -878,7 +666,8 @@
           0.4756
         ],
         "label": "Vinaros",
-        "type": "target"
+        "type": "target",
+        "description": "Vinaros marks where Nationalists reached the Mediterranean and split Republican Spain."
       },
       {
         "latlng": [
@@ -886,7 +675,8 @@
           2.1734
         ],
         "label": "Barcelona",
-        "type": "minor"
+        "type": "minor",
+        "description": "Barcelona marks the Republican industrial capital and later the fall of Catalonia."
       }
     ],
     "regions": [
@@ -935,7 +725,7 @@
       {
         "title": "Franco Breaks Through Aragon",
         "body": "After Teruel, Nationalist forces struck across Aragon with aircraft, artillery, and mechanized support. Republican lines cracked under pressure. The offensive showed Franco's growing advantage in coordination, supplies, and air power.\n\nTo the Mediterranean: Nationalist troops reached the Mediterranean at Vinaros, splitting Republican Spain into two zones. Catalonia was isolated from the central-southern Republican territory, making coordinated defense increasingly difficult.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spanish_Civil_War_1938.svg/960px-Spanish_Civil_War_1938.svg.png",
+        "img": "https://historydraft.com/files/ab4e9c28-8af2-4696-81da-f6cf0ae49e85",
         "cap": "The front after Nationalist advances in 1938",
         "stats": [
           {
@@ -970,7 +760,7 @@
   },
   {
     "id": "ebro",
-    "year": "1938",
+    "year": 1938,
     "date": "July - November 1938",
     "title": "Battle of the Ebro",
     "sub": "The Republic's Last Offensive",
@@ -988,7 +778,8 @@
           0.45
         ],
         "label": "Ebro River",
-        "type": "target"
+        "type": "target",
+        "description": "The Ebro marks the Republic's final major offensive crossing."
       },
       {
         "latlng": [
@@ -996,7 +787,8 @@
           0.4092
         ],
         "label": "Gandesa",
-        "type": "minor"
+        "type": "minor",
+        "description": "Gandesa marks the key inland objective that Republican forces failed to take."
       },
       {
         "latlng": [
@@ -1004,7 +796,8 @@
           0.55
         ],
         "label": "Mora d'Ebre",
-        "type": "minor"
+        "type": "minor",
+        "description": "Mora d'Ebre marks one of the crossing and supply areas on the Ebro."
       }
     ],
     "regions": [
@@ -1045,7 +838,7 @@
       {
         "title": "Across the River",
         "body": "The Republic crossed the Ebro in July 1938, hoping to reconnect its divided territories, relieve pressure on Valencia, and prove it could still fight. The surprise worked at first, but Franco committed overwhelming resources to grind the offensive down.\n\nAttrition Breaks the Republic: The Ebro became the longest and bloodiest battle of the war. Republican forces withdrew after months of bombing, artillery, and counterattacks. The defeat shattered the Republic's best remaining army and opened the road to Catalonia.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_the_Ebro_map.svg/960px-Battle_of_the_Ebro_map.svg.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Gottwaldova_d%C4%9Blost%C5%99eleck%C3%A1_baterie.jpg",
         "cap": "Map of the Battle of the Ebro",
         "stats": [
           {
@@ -1080,7 +873,7 @@
   },
   {
     "id": "fall-of-catalonia",
-    "year": "1939",
+    "year": 1939,
     "date": "January - February 1939",
     "title": "Fall of Catalonia",
     "sub": "Barcelona Falls",
@@ -1098,7 +891,8 @@
           2.1734
         ],
         "label": "Barcelona",
-        "type": "target"
+        "type": "target",
+        "description": "Barcelona marks the Republican industrial capital and later the fall of Catalonia."
       },
       {
         "latlng": [
@@ -1106,7 +900,8 @@
           2.965
         ],
         "label": "Figueres",
-        "type": "minor"
+        "type": "minor",
+        "description": "Figueres marks the Republican retreat route toward France."
       },
       {
         "latlng": [
@@ -1114,52 +909,16 @@
           2.9
         ],
         "label": "French border",
-        "type": "minor"
+        "type": "minor",
+        "description": "The French border marks La Retirada, the mass Republican refugee flight."
       }
     ],
-    "regions": [
-      {
-        "id": "catalonia-campaign",
-        "label": "Catalonia campaign",
-        "color": "#f1c40f",
-        "opacity": 0.18,
-        "coordinates": [
-          [
-            0.1,
-            42.8
-          ],
-          [
-            2.9,
-            42.8
-          ],
-          [
-            3.2,
-            41.5
-          ],
-          [
-            2,
-            40.6
-          ],
-          [
-            0.3,
-            40.8
-          ],
-          [
-            -0.2,
-            41.8
-          ],
-          [
-            0.1,
-            42.8
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "Catalonia Collapses",
         "body": "After the Ebro defeat, Nationalist forces attacked Catalonia. Republican defenses were exhausted, short of weapons, and increasingly isolated. Barcelona fell in January 1939 with little of the street fighting many had expected.\n\nLa Retirada: Hundreds of thousands of soldiers and civilians fled north into France in a mass exile known as La Retirada. Many were placed in improvised camps. The collapse of Catalonia made Republican defeat nearly certain.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nationalist_troops_enter_Barcelona_1939.jpg/960px-Nationalist_troops_enter_Barcelona_1939.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Barcelona_from_Tibidabo.jpg",
         "cap": "Nationalist troops entering Barcelona in 1939",
         "stats": [
           {
@@ -1194,7 +953,7 @@
   },
   {
     "id": "fall-of-madrid",
-    "year": "1939",
+    "year": 1939,
     "date": "March - April 1939",
     "title": "Fall of Madrid and Franco's Victory",
     "sub": "The Dictatorship Begins",
@@ -1212,7 +971,8 @@
           -3.7038
         ],
         "label": "Madrid",
-        "type": "target"
+        "type": "target",
+        "description": "Madrid is marked because control of the capital became the central military and symbolic objective."
       },
       {
         "latlng": [
@@ -1220,7 +980,8 @@
           -0.3763
         ],
         "label": "Valencia",
-        "type": "minor"
+        "type": "minor",
+        "description": "Valencia marks the former Republican capital after the government left Madrid."
       },
       {
         "latlng": [
@@ -1228,52 +989,16 @@
           -0.481
         ],
         "label": "Alicante",
-        "type": "minor"
+        "type": "minor",
+        "description": "Alicante marks one of the final escape points for defeated Republicans."
       }
     ],
-    "regions": [
-      {
-        "id": "final-republican-zone",
-        "label": "Final Republican zone",
-        "color": "#c0392b",
-        "opacity": 0.14,
-        "coordinates": [
-          [
-            -5,
-            40.8
-          ],
-          [
-            -1,
-            40.8
-          ],
-          [
-            0.2,
-            38.4
-          ],
-          [
-            -0.6,
-            36.8
-          ],
-          [
-            -3.8,
-            36.8
-          ],
-          [
-            -5.6,
-            38.4
-          ],
-          [
-            -5,
-            40.8
-          ]
-        ]
-      }
-    ],
+    "regions": [],
     "slides": [
       {
         "title": "The Republic Fractures",
         "body": "With defeat looming, Republican leaders split over whether to continue resistance or seek terms. Colonel Segismundo Casado led a coup against the Communist-backed government in Madrid, hoping to negotiate, but Franco demanded unconditional surrender.\n\nFranco Rules Spain: Madrid fell on 28 March 1939. Franco declared victory on 1 April and built a dictatorship that would last until his death in 1975. The war left Spain devastated, politically purged, and separated from Europe's coming world war by only months.\n\nPrelude to World War II: The Spanish Civil War became a laboratory for air power, propaganda, ideological violence, and foreign intervention. It did not cause World War II, but it revealed much about the alliances, weapons, and political extremism that would soon engulf Europe.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Spanish_Civil_War_final_offensive.svg/960px-Spanish_Civil_War_final_offensive.svg.png",
+        "img": "https://i.guim.co.uk/img/media/48500273f08bd3c33d51d394e3fcb235d77760fc/0_304_2326_1395/master/2326.jpg?width=1200&quality=85&auto=format&fit=max&s=a6b5e228fdaafdd745bda4996ec8b585",
         "cap": "Final Nationalist offensive and collapse of Republican Spain",
         "stats": [
           {
@@ -1306,8 +1031,8 @@
       },
       {
         "title": "War Summary: Spanish Civil War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Guernica_by_Picasso.jpg/960px-Guernica_by_Picasso.jpg",
-        "cap": "The end and legacy of the Spanish Civil War",
+        "img": "https://i.guim.co.uk/img/media/48500273f08bd3c33d51d394e3fcb235d77760fc/0_304_2326_1395/master/2326.jpg?width=1200&quality=85&auto=format&fit=max&s=a6b5e228fdaafdd745bda4996ec8b585",
+        "cap": "Final Nationalist offensive and collapse of Republican Spain",
         "body": "Franco's victory destroyed the Spanish Republic and established a dictatorship that lasted until 1975. The war also became a warning of the wider conflict soon to engulf Europe.",
         "stats": [
           {

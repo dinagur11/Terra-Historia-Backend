@@ -1,0 +1,112 @@
+[
+  {
+    "id": "indonesia-1965-1",
+    "name": "Indonesia",
+    "date": "January 14 1965",
+    "location": "Indonesia",
+    "coordinates": {
+      "lat": -5,
+      "lng": 120
+    },
+    "summary": "Indonesian President Sukarno announces the withdrawal of the Indonesian government from the United Nations. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "vietnam-war-1965-2",
+    "name": "Vietnam War",
+    "date": "March 2 1965",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Vietnam War: Operation Rolling Thunder - The United States Air Force 2nd Air Division, United States Navy and South Vietnamese air force begin a 3-year aerial bombardment campaign against North Vietnam. The Vietnam War (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies."
+  },
+  {
+    "id": "united-states-marines-1965-3",
+    "name": "United States Marines",
+    "date": "March 8 1965",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Vietnam War: Some 3,500 United States Marines arrive in Da Nang, South Vietnam, becoming the first American ground combat troops in Vietnam. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "armenian-genocide-1965-4",
+    "name": "Armenian genocide",
+    "date": "April 23 1965",
+    "location": "Syria",
+    "coordinates": {
+      "lat": 33.5138,
+      "lng": 36.2765
+    },
+    "summary": "The 1965 Yerevan demonstrations start in Yerevan, demanding recognition of the Armenian genocide. The Armenian genocide was the systematic destruction of the Armenian people and identity in the Ottoman Empire during World War I. Spearheaded by the ruling Committee of Union and Progress (CUP), it was implemented primarily through the mass murder of around one million Armenians during death marches to the Syrian desert and the forced Islamization of others, primarily women and children."
+  },
+  {
+    "id": "voting-rights-act-of-1965-1965-5",
+    "name": "Voting Rights Act of 1965",
+    "date": "August 6 1965",
+    "location": "Africa",
+    "coordinates": {
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    "summary": "U.S. President Lyndon B. Johnson signs the Voting Rights Act into law, outlawing literacy tests and other discriminatory voting practices that have been responsible for widespread disfranchisement of African Americans. The Voting Rights Act of 1965 is a landmark U.S. federal statute that prohibits racial discrimination in voting."
+  },
+  {
+    "id": "peoples-republic-of-china-announces-that-it-will-reinforce-its-troops--1965-6",
+    "name": "People's Republic of China announces that it will reinforce its troops on...",
+    "date": "August 31 1965",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The People's Republic of China announces that it will reinforce its troops on the Indian border. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "united-nations-general-assembly-1965-7",
+    "name": "United Nations General Assembly",
+    "date": "November 5 1965",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "Martial law is announced in Rhodesia. The United Nations General Assembly accepts British intent to use force against Rhodesia if necessary by a vote of 82–9. The United Nations General Assembly (UNGA or GA) is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ."
+  },
+  {
+    "id": "mikhail-kazakov-1965-8",
+    "name": "Mikhail Kazakov",
+    "date": "November 23 1965",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "Soviet general Mikhail Kazakov assumes command of the Warsaw Pact. Mikhail Ilyich Kazakov (Russian: Михаи́л Ильи́ч Казако́в; 9 October [O.S. 26 September] 1901 – 25 December 1979) was an army general of the Soviet Army and a Hero of the Soviet Union."
+  },
+  {
+    "id": "white-house-1965-9",
+    "name": "White House",
+    "date": "November 26 1965",
+    "location": "White House",
+    "coordinates": {
+      "lat": 38.89777778,
+      "lng": -77.03638889
+    },
+    "summary": "Tens of thousands of Vietnam War protesters picket the White House, then march on the Washington Monument. The event affected the balance of power and shaped subsequent military or political decisions, while its consequences extended beyond the immediate confrontation. It became part of the wider struggle that defined the period."
+  },
+  {
+    "id": "lyndon-b-johnson-1965-10",
+    "name": "Lyndon B. Johnson",
+    "date": "November 28 1965",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Vietnam War: In response to U.S. President Lyndon B. Johnson's call for \"more flags\" in Vietnam, Philippines President-elect Ferdinand Marcos announces he will send troops to help fight in South Vietnam. Lyndon Baines Johnson (August 27, 1908 – January 22, 1973), also known as LBJ, was the 36th president of the United States from 1963 to 1969."
+  }
+]

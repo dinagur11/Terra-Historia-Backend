@@ -17,28 +17,26 @@
     "slides": [
       {
         "title": "Lithuanian–Soviet War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soviet_POWs_in_Lithuania.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Soviet_POWs_in_Lithuania.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Lithuanian%E2%80%93Soviet_War",
         "body": "The Lithuanian–Soviet War or Lithuanian–Bolshevik War was fought between newly independent Lithuania and the Russian Socialist Federative Soviet Republic in the aftermath of World War I. It was part of the larger Soviet westward offensive of 1918–1919. The offensive followed the retreat of German troops and sought to establish Soviet republics in Ukraine, Belarus, Lithuania, Latvia, Estonia, and Poland, and to link up with the German Revolution. By the end of December 1918, Soviet forces reached Lithuanian borders. Largely unopposed, they occupied one town after another and by the end of January 1919, they controlled about two thirds of the Lithuanian territory. In February, the Soviet advance was stopped by Lithuanian and German volunteers, who prevented the Soviets from capturing Kaunas, the temporary capital of Lithuania. From April 1919, the Lithuanian war went parallel with the Polish–Soviet War. Poland had territorial claims over Lithuania, especially the Vilnius Region; these tensions spilt over into the Polish–Lithuanian War."
       },
       {
-        "title": "Why It Matters",
-        "body": "Generated draft. Use this slide to explain causes, consequences, and how this event moved the conflict forward.",
+        "title": "The Wider Impact",
+        "body": "Lithuanian and German volunteer forces stopped the Soviet advance before Kaunas and gradually pushed Soviet forces out, preserving the new Lithuanian state.",
         "stats": [
           {
             "val": "1918",
             "lbl": "Year"
           },
           {
-            "val": "Q1604816",
-            "lbl": "Wikidata"
-          },
-          {
             "val": "Wikipedia",
             "lbl": "https://en.wikipedia.org/wiki/Lithuanian%E2%80%93Soviet_War",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Soviet_POWs_in_Lithuania.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Lithuanian%E2%80%93Soviet_War"
       }
     ]
   },
@@ -60,28 +58,26 @@
     "slides": [
       {
         "title": "Polish–Lithuanian War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War",
         "body": "The Polish–Lithuanian War was an undeclared war fought in the aftermath of World War I between newly independent Lithuania and Poland, with fighting mainly in the Vilnius and Suwałki regions, which was part of the Lithuanian Wars of Independence and lasted from May 1919 to 29 November 1920. From the spring of 1920 onward, the conflict happened alongside the wider Polish–Soviet War and was affected by its progress. It was subject to unsuccessful international mediation at the Conference of Ambassadors and the League of Nations."
       },
       {
-        "title": "Why It Matters",
-        "body": "Generated draft. Use this slide to explain causes, consequences, and how this event moved the conflict forward.",
+        "title": "The Wider Impact",
+        "body": "The conflict left Vilnius under Polish control and produced a diplomatic rupture that lasted until Poland's 1938 ultimatum to Lithuania.",
         "stats": [
           {
             "val": "1919",
             "lbl": "Year"
           },
           {
-            "val": "Q1495944",
-            "lbl": "Wikidata"
-          },
-          {
             "val": "Wikipedia",
             "lbl": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War"
       }
     ]
   },
@@ -103,28 +99,26 @@
     "slides": [
       {
         "title": "Lithuanian–Bermontian War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bermontians_planes_captured_by_the_Lithuanian_Army.jpg/3840px-Bermontians_planes_captured_by_the_Lithuanian_Army.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Bermontians_planes_captured_by_the_Lithuanian_Army.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Lithuanian%E2%80%93Bermontian_War",
         "body": "The Lithuanian–Bermontian War was fought between Lithuania and the West Russian Volunteer Army from July 1919 to December 1919."
       },
       {
-        "title": "Why It Matters",
-        "body": "Generated draft. Use this slide to explain causes, consequences, and how this event moved the conflict forward.",
+        "title": "The Wider Impact",
+        "body": "Lithuanian forces defeated the West Russian Volunteer Army at Radviliskis in November 1919, accelerating the Bermontians' withdrawal from Lithuania.",
         "stats": [
           {
             "val": "1919",
             "lbl": "Year"
           },
           {
-            "val": "Q130272741",
-            "lbl": "Wikidata"
-          },
-          {
             "val": "Wikipedia",
             "lbl": "https://en.wikipedia.org/wiki/Lithuanian%E2%80%93Bermontian_War",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Bermontians_planes_captured_by_the_Lithuanian_Army.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Lithuanian%E2%80%93Bermontian_War"
       }
     ]
   }

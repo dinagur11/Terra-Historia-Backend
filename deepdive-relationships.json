@@ -1,6 +1,6 @@
 {
   "size": {
-    "width": 3900,
+    "width": 7600,
     "height": 2200,
     "nodeWidth": 230,
     "nodeHeight": 142
@@ -97,28 +97,18 @@
     },
     "vietnam-war": {
       "x": 1325,
-      "y": 345,
+      "y": 405,
       "years": "1955-1975"
     },
     "laotian-civil-war": {
-      "x": 1640,
-      "y": 260,
+      "x": 1325,
+      "y": 245,
       "years": "1959-1975"
     },
     "cambodian-civil-war": {
-      "x": 1640,
-      "y": 450,
-      "years": "1967-1975"
-    },
-    "third-indochina-war": {
-      "x": 1955,
-      "y": 355,
-      "years": "1975-1991"
-    },
-    "sand-war": {
       "x": 1325,
-      "y": 1080,
-      "years": "1963"
+      "y": 535,
+      "years": "1967-1975"
     },
     "chadian-libyan-war": {
       "x": 1955,
@@ -131,8 +121,8 @@
       "years": "1980-1988"
     },
     "falklands-war": {
-      "x": 1640,
-      "y": 30,
+      "x": 1010,
+      "y": 1030,
       "years": "1982"
     },
     "finnish-civil-war": {
@@ -160,16 +150,6 @@
       "y": 1620,
       "years": "1919-1923"
     },
-    "eastern-front": {
-      "x": 1010,
-      "y": 20,
-      "years": "1941-1945"
-    },
-    "soviet-finnish-wars": {
-      "x": 1010,
-      "y": 1280,
-      "years": "1939-1944"
-    },
     "lapland-war": {
       "x": 1325,
       "y": 1280,
@@ -184,26 +164,6 @@
       "x": 1325,
       "y": 1620,
       "years": "1946-1991"
-    },
-    "war-in-southern-vietnam": {
-      "x": 1640,
-      "y": 1620,
-      "years": "1955-1975"
-    },
-    "rwandan-civil-war": {
-      "x": 1325,
-      "y": 1960,
-      "years": "1990-1994"
-    },
-    "shaba-ii": {
-      "x": 1640,
-      "y": 1960,
-      "years": "1978"
-    },
-    "toyota-war": {
-      "x": 2270,
-      "y": 1080,
-      "years": "1986-1987"
     },
     "croatian-war-of-independence": {
       "x": 1640,
@@ -272,8 +232,156 @@
     },
     "iran-israel-proxy-conflict": {
       "x": 2860,
-      "y": 725,
+      "y": 565,
       "years": "1985-present"
+    },
+    "second-intifada": {
+      "x": 3210,
+      "y": 1120,
+      "years": "2000-2005"
+    },
+    "2006-lebanon-war": {
+      "x": 3540,
+      "y": 1250,
+      "years": "2006"
+    },
+    "gaza-war-2008-2009": {
+      "x": 3870,
+      "y": 1120,
+      "years": "2008-2009"
+    },
+    "2012-gaza-war": {
+      "x": 4200,
+      "y": 1250,
+      "years": "2012"
+    },
+    "2014-gaza-war": {
+      "x": 4530,
+      "y": 1120,
+      "years": "2014"
+    },
+    "2021-israel-palestine-crisis": {
+      "x": 4860,
+      "y": 1250,
+      "years": "2021"
+    },
+    "israel-hamas-war": {
+      "x": 5190,
+      "y": 1120,
+      "years": "2023-present",
+      "major": true
+    },
+    "twelve-day-war": {
+      "x": 5520,
+      "y": 960,
+      "years": "2025"
+    },
+    "2026-lebanon-war": {
+      "x": 5850,
+      "y": 1250,
+      "years": "2026-present"
+    },
+    "2026-iran-war": {
+      "x": 5850,
+      "y": 960,
+      "years": "2026-present",
+      "major": true
+    },
+    "polish-soviet-war": {
+      "x": 1010,
+      "y": 1800,
+      "years": "1919-1921"
+    },
+    "irish-war-of-independence": {
+      "x": 680,
+      "y": 2050,
+      "years": "1919-1921"
+    },
+    "greek-civil-war": {
+      "x": 1010,
+      "y": 2050,
+      "years": "1946-1949"
+    },
+    "algerian-war": {
+      "x": 1325,
+      "y": 1800,
+      "years": "1954-1962"
+    },
+    "first-intifada": {
+      "x": 2580,
+      "y": 1250,
+      "years": "1987-1993"
+    },
+    "bosnian-war": {
+      "x": 1955,
+      "y": 1620,
+      "years": "1992-1995",
+      "major": true
+    },
+    "iraq-war": {
+      "x": 3540,
+      "y": 900,
+      "years": "2003-2011"
+    },
+    "russo-georgian-war": {
+      "x": 2270,
+      "y": 1450,
+      "years": "2008"
+    },
+    "russo-ukrainian-war": {
+      "x": 4200,
+      "y": 1500,
+      "years": "2014-present",
+      "major": true
+    },
+    "syrian-civil-war": {
+      "x": 4200,
+      "y": 900,
+      "years": "2011-2024",
+      "major": true
+    },
+    "soviet-afghan-war": {
+      "x": 2860,
+      "y": 1800,
+      "years": "1979-1989",
+      "major": true
+    },
+    "yugoslav-wars": {
+      "x": 1640,
+      "y": 1800,
+      "years": "1991-2001",
+      "major": true
+    },
+    "first-libyan-civil-war": {
+      "x": 4530,
+      "y": 1800,
+      "years": "2011"
+    },
+    "lebanese-civil-war": {
+      "x": 2535,
+      "y": 1120,
+      "years": "1975-1990",
+      "major": true
+    },
+    "palestinian-fedayeen-insurgency": {
+      "x": 1325,
+      "y": 900,
+      "years": "1949-1956"
+    },
+    "operation-litani": {
+      "x": 2270,
+      "y": 960,
+      "years": "1978"
+    },
+    "israel-hezbollah-war-2023-2024": {
+      "x": 5190,
+      "y": 1320,
+      "years": "2023-2024"
+    },
+    "israeli-operation-in-syria-2024-present": {
+      "x": 5520,
+      "y": 1500,
+      "years": "2024-present"
     }
   },
   "relationships": [
@@ -332,28 +440,16 @@
       "label": "Containment and proxy warfare"
     },
     {
-      "from": "vietnam-war",
+      "from": "korean-war",
       "to": "laotian-civil-war",
-      "type": "regional",
-      "label": "Interlocking Indochina battlefield"
+      "type": "coldWar",
+      "label": "Parallel covert front in Indochina"
     },
     {
-      "from": "vietnam-war",
+      "from": "korean-war",
       "to": "cambodian-civil-war",
-      "type": "regional",
-      "label": "War expands into Cambodia"
-    },
-    {
-      "from": "laotian-civil-war",
-      "to": "third-indochina-war",
-      "type": "regional",
-      "label": "Postwar Indochina"
-    },
-    {
-      "from": "cambodian-civil-war",
-      "to": "third-indochina-war",
-      "type": "regional",
-      "label": "Khmer Rouge and Vietnamese intervention"
+      "type": "coldWar",
+      "label": "Regional escalation of the Vietnam conflict"
     },
     {
       "from": "wwii-events",
@@ -390,18 +486,6 @@
       "to": "1982-lebanon-war",
       "type": "regional",
       "label": "Conflict shifts toward Lebanon"
-    },
-    {
-      "from": "wwii-events",
-      "to": "sand-war",
-      "type": "decolonization",
-      "label": "Post-colonial borders"
-    },
-    {
-      "from": "sand-war",
-      "to": "chadian-libyan-war",
-      "type": "regional",
-      "label": "North African border disputes"
     },
     {
       "from": "wwii-events",
@@ -452,18 +536,6 @@
       "label": "Defeat and partition of the Ottoman Empire"
     },
     {
-      "from": "wwii-events",
-      "to": "eastern-front",
-      "type": "regional",
-      "label": "Nazi invasion of the Soviet Union"
-    },
-    {
-      "from": "winter-war",
-      "to": "soviet-finnish-wars",
-      "type": "regional",
-      "label": "Renewed struggle over Finland and the Soviet frontier"
-    },
-    {
       "from": "continuation-war",
       "to": "lapland-war",
       "type": "aftermath",
@@ -480,30 +552,6 @@
       "to": "indochina-wars",
       "type": "decolonization",
       "label": "Collapse of French colonial authority"
-    },
-    {
-      "from": "indochina-wars",
-      "to": "war-in-southern-vietnam",
-      "type": "coldWar",
-      "label": "Partition and insurgency in Vietnam"
-    },
-    {
-      "from": "wwii-events",
-      "to": "rwandan-civil-war",
-      "type": "decolonization",
-      "label": "Post-colonial division and unresolved refugee crisis"
-    },
-    {
-      "from": "rwandan-civil-war",
-      "to": "shaba-ii",
-      "type": "regional",
-      "label": "Cold War instability in central Africa"
-    },
-    {
-      "from": "chadian-libyan-war",
-      "to": "toyota-war",
-      "type": "regional",
-      "label": "Final campaign against Libya in northern Chad"
     },
     {
       "from": "wwii-events",
@@ -588,6 +636,258 @@
       "to": "iran-israel-proxy-conflict",
       "type": "regional",
       "label": "Iranian regional networks and shifting power"
+    },
+    {
+      "from": "south-lebanon-conflict",
+      "to": "iran-israel-proxy-conflict",
+      "type": "regional",
+      "label": "Hezbollah becomes Iran's principal front against Israel"
+    },
+    {
+      "from": "south-lebanon-conflict",
+      "to": "second-intifada",
+      "type": "regional",
+      "label": "Conflict shifts toward Palestinian armed uprising"
+    },
+    {
+      "from": "south-lebanon-conflict",
+      "to": "2006-lebanon-war",
+      "type": "regional",
+      "label": "Hezbollah remains armed after Israeli withdrawal"
+    },
+    {
+      "from": "second-intifada",
+      "to": "gaza-war-2008-2009",
+      "type": "regional",
+      "label": "Disengagement, Hamas rule, and rocket fire"
+    },
+    {
+      "from": "gaza-war-2008-2009",
+      "to": "2012-gaza-war",
+      "type": "regional",
+      "label": "Recurring Gaza rocket conflict"
+    },
+    {
+      "from": "2012-gaza-war",
+      "to": "2014-gaza-war",
+      "type": "regional",
+      "label": "Ceasefire fails to prevent renewed buildup"
+    },
+    {
+      "from": "2014-gaza-war",
+      "to": "2021-israel-palestine-crisis",
+      "type": "regional",
+      "label": "Hamas rebuilds rockets and tunnels"
+    },
+    {
+      "from": "2021-israel-palestine-crisis",
+      "to": "israel-hamas-war",
+      "type": "regional",
+      "label": "Deterrence collapses on October 7"
+    },
+    {
+      "from": "israel-hamas-war",
+      "to": "twelve-day-war",
+      "type": "regional",
+      "label": "Regional war reaches Iran directly"
+    },
+    {
+      "from": "2006-lebanon-war",
+      "to": "2026-lebanon-war",
+      "type": "regional",
+      "label": "Resolution 1701 fails to disarm Hezbollah"
+    },
+    {
+      "from": "twelve-day-war",
+      "to": "2026-iran-war",
+      "type": "regional",
+      "label": "Iran rebuilds after the 2025 ceasefire"
+    },
+    {
+      "from": "2026-iran-war",
+      "to": "2026-lebanon-war",
+      "type": "regional",
+      "label": "Iran conflict reactivates Hezbollah front"
+    },
+    {
+      "from": "russian-civil-war",
+      "to": "polish-soviet-war",
+      "type": "aftermath",
+      "label": "Competing states fight over the former empire"
+    },
+    {
+      "from": "wwi-events",
+      "to": "irish-war-of-independence",
+      "type": "aftermath",
+      "label": "War radicalizes the Irish independence struggle"
+    },
+    {
+      "from": "wwii-events",
+      "to": "greek-civil-war",
+      "type": "coldWar",
+      "label": "Resistance divisions become an early Cold War conflict"
+    },
+    {
+      "from": "wwii-events",
+      "to": "algerian-war",
+      "type": "decolonization",
+      "label": "Colonial service and repression fuel independence"
+    },
+    {
+      "from": "six-day-war",
+      "to": "first-intifada",
+      "type": "regional",
+      "label": "Two decades of occupation without settlement"
+    },
+    {
+      "from": "first-intifada",
+      "to": "second-intifada",
+      "type": "regional",
+      "label": "Oslo process fails to produce final peace"
+    },
+    {
+      "from": "croatian-war-of-independence",
+      "to": "bosnian-war",
+      "type": "regional",
+      "label": "Yugoslav breakup spreads into Bosnia"
+    },
+    {
+      "from": "bosnian-war",
+      "to": "croat-bosniak-war",
+      "type": "regional",
+      "label": "Alliance fractures inside the Bosnian War"
+    },
+    {
+      "from": "bosnian-war",
+      "to": "kosovo-war",
+      "type": "regional",
+      "label": "Unresolved Yugoslav collapse"
+    },
+    {
+      "from": "gulf-war",
+      "to": "iraq-war",
+      "type": "aftermath",
+      "label": "Sanctions and confrontation lead to invasion"
+    },
+    {
+      "from": "iraq-war",
+      "to": "syrian-civil-war",
+      "type": "regional",
+      "label": "Regional instability and jihadist networks"
+    },
+    {
+      "from": "war-in-abkhazia",
+      "to": "russo-georgian-war",
+      "type": "regional",
+      "label": "Frozen separatist conflict returns to war"
+    },
+    {
+      "from": "russo-georgian-war",
+      "to": "russo-ukrainian-war",
+      "type": "regional",
+      "label": "Russian force challenges post-Soviet borders"
+    },
+    {
+      "from": "wwii-events",
+      "to": "soviet-afghan-war",
+      "type": "coldWar",
+      "label": "Cold War intervention and proxy warfare"
+    },
+    {
+      "from": "soviet-afghan-war",
+      "to": "war-on-terrorism",
+      "type": "aftermath",
+      "label": "Civil war and militant networks outlive Soviet withdrawal"
+    },
+    {
+      "from": "wwii-events",
+      "to": "yugoslav-wars",
+      "type": "aftermath",
+      "label": "Yugoslavia's postwar federation collapses"
+    },
+    {
+      "from": "yugoslav-wars",
+      "to": "croatian-war-of-independence",
+      "type": "regional",
+      "label": "Croatia becomes a central battlefield"
+    },
+    {
+      "from": "yugoslav-wars",
+      "to": "bosnian-war",
+      "type": "regional",
+      "label": "Breakup spreads into Bosnia"
+    },
+    {
+      "from": "yugoslav-wars",
+      "to": "kosovo-war",
+      "type": "regional",
+      "label": "Final major war of Yugoslav dissolution"
+    },
+    {
+      "from": "chadian-libyan-war",
+      "to": "first-libyan-civil-war",
+      "type": "aftermath",
+      "label": "Gaddafi's regional rule ends in domestic revolt"
+    },
+    {
+      "from": "syrian-civil-war",
+      "to": "first-libyan-civil-war",
+      "type": "ideological",
+      "label": "Arab Spring uprisings challenge authoritarian rule"
+    },
+    {
+      "from": "yom-kippur-war",
+      "to": "lebanese-civil-war",
+      "type": "regional",
+      "label": "Arab-Israeli conflict shifts toward Lebanon"
+    },
+    {
+      "from": "operation-litani",
+      "to": "lebanese-civil-war",
+      "type": "regional",
+      "label": "Israeli incursion grows from Lebanon's civil-war border crisis"
+    },
+    {
+      "from": "operation-litani",
+      "to": "1982-lebanon-war",
+      "type": "regional",
+      "label": "Border threat and PLO presence remain unresolved"
+    },
+    {
+      "from": "1948-arab-israeli-war",
+      "to": "palestinian-fedayeen-insurgency",
+      "type": "aftermath",
+      "label": "Refugee crisis and armistice borders fuel infiltration"
+    },
+    {
+      "from": "palestinian-fedayeen-insurgency",
+      "to": "suez-crisis",
+      "type": "regional",
+      "label": "Border attacks and reprisals lead toward Sinai war"
+    },
+    {
+      "from": "2006-lebanon-war",
+      "to": "israel-hezbollah-war-2023-2024",
+      "type": "regional",
+      "label": "Hezbollah rebuilds under an unenforced ceasefire"
+    },
+    {
+      "from": "israel-hezbollah-war-2023-2024",
+      "to": "2026-lebanon-war",
+      "type": "regional",
+      "label": "Ceasefire fails to permanently disarm Hezbollah"
+    },
+    {
+      "from": "syrian-civil-war",
+      "to": "israeli-operation-in-syria-2024-present",
+      "type": "aftermath",
+      "label": "Assad's fall creates a security vacuum"
+    },
+    {
+      "from": "algerian-war",
+      "to": "chadian-libyan-war",
+      "type": "regional",
+      "label": "Post-colonial Saharan border politics"
     }
   ]
 }

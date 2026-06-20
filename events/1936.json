@@ -1,0 +1,112 @@
+[
+  {
+    "id": "treaty-of-versailles-1936-1",
+    "name": "Treaty of Versailles",
+    "date": "March 7 1936",
+    "location": "Versailles",
+    "coordinates": {
+      "lat": 48.8049,
+      "lng": 2.1204
+    },
+    "summary": "In violation of the Treaty of Versailles and Locarno Treaties, Nazi Germany reoccupies the Rhineland. Hitler and other Nazis later admit that the French army alone could have destroyed the Wehrmacht. The Treaty of Versailles was a peace treaty signed on 28 June 1919. As the most important treaty of World War I, it ended the state of war between Germany and most of the Allied Powers."
+  },
+  {
+    "id": "alan-turing-1936-2",
+    "name": "Alan Turing",
+    "date": "May 28 1936",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "Alan Turing submits \"On Computable Numbers\", proving the undecidability of the Halting problem and the decision problem for logic. Computer scientist Avi Wigderson called this paper \"easily the most influential math paper in history\". Alan Mathison Turing (; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist."
+  },
+  {
+    "id": "spanish-coup-of-july-1936-1936-3",
+    "name": "Spanish coup of July 1936",
+    "date": "July 17 1936",
+    "location": "Africa",
+    "coordinates": {
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    "summary": "The Spanish Army of Africa launches a coup d'état against the Republican Second Spanish Republic, beginning the Spanish Civil War. The Spanish coup of July 1936 was a military uprising against the Second Spanish Republic launched on 17–18 July 1936 by a coalition of conservative, monarchist, and far-right officers and civilians. Planned chiefly by Generals Emilio Mola and José Sanjurjo and joined by Francisco Franco, it was intended to overthrow the Popular Front government and replace it with an authoritarian regime."
+  },
+  {
+    "id": "ioannis-metaxas-1936-4",
+    "name": "Ioannis Metaxas",
+    "date": "August 4 1936",
+    "location": "Greece",
+    "coordinates": {
+      "lat": 37.9838,
+      "lng": 23.7275
+    },
+    "summary": "A self-coup is staged by Greek Prime Minister Ioannis Metaxas, marking the beginning of the authoritarian 4th of August Regime, which will rule Greece until the Axis occupation of Greece in 1941. The political change influenced the direction of government policy and the country's response to the major domestic and international pressures of the period. It also affected later alliances, reforms, or public debates."
+  },
+  {
+    "id": "franco-syrian-treaty-of-independence-1936-5",
+    "name": "Franco-Syrian Treaty of Independence",
+    "date": "September 7 1936",
+    "location": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "summary": "The Franco-Syrian Treaty of Independence is signed. The Franco-Syrian Treaty of Independence, also known as the Viénot Accords, was a treaty negotiated between France and Syria to provide for Syrian independence from French authority. The change formed part of the wider transformation of colonial empires and reshaped the country's international status and domestic politics. Its effects continued as new institutions and foreign relationships developed."
+  },
+  {
+    "id": "1936-naval-revolt-portugal-1936-6",
+    "name": "1936 Naval Revolt (Portugal)",
+    "date": "September 7 1936",
+    "location": "Spain",
+    "coordinates": {
+      "lat": 40.4168,
+      "lng": -3.7038
+    },
+    "summary": "1936 Naval Revolt (Portugal): The crews of Portuguese Navy frigate NRP Afonso de Albuquerque and destroyer Dão mutiny while anchored in Lisbon Harbour. Opposed to the Salazar dictatorship's support of General Franco's coup in Spain, they declare their solidarity with the Second Spanish Republic."
+  },
+  {
+    "id": "1936-soviet-constitution-promulgated-by-stalin-is-adopted-in-the-sovie-1936-7",
+    "name": "1936 Soviet Constitution, promulgated by Stalin, is adopted in the Soviet...",
+    "date": "December 5 1936",
+    "location": "Global",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "The 1936 Soviet Constitution, promulgated by Stalin, is adopted in the Soviet Union. The Transcaucasian Socialist Federative Soviet Republic is dissolved, and Armenia, Azerbaijan and Georgia become full Republics of the Soviet Union. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "constitution-amendment-no-27-act-1936-1936-8",
+    "name": "Constitution (Amendment No. 27) Act 1936",
+    "date": "December 10 1936",
+    "location": "Ireland",
+    "coordinates": {
+      "lat": 53.3498,
+      "lng": -6.2603
+    },
+    "summary": "Taking the opportunity to free itself further from ties to the United Kingdom, the Oireachtas of the Irish Free State passes the Constitution (Amendment No. 27) Act 1936, removing most powers from the office of Governor-General of the Irish Free State, and the Executive Authority (External Relations) Act 1936 (signed into law December 12), assenting to the abdication and restricting the power of the monarch in relation to Ireland to international affairs."
+  },
+  {
+    "id": "edward-viii-abdication-crisis-1936-9",
+    "name": "Edward VIII abdication crisis",
+    "date": "December 10 1936",
+    "location": "Africa",
+    "coordinates": {
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    "summary": "Edward VIII abdication crisis: The British Parliament passes His Majesty's Declaration of Abdication Act 1936 on behalf of the U.K., Australia, New Zealand and South Africa. The King performs his last act as sovereign by giving Royal Assent to the Act, and his brother Prince Albert, Duke of York, becomes King, reigning as King George VI. The former King, now HRH Prince Edward, makes a broadcast to the nation explaining his decision to abdicate, and leaves the country for Austria."
+  },
+  {
+    "id": "famine-1936-10",
+    "name": "Famine",
+    "date": "December 24 1936",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "West China Famine: An estimated five million people die. A famine is a widespread scarcity of food caused by several possible factors, including, but not limited to: war, natural disasters, crop failure, widespread poverty, an economic catastrophe or government policies. This phenomenon is usually accompanied or followed by regional malnutrition, starvation, epidemic, and increased mortality."
+  }
+]

@@ -7,31 +7,50 @@
     "sub": "How the Gulf War began",
     "view": {
       "center": [
-        29,
-        47
+        30.2,
+        46.8
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "major",
+        "description": "Saddam Hussein's post-Iran-Iraq War debt and ambitions drove the crisis."
+      },
+      {
+        "label": "Kuwait",
+        "latlng": [
+          29.38,
+          47.98
+        ],
+        "type": "target",
+        "description": "Kuwait became the target of Iraq's invasion after disputes over debt, oil, and territory."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "From Iran-Iraq War to Gulf War",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Battle_of_khorramshahr_2.jpg",
-        "cap": "Historical connection: Iraqi debt and militarization after the Iran-Iraq War",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjYJTFkR5Bk4Y2ROy3dljd-BkgNcsC_7WYkztKYeZxg&s",
+        "cap": "Iraqi armor and Gulf crisis imagery before the 1991 war",
         "body": "The Iran-Iraq War left Iraq militarized, indebted, and economically strained. Saddam Hussein tried to solve those problems and strengthen Iraq's regional position by invading Kuwait.",
         "stats": [
           {
-            "val": "Iran-Iraq War",
-            "lbl": "Previous conflict in this path"
+            "val": "Previous conflict in this path",
+            "lbl": "Iran-Iraq War"
           },
           {
-            "val": "Direct aftermath",
-            "lbl": "Iraqi debt and militarization after the Iran-Iraq War"
+            "val": "Iraqi debt and militarization after the Iran-Iraq War",
+            "lbl": "Direct aftermath"
           },
           {
-            "val": "Gulf War",
-            "lbl": "The next conflict to explore"
+            "val": "The next conflict to explore",
+            "lbl": "Gulf War"
           },
           {
             "val": "Why they connect",
@@ -42,22 +61,93 @@
       },
       {
         "title": "Before the Gulf War",
-        "body": "Iraq invaded Kuwait after disputes over debt, oil production, and territorial claims. Saddam Hussein expected the annexation to strengthen Iraq's regional position.\n\nThe Conflict Takes Shape: Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "body": "Iraq invaded Kuwait after disputes over debt, oil production, and territorial claims. Saddam Hussein expected the annexation to strengthen Iraq's regional position.",
         "stats": [
           {
             "val": "1990-1991",
             "lbl": "Conflict period"
           },
           {
-            "val": "Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.",
-            "lbl": "What was at stake",
+            "val": "What was at stake",
+            "lbl": "Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
-        "cap": "Opening context for the Gulf War"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjYJTFkR5Bk4Y2ROy3dljd-BkgNcsC_7WYkztKYeZxg&s",
+        "cap": "Iraqi armor and Gulf crisis imagery before the 1991 war"
       }
-    ]
+    ],
+    "arrows": []
+  },
+  {
+    "id": "iraqi-invasion-of-kuwait",
+    "year": 1990,
+    "date": "1990-08-02",
+    "title": "Iraqi invasion of Kuwait",
+    "sub": "Part of Gulf War",
+    "view": {
+      "center": [
+        29.38,
+        47.98
+      ],
+      "zoom": 7
+    },
+    "markers": [
+      {
+        "label": "Kuwait City",
+        "latlng": [
+          29.3759,
+          47.9774
+        ],
+        "type": "target",
+        "description": "Iraqi forces entered Kuwait City on 2 August 1990 and occupied the country."
+      },
+      {
+        "label": "Basra-Kuwait axis",
+        "latlng": [
+          30.1,
+          47.75
+        ],
+        "type": "major",
+        "description": "Iraqi units advanced south from the Basra area into Kuwait."
+      },
+      {
+        "label": "Saudi border",
+        "latlng": [
+          28.8,
+          47.7
+        ],
+        "type": "major",
+        "description": "The occupation threatened Saudi Arabia and pushed the U.S.-led coalition to deploy."
+      }
+    ],
+    "regions": [],
+    "slides": [
+      {
+        "title": "Iraqi invasion of Kuwait",
+        "img": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/this-day-in-history-08-02-1990-iraq-invades-kuwait?_a=BAVMn6DY0",
+        "cap": "Iraqi forces during the invasion and occupation of Kuwait",
+        "body": "The Iraqi invasion of Kuwait, codenamed Project 17, began on 2 August 1990 and marked the beginning of the Gulf War. After defeating the State of Kuwait on 4 August 1990, Iraq went on to militarily occupy the country for the next seven months. The invasion was condemned internationally, and the United Nations Security Council (UNSC) adopted numerous resolutions urging Iraq to withdraw from Kuwaiti territory. The Iraqi military, however, continued to occupy Kuwait and defied all orders by the UNSC. After initially establishing the \"Republic of Kuwait\" as a puppet state, Iraq annexed the entire country on 28 August 1990; northern Kuwait became the Saddamiyat al-Mitla' District and was merged into the existing Basra Governorate, while southern Kuwait was carved out as the all-new Kuwait Governorate. By November 1990, the adoption of UNSC Resolution 678 officially issued Iraq an ultimatum to withdraw unconditionally by 15 January 1991 or else be removed by \"all necessary means\" from Kuwaiti territory. In anticipation of a war with Iraq, the UNSC authorized the assembly of an American-led military coalition."
+      },
+      {
+        "title": "The Wider Impact",
+        "body": "Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of Iraqi invasion of Kuwait extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm.",
+        "stats": [
+          {
+            "val": "1990",
+            "lbl": "Year"
+          },
+          {
+            "val": "Operational detail",
+            "lbl": "The Iraqi invasion of Kuwait, codenamed Project 17, began on 2 August 1990 and marked the beginning of the Gulf War.",
+            "full": true
+          }
+        ],
+        "img": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/this-day-in-history-08-02-1990-iraq-invades-kuwait?_a=BAVMn6DY0",
+        "cap": "Iraqi forces during the invasion and occupation of Kuwait"
+      }
+    ],
+    "arrows": []
   },
   {
     "id": "1991-iraqi-missile-attacks-against-israel",
@@ -67,35 +157,67 @@
     "sub": "Part of Gulf War",
     "view": {
       "center": [
-        50,
-        15
+        32,
+        35
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Tel Aviv area",
+        "latlng": [
+          32.0853,
+          34.7818
+        ],
+        "type": "target",
+        "description": "Iraqi Scud missiles hit Israel in an attempt to split the coalition."
+      },
+      {
+        "label": "Haifa",
+        "latlng": [
+          32.794,
+          34.99
+        ],
+        "type": "major",
+        "description": "Northern Israel was also targeted during the missile campaign."
+      },
+      {
+        "label": "Western Iraq launch areas",
+        "latlng": [
+          33,
+          42
+        ],
+        "type": "major",
+        "description": "Coalition aircraft hunted Iraqi mobile launchers in western Iraq."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "1991 Iraqi missile attacks against Israel",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr_-_Government_Press_Office_(GPO)_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/1991_Iraqi_missile_attacks_against_Israel",
         "body": "On 17 January 1991, Iraq initiated a missile campaign against Israel. Over the course of the next month, approximately 42 Scud missiles were fired into Israeli territory, primarily at the cities of Tel Aviv and Haifa. The missile attacks began on the same day as the Gulf War aerial bombardment campaign, which was targeting military infrastructure within Iraqi-occupied Kuwait. As many Muslim-majority countries were actively contributing to the American-led military coalition, the Iraqi government had expected them to rescind their support if Israel responded to the missile campaign by attacking Iraq. However, Israel was convinced by Jordan and the United States to not retaliate: Jordanian king Hussein bin Talal had persuaded Israeli prime minister Yitzhak Shamir to consider Jordan's stability and not violate Jordanian airspace during a bilateral meeting two weeks earlier; and the Bush administration had increased defense aid to Israel for the purpose of actively countering Iraq's barrages and preventing an Israeli counterattack, thereby ensuring that the coalition's Muslim countries did not withdraw. On 23 February 1991, the coalition began a ground offensive into Iraqi-occupied Kuwait and Iraq proper. According to UK Cabinet Office records, the then-Minister of Defense of Israel, Moshe Arens said in a meeting at the White House that the Iraqi attacks had caused \"extensive damage\" in Israel."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "1991 Iraqi missile attacks against Israel was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of 1991 Iraqi missile attacks against Israel extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of 1991 Iraqi missile attacks against Israel extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm.",
         "stats": [
           {
             "val": "1991",
             "lbl": "Year"
           },
           {
-            "val": "1 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Beginning on 17 January 1991, Iraq launched a missile campaign against Israeli cities in an attempt to widen the Gulf War.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr_-_Government_Press_Office_(GPO)_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/1991_Iraqi_missile_attacks_against_Israel"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "operation-desert-storm",
@@ -105,31 +227,52 @@
     "sub": "Part of Gulf War",
     "view": {
       "center": [
-        50,
-        15
+        30.4,
+        46.5
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kuwait theater",
+        "latlng": [
+          29.38,
+          47.98
+        ],
+        "type": "target",
+        "description": "Coalition air and ground operations aimed to liberate Kuwait."
+      },
+      {
+        "label": "Iraqi air-defense network",
+        "latlng": [
+          33.3,
+          44.4
+        ],
+        "type": "major",
+        "description": "The opening air campaign struck command, air-defense, and military infrastructure across Iraq."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Desert Storm",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Gulf_War",
-        "body": "The Gulf War was an armed conflict between Iraq and a 42-country coalition led by the United States. The coalition's efforts were in two phases: Operation Desert Shield, which marked the military buildup from August 1990 to January 1991; and Operation Desert Storm, from the bombing campaign against Iraq on 17 January until the American-led liberation of Kuwait on 28 February.\n\nWhy This Moment Matters: Operation Desert Storm was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of Operation Desert Storm extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The Gulf War was an armed conflict between Iraq and a 42-country coalition led by the United States. The coalition's efforts were in two phases: Operation Desert Shield, which marked the military buildup from August 1990 to January 1991; and Operation Desert Storm, from the bombing campaign against Iraq on 17 January until the American-led liberation of Kuwait on 28 February.",
         "stats": [
           {
             "val": "1991",
             "lbl": "Year"
           },
           {
-            "val": "2 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The coalition's efforts were in two phases: Operation Desert Shield, which marked the military buildup from August 1990 to January 1991; and Operation Desert Storm, from the bombing campaign against Iraq on 17 January until the American-led liberation of Kuwait on 28 February.",
+            "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "battle-of-khafji",
@@ -142,37 +285,49 @@
         28.425,
         48.5
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Battle of Khafji",
+        "label": "Khafji",
         "latlng": [
           28.425,
           48.5
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Iraqi forces briefly captured this Saudi border town before Saudi, Qatari, and coalition forces retook it."
+      },
+      {
+        "label": "Kuwait-Saudi border",
+        "latlng": [
+          28.75,
+          48.2
+        ],
+        "type": "major",
+        "description": "The battle tested coalition defenses before the ground offensive."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Khafji",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Battle_of_Khafji_1991.svg/960px-Battle_of_Khafji_1991.svg.png",
-        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Khafji",
-        "body": "The Battle of Khafji was the first major ground engagement of the Gulf War. It took place in and around the Saudi Arabian city of Khafji, from 29 January to 1 February 1991.\n\nWhy This Moment Matters: Battle of Khafji was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of Battle of Khafji extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "img": "https://blog.togetherweserved.com/app/uploads/2026/01/4-3.jpg",
+        "cap": "Coalition forces during the Battle of Khafji",
+        "body": "The Battle of Khafji was the first major ground engagement of the Gulf War. It took place in and around the Saudi Arabian city of Khafji, from 29 January to 1 February 1991.",
         "stats": [
           {
             "val": "1991",
             "lbl": "Year"
           },
           {
-            "val": "3 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Outcome",
+            "lbl": "Iraqi forces briefly captured the Saudi border town of Khafji in January 1991 before Saudi, Qatari, and coalition forces retook it.",
+            "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "amiriyah-shelter-bombing",
@@ -182,40 +337,52 @@
     "sub": "Part of Gulf War",
     "view": {
       "center": [
-        33.297222222,
-        44.280833333
+        33.2972,
+        44.2808
       ],
-      "zoom": 5
+      "zoom": 10
     },
     "markers": [
       {
-        "label": "Amiriyah shelter bombing",
+        "label": "Amiriyah shelter",
         "latlng": [
-          33.297222222,
-          44.280833333
+          33.2972,
+          44.2808
         ],
-        "type": "major"
+        "type": "target",
+        "description": "A U.S. airstrike killed hundreds of civilians in this Baghdad shelter."
+      },
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "major",
+        "description": "The capital was a major target of the coalition air campaign."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Amiriyah shelter bombing",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/Amiriyah_shelter_bombing_30th_commemoration.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Amiriyah_shelter_bombing_30th_commemoration.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Amiriyah_shelter_bombing",
-        "body": "An aerial bombing attack killed at least 408 civilians on 13 February 1991 during the Gulf War, when an air-raid shelter in the Amiriyah neighborhood of Baghdad, Iraq, was destroyed by the U.S. Air Force with two GBU-27 Paveway III laser-guided bombs. Human Rights Watch characterised the bombing as a war crime.\n\nWhy This Moment Matters: Amiriyah shelter bombing was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of Amiriyah shelter bombing extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "An aerial bombing attack killed at least 408 civilians on 13 February 1991 during the Gulf War, when an air-raid shelter in the Amiriyah neighborhood of Baghdad, Iraq, was destroyed by the U.S. Air Force with two GBU-27 Paveway III laser-guided bombs. Human Rights Watch characterised the bombing as a war crime.",
         "stats": [
           {
             "val": "1991",
             "lbl": "Year"
           },
           {
-            "val": "4 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "An aerial bombing attack killed at least 408 civilians on 13 February 1991 during the Gulf War, when an air-raid shelter in the Amiriyah neighborhood of Baghdad, Iraq, was destroyed by the U.S.",
+            "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "battle-of-73-easting",
@@ -225,44 +392,58 @@
     "sub": "Part of Gulf War",
     "view": {
       "center": [
-        29.544722222,
-        46.625833333
+        29.5447,
+        46.6258
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Battle of 73 Easting",
+        "label": "73 Easting",
         "latlng": [
-          29.544722222,
-          46.625833333
+          29.5447,
+          46.6258
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Coalition armor defeated Iraqi Republican Guard units in a major tank battle."
+      },
+      {
+        "label": "Southern Iraq desert",
+        "latlng": [
+          29.8,
+          46.2
+        ],
+        "type": "major",
+        "description": "The battle was part of the coalition left hook into Iraq."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of 73 Easting",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Type_69_Operation_Desert_Storm.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Type_69_Operation_Desert_Storm.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_73_Easting",
-        "body": "The Battle of 73 Easting was fought on 26 February 1991, during the Gulf War, between Coalition armored forces and Iraqi armored forces. It was named for a UTM north–south coordinate line that was used as a phase line by Coalition forces to measure their progress through the desert. The battle was later described by Lt. John Mecca, a participant, as \"the last great tank battle of the 20th century.\" This battle took place several hours after another, smaller, tank battle at Al Busayyah.\n\nWhy This Moment Matters: Battle of 73 Easting was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.",
+        "body": "The Battle of 73 Easting was fought on 26 February 1991, during the Gulf War, between Coalition armored forces and Iraqi armored forces. It was named for a UTM north–south coordinate line that was used as a phase line by Coalition forces to measure their progress through the desert. The battle was later described by Lt. John Mecca, a participant, as \"the last great tank battle of the 20th century.\" This battle took place several hours after another, smaller, tank battle at Al Busayyah.",
         "stats": [
           {
             "val": "1991",
             "lbl": "Year"
           },
           {
-            "val": "5 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The Battle of 73 Easting was fought on 26 February 1991, during the Gulf War, between Coalition armored forces and Iraqi armored forces.",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Battle of 73 Easting extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of Battle of 73 Easting extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Type_69_Operation_Desert_Storm.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_73_Easting"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "highway-of-death",
@@ -275,37 +456,49 @@
         29.3842,
         47.6518
       ],
-      "zoom": 5
+      "zoom": 8
     },
     "markers": [
       {
-        "label": "Highway of Death",
+        "label": "Highway 80",
         "latlng": [
           29.3842,
           47.6518
         ],
-        "type": "major"
+        "type": "target",
+        "description": "Coalition aircraft attacked retreating Iraqi columns between Kuwait City and Basra."
+      },
+      {
+        "label": "Kuwait City",
+        "latlng": [
+          29.3759,
+          47.9774
+        ],
+        "type": "major",
+        "description": "The retreat followed the collapse of Iraqi control in Kuwait."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Highway of Death",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Demolished_vehicles_line_Highway_80_on_18_Apr_1991.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Demolished_vehicles_line_Highway_80_on_18_Apr_1991.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Highway_of_Death",
-        "body": "The Highway of Death is a six-lane highway connecting Kuwait and Iraq, officially known as Highway 80. It runs from Kuwait City to the border town of Safwan in Iraq and then on to the Iraqi city of Basra. The road was used by Iraqi armored divisions for the 1990 invasion of Kuwait. It was repaired after the Gulf War and used by U.S. and British forces in the initial stages of the 2003 invasion of Iraq.\n\nWhy This Moment Matters: Highway of Death was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of Highway of Death extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The Highway of Death is a six-lane highway connecting Kuwait and Iraq, officially known as Highway 80. It runs from Kuwait City to the border town of Safwan in Iraq and then on to the Iraqi city of Basra. The road was used by Iraqi armored divisions for the 1990 invasion of Kuwait. It was repaired after the Gulf War and used by U.S. and British forces in the initial stages of the 2003 invasion of Iraq.",
         "stats": [
           {
             "val": "1991",
             "lbl": "Year"
           },
           {
-            "val": "6 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Coalition aircraft attacked retreating Iraqi military columns on Highway 80 between Kuwait City and Basra on 26-27 February 1991.",
+            "full": true
           }
         ]
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "battle-of-norfolk",
@@ -315,88 +508,92 @@
     "sub": "Part of Gulf War",
     "view": {
       "center": [
-        50,
-        15
+        29.2,
+        46.8
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Battle of Norfolk area",
+        "latlng": [
+          29.2,
+          46.8
+        ],
+        "type": "target",
+        "description": "U.S. and British armored forces fought Iraqi Republican Guard units in southern Iraq."
+      },
+      {
+        "label": "VII Corps advance",
+        "latlng": [
+          29.4,
+          46.4
+        ],
+        "type": "major",
+        "description": "The battle formed part of the coalition armored sweep around Iraqi forces."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Norfolk",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/AsadBabil-Dug-in.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/AsadBabil-Dug-in.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Norfolk",
         "body": "The Battle of Norfolk was a tank battle fought on February 27, 1991, during the Persian Gulf War, between armored forces of the United States and United Kingdom, and those of the Iraqi Republican Guard in the Muthanna Province of southern Iraq. The primary participants were the U.S. 2nd Armored Division (Forward), 1st Infantry Division (Mechanized), and the Iraqi 18th Mechanized and 9th Armoured Brigades of the Republican Guard Tawakalna Mechanized Infantry Division along with elements from eleven other Iraqi divisions. The 2nd Armored Division (Forward) was assigned to the American 1st Infantry Division as its 3rd maneuver brigade because one of its brigades was not deployed. The 2nd Armored Division (Forward)'s Task Force 1-41 Infantry was the spearhead of VII Corps. The British 1st Armoured division was responsible for protecting the right flank of VII Corps, their main adversary being the Iraqi 52nd Armored Division and multiple infantry divisions. It was the final battle of the war before the unilateral ceasefire took effect."
       },
       {
-        "title": "Why This Moment Matters",
-        "body": "Battle of Norfolk was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of Battle of Norfolk extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "title": "The Wider Impact",
+        "body": "Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of Battle of Norfolk extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm.",
         "stats": [
           {
             "val": "1991",
             "lbl": "Year"
           },
           {
-            "val": "7 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "The Battle of Norfolk was a tank battle fought on February 27, 1991, during the Persian Gulf War, between armored forces of the United States and United Kingdom, and those of the Iraqi Republican Guard in the Muthanna Province of southern Iraq.",
+            "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/AsadBabil-Dug-in.jpg",
+        "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Norfolk"
       }
-    ]
-  },
-  {
-    "id": "iraqi-invasion-of-kuwait",
-    "year": 2009,
-    "date": "2009-08-02",
-    "title": "Iraqi invasion of Kuwait",
-    "sub": "Part of Gulf War",
-    "view": {
-      "center": [
-        50,
-        15
-      ],
-      "zoom": 3
-    },
-    "markers": [],
-    "regions": [],
-    "slides": [
-      {
-        "title": "Iraqi invasion of Kuwait",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tankskuwait.jpg",
-        "cap": "Source: https://en.wikipedia.org/wiki/Iraqi_invasion_of_Kuwait",
-        "body": "The Iraqi invasion of Kuwait, codenamed Project 17, began on 2 August 1990 and marked the beginning of the Gulf War. After defeating the State of Kuwait on 4 August 1990, Iraq went on to militarily occupy the country for the next seven months. The invasion was condemned internationally, and the United Nations Security Council (UNSC) adopted numerous resolutions urging Iraq to withdraw from Kuwaiti territory. The Iraqi military, however, continued to occupy Kuwait and defied all orders by the UNSC. After initially establishing the \"Republic of Kuwait\" as a puppet state, Iraq annexed the entire country on 28 August 1990; northern Kuwait became the Saddamiyat al-Mitla' District and was merged into the existing Basra Governorate, while southern Kuwait was carved out as the all-new Kuwait Governorate. By November 1990, the adoption of UNSC Resolution 678 officially issued Iraq an ultimatum to withdraw unconditionally by 15 January 1991 or else be removed by \"all necessary means\" from Kuwaiti territory. In anticipation of a war with Iraq, the UNSC authorized the assembly of an American-led military coalition."
-      },
-      {
-        "title": "Why This Moment Matters",
-        "body": "Iraqi invasion of Kuwait was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Kuwait's sovereignty, Persian Gulf oil security, and the credibility of the post-Cold War international order were at stake.\n\nConsequences: The effects of Iraqi invasion of Kuwait extended beyond its immediate result. Occupation abuses, aerial bombardment, battlefield deaths, displacement, and burning oil wells produced lasting harm. Its place in the wider campaign also influenced later military choices and political calculations.",
-        "stats": [
-          {
-            "val": "2009",
-            "lbl": "Year"
-          },
-          {
-            "val": "8 of 8",
-            "lbl": "Existing timeline event"
-          }
-        ]
-      }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "international-and-human-dimensions",
-    "year": 1990,
-    "date": "1990-01-01",
+    "year": 1991,
+    "date": "1991-02-27",
     "title": "International and Human Dimensions",
     "sub": "The wider impact of the Gulf War",
     "view": {
       "center": [
-        29,
+        29.8,
         47
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Kuwait oil fires",
+        "latlng": [
+          29.3,
+          47.9
+        ],
+        "type": "target",
+        "description": "Burning oil wells became one of the war's most visible environmental and human consequences."
+      },
+      {
+        "label": "Baghdad",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "major",
+        "description": "Airstrikes and sanctions left lasting effects on Iraqi civilians."
+      }
+    ],
     "regions": [],
     "slides": [
       {
@@ -408,29 +605,52 @@
             "lbl": "Estimated human cost",
             "full": true
           }
-        ]
+        ],
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr_-_Government_Press_Office_(GPO)_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg"
       }
-    ]
+    ],
+    "arrows": []
   },
   {
     "id": "outcome-and-legacy",
     "year": 1991,
-    "date": "1991-01-01",
+    "date": "1991-02-27",
     "title": "Outcome and Legacy",
     "sub": "How the Gulf War ended and what followed",
     "view": {
       "center": [
-        29,
+        29.8,
         47
       ],
-      "zoom": 3
+      "zoom": 6
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Liberated Kuwait",
+        "latlng": [
+          29.38,
+          47.98
+        ],
+        "type": "target",
+        "description": "Coalition victory restored Kuwait's sovereignty."
+      },
+      {
+        "label": "Iraq remains under Saddam",
+        "latlng": [
+          33.3152,
+          44.3661
+        ],
+        "type": "major",
+        "description": "The war ended without removing Saddam Hussein, leaving future confrontation unresolved."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "The End of the Gulf War",
-        "body": "Coalition forces liberated Kuwait and destroyed much of Iraq's deployed army, but Saddam Hussein remained in power."
+        "body": "Coalition forces liberated Kuwait and destroyed much of Iraq's deployed army, but Saddam Hussein remained in power.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Tankskuwait.jpg",
+        "cap": "The outcome and legacy of the Gulf War"
       },
       {
         "title": "War Summary: Gulf War",
@@ -450,9 +670,10 @@
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tankskuwait.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Tankskuwait.jpg",
         "cap": "The outcome and legacy of the Gulf War"
       }
-    ]
+    ],
+    "arrows": []
   }
 ]

@@ -7,19 +7,38 @@
     "sub": "How the South Lebanon Conflict began",
     "view": {
       "center": [
-        33.3,
-        35.5
+        33.2,
+        35.48
       ],
-      "zoom": 3
+      "zoom": 7
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Security zone",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "major",
+        "description": "The zone was intended to keep Hezbollah and other armed groups away from Israeli towns."
+      },
+      {
+        "label": "Metula/Kiryat Shmona area",
+        "latlng": [
+          33.21,
+          35.57
+        ],
+        "type": "target",
+        "description": "Northern Israeli communities were the civilian backdrop to Israel's security calculations."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "From 1982 Lebanon War to South Lebanon Conflict",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Beaufort1982.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Beaufort1982.jpg",
         "cap": "Historical connection: Occupation and resistance after the Lebanon War",
-        "body": "Israel's 1982 invasion removed the PLO leadership from Beirut but did not end violence in Lebanon. A continuing Israeli security zone and the rise of Hezbollah produced a prolonged conflict in the south.",
+        "body": "Israel's 1982 invasion removed the PLO leadership from Beirut but did not end violence in Lebanon. A continuing Israeli security zone and the rise of Hezbollah produced a prolonged conflict in the south.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "1982 Lebanon War",
@@ -42,20 +61,20 @@
       },
       {
         "title": "Before the South Lebanon Conflict",
-        "body": "After Israel's partial withdrawal from Lebanon in 1985, it maintained a security zone with the South Lebanon Army while Hezbollah led an expanding resistance campaign.\n\nThe Conflict Takes Shape: Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force. The opening phase established the political goals, alliances, and military problems that shaped every later campaign.",
+        "body": "After Israel's partial withdrawal from Lebanon in 1985, it maintained a security zone with the South Lebanon Army while Hezbollah led an expanding resistance campaign.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "1985-2000",
             "lbl": "Conflict period"
           },
           {
-            "val": "Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.",
-            "lbl": "What was at stake",
+            "val": "What was at stake",
+            "lbl": "Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Operation_Law_and_Order._VI.jpg",
-        "cap": "Opening context for the South Lebanon Conflict"
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Beaufort1982.jpg",
+        "cap": "Historical connection: Occupation and resistance after the Lebanon War"
       }
     ]
   },
@@ -67,33 +86,44 @@
     "sub": "Part of South Lebanon conflict",
     "view": {
       "center": [
-        50,
-        15
+        33.35,
+        35.45
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Southern Lebanon villages",
+        "latlng": [
+          33.35,
+          35.45
+        ],
+        "type": "target",
+        "description": "Israeli raids sought to disrupt armed cells operating among villages near the security zone."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Iron Fist policy",
-        "img": "",
-        "cap": "Source: https://en.wikipedia.org/wiki/Iron_Fist_policy",
-        "body": "The Iron Fist policy, also known as Operation Iron Fist, was a policy involving series of raids carried out in 1985 by the Israeli Defence Force during the 1985–2000 South Lebanon conflict and First Intifada against Palestinian and Lebanese targets. The policy takes its name from a 1983 statement by Israeli Prime Minister Yitzhaq Shamir that \"Middle East peoples should realize that if Israel is provoked, the hand extended in peace will turn into an iron fist that will strike at terrorism to the bitter end.\"\n\nWhy This Moment Matters: Iron Fist policy was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.",
+        "img": "https://images.ohmyhosting.se/PqCjAXZ4ROkxNtPFaBRgL08yOpY=/fit-in/1680x1050/smart/filters:quality(85)/https%3A%2F%2Fengelsbergideas.com%2Fwp-content%2Fuploads%2F2024%2F10%2F1982-Lebanon-War.jpg",
+        "body": "The Iron Fist policy, also known as Operation Iron Fist, was a policy involving series of raids carried out in 1985 by the Israeli Defence Force during the 1985–2000 South Lebanon conflict and First Intifada against Palestinian and Lebanese targets. The policy takes its name from a 1983 statement by Israeli Prime Minister Yitzhaq Shamir that \"Middle East peoples should realize that if Israel is provoked, the hand extended in peace will turn into an iron fist that will strike at terrorism to the bitter end.\"\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "1985",
             "lbl": "Year"
           },
           {
-            "val": "1 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Outcome",
+            "lbl": "The policy takes its name from a 1983 statement by Israeli Prime Minister Yitzhaq Shamir that \"Middle East peoples should realize that if Israel is provoked, the hand extended in peace will turn into an iron fist that will strike at terrorism to the bitter end.\"",
+            "full": true
           }
         ]
       },
       {
         "title": "Consequences",
-        "body": "The effects of Iron Fist policy extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement. Its place in the wider campaign also influenced later military choices and political calculations."
+        "body": "The effects of Iron Fist policy extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation_Law_and_Order._VI.jpg"
       }
     ]
   },
@@ -105,27 +135,38 @@
     "sub": "Part of South Lebanon conflict",
     "view": {
       "center": [
-        50,
-        15
+        33.43,
+        35.36
       ],
-      "zoom": 3
+      "zoom": 9
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Zrarieh",
+        "latlng": [
+          33.43,
+          35.36
+        ],
+        "type": "major",
+        "description": "Israel treated the area as a militant corridor; the civilian deaths made the raid deeply controversial."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Zrarieh raid",
-        "img": "",
+        "img": "https://c.files.bbci.co.uk/4928/live/23d29380-22f9-11f1-8620-17795c093e86.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Zrarieh_raid",
-        "body": "The Zrarieh raid was an Israeli raid on the Lebanese village of Zrarieh in Southern Lebanon on 11 March 1985. During the raid between 21 and 40 residents were killed.\n\nWhy This Moment Matters: Zrarieh raid was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.\n\nConsequences: The effects of Zrarieh raid extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The Zrarieh raid was part of Israel's 1985 effort to disrupt armed networks operating from villages and approaches south of the Litani. Israeli forces treated the area as a corridor used by militants, weapons, and local support cells after repeated attacks from southern Lebanon.\n\nThe raid caused civilian deaths and became one of the most disputed episodes of the period. Its purpose was not random punishment; it reflected the difficulty, and the moral risk, of fighting armed groups embedded inside populated Lebanese villages while Israeli border communities and soldiers remained under threat.",
         "stats": [
           {
             "val": "1985",
             "lbl": "Year"
           },
           {
-            "val": "2 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "During the raid between 21 and 40 residents were killed.",
+            "full": true
           }
         ]
       }
@@ -139,27 +180,38 @@
     "sub": "Part of South Lebanon conflict",
     "view": {
       "center": [
-        50,
-        15
+        33.58,
+        35.66
       ],
-      "zoom": 3
+      "zoom": 9
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Maydoun",
+        "latlng": [
+          33.58,
+          35.66
+        ],
+        "type": "major",
+        "description": "The operation targeted a Hezbollah base in terrain used to pressure the security zone."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Operation Law and Order",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Operation_Law_and_Order._VI.jpg",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation_Law_and_Order._VI.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Operation_Law_and_Order",
-        "body": "Operation Law and Order was a 1988 Israeli military operation against a Hezbollah base in the village of Maydoun.\n\nWhy This Moment Matters: Operation Law and Order was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.\n\nConsequences: The effects of Operation Law and Order extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "Operation Law and Order was a 1988 Israeli military operation against a Hezbollah base in the village of Maydoun.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "1988",
             "lbl": "Year"
           },
           {
-            "val": "3 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Operational detail",
+            "lbl": "Operation Law and Order was a 1988 Israeli military operation against a Hezbollah base in the village of Maydoun.",
+            "full": true
           }
         ]
       }
@@ -173,27 +225,38 @@
     "sub": "Part of South Lebanon conflict",
     "view": {
       "center": [
-        50,
-        15
+        33.32,
+        35.38
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Southern Lebanon road",
+        "latlng": [
+          33.32,
+          35.38
+        ],
+        "type": "target",
+        "description": "The strike targeted Hezbollah's secretary-general as Israel tried to blunt the group's command network."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Night Time Operation",
-        "img": "",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation_Law_and_Order._VI.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/Assassination_of_Abbas_al-Musawi",
-        "body": "On 16 February 1992, Abbas al-Musawi, the secretary-general of Hezbollah, was assassinated in an Israeli airstrike on his vehicle in southern Lebanon, as part of the South Lebanon conflict (1985–2000). Israel code-named the operation Night Time Operation.\n\nWhy This Moment Matters: Night Time Operation was more than an isolated engagement. It helped define the conflict's direction and exposed the strengths and weaknesses of the opposing sides. Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.\n\nConsequences: The effects of Night Time Operation extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "On 16 February 1992, Abbas al-Musawi, the secretary-general of Hezbollah, was assassinated in an Israeli airstrike on his vehicle in southern Lebanon, as part of the South Lebanon conflict (1985–2000). Israel code-named the operation Night Time Operation.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "1992",
             "lbl": "Year"
           },
           {
-            "val": "4 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Outcome",
+            "lbl": "On 16 February 1992, an Israeli airstrike killed Hezbollah secretary-general Abbas al-Musawi while he traveled through southern Lebanon.",
+            "full": true
           }
         ]
       }
@@ -207,70 +270,38 @@
     "sub": "Part of South Lebanon conflict",
     "view": {
       "center": [
-        50,
-        15
+        33.28,
+        35.48
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Security zone line",
+        "latlng": [
+          33.28,
+          35.48
+        ],
+        "type": "target",
+        "description": "Clashes along the zone showed the constant pressure on Israeli and SLA positions."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "September 1992 South Lebanon clashes",
-        "img": "",
+        "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation_Law_and_Order._VI.jpg",
         "cap": "Source: https://en.wikipedia.org/wiki/September_1992_South_Lebanon_clashes",
-        "body": "On the 30th of September 1992, a series of clashes in South Lebanon between Hezbollah and the South Lebanon Army killed 9 people, including one UNIFIL peacekeeper.\n\nWhy This Moment Matters: September 1992 South Lebanon clashes was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.\n\nConsequences: The effects of September 1992 South Lebanon clashes extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "On the 30th of September 1992, a series of clashes in South Lebanon between Hezbollah and the South Lebanon Army killed 9 people, including one UNIFIL peacekeeper.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "1992",
             "lbl": "Year"
           },
           {
-            "val": "5 of 8",
-            "lbl": "Existing timeline event"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "mansouri-massacre",
-    "year": 1996,
-    "date": "1996-04-13",
-    "title": "Mansouri massacre",
-    "sub": "Part of South Lebanon conflict",
-    "view": {
-      "center": [
-        33.178388888,
-        35.2055
-      ],
-      "zoom": 5
-    },
-    "markers": [
-      {
-        "label": "Mansouri massacre",
-        "latlng": [
-          33.178388888,
-          35.2055
-        ],
-        "type": "major"
-      }
-    ],
-    "regions": [],
-    "slides": [
-      {
-        "title": "Mansouri massacre",
-        "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Mansouri_massacre.PNG",
-        "cap": "Source: https://en.wikipedia.org/wiki/Mansouri_attack",
-        "body": "The Mansouri attack occurred on 13 April 1996, when an Israel Defence Forces helicopter attacked an ambulance in Mansouri, a village in Southern Lebanon, killing two women and four children.\n\nWhy This Moment Matters: Mansouri massacre was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.\n\nConsequences: The effects of Mansouri massacre extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement. Its place in the wider campaign also influenced later military choices and political calculations.",
-        "stats": [
-          {
-            "val": "1996",
-            "lbl": "Year"
-          },
-          {
-            "val": "6 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "On the 30th of September 1992, a series of clashes in South Lebanon between Hezbollah and the South Lebanon Army killed 9 people, including one UNIFIL peacekeeper.",
+            "full": true
           }
         ]
       }
@@ -284,36 +315,38 @@
     "sub": "Part of South Lebanon conflict",
     "view": {
       "center": [
-        33.413,
-        35.279
+        33.41,
+        35.28
       ],
-      "zoom": 5
+      "zoom": 9
     },
     "markers": [
       {
-        "label": "Ansariya ambush",
+        "label": "Ansariya",
         "latlng": [
-          33.413,
-          35.279
+          33.41,
+          35.28
         ],
-        "type": "major"
+        "type": "major",
+        "description": "Hezbollah ambushed a Shayetet 13 force, exposing the danger of deep intelligence raids."
       }
     ],
     "regions": [],
     "slides": [
       {
         "title": "Ansariya ambush",
-        "img": "",
+        "img": "https://www.militaryimages.net/media/bangladesh-army-ambush.15520/full?d=1521490924",
         "cap": "Source: https://en.wikipedia.org/wiki/Ansariya_ambush",
-        "body": "The Ansariya ambush took place during the conflict between the Israel Defense Forces occupying South Lebanon and the Islamic Resistance in Lebanon, the armed wing of the Hezbollah movement. A 16-man force from the Israeli Navy’s special operation unit, Shayetet 13, on a mission in South Lebanon in 1997, stumbled into a deadly ambush by Hezbollah. Twelve Israeli soldiers were killed, which was the worst Israeli single-day casualty toll in Lebanon since 1985.\n\nWhy This Moment Matters: Ansariya ambush was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.\n\nConsequences: The effects of Ansariya ambush extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The Ansariya ambush took place during the conflict between the Israel Defense Forces occupying South Lebanon and the Islamic Resistance in Lebanon, the armed wing of the Hezbollah movement. A 16-man force from the Israeli Navy’s special operation unit, Shayetet 13, on a mission in South Lebanon in 1997, stumbled into a deadly ambush by Hezbollah. Twelve Israeli soldiers were killed, which was the worst Israeli single-day casualty toll in Lebanon since 1985.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "1997",
             "lbl": "Year"
           },
           {
-            "val": "7 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Human cost",
+            "lbl": "In the 1997 Ansariya ambush, Hezbollah killed 12 members of a 16-man Israeli Shayetet 13 force.",
+            "full": true
           }
         ]
       }
@@ -327,27 +360,38 @@
     "sub": "Part of South Lebanon conflict",
     "view": {
       "center": [
-        50,
-        15
+        33.327,
+        35.612
       ],
-      "zoom": 3
+      "zoom": 9
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Khiam",
+        "latlng": [
+          33.327,
+          35.612
+        ],
+        "type": "major",
+        "description": "The battle accelerated the collapse of SLA positions as Israel prepared to withdraw."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "Battle of Khiam",
-        "img": "",
+        "img": "https://static.srpcdigital.com/styles/1037xauto/public/2024-10/836512_0.jpeg.webp",
         "cap": "Source: https://en.wikipedia.org/wiki/Battle_of_Khiam_(2000)",
-        "body": "The battle of Khiam, fought between Hezbollah and the South Lebanon Army (SLA) in April and May 2000, which became a crucial step in the disintegration of the South Lebanon Army, in light of the coming withdrawal of IDF troops from South Lebanon.\n\nWhy This Moment Matters: Battle of Khiam was more than an isolated engagement. It reflected the changing balance of power and pushed the conflict closer to its eventual outcome. Israel sought border security; Hezbollah sought to end the occupation and establish itself as a leading military and political force.\n\nConsequences: The effects of Battle of Khiam extended beyond its immediate result. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement. Its place in the wider campaign also influenced later military choices and political calculations.",
+        "body": "The battle of Khiam, fought between Hezbollah and the South Lebanon Army (SLA) in April and May 2000, which became a crucial step in the disintegration of the South Lebanon Army, in light of the coming withdrawal of IDF troops from South Lebanon.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "2000",
             "lbl": "Year"
           },
           {
-            "val": "8 of 8",
-            "lbl": "Existing timeline event"
+            "val": "Outcome",
+            "lbl": "The battle of Khiam, fought between Hezbollah and the South Lebanon Army (SLA) in April and May 2000, which became a crucial step in the disintegration of the South Lebanon Army, in light of the coming withdrawal of IDF troops from South Lebanon.",
+            "full": true
           }
         ]
       }
@@ -355,18 +399,28 @@
   },
   {
     "id": "international-and-human-dimensions",
-    "year": 1999,
-    "date": "1999-01-01",
+    "year": 2000,
+    "date": "2000-04-01",
     "title": "International and Human Dimensions",
     "sub": "The wider impact of the South Lebanon Conflict",
     "view": {
       "center": [
-        33.3,
-        35.5
+        33.25,
+        35.38
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "UNIFIL sector",
+        "latlng": [
+          33.25,
+          35.38
+        ],
+        "type": "minor",
+        "description": "International observers operated in the same narrow geography where Hezbollah, the SLA, and Israel clashed."
+      }
+    ],
     "regions": [],
     "slides": [
       {
@@ -378,33 +432,46 @@
             "lbl": "Estimated human cost",
             "full": true
           }
-        ]
+        ],
+        "img": "https://img.lemde.fr/2026/02/08/0/0/6000/4000/1440/960/60/0/130c91a_ftp-1-sngvxqb3sjmt-5105185-01-06.jpg"
       }
     ]
   },
   {
     "id": "outcome-and-legacy",
     "year": 2000,
-    "date": "2000-01-01",
+    "date": "2000-04-01",
     "title": "Outcome and Legacy",
     "sub": "How the South Lebanon Conflict ended and what followed",
     "view": {
       "center": [
-        33.3,
-        35.5
+        33.11,
+        35.55
       ],
-      "zoom": 3
+      "zoom": 8
     },
-    "markers": [],
+    "markers": [
+      {
+        "label": "Israel-Lebanon border",
+        "latlng": [
+          33.11,
+          35.55
+        ],
+        "type": "major",
+        "description": "Israel left Lebanon in 2000, but Hezbollah framed the withdrawal as a model for continued pressure."
+      }
+    ],
     "regions": [],
     "slides": [
       {
         "title": "The End of the South Lebanon Conflict",
-        "body": "Israel withdrew in 2000 and the South Lebanon Army collapsed. Hezbollah claimed victory, but the border remained volatile."
+        "body": "Israel withdrew in 2000 and the South Lebanon Army collapsed. Hezbollah claimed victory, but the border remained volatile.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
+        "img": "https://img.lemde.fr/2026/02/08/0/0/6000/4000/1440/960/60/0/130c91a_ftp-1-sngvxqb3sjmt-5105185-01-06.jpg",
+        "cap": "The outcome and legacy of the South Lebanon Conflict"
       },
       {
         "title": "War Summary: South Lebanon Conflict",
-        "body": "Israel withdrew in 2000 and the South Lebanon Army collapsed. Hezbollah claimed victory, but the border remained volatile. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement.",
+        "body": "Israel withdrew in 2000 and the South Lebanon Army collapsed. Hezbollah claimed victory, but the border remained volatile. Shelling, raids, occupation practices, and attacks on villages caused civilian casualties and repeated displacement.\n\nIsrael's security zone was meant to keep Hezbollah and other armed groups away from the border and give northern communities warning time. The long conflict showed the strain of holding that line through local allies, intelligence work, raids, and constant pressure from an Iranian-backed guerrilla campaign.",
         "stats": [
           {
             "val": "Hezbollah strategic victory",
@@ -415,12 +482,12 @@
             "lbl": "Casualties / human cost"
           },
           {
-            "val": "Israel withdrew in 2000 and the South Lebanon Army collapsed. Hezbollah claimed victory, but the border remained volatile.",
-            "lbl": "Lasting legacy",
+            "val": "Lasting legacy",
+            "lbl": "Israel withdrew in 2000 and the South Lebanon Army collapsed. Hezbollah claimed victory, but the border remained volatile.",
             "full": true
           }
         ],
-        "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Mansouri_massacre.PNG",
+        "img": "https://img.lemde.fr/2026/02/08/0/0/6000/4000/1440/960/60/0/130c91a_ftp-1-sngvxqb3sjmt-5105185-01-06.jpg",
         "cap": "The outcome and legacy of the South Lebanon Conflict"
       }
     ]

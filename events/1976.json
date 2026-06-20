@@ -1,0 +1,112 @@
+[
+  {
+    "id": "united-nations-1976-1",
+    "name": "United Nations",
+    "date": "January 18 1976",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The United States vetoes a United Nations resolution that calls for an independent Palestinian state. The United Nations (UN) is a global intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals."
+  },
+  {
+    "id": "polisario-front-1976-2",
+    "name": "Polisario Front",
+    "date": "February 27 1976",
+    "location": "Global",
+    "coordinates": {
+      "lat": 20,
+      "lng": 0
+    },
+    "summary": "The Polisario Front, Western Sahara's national liberation movement, declares independence of the territory under the name \"Sahrawi Arab Democratic Republic\". The Popular Front for the Liberation of Saguia el-Hamra and Río de Oro, better known by its acronym Polisario Front, is a Sahrawi nationalist liberation movement seeking to end the occupation of Western Sahara through armed resistance and political advocacy."
+  },
+  {
+    "id": "seychelles-1976-3",
+    "name": "Seychelles",
+    "date": "June 26 1976",
+    "location": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "summary": "Seychelles gains independence from the United Kingdom. Seychelles (,; French: [sɛʃɛl] or [seʃɛl]), officially the Republic of Seychelles (French: République des Seychelles; Seychellois Creole: Repiblik Sesel), is an archipelagic country consisting of 115 islands in the Indian Ocean. Its capital and largest city, Victoria, is 1,500 kilometres (800 nautical miles) east of mainland Africa."
+  },
+  {
+    "id": "united-states-declaration-of-independence-1976-4",
+    "name": "United States Declaration of Independence",
+    "date": "July 2 1976",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "The U.S. celebrates its bicentennial, in recognition of the 200th anniversary of the 1776 adoption of the United States Declaration of Independence from Great Britain. The Declaration of Independence, formally The unanimous Declaration of the thirteen united States of America in the original printing, is the founding document of the United States."
+  },
+  {
+    "id": "cold-war-1976-5",
+    "name": "Cold War",
+    "date": "August 30 1976",
+    "location": "Japan",
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "summary": "Cold War: Soviet Air Force pilot Lt. Viktor Belenko lands a MiG-25 jet fighter at Hakodate, on the island of Hokkaidō in Japan, and requests political asylum in the United States. The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc."
+  },
+  {
+    "id": "cultural-revolution-1976-6",
+    "name": "Cultural Revolution",
+    "date": "October 4 1976",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The Cultural Revolution in China concludes upon the capture of the Gang of Four. The Cultural Revolution, formally known as the Great Proletarian Cultural Revolution, was a sociopolitical movement in the People's Republic of China (PRC). It was launched by CCP chairman Mao Zedong in 1966 and lasted until his death in 1976."
+  },
+  {
+    "id": "hua-guofeng-1976-7",
+    "name": "Hua Guofeng",
+    "date": "October 12 1976",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The People's Republic of China announces that Hua Guofeng is the successor to Mao Zedong as Chairman of the Chinese Communist Party following the latter's death on September 9 from a heart attack. The development drew international attention and influenced later political, social, or strategic decisions connected to the period. Its consequences helped shape how governments and the public understood the wider changes underway."
+  },
+  {
+    "id": "transkei-1976-8",
+    "name": "Transkei",
+    "date": "October 26 1976",
+    "location": "Africa",
+    "coordinates": {
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    "summary": "Transkei gains \"independence\" from South Africa. Transkei ( tran-SKAY, TRAHN-, -⁠SKY, meaning the area beyond [the river] Kei), officially the Republic of Transkei (Xhosa: iRiphabliki yeTranskei), was an unrecognised state in the southeastern region of South Africa from 1976 to 1994. It was, along with Ciskei, a Bantustan for the Xhosa people, and operated as a nominally independent parliamentary democracy."
+  },
+  {
+    "id": "warsaw-treaty-organization-1976-9",
+    "name": "Warsaw Treaty Organization",
+    "date": "November 24 1976",
+    "location": "Warsaw",
+    "coordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "summary": "The Warsaw Treaty Organization joint secretariat is established. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "united-nations-general-assembly-1976-10",
+    "name": "United Nations General Assembly",
+    "date": "December 10 1976",
+    "location": "Global",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "summary": "The United Nations General Assembly adopts the Convention on the Prohibition of Military or Any Other Hostile Use of Environmental Modification Techniques. The United Nations General Assembly (UNGA or GA) is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter."
+  }
+]

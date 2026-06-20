@@ -1,0 +1,112 @@
+[
+  {
+    "id": "yita-incident-1962-1",
+    "name": "Yi–Ta incident",
+    "date": "March 1962",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "May - Yi–Ta incident: At least 60,000 Chinese citizens migrate from the People's Republic of China to the Soviet Union, predominantly (but not exclusively) ethnic Kazakhs. The Yi–Ta incident (Chinese: 伊塔事件) was a mass exodus of people from China to the Soviet Union in early 1962. At least 60,000 Chinese citizens migrated to the Soviet Union by crossing the border between the Xinjiang Uyghur Autonomous Region and the Kazakh Soviet Socialist Republic from March to May 1962."
+  },
+  {
+    "id": "armistice-begins-in-algeria-1962-2",
+    "name": "armistice begins in Algeria",
+    "date": "March 19 1962",
+    "location": "Algeria",
+    "coordinates": {
+      "lat": 36.7538,
+      "lng": 3.0588
+    },
+    "summary": "An armistice begins in Algeria; however, the OAS continues its terrorist attacks against Algerians. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "algeria-1962-3",
+    "name": "Algeria",
+    "date": "May 29 1962",
+    "location": "Algeria",
+    "coordinates": {
+      "lat": 28,
+      "lng": 2
+    },
+    "summary": "Negotiations between the OAS and the FLA lead to a real armistice in Algeria. The agreement altered the legal or political framework surrounding the dispute and influenced the decisions taken by the governments and movements involved. Its implementation shaped later negotiations and relations between the parties."
+  },
+  {
+    "id": "east-germany-1962-4",
+    "name": "East Germany",
+    "date": "August 17 1962",
+    "location": "Germany",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "summary": "East German border guards kill 18-year-old Peter Fechter as he attempts to cross the Berlin Wall into West Berlin, leading to mass protests on the Western side. East Germany, officially the German Democratic Republic (GDR), was a country in Central Europe from its formation on 7 October 1949 until its reunification with West Germany (Federal Republic of Germany) on 3 October 1990."
+  },
+  {
+    "id": "cuban-missile-crisis-begins-when-u-1962-5",
+    "name": "Cuban Missile Crisis begins when U",
+    "date": "October 16 1962",
+    "location": "United States",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "summary": "Cuban Missile Crisis begins when U.S. President Kennedy is told of photographs (taken from U-2 flights) showing Soviet nuclear weapon installations being constructed on Cuba in the Caribbean. A stand-off ensues for 12 days between the United States and the Soviet Union, threatening the world with nuclear war."
+  },
+  {
+    "id": "sino-indian-war-1962-6",
+    "name": "Sino-Indian War",
+    "date": "October 20 1962",
+    "location": "China",
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "summary": "The Sino-Indian War, a border dispute involving two of the world's largest nations (India and the People's Republic of China), erupts into fighting. The Sino-Indian War, also known as the China–India War or the Indo-China War, was an armed conflict between China and India that took place from October to November 1962."
+  },
+  {
+    "id": "nikita-khrushchev-1962-7",
+    "name": "Nikita Khrushchev",
+    "date": "October 27 1962",
+    "location": "Global",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Cuban Missile Crisis ends: Soviet Union leader Nikita Khrushchev announces that he has ordered the removal of Soviet missile bases in Cuba. In a secret deal between Kennedy and Khrushchev, Kennedy agrees to the withdrawal of U.S. missiles from Turkey. The fact that this deal is not made public makes it look as though the Soviets have backed down."
+  },
+  {
+    "id": "vasily-arkhipov-1962-8",
+    "name": "Vasily Arkhipov",
+    "date": "October 27 1962",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Cuban Missile Crisis: Vasily Arkhipov, executive officer of Soviet submarine B-59, refuses to launch nuclear torpedoes against the U.S. Navy. This event is widely regarded as crucial in averting a worldwide nuclear war. Vasily Aleksandrovich Arkhipov (Russian: Василий Александрович Архипов; 30 January 1926 – 19 August 1998), also transliterated as Vasili Arkhipov, was a vice admiral in the Soviet Navy."
+  },
+  {
+    "id": "cuban-missile-crisis-1962-9",
+    "name": "Cuban Missile Crisis",
+    "date": "November 20 1962",
+    "location": "Russia",
+    "coordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "summary": "Cuban Missile Crisis: In response to the Soviet Union agreeing to remove its missiles from Cuba, President John F. Kennedy ends the blockade of the island. The Cuban Missile Crisis, also known as the October Crisis in Cuba (Spanish: Crisis de Octubre), or the Caribbean Crisis (Russian: Карибский кризис, romanized: Karibskiy krizis), was a 13-day confrontation between the governments of the United States and the Soviet Union, when American deployments of nuclear missiles in the United Kingdom, Italy and Turkey were matched by Soviet deployments of nuclear missiles in Cuba."
+  },
+  {
+    "id": "vietnam-war-1962-10",
+    "name": "Vietnam War",
+    "date": "December 2 1962",
+    "location": "Global",
+    "coordinates": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "summary": "After visiting Vietnam at President John F. Kennedy's request, U.S. Senate Majority Leader Mike Mansfield became the first senior American official to publicly express pessimism about the war's progress. His assessment challenged optimistic official reporting and foreshadowed the growing American debate over deeper involvement in South Vietnam."
+  }
+]
